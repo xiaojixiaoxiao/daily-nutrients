@@ -1,0 +1,25 @@
+const fs = require('fs');
+const s = JSON.parse(fs.readFileSync('public/seed.json', 'utf8'));
+const bj = new Intl.DateTimeFormat('sv-SE', { timeZone: 'Asia/Shanghai' }).format(new Date()).slice(0, 10);
+console.log('seed.date =', s.date, '| today(Beijing)=', bj);
+const okDate = s.date === bj;
+const dom = (s.news && s.news.domestic) || [];
+const wor = (s.news && s.news.world) || [];
+const med = (s.news && s.news.medical) || [];
+const ai = (s.news && s.news.ai) || [];
+const domOk = dom.length > 0 && dom.every(x => typeof x.heat === 'number');
+const worOk = wor.length > 0 && wor.every(x => typeof x.heat === 'number');
+const medOk = med.length > 0 && med.every(x => typeof x.heat === 'number');
+console.log('domestic:', dom.length, 'allHeat:', domOk);
+console.log('world:', wor.length, 'allHeat:', worOk);
+console.log('medical:', med.length, 'allHeat:', medOk);
+console.log('ai:', ai.length);
+let eng = 'NONE';
+if (s.english && s.english.news) eng = 'type=' + s.english.news.type + ' content=' + s.english.news.content.length + '段';
+console.log('english:', eng);
+let nb = '?', nq = '?';
+if (s.books) { nb = s.books.books ? s.books.books.length : '?'; nq = s.books.quotes ? s.books.quotes.length : '?'; }
+console.log('books:', nb + '本', 'quotes:', nq);
+const pass = okDate && domOk && worOk;
+console.log('VALIDATION:', pass ? 'PASS' : 'FAIL');
+process.exit(pass ? 0 : 1);
