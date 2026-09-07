@@ -1,31 +1,31 @@
 {
-  "generatedAt": "2026-09-07T04:13:25.407Z",
-  "date": "2026-09-07",
+  "generatedAt": "2026-09-07T23:00:58.815Z",
+  "date": "2026-09-08",
   "books": {
     "date": "2026-09-07",
     "books": [
       {
-        "title": "了不起的概率思维：从贝叶斯到大语言模型",
-        "author": "项舒杨",
-        "cover": "https://img9.doubanio.com/view/subject/s/public/s35567016.jpg",
+        "title": "权力的传记：墨西哥现代史，1810-1996",
+        "author": "[墨] 恩里克·克劳泽",
+        "cover": "https://img3.doubanio.com/view/subject/s/public/s35582117.jpg",
         "rating": 0,
-        "ratingCount": 17,
-        "summary": "本书是一部以“不确定性”为主线的概率论通识读物，全书从生活中最常见的判断困境切入，循序展示人类如何在充满不确定性的世界中艰难探索，追踪概率思维如何一步步塑造我们理解世界的方式。作者并未向读者展示大量公式，而是将抽象公式转化为可感知的生活例子与结构图示，让读者真正理解概率思维如何在现实中运作。书的后半部分自然延伸至现代人工智能的发展现状，揭示从马尔可夫链、神经",
-        "authorBio": "《了不起的概率思维：从贝叶斯到大语言模型》由项舒杨撰写，于2026-8-1出版。",
-        "link": "https://book.douban.com/subject/38560388/",
-        "pubDate": "2026-8-1",
+        "ratingCount": 0,
+        "summary": "本书以权力演进为主轴，梳理1810年至1996年的墨西哥近现代历史，探寻其根深蒂固的强人政治传统。从独立运动、迪亚斯独裁统治，到波澜壮阔的墨西哥大革命，再到革命制度党长期执政时期，作者围绕一代代关键政治人物展开叙述，剖析集权、动荡与改革交替上演的深层缘由。 融合族群关系、殖民遗产、宗教与政治变迁，透过领袖的命运解读民族性格与国家困境。在政治体制重大变革的前夜",
+        "authorBio": "《权力的传记：墨西哥现代史，1810-1996》由[墨] 恩里克·克劳泽撰写，于2026-7出版。",
+        "link": "https://book.douban.com/subject/38498565/",
+        "pubDate": "2026-7",
         "tag": "new"
       },
       {
-        "title": "不讨喜的女性：流行文化塑造的恶女为何如此迷人",
-        "author": "[英国]安娜·博古茨卡娅",
-        "cover": "https://img1.doubanio.com/view/subject/s/public/s35603288.jpg",
+        "title": "中国式离婚：婚姻诉讼中的性别偏见",
+        "author": "贺欣",
+        "cover": "https://img2.doubanio.com/view/subject/s/public/s35577401.jpg",
         "rating": 0,
-        "ratingCount": 0,
-        "summary": "女人凭什么要比男人更讨喜？ 首部剖析讨喜的双标性的女性主义作品 用流行文化里迷人的恶女角色，揭开父权社会的服从性测试陷阱 从“荡妇”到“女疯子”，再到“泼妇”，但凡有女性越界的地方，就有“不讨喜”的污名等候着你。 我不讨喜，那又怎样？你不必讨人喜欢，你只需要成为你自己。 《新闻周刊》年度好书。 在父权社会里，女性总被施加额外的讨喜压力：女性应当温柔体贴，女性",
-        "authorBio": "《不讨喜的女性：流行文化塑造的恶女为何如此迷人》由[英国]安娜·博古茨卡娅撰写，于2026-9出版。",
-        "link": "https://book.douban.com/subject/38521461/",
-        "pubDate": "2026-9",
+        "ratingCount": 80,
+        "summary": "本书不仅是一部学术作品，更是对我国司法系统中性别平等状况及改革多年来我国法律与社会互动的记录。本书第1章介绍了婚姻法向离婚无过错原则的发展过程，第2章表明了制度约束对法官行为的影响，第3章更深入地观察法官的实用主义倾向。第4、5章表明稳定和效率的考量如何使保护女性的法律目标落空。第5章关注的是子女抚养权问题，描述了在制度约束下的法官如何在争议案件中阻挠女性获",
+        "authorBio": "《中国式离婚：婚姻诉讼中的性别偏见》由贺欣撰写，于2026-7出版。",
+        "link": "https://book.douban.com/subject/38575722/",
+        "pubDate": "2026-7",
         "tag": "new"
       }
     ],
@@ -282,41 +282,12 @@
     "date": "2026-09-07",
     "news": {
       "type": "news",
-      "title": "American Muslims are giving Texas barbecue a halal makeover",
-      "summary": "Even as anti-Muslim rhetoric rises in Texas, Muslim pitmasters are winning over diners and…",
-      "link": "https://www.npr.org/2026/09/06/nx-s1-5927184/american-muslims-are-giving-texas-barbecue-a-halal-makeover",
+      "title": "The copper peptide trend has gone from creams to injections — ahead of the science",
+      "summary": "The peptide is supposed to deliver flawless and firm skin, promote wound healing and other…",
+      "link": "https://www.npr.org/2026/09/07/nx-s1-5955552/copper-peptides-skin-aging-health-safe",
       "source": "NPR",
       "content": [
-        "Zain Shafi prepares to put briskets in the smoker at Goldee's BBQ in Fort Worth, Texas. Fiona André/Religion News Service hide caption",
-        "FORT WORTH, Texas (RNS) — At 9 a.m. on a scorching summer Saturday, nearly 100 people were already lined up outside Goldee's BBQ, a small, wooden-shack restaurant.",
-        "First in line was 30-year-old Thanh Huynh, who had been sitting in a lawn chair on the joint's rustic porch since 6:30 a.m.",
-        "\"I have, like, a whole list, and I'm going to spend lots of money here. It'll be worth it,\" he said, laughing while rattling off a long order of meats and sides from his phone's Notes app as a sweet, smoky scent from nearby pits hung in the air.",
-        "Opened in 2020 by a group of his friends, the restaurant was named the No. 1 barbecue spot in the state by Texas Monthly a year later, and then won a Bib Gourmand award from the prestigious Michelin Guide, given for \"great food at a great value.\"",
-        "The restaurant serves classic Texas barbecue like craft pork belly, sausage and ribs. But it also offers halal brisket, turkey and lamb — meat raised and butchered in accordance with Islamic guidelines.",
-        "Customers sit in lawn chairs waiting for Goldee's BBQ to open on a summer Saturday in Fort Worth, Texas. Fiona André/Religion News Services hide caption",
-        "At a time when Republican leaders are increasingly targeting the state's growing Muslim communities , barbecue joints like Goldee's that offer halal options are thriving in Texas. Across the state, Muslim pitmasters are gaining recognition for putting their own spin on one of Texas' most iconic culinary traditions.",
-        "At least a dozen barbecue spots now serve halal meats, including Yearby's Barbecue & Waterice, run by Black Muslim couple CJ and Sabrina Henley, soon-to-be in Plano , and Levant Mediterranean BBQ, a restaurant with locations in Houston and Frisco and whose all-beef menu includes a brisket shawarma sandwich.",
-        "\"Now there are so many options, and for us to have highly rated barbecue, it's a blessing,\" said Haris Ghaffar, who drove an hour from Celina and stood in 90-degree weather for nearly two hours with a friend for the halal options at Goldee's.",
-        "Growing up in the 1990s, Ghaffar said a McDonald's Filet-O-Fish sandwich was one of the few halal meals he could eat while dining out. Back then, halal food was seen as serving a small community. Today, it's a multibillion-dollar industry that's part of the American culinary mainstream, said food writer Farhan Mustafa, who wrote about the rise of American halal barbecue for Bon Appétit magazine in 2025.",
-        "\"Halal food is American food,\" said Mustafa. \"It belongs on your plate. It belongs in the casual chat. It belongs in hip-hop tracks. It's the most American thing there is.\"",
-        "Mustafa said Muslims are part of a growing list of communities putting their stamp on Texas barbecue. \"Whether they're first, second or third-generation Muslims or Muslim Americans or just Americans, they're bringing what they know and what excites them,\" he said.",
-        "Texas barbecue is typically defined by salt-and-pepper brisket and pork ribs, but this new crop of halal pitmasters is adding inventive twists, often based on their own family heritages.",
-        "Zain Shafi, a pitmaster and co-owner of Goldee's, previously ran Sabar Barbecue , a food truck that offered Pakistani-infused halal dishes, such as brisket with rub that included spices like bay leaf and coriander. He brought tandoori smoked turkey to Goldee's menu. And sourcing halal cuts, he said, was a natural choice because they are \"the highest quality\" meats.",
-        "Kafi BBQ owner Salahodeen Abdul-Kafi (center) speaks with customer Jonathan Tate in Irving, Texas. Ulaa Kuziez/Religion News Service hide caption",
-        "At Kafi BBQ in Irving, owner Salahodeen Abdul-Kafi brings halal Wagyu beef and Iraqi spices to classic Texas barbecue, challenging what he said is the \"traditional old guard of Texas barbecue.\"",
-        "\"My goal at Kafi BBQ is to make the best barbecue in Texas,\" Abdul-Kafi said. \"I have not been shy about that at all, and making the best barbecue in Texas does not necessarily have to include pork.\"",
-        "A former Silicon Valley tech worker, he moved to Texas six years ago in search of a Muslim community. On weekends in his backyard, he smoked brisket for friends. By 2024, he bought a smoker and opened Kafi BBQ.",
-        "He said he spent months testing and perfecting recipes and finding local producers. Abdul-Kafi attributes his obsession with crafting a stand-out menu to the Islamic concept of \"Ihsan\" — a term meaning doing something with excellence for the sake of God.",
-        "On a Sunday afternoon this summer, the restaurant's red booths were packed with diners, drawn to menu items like the 13-spice Wagyu brisket, pomegranate-glazed beef belly burnt ends and Iraqi-inspired spicy beef sausage.",
-        "\"That sausage, I'd probably put it at the top sausage I've ever had, and we eat barbecue a lot. This place is unique,\" said Jonathan Tate, a Fort Worth resident who came to Kafi BBQ with a friend after reading about it on a Facebook foodie group.",
-        "\"I don't necessarily have to have it halal, but it's nice to know they took good care of the food, the meat,\" his friend Jon Sklar said, before going back in line to order oxtail.",
-        "Although political rhetoric against Muslims in Texas has become increasingly hostile — some GOP lawmakers even discussed a ban on halal food — pitmasters like Abdul-Kafi see the rise of halal barbecue as an effective counterargument.",
-        "\"It's an example of exactly the opposite of what the Islamophobes talk about, right?\" he said. \"They say, 'Oh, Muslims don't integrate, they stay alone, they don't help society and all this stuff.' And it's like, I'm sitting here contributing to the most well-known cuisine of Texas.\"",
-        "Areeba Ali (third from left) eats at Kafi BBQ with family in Irving, Texas. Ulaa Kuziez/Religion News Service hide caption",
-        "After finishing a big lunch with 10 relatives, Areeba Ali, a Dallas native of Indian heritage, said the restaurant's appeal cuts across communities, which she said is evidence that halal barbecue isn't a niche but resonates broadly with Texans. \"If you look around in the restaurant, you see everybody in there — it's not just one demographic in there,\" Ali said.",
-        "For Mustafa, that success is ultimately a testament to the resilience of Muslim American communities.",
-        "\"No matter how much they try to erase us, our food is here to stay,\" he said. \"You will see the power of just good food and the fact that most people really seem to understand that this is just as American as anything else.\"",
-        "This story was produced through a collaboration between NPR and Religion News Service."
+        "The peptide is supposed to deliver flawless and firm skin, promote wound healing and other…"
       ],
       "dataSources": [
         {
@@ -353,112 +324,63 @@
   "news": {
     "domestic": [
       {
-        "title": "亚太媒体高端论坛激荡携手共进强音",
-        "link": "https://www.news.cn/world/20260907/61d009be89974a94bb5515b6827bb423/c.html",
-        "summary": "“共商亚太发展大计，共创亚太美好明天。”习近平主席的诚挚邀约，宣示中国推动构建亚太共同体的决心，为合力开创亚太发展新时代注入强大信心和力量。",
-        "source": "新华网",
+        "title": "江西赣州回应“女孩赴香港看演唱会被取消全家低保”：触发低保对象动态监测预警，核查后将依规处置",
+        "link": "https://www.thepaper.cn/newsDetail_forward_34024464",
+        "summary": "9月7日，据“欧潭融媒”，赣州经开区社会事务管理局通报：近日，网络平台流传“江西一名女孩赴香港观看演唱会，因出境消费被取消全家低保待遇”信息，引发网民热议。对此",
+        "source": "澎湃新闻",
         "pub": "",
-        "heat": 89,
-        "heatRaw": 82,
-        "heatParts": {
-          "cross": 22,
-          "auth": 14,
-          "rank": 17,
-          "fresh": 23,
-          "kw": 6
-        },
-        "crossCount": 3,
-        "reportCount": 3,
-        "sources": [
-          "新华网",
-          "中国新闻网",
-          "中国经济网"
-        ]
-      },
-      {
-        "title": "救援人员在西藏吉隆泥石流灾害核心区展开精细化搜寻",
-        "link": "https://www.news.cn/photo/20260906/073512f68bc24d999ebebee8d0676b74/c.html",
-        "summary": "救援人员在西藏吉隆泥石流灾害核心区展开精细化搜寻-9月6日，吉隆泥石流灾害核心区抢险救援工作持续推进。当前，搜寻作业已划片分区，展开精细化拉网式搜寻。",
-        "source": "新华网",
-        "pub": "",
-        "heat": 87,
-        "heatRaw": 79,
-        "heatParts": {
-          "cross": 22,
-          "auth": 14,
-          "rank": 13,
-          "fresh": 23,
-          "kw": 6
-        },
-        "crossCount": 4,
-        "reportCount": 6,
-        "sources": [
-          "新华网",
-          "中国新闻网",
-          "中国经济网",
-          "澎湃新闻"
-        ]
-      },
-      {
-        "title": "六部门发文推动历史经典产业高质量发展",
-        "link": "https://www.news.cn/politics/20260907/1e1182df0ed8422da52e94974bc6c825/c.html",
-        "summary": "新华社北京9月7日电（记者唐诗凝、周圆）工业和信息化部等六部门7日对外发布《关于推动历史经典产业高质量发展的意见》，提出到2028年，培育50家百亿规模龙头企业，塑造100个中国消费名品，打造若干千亿级规模特色产业集群，形成梯次分布、优势互…",
-        "source": "新华网",
-        "pub": "",
-        "heat": 87,
-        "heatRaw": 78,
-        "heatParts": {
-          "cross": 22,
-          "auth": 14,
-          "rank": 10,
-          "fresh": 23,
-          "kw": 8
-        },
-        "crossCount": 4,
-        "reportCount": 7,
-        "sources": [
-          "新华网",
-          "中国新闻网",
-          "中国经济网",
-          "澎湃新闻"
-        ]
-      },
-      {
-        "title": "聚焦家电、水质等项目 2025年国际检验检测能力验证工作完成",
-        "link": "https://www.chinanews.com.cn/gn/2026/09-07/10691818.shtml",
-        "summary": "记者今天了解到，市场监管总局(国家认监委)近日组织的2025年国际检验检测能力验证工作完成。能力验证是国际通行的检验检测机构质量控制手段，以测试结果评价机构人员、仪器设备、检测方法、环境设施等综合技术水平，对检验检测机构进行全方位“体检”和…",
-        "source": "中国新闻网",
-        "pub": "Mon, 7 Sep 2026 11:58:54 +0800",
-        "heat": 80,
-        "heatRaw": 67,
+        "heat": 85,
+        "heatRaw": 75,
         "heatParts": {
           "cross": 11,
-          "auth": 13,
+          "auth": 11,
+          "rank": 19,
+          "fresh": 21,
+          "kw": 13
+        },
+        "crossCount": 2,
+        "reportCount": 2,
+        "sources": [
+          "澎湃新闻",
+          "网易新闻"
+        ]
+      },
+      {
+        "title": "捐款数年后停捐遭电话催捐？发帖当事人回应，律师解读回访与催捐的合规边界",
+        "link": "https://www.thepaper.cn/newsDetail_forward_34024051",
+        "summary": "“我捐了好几年的钱，一个电话都没给我打过，我才停了一个月，这电话一下子就打过来了。”近日，网友刘女士发视频称，坚持数年月度公益捐赠从未间断，停捐一个月便收到慈善",
+        "source": "澎湃新闻",
+        "pub": "",
+        "heat": 78,
+        "heatRaw": 63,
+        "heatParts": {
+          "cross": 11,
+          "auth": 11,
           "rank": 20,
-          "fresh": 23,
+          "fresh": 21,
           "kw": 0
         },
         "crossCount": 2,
         "reportCount": 2,
         "sources": [
-          "中国新闻网",
-          "中国经济网"
+          "澎湃新闻",
+          "网易新闻"
         ]
       },
       {
-        "title": "美国迈阿密机场一货机冲出跑道 造成5死5伤",
-        "link": "https://www.chinanews.com.cn/gj/2026/09-07/10691756.shtml",
-        "summary": "中新社华盛顿9月6日电 美国佛罗里达州迈阿密国际机场当地时间6日发生货机冲出跑道事故，造成5人死亡、5人受伤。",
+        "title": "AI时代，老师为何不可替代",
+        "link": "https://www.chinanews.com.cn/edu/2026/09-08/10692306.shtml",
+        "summary": "AI时代，老师为何不可替代(教育优质均衡发展·四问“人工智能+教育”②)",
         "source": "中国新闻网",
-        "pub": "Mon, 7 Sep 2026 12:07:43 +0800",
-        "heat": 79,
-        "heatRaw": 64,
+        "pub": "Tue, 8 Sep 2026 06:42:50 +0800",
+        "heat": 77,
+        "heatRaw": 62,
         "heatParts": {
           "cross": 0,
           "auth": 13,
-          "rank": 23,
+          "rank": 22,
           "fresh": 23,
-          "kw": 6
+          "kw": 5
         },
         "crossCount": 1,
         "reportCount": 1,
@@ -467,104 +389,145 @@
         ]
       },
       {
-        "title": "8家中央金融企业获3600亿元增资 对普通百姓会带来哪些影响？",
-        "link": "https://www.chinanews.com.cn/cj/2026/09-07/10691815.shtml",
-        "summary": "2026年9月6日，金融市场迎来一则重量级消息。工商银行、农业银行、中国进出口银行、中国信保、中国再保、中国人寿、中国太平、中国人保八家中央金融企业同步披露增资方案，合计补充核心一级资本3600亿元。这也是近几年国内金融领域覆盖范围最广的一…",
+        "title": "朝鲜警告：将以有力措施回应美国及其盟国的新军事对抗",
+        "link": "https://www.chinanews.com.cn/gj/2026/09-08/10692307.shtml",
+        "summary": "中新网9月8日电 据朝中社报道，朝鲜国防相金成基7日发表谈话，称如果美国及其盟国企图同朝鲜进行新的军事对抗，朝鲜也将采取强有力的应对措施。",
         "source": "中国新闻网",
-        "pub": "Mon, 7 Sep 2026 11:51:33 +0800",
-        "heat": 79,
-        "heatRaw": 64,
-        "heatParts": {
-          "cross": 11,
-          "auth": 13,
-          "rank": 14,
-          "fresh": 23,
-          "kw": 3
-        },
-        "crossCount": 2,
-        "reportCount": 2,
-        "sources": [
-          "中国新闻网",
-          "中国经济网"
-        ]
-      },
-      {
-        "title": "中纪委周末打虎，陈勇上任不到一年被查！退休3年后落马，岳普煜被开除党籍",
-        "link": "https://www.163.com/dy/article/L67KJ9QT055040N3.html",
-        "summary": "中纪委周末打虎，陈勇上任不到一年被查！退休3年后落马，岳普煜被开除党籍,常委,岳普煜,被开除,中纪委,江苏省委,陕西省政协,陈勇(1969年)",
-        "source": "网易新闻",
-        "pub": "2026-09-07 11:57:21",
-        "heat": 77,
-        "heatRaw": 62,
-        "heatParts": {
-          "cross": 0,
-          "auth": 11,
-          "rank": 23,
-          "fresh": 23,
-          "kw": 5
-        },
-        "crossCount": 1,
-        "reportCount": 1,
-        "sources": [
-          "网易新闻"
-        ]
-      },
-      {
-        "title": "全国首部闽宁协作主题AI微短剧《塞上渔歌》正式上线",
-        "link": "https://www.ce.cn/xwzx/gnsz/gdxw/202609/t20260907_3198413.shtml",
-        "summary": "9月6日上午，全国首部闽宁协作主题AI微短剧《塞上渔歌》上线启动仪式暨新闻发布会在福建省福州市举办。",
-        "source": "中国经济网",
-        "pub": "",
+        "pub": "Tue, 8 Sep 2026 06:52:09 +0800",
         "heat": 75,
-        "heatRaw": 58,
+        "heatRaw": 59,
         "heatParts": {
           "cross": 0,
-          "auth": 12,
+          "auth": 13,
           "rank": 23,
-          "fresh": 19,
-          "kw": 4
-        },
-        "crossCount": 1,
-        "reportCount": 1,
-        "sources": [
-          "中国经济网"
-        ]
-      },
-      {
-        "title": "男童被拍光脚站展台上用手触摸东汉石走兽 博物馆回应",
-        "link": "https://www.163.com/dy/article/L67J8IUI0514D3UH.html",
-        "summary": "男童用手触摸东汉石走兽？ 博物馆：是真品，已接到反映并上报,石刻,文物,石兽,男童,石走兽,东汉石,西安碑林博物馆",
-        "source": "网易新闻",
-        "pub": "2026-09-07 11:42:36",
-        "heat": 73,
-        "heatRaw": 55,
-        "heatParts": {
-          "cross": 0,
-          "auth": 11,
-          "rank": 22,
           "fresh": 23,
           "kw": 0
         },
         "crossCount": 1,
         "reportCount": 1,
         "sources": [
+          "中国新闻网"
+        ]
+      },
+      {
+        "title": "吴彦祖谈CHINA GT事故:赛会方36小时后发声明是可耻的",
+        "link": "https://www.163.com/dy/article/L6832FEM05561G0D.html",
+        "summary": "吴彦祖谈CHINA GT赛车起火事故，指责赛会方不承认错误：36小时后发出的声明是可耻的；组委会道歉后车队再发声称“回应缺乏担当”,赛车,撞车,吴彦祖,起火事故,超级跑车锦标赛",
+        "source": "网易新闻",
+        "pub": "2026-09-07 23:18:35",
+        "heat": 75,
+        "heatRaw": 59,
+        "heatParts": {
+          "cross": 0,
+          "auth": 11,
+          "rank": 22,
+          "fresh": 21,
+          "kw": 6
+        },
+        "crossCount": 1,
+        "reportCount": 1,
+        "sources": [
           "网易新闻"
         ]
       },
       {
-        "title": "批量解约107名应届大学毕业生 星宇股份公布处罚决定",
-        "link": "https://www.163.com/news/article/L67FHJB900018AOR.html",
-        "summary": "星宇股份公布处罚决定（资料图） 据澎湃新闻，9月7日，记者获悉，常州星宇车灯股份有限公司发布处罚决定，称鉴于8月初对部分新入职大学生事项处理不当造成的重大影响，经公司经理办公会决议，决定对负有管理责任的公司总经理周晓萍给予扣薪12个月的处理…",
+        "title": "第二届习近平文化思想国际学术研讨会观察",
+        "link": "https://www.news.cn/politics/leaders/20260908/e6457df67db04125bde6d288ff29927d/c.html",
+        "summary": "深圳湾畔，思想交融，文化汇聚。 9月6日，第二届习近平文化思想国际学术研讨会在广东深圳举行。“任何文化要立得住、行得远，要有引领力、凝聚力、塑造力、辐射力，就必须有自己的主体性。”习近平总书记这一深刻论断，成为贯穿整场研讨会的核心命题。",
+        "source": "新华网",
+        "pub": "",
+        "heat": 74,
+        "heatRaw": 57,
+        "heatParts": {
+          "cross": 0,
+          "auth": 14,
+          "rank": 16,
+          "fresh": 21,
+          "kw": 6
+        },
+        "crossCount": 1,
+        "reportCount": 1,
+        "sources": [
+          "新华网"
+        ]
+      },
+      {
+        "title": "微米级精度“丈量”万物",
+        "link": "https://www.ce.cn/xwzx/gnsz/gdxw/202609/t20260908_3199189.shtml",
+        "summary": "走进位于浙江省杭州市萧山区的先临三维科技股份有限公司，工程师正手持一把形似电动牙刷的扫描仪，对准牙齿和牙龈缓缓扫过，30秒获得高精度全牙列数据，2分钟生成全口三维模型和口腔健康检查报告。另一组技术人员则用跟踪式三维激光扫描系统为一辆汽车做全…",
+        "source": "中国经济网",
+        "pub": "",
+        "heat": 74,
+        "heatRaw": 56,
+        "heatParts": {
+          "cross": 0,
+          "auth": 12,
+          "rank": 23,
+          "fresh": 21,
+          "kw": 0
+        },
+        "crossCount": 1,
+        "reportCount": 1,
+        "sources": [
+          "中国经济网"
+        ]
+      },
+      {
+        "title": "特朗普发文威胁：禁止加拿大飞机制造商庞巴迪在美销售",
+        "link": "https://www.chinanews.com.cn/gj/2026/09-08/10692301.shtml",
+        "summary": "中新网9月8日电 美国总统特朗普当地时间7日在社交媒体发文，威胁禁止加拿大飞机制造商庞巴迪公司在美销售，除非该公司开始在美国生产。",
+        "source": "中国新闻网",
+        "pub": "Tue, 8 Sep 2026 06:35:38 +0800",
+        "heat": 73,
+        "heatRaw": 56,
+        "heatParts": {
+          "cross": 0,
+          "auth": 13,
+          "rank": 20,
+          "fresh": 23,
+          "kw": 0
+        },
+        "crossCount": 1,
+        "reportCount": 1,
+        "sources": [
+          "中国新闻网"
+        ]
+      },
+      {
+        "title": "市场驱动“一公里生态圈”进化",
+        "link": "https://www.ce.cn/xwzx/gnsz/gdxw/202609/t20260908_3199186.shtml",
+        "summary": "1.45平方公里的土地上，聚集着11.5万家经营主体，商品流通覆盖183个国家和地区；片区单日最高客流达85万人次，日均外籍采购客商超8000人次。这里就是全球规模最大的电子产品交易集散地——位于深圳市福田区的华强北市场。",
+        "source": "中国经济网",
+        "pub": "",
+        "heat": 73,
+        "heatRaw": 55,
+        "heatParts": {
+          "cross": 0,
+          "auth": 12,
+          "rank": 22,
+          "fresh": 21,
+          "kw": 0
+        },
+        "crossCount": 1,
+        "reportCount": 1,
+        "sources": [
+          "中国经济网"
+        ]
+      },
+      {
+        "title": "30年没离开上海的保安突然被北京法院判了 账户遭冻结",
+        "link": "https://www.163.com/dy/article/L67MULQS055040N3.html",
+        "summary": "30年没离开过上海的保安，突然“被北京法院判了”，账户被冻结、欠债百万…,保安,欠债,银行卡,上海市,没离开过,北京法院",
         "source": "网易新闻",
-        "pub": "2026-09-07 10:44:30",
+        "pub": "2026-09-07 23:22:24",
         "heat": 73,
         "heatRaw": 55,
         "heatParts": {
           "cross": 0,
           "auth": 11,
-          "rank": 17,
-          "fresh": 23,
-          "kw": 4
+          "rank": 23,
+          "fresh": 21,
+          "kw": 0
         },
         "crossCount": 1,
         "reportCount": 1,
@@ -575,110 +538,41 @@
     ],
     "world": [
       {
-        "title": "亚太媒体“朋友圈”邀你加入群聊",
-        "link": "https://www.news.cn/world/20260906/2d623e4057ba45dd9e9c4d6286d4cfcd/c.html",
-        "summary": "9月5日，以“共筑亚太共同体繁荣之路：媒体的共识与行动”为主题的亚太媒体高端论坛在广东深圳开幕。来自40多个国家和地区以及联合国机构、国际组织的400余位代表出席。",
-        "source": "新华网",
-        "pub": "",
-        "heat": 89,
-        "heatRaw": 81,
-        "heatParts": {
-          "cross": 22,
-          "auth": 14,
-          "rank": 17,
-          "fresh": 23,
-          "kw": 5
-        },
-        "crossCount": 3,
-        "reportCount": 3,
-        "sources": [
-          "新华网",
-          "海外网",
-          "中国新闻网"
-        ]
-      },
-      {
-        "title": "Iran says it plans to announce a new 'exclusion zone' near the Strait of Hormuz",
-        "link": "https://apnews.com/article/iran-us-war-strait-hormuz-ship-attack-a52beec77dc90af3d040d0553837ad20",
-        "summary": "A senior Iranian official says Tehran plans to announce an “exclusion zone” outside the Strait of Hormuz, targeting vess…",
+        "title": "Federal investigators probe Amazon cargo jet's fiery runway crash that killed 5 in Miami",
+        "link": "https://apnews.com/article/cargo-plane-crash-miami-airport-amazon-prime-d5118998e880f380a3fd8786e35fd9bb",
+        "summary": "Investigators are looking into why an Amazon cargo jet ran off a runway at Miami International Airport, killing five peo…",
         "source": "美联社",
         "pub": "",
         "heat": 88,
-        "heatRaw": 80,
+        "heatRaw": 79,
         "heatParts": {
           "cross": 22,
           "auth": 13,
-          "rank": 23,
+          "rank": 22,
           "fresh": 19,
           "kw": 3
         },
         "crossCount": 3,
-        "reportCount": 3,
+        "reportCount": 4,
         "sources": [
           "中国日报网",
-          "CGTN",
-          "美联社"
-        ]
-      },
-      {
-        "title": "Germany's far-right AfD leads in Saxony-Anhalt state election: exit polls",
-        "link": "https://www.chinadaily.com.cn/a/202609/07/WS6a9d92d6e4b06d4aa055c9c5.html",
-        "summary": "MAGDEBURG, Germany -- The far-right Alternative for Germany (AfD) has won Sunday's state election in Saxony-Anhalt with …",
-        "source": "中国日报网",
-        "pub": "",
-        "heat": 87,
-        "heatRaw": 78,
-        "heatParts": {
-          "cross": 22,
-          "auth": 13,
-          "rank": 19,
-          "fresh": 19,
-          "kw": 5
-        },
-        "crossCount": 3,
-        "reportCount": 3,
-        "sources": [
-          "中国日报网",
-          "CGTN",
+          "美联社",
           "NPR"
         ]
       },
       {
-        "title": "At least 5 dead after Amazon cargo plane barreled off runway at Miami airport",
-        "link": "https://apnews.com/article/amazon-cargo-plane-miami-airport-47411c751782887757922efa5f634aa5",
-        "summary": "Authorities say at least five people are dead after an Amazon cargo plane barreled off a Miami airport runway and smashe…",
-        "source": "美联社",
-        "pub": "",
-        "heat": 86,
-        "heatRaw": 77,
-        "heatParts": {
-          "cross": 22,
-          "auth": 13,
-          "rank": 20,
-          "fresh": 19,
-          "kw": 3
-        },
-        "crossCount": 3,
-        "reportCount": 3,
-        "sources": [
-          "中国日报网",
-          "CGTN",
-          "美联社"
-        ]
-      },
-      {
-        "title": "埃及各界人士高度评价习近平主席国事访问",
-        "link": "https://news.haiwainet.cn/n/2026/0907/c3543307-32980981.html",
-        "summary": "北京9月6日电 题：携手同心 不断推进中埃命运共同体建设——埃及各界人士高度评价习近平主席国事访问新华社记者近日，国家主席习近平圆满结束对埃及的国事访问。...",
+        "title": "一见·历史坐标里的“中埃时刻”",
+        "link": "https://news.haiwainet.cn/n/2026/0907/c3543307-32981173.html",
+        "summary": "时间是人类发展的空间。对于同为文明古国的中国和埃及来说，时间是传统友谊的见证，也是合作共赢的基石。当地时间9月1日至2日，习近平主席对埃及进行国事访问，人们的目...",
         "source": "海外网",
         "pub": "",
-        "heat": 85,
-        "heatRaw": 75,
+        "heat": 83,
+        "heatRaw": 71,
         "heatParts": {
           "cross": 11,
           "auth": 13,
-          "rank": 22,
-          "fresh": 19,
+          "rank": 23,
+          "fresh": 13,
           "kw": 11
         },
         "crossCount": 2,
@@ -689,86 +583,86 @@
         ]
       },
       {
-        "title": "泽连斯基称与美特使等人的会晤“非常具有实质性”",
-        "link": "https://www.news.cn/world/20260907/7047a825cd114bf6b04437887868d853/c.html",
-        "summary": "新华社基辅9月6日电（记者李东旭）据乌克兰国家通讯社6日晚报道，乌克兰总统泽连斯基在与美国总统特朗普的特使威特科夫和女婿库什纳会晤后向媒体表示，乌方与美方和欧洲国家代表当天讨论了对乌越冬援助、安全保障等俄乌冲突涉及的议题，会谈“非常具有实质…",
-        "source": "新华网",
+        "title": "埃及各界人士高度评价习近平主席国事访问",
+        "link": "https://news.cri.cn/20260907/7b1f15e0-4dbf-4c04-bc0c-1c926768de0e.html",
+        "summary": "新华社北京9月6日电 题：携手同心不断推进中埃命运共同体建设——埃及各界人士高度评价习近平主席国事访问 新华社记者 近日，国家主席习近平圆满结束对埃及的国事访问。埃及各界人士在接受新华社记者采访时表示，习近平主席时隔10年再访埃及，",
+        "source": "国际在线",
         "pub": "",
-        "heat": 85,
-        "heatRaw": 75,
+        "heat": 82,
+        "heatRaw": 70,
         "heatParts": {
-          "cross": 22,
-          "auth": 14,
-          "rank": 4,
-          "fresh": 23,
+          "cross": 11,
+          "auth": 13,
+          "rank": 22,
+          "fresh": 13,
           "kw": 11
         },
-        "crossCount": 3,
-        "reportCount": 5,
+        "crossCount": 2,
+        "reportCount": 2,
         "sources": [
-          "新华网",
+          "海外网",
+          "国际在线"
+        ]
+      },
+      {
+        "title": "伊朗要在海峡划“禁区” 美伊对抗或升级",
+        "link": "https://news.cri.cn/20260907/9d186ffa-3583-e084-36dc-267a6a8e20cb.html",
+        "summary": "据伊朗媒体6日报道，伊朗最高国家安全委员会秘书穆赫辛·雷扎伊表示，伊朗将宣布在霍尔木兹海峡之外设立一个禁区。该禁区范围将从美国海军\"封锁线\"延伸至波斯湾部分海域，任何进入这一范围的船只都将被伊方列入",
+        "source": "国际在线",
+        "pub": "",
+        "heat": 81,
+        "heatRaw": 68,
+        "heatParts": {
+          "cross": 22,
+          "auth": 13,
+          "rank": 14,
+          "fresh": 19,
+          "kw": 0
+        },
+        "crossCount": 3,
+        "reportCount": 3,
+        "sources": [
+          "海外网",
           "国际在线",
           "中国新闻网"
         ]
       },
       {
-        "title": "亚太媒体高端论坛激荡携手共进强音",
-        "link": "https://www.news.cn/world/20260907/61d009be89974a94bb5515b6827bb423/c.html",
-        "summary": "“共商亚太发展大计，共创亚太美好明天。”习近平主席的诚挚邀约，宣示中国推动构建亚太共同体的决心，为合力开创亚太发展新时代注入强大信心和力量。",
+        "title": "俄罗斯要求关闭德国驻圣彼得堡总领事馆",
+        "link": "https://www.news.cn/world/20260907/bcf1758d0b344947a8e56bb55c7faf69/c.html",
+        "summary": "新华社莫斯科9月7日电　据俄罗斯媒体7日报道，俄罗斯要求关闭德国驻圣彼得堡总领事馆，要求其在9月18日前停止运营。俄罗斯还要求境内所有德国歌德学院停止运营，其工作人员须在9月13日前离境。",
         "source": "新华网",
         "pub": "",
-        "heat": 83,
-        "heatRaw": 72,
+        "heat": 79,
+        "heatRaw": 65,
         "heatParts": {
           "cross": 11,
           "auth": 14,
-          "rank": 17,
-          "fresh": 23,
-          "kw": 6
+          "rank": 19,
+          "fresh": 21,
+          "kw": 0
         },
         "crossCount": 2,
-        "reportCount": 3,
+        "reportCount": 2,
         "sources": [
           "新华网",
           "中国新闻网"
         ]
       },
       {
-        "title": "拾光纪·习主席中亚中东行的三点启示",
-        "link": "https://news.haiwainet.cn/n/2026/0907/c3543307-32980982.html",
-        "summary": "从“我将无我、不负人民”的强大感召力，到不同文明相向而行的美美与共，再到国际社会更加看重中国声音、中国方案，5天4夜里，习近平主席密集出席20余场活动，让中国...",
-        "source": "海外网",
-        "pub": "",
-        "heat": 83,
-        "heatRaw": 72,
-        "heatParts": {
-          "cross": 11,
-          "auth": 13,
-          "rank": 23,
-          "fresh": 19,
-          "kw": 6
-        },
-        "crossCount": 2,
-        "reportCount": 2,
-        "sources": [
-          "海外网",
-          "国际在线"
-        ]
-      },
-      {
-        "title": "墨西哥中部烟花爆炸死伤人数上升至74人",
-        "link": "https://www.chinanews.com.cn/gj/2026/09-07/10691796.shtml",
-        "summary": "中新网北京9月7日电 据墨西哥《进程》周刊报道，墨西哥中部墨西哥州政府当地时间6日公布，截至当天9时30分，该州特马斯卡尔辛戈市圣玛丽亚·坎切斯达镇5日晚发生的烟花爆炸事故已造成至少10人死亡、64人受伤。",
+        "title": "伊朗经济部设立经济战争指挥部",
+        "link": "https://www.chinanews.com.cn/gj/2026/09-07/10692294.shtml",
+        "summary": "伊朗方面6日消息，伊朗经济部已设立“经济战争指挥部”，旨在集中研判战争造成的经济问题，并协调有关部门加快制定和落实解决方案。",
         "source": "中国新闻网",
-        "pub": "Mon, 7 Sep 2026 12:08:43 +0800",
-        "heat": 82,
-        "heatRaw": 70,
+        "pub": "Mon, 7 Sep 2026 23:48:28 +0800",
+        "heat": 79,
+        "heatRaw": 65,
         "heatParts": {
           "cross": 0,
           "auth": 13,
-          "rank": 23,
-          "fresh": 23,
-          "kw": 12
+          "rank": 17,
+          "fresh": 21,
+          "kw": 14
         },
         "crossCount": 1,
         "reportCount": 1,
@@ -777,71 +671,93 @@
         ]
       },
       {
-        "title": "Putin holds 3-hour meeting with US envoys ahead of their Kyiv trip",
-        "link": "https://news.cgtn.com/news/2026-09-06/news-1QcVR92jJyE/p.html",
-        "summary": "The diplomatic push comes as both Moscow and Kyiv said they would observe a temporary, three-day pause on capital airstr…",
-        "source": "CGTN",
+        "title": "特朗普发文威胁：禁止加拿大飞机制造商庞巴迪在美销售",
+        "link": "https://www.chinanews.com.cn/gj/2026/09-08/10692301.shtml",
+        "summary": "中新网9月8日电 美国总统特朗普当地时间7日在社交媒体发文，威胁禁止加拿大飞机制造商庞巴迪公司在美销售，除非该公司开始在美国生产。",
+        "source": "中国新闻网",
+        "pub": "Tue, 8 Sep 2026 06:35:38 +0800",
+        "heat": 77,
+        "heatRaw": 62,
+        "heatParts": {
+          "cross": 0,
+          "auth": 13,
+          "rank": 22,
+          "fresh": 23,
+          "kw": 5
+        },
+        "crossCount": 1,
+        "reportCount": 1,
+        "sources": [
+          "中国新闻网"
+        ]
+      },
+      {
+        "title": "Washington-Canberra defense ties threaten regional stability: Experts",
+        "link": "https://www.chinadaily.com.cn/a/202609/07/WS6a9e0ed5e4b06d4aa055ca9b.html",
+        "summary": "Australia and the United States will strengthen defense ties in a move that could expand the US military presence in Aus…",
+        "source": "中国日报网",
         "pub": "",
-        "heat": 81,
-        "heatRaw": 69,
+        "heat": 76,
+        "heatRaw": 59,
         "heatParts": {
           "cross": 11,
           "auth": 13,
-          "rank": 23,
-          "fresh": 19,
+          "rank": 22,
+          "fresh": 13,
+          "kw": 0
+        },
+        "crossCount": 2,
+        "reportCount": 2,
+        "sources": [
+          "中国日报网",
+          "CGTN"
+        ]
+      },
+      {
+        "title": "Iran to announce 'restricted zone' outside Hormuz Strait: top security official",
+        "link": "https://www.chinadaily.com.cn/a/202609/07/WS6a9dc1f1e4b06d4aa055c9c7.html",
+        "summary": "TEHRAN -- Secretary of Iran's Supreme National Security Council Mohsen Rezaei has said that his country would announce a…",
+        "source": "中国日报网",
+        "pub": "",
+        "heat": 75,
+        "heatRaw": 58,
+        "heatParts": {
+          "cross": 11,
+          "auth": 13,
+          "rank": 17,
+          "fresh": 13,
           "kw": 3
         },
         "crossCount": 2,
         "reportCount": 2,
         "sources": [
-          "CGTN",
-          "NPR"
+          "中国日报网",
+          "CGTN"
         ]
-      }
-    ],
-    "medical": [
+      },
       {
-        "title": "中新疾控机构2026年度技术圆桌会议在新加坡举行",
-        "link": "https://www.chinacdc.cn/zxyw/202609/t20260906_1839854.html",
-        "summary": "2026-09-06 中国疾控中心与新加坡国立大学签署合作谅解备忘录 2026-09-06",
-        "source": "中国疾控中心",
-        "pub": "",
+        "title": "朝鲜警告：将以有力措施回应美国及其盟国的新军事对抗",
+        "link": "https://www.chinanews.com.cn/gj/2026/09-08/10692307.shtml",
+        "summary": "中新网9月8日电 据朝中社报道，朝鲜国防相金成基7日发表谈话，称如果美国及其盟国企图同朝鲜进行新的军事对抗，朝鲜也将采取强有力的应对措施。",
+        "source": "中国新闻网",
+        "pub": "Tue, 8 Sep 2026 06:52:09 +0800",
         "heat": 75,
         "heatRaw": 59,
         "heatParts": {
           "cross": 0,
           "auth": 13,
-          "rank": 22,
-          "fresh": 13,
-          "kw": 10
+          "rank": 23,
+          "fresh": 23,
+          "kw": 0
         },
         "crossCount": 1,
         "reportCount": 1,
         "sources": [
-          "中国疾控中心"
+          "中国新闻网"
         ]
-      },
-      {
-        "title": "中国疾控中心与新加坡国立大学签署合作谅解备忘录",
-        "link": "https://www.chinacdc.cn/zxyw/202609/t20260906_1839855.html",
-        "summary": "2026-09-06 中国疾控中心（中国预科院）青年科学家联盟举办第三期团山科研沙龙 2026-09-03",
-        "source": "中国疾控中心",
-        "pub": "",
-        "heat": 74,
-        "heatRaw": 57,
-        "heatParts": {
-          "cross": 0,
-          "auth": 13,
-          "rank": 23,
-          "fresh": 13,
-          "kw": 6
-        },
-        "crossCount": 1,
-        "reportCount": 4,
-        "sources": [
-          "中国疾控中心"
-        ]
-      },
+      }
+    ],
+    "medical": [
       {
         "title": "解码补体机制和靶点 探索罕见病创新诊疗路径",
         "link": "https://www.news.cn/health/20260903/4f2d135caca640008309fc9edcd41c6e/c.html",
@@ -864,19 +780,40 @@
         ]
       },
       {
-        "title": "信达生物亮相2026全国科普月活动 以前沿成果赋能全民代谢健康科普",
-        "link": "https://www.news.cn/health/20260907/8b3dc95f301f4ae5a6270fcbb71f3409/c.html",
-        "summary": "信达生物亮相2026全国科普月活动 以前沿成果赋能全民代谢健康科普-信达生物作为深度参与本次主场活动的创新型生物制药企业，以专业、亲民、有温度的健康科普实践，践行企业社会责任。",
-        "source": "新华网·健康",
+        "title": "中新疾控机构2026年度技术圆桌会议在新加坡举行",
+        "link": "https://www.chinacdc.cn/zxyw/202609/t20260906_1839854.html",
+        "summary": "2026-09-06 中国疾控中心与新加坡国立大学签署合作谅解备忘录 2026-09-06",
+        "source": "中国疾控中心",
         "pub": "",
-        "heat": 73,
-        "heatRaw": 55,
+        "heat": 72,
+        "heatRaw": 53,
         "heatParts": {
           "cross": 0,
           "auth": 13,
-          "rank": 13,
-          "fresh": 19,
+          "rank": 22,
+          "fresh": 7,
           "kw": 10
+        },
+        "crossCount": 1,
+        "reportCount": 1,
+        "sources": [
+          "中国疾控中心"
+        ]
+      },
+      {
+        "title": "国家药监局通报不合格滴眼液",
+        "link": "https://www.news.cn/health/20260907/eda46996ab7147ff98478d7cb7826d69/c.html",
+        "summary": "国家药监局通报不合格滴眼液-\"9月4日，国家药监局通报37批次不符合规定药品，其中23批次为妥布霉素地塞米松滴眼液，涉及珍视明和成都青山利康两家企业。\"",
+        "source": "新华网·健康",
+        "pub": "",
+        "heat": 71,
+        "heatRaw": 52,
+        "heatParts": {
+          "cross": 0,
+          "auth": 13,
+          "rank": 12,
+          "fresh": 13,
+          "kw": 14
         },
         "crossCount": 1,
         "reportCount": 1,
@@ -885,22 +822,22 @@
         ]
       },
       {
-        "title": "中国疾控中心（中国预科院）青年科学家联盟举办第三...",
-        "link": "https://www.chinacdc.cn/zxyw/202609/t20260906_1839852.html",
-        "summary": "9月2日下午，由中国疾控中心科技处、青年科学家联盟联合主办的第三期“团山科研沙龙”在中国疾控中心环境所举办。本次沙龙以“气候变化下的传染病防控共识、路径与行动”为主题。中心（院）副主任（副院长）施小明、科技处处长李振军出席活动并致辞，环境所…",
+        "title": "中国疾控中心与新加坡国立大学签署合作谅解备忘录",
+        "link": "https://www.chinacdc.cn/zxyw/202609/t20260906_1839855.html",
+        "summary": "2026-09-06 中国疾控中心（中国预科院）青年科学家联盟举办第三期团山科研沙龙 2026-09-03",
         "source": "中国疾控中心",
         "pub": "",
-        "heat": 72,
-        "heatRaw": 53,
+        "heat": 70,
+        "heatRaw": 51,
         "heatParts": {
           "cross": 0,
           "auth": 13,
-          "rank": 20,
-          "fresh": 13,
+          "rank": 23,
+          "fresh": 7,
           "kw": 6
         },
         "crossCount": 1,
-        "reportCount": 1,
+        "reportCount": 4,
         "sources": [
           "中国疾控中心"
         ]
@@ -917,6 +854,48 @@
           "cross": 0,
           "auth": 13,
           "rank": 23,
+          "fresh": 7,
+          "kw": 4
+        },
+        "crossCount": 1,
+        "reportCount": 1,
+        "sources": [
+          "央视网·健康"
+        ]
+      },
+      {
+        "title": "中国疾控中心（中国预科院）青年科学家联盟举办第三...",
+        "link": "https://www.chinacdc.cn/zxyw/202609/t20260906_1839852.html",
+        "summary": "9月2日下午，由中国疾控中心科技处、青年科学家联盟联合主办的第三期“团山科研沙龙”在中国疾控中心环境所举办。本次沙龙以“气候变化下的传染病防控共识、路径与行动”为主题。中心（院）副主任（副院长）施小明、科技处处长李振军出席活动并致辞，环境所…",
+        "source": "中国疾控中心",
+        "pub": "",
+        "heat": 68,
+        "heatRaw": 47,
+        "heatParts": {
+          "cross": 0,
+          "auth": 13,
+          "rank": 20,
+          "fresh": 7,
+          "kw": 6
+        },
+        "crossCount": 1,
+        "reportCount": 1,
+        "sources": [
+          "中国疾控中心"
+        ]
+      },
+      {
+        "title": "久坐族注意 周末突击运动更伤身",
+        "link": "https://jiankang.cctv.com/2026/09/02/ARTIntyDh7rYUfa8vIGwy2Sp260902.shtml",
+        "summary": "不少上班族工作中久坐少动，寄希望于周末的高强度锻炼能弥补日常运动的不足。殊不知，这种突击运动、贸然给自己“上强度”的健身方式存在不小的健康隐患。",
+        "source": "央视网·健康",
+        "pub": "",
+        "heat": 68,
+        "heatRaw": 47,
+        "heatParts": {
+          "cross": 0,
+          "auth": 13,
+          "rank": 22,
           "fresh": 7,
           "kw": 4
         },
@@ -948,61 +927,40 @@
         ]
       },
       {
-        "title": "久坐族注意 周末突击运动更伤身",
-        "link": "https://jiankang.cctv.com/2026/09/02/ARTIntyDh7rYUfa8vIGwy2Sp260902.shtml",
-        "summary": "不少上班族工作中久坐少动，寄希望于周末的高强度锻炼能弥补日常运动的不足。殊不知，这种突击运动、贸然给自己“上强度”的健身方式存在不小的健康隐患。",
-        "source": "央视网·健康",
+        "title": "信达生物亮相2026全国科普月活动 以前沿成果赋能全民代谢健康科普",
+        "link": "https://www.news.cn/health/20260907/8b3dc95f301f4ae5a6270fcbb71f3409/c.html",
+        "summary": "信达生物亮相2026全国科普月活动 以前沿成果赋能全民代谢健康科普-信达生物作为深度参与本次主场活动的创新型生物制药企业，以专业、亲民、有温度的健康科普实践，践行企业社会责任。",
+        "source": "新华网·健康",
         "pub": "",
         "heat": 68,
         "heatRaw": 47,
         "heatParts": {
           "cross": 0,
           "auth": 13,
-          "rank": 22,
-          "fresh": 7,
-          "kw": 4
+          "rank": 10,
+          "fresh": 13,
+          "kw": 10
         },
         "crossCount": 1,
         "reportCount": 1,
         "sources": [
-          "央视网·健康"
+          "新华网·健康"
         ]
       },
       {
-        "title": "中国疾病预防控制中心2027年接收推荐免试研究生预报名通知",
-        "link": "https://www.chinacdc.cn/tzgg/202609/t20260902_1839723.html",
-        "summary": "网站服务 中国疾控中心公共卫生科学数据中心 新版网站意见 --> 中国疾控中心科技文献服务系统 网站调查 --> 中国疾控中心电子采购平台 中国疾控中心微信公众号",
-        "source": "中国疾控中心",
+        "title": "阿斯利康全球执行副总裁尹思睿：科学创新只有真正转化为患者获益才有意义",
+        "link": "https://www.news.cn/health/20260907/d864fa41bc5d41f8b19f4526f3ce2fea/c.html",
+        "summary": "阿斯利康全球执行副总裁尹思睿：科学创新只有真正转化为患者获益才有意义-尹思睿表示，阿斯利康已将中国视为全球创新的重要引擎。",
+        "source": "新华网·健康",
         "pub": "",
         "heat": 67,
         "heatRaw": 45,
         "heatParts": {
           "cross": 0,
           "auth": 13,
-          "rank": 10,
-          "fresh": 7,
-          "kw": 14
-        },
-        "crossCount": 1,
-        "reportCount": 1,
-        "sources": [
-          "中国疾控中心"
-        ]
-      },
-      {
-        "title": "国家疾病预防控制局举行“科学防病开学季 健康护航新学期”主题新闻发布会",
-        "link": "https://www.news.cn/health/20260904/55a49ecca01b41e38f8bba642997989a/c.html",
-        "summary": "国家疾病预防控制局举行“科学防病开学季 健康护航新学期”主题新闻发布会-希望符合条件的适龄女孩家长，及时带孩子接种HPV疫苗。",
-        "source": "新华网·健康",
-        "pub": "",
-        "heat": 66,
-        "heatRaw": 43,
-        "heatParts": {
-          "cross": 0,
-          "auth": 13,
-          "rank": 12,
-          "fresh": 7,
-          "kw": 10
+          "rank": 13,
+          "fresh": 13,
+          "kw": 5
         },
         "crossCount": 1,
         "reportCount": 1,
@@ -1013,74 +971,74 @@
     ],
     "ai": [
       {
-        "title": "具身ICL来了创业玩家！上下文成Scaling新赛道",
-        "link": "https://www.qbitai.com/2026/09/484897.html",
-        "summary": "让机器人学会利用更长的多模态Context",
+        "title": "3秒变身！会合体的机器人，卖到全球50国",
+        "link": "https://www.qbitai.com/2026/09/485525.html",
+        "summary": "谁说现在机器人都长得差不多的！",
         "source": "量子位",
-        "pub": "Sun, 06 Sep 2026 11:44:21 +0000"
+        "pub": "Mon, 07 Sep 2026 09:34:06 +0000"
       },
       {
-        "title": "B站首届AI创造公开赛收官，超八成参赛者为一人团队",
-        "link": "https://www.qbitai.com/2026/09/484890.html",
+        "title": "GPT-6不只Astra！Sol内测结果曝光，速度快6倍",
+        "link": "https://www.qbitai.com/2026/09/485431.html",
+        "summary": "OpenAI研究院人均带3个AI实习生",
+        "source": "量子位",
+        "pub": "Mon, 07 Sep 2026 09:04:06 +0000"
+      },
+      {
+        "title": "DHH领衔，英伟达、微软、HuggingFace等150+全球技术大咖集结，GOSIM Shenzhen 2026全议程公布",
+        "link": "https://www.qbitai.com/2026/09/485154.html",
+        "summary": "10 月 16–17 日，面向全球开发者的开源技术大会 GOSIM 将首次来到深圳，举办 GOSIM Shenzhen 2026。",
+        "source": "量子位",
+        "pub": "Mon, 07 Sep 2026 08:51:30 +0000"
+      },
+      {
+        "title": "菲尔兹奖得主入局大模型！4B手机Qwen+云端GLM刷爆ARC-AGI 3",
+        "link": "https://www.qbitai.com/2026/09/485108.html",
+        "summary": "“在两个模型之间找到数学上的共同基础其实非常困难”",
+        "source": "量子位",
+        "pub": "Mon, 07 Sep 2026 08:36:30 +0000"
+      },
+      {
+        "title": "国内首份办公Agent用户行为报告发布：北京用户量全国居首，海外用户占比超12%",
+        "link": "https://www.qbitai.com/2026/09/485064.html",
+        "summary": "9月7日，国内首份《中国办公Agent用户行为不完全报告》在京发布。",
+        "source": "量子位",
+        "pub": "Mon, 07 Sep 2026 06:53:26 +0000"
+      },
+      {
+        "title": "原生全模态技术战略闭环，智象（HiDream.ai）发布具身世界模型HiDream-O1-Embodied",
+        "link": "https://www.qbitai.com/2026/09/485056.html",
         "summary": "（暂无摘要）",
         "source": "量子位",
-        "pub": "Sun, 06 Sep 2026 04:40:15 +0000"
+        "pub": "Mon, 07 Sep 2026 06:03:34 +0000"
       },
       {
-        "title": "GPT-6带火循环Transformer，阿里早已布局",
-        "link": "https://www.qbitai.com/2026/09/484726.html",
-        "summary": "手握两篇顶会论文",
+        "title": "业内首个！“千问办公”推出“多人工作台”",
+        "link": "https://www.qbitai.com/2026/09/485046.html",
+        "summary": "近日，阿里巴巴旗下Agent产品“千问办公”推出业内首个“多人工作台”。",
         "source": "量子位",
-        "pub": "Sat, 05 Sep 2026 15:07:08 +0000"
+        "pub": "Mon, 07 Sep 2026 05:04:44 +0000"
       },
       {
-        "title": "押中SpaceX的硅谷老将，把票投给了一家中国世界模型公司",
-        "link": "https://www.qbitai.com/2026/09/484683.html",
-        "summary": "当AI开始“预演”一场暴雨",
+        "title": "产业龙头领投！中科类脑完成数亿元B+轮战略融资",
+        "link": "https://www.qbitai.com/2026/09/485039.html",
+        "summary": "（暂无摘要）",
         "source": "量子位",
-        "pub": "Sat, 05 Sep 2026 14:46:15 +0000"
+        "pub": "Mon, 07 Sep 2026 04:01:09 +0000"
       },
       {
-        "title": "陶哲轩吐槽GPT-6孪生素数新突破：令人无语的一幕",
-        "link": "https://www.qbitai.com/2026/09/484649.html",
-        "summary": "AI直接吐出正确答案，但最关键的可能不是答案",
-        "source": "量子位",
-        "pub": "Sat, 05 Sep 2026 04:24:25 +0000"
-      },
-      {
-        "title": "这个世界模型训练完就“退场”，机器人反而更能干了",
-        "link": "https://www.qbitai.com/2026/09/484611.html",
-        "summary": "如此“反骨”的方法，具体又是怎么实现的？",
-        "source": "量子位",
-        "pub": "Sat, 05 Sep 2026 04:18:54 +0000"
-      },
-      {
-        "title": "姚班校友主导，Claude攻克费马大定理首个完整形式化证明",
-        "link": "https://www.qbitai.com/2026/09/484551.html",
-        "summary": "最后靠Harness救回来",
-        "source": "量子位",
-        "pub": "Sat, 05 Sep 2026 01:17:56 +0000"
-      },
-      {
-        "title": "机器人不能停下来等模型：星尘发布 SmoothRL，让在线强化学习跟上大模型的异步推理",
-        "link": "https://www.qbitai.com/2026/09/484437.html",
-        "summary": "星尘智能（Astribot） 基座模型团队发布能异步执行的在线强化学习框架 SmoothRL",
-        "source": "量子位",
-        "pub": "Fri, 04 Sep 2026 09:19:29 +0000"
-      },
-      {
-        "title": "定义了 Apple 10 年的白色产品：iBook G3 Snow 怀旧手记",
-        "link": "https://sspai.com/post/114103",
-        "summary": "在金属机身成为 Mac 产品线标配的今天，让我们重温这台 2001 年的 iBook G3，找回属于聚碳酸酯时代的风格。 查看全文",
+        "title": "派评｜近期值得关注的 App",
+        "link": "https://sspai.com/post/114288",
+        "summary": ">下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀 查看全文",
         "source": "少数派",
-        "pub": "Mon, 07 Sep 2026 11:10:02 +0800"
+        "pub": "Mon, 07 Sep 2026 18:08:44 +0800"
       },
       {
-        "title": "派早报：微软公布 Project Zenith 计划、F-Droid 拟效仿 Debian 制定生成式 AI 使用政策",
-        "link": "https://sspai.com/post/114250",
-        "summary": "美国 CD 销量大幅反弹，公安部上线反诈智能助手「国家反诈 AI」等。 查看全文",
+        "title": "「弯道超车」赛车入门指北 04：全场最快的车，为什么听一辆慢车指挥",
+        "link": "https://sspai.com/post/113877",
+        "summary": "一辆远没有 F1 赛车快的车，凭什么让各路豪强乖乖排在后面，甚至左右冠军归属？ 查看全文",
         "source": "少数派",
-        "pub": "Mon, 07 Sep 2026 08:20:41 +0800"
+        "pub": "Mon, 07 Sep 2026 15:00:00 +0800"
       }
     ]
   },
@@ -1118,7 +1076,7 @@
         "新华网": 24,
         "中国新闻网": 24,
         "中国经济网": 24,
-        "澎湃新闻": 18,
+        "澎湃新闻": 20,
         "网易新闻": 24
       }
     },
@@ -1185,7 +1143,7 @@
         "美联社": 24,
         "BBC新闻": 0,
         "经济学人": 0,
-        "NPR": 9,
+        "NPR": 10,
         "今日美国": 0
       }
     },
