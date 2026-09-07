@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+  <meta name="theme-color" content="#eaf3fb" />
+  <title>每日养分</title>
+  <link rel="manifest" href="/manifest.webmanifest" />
+  <link rel="apple-touch-icon" href="/icon.svg" />
+  <link rel="icon" href="/icon.svg" type="image/svg+xml" />
+  <link rel="stylesheet" href="/styles.css" />
+</head>
+<body>
+  <div class="app">
+    <!-- 左侧纵向导航 -->
+    <aside class="sidebar" id="sidebar">
+      <div class="brand">
+        <span class="brand-logo" aria-hidden="true">
+          <svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"></path><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"></path>
+          </svg>
+        </span>
+        <div class="brand-text"><b>每日养分</b><small>Daily Nutrients</small></div>
+      </div>
+      <nav class="nav" id="nav">
+        <button class="nav-item" data-key="books">
+          <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"></path><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"></path></svg>
+          <span>书籍金句</span>
+        </button>
+        <button class="nav-item" data-key="domestic">
+          <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path><path d="M9 22V12h6v10"></path></svg>
+          <span>国内热点</span>
+        </button>
+        <button class="nav-item" data-key="world">
+          <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"></circle><path d="M3 12h18"></path><path d="M12 3a15 15 0 0 1 0 18 15 15 0 0 1 0-18z"></path></svg>
+          <span>国际热点</span>
+        </button>
+        <button class="nav-item" data-key="medical">
+          <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M11 2v6H5v6h6v6h2v-6h6V8h-6V2z"></path></svg>
+          <span>医疗进展</span>
+        </button>
+        <button class="nav-item" data-key="ai">
+          <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="6" y="6" width="12" height="12" rx="2"></rect><path d="M9 2v2M15 2v2M9 20v2M15 20v2M2 9h2M2 15h2M20 9h2M20 15h2"></path></svg>
+          <span>AI热点</span>
+        </button>
+        <button class="nav-item" data-key="english">
+          <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 5h16M4 12h16M4 19h10"></path><path d="M2 5h.01M2 12h.01M2 19h.01"></path></svg>
+          <span>英语积累</span>
+        </button>
+        <button class="nav-item" data-key="insights">
+          <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 18h6M10 22h4M12 2a7 7 0 0 0-4 12.7c.6.5 1 1.2 1 2V18h6v-1.3c0-.8.4-1.5 1-2A7 7 0 0 0 12 2z"></path></svg>
+          <span>感悟灵感</span>
+        </button>
+      </nav>
+      <div class="side-foot">数据本地留存 · 每日 07:00 自动更新</div>
+    </aside>
+    <div class="overlay" id="overlay"></div>
+
+    <!-- 主区域 -->
+    <main class="main">
+      <header class="topbar">
+        <button class="menu-toggle" id="menuToggle" aria-label="菜单">
+          <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M3 6h18M3 12h18M3 18h18"></path></svg>
+        </button>
+        <div class="topbar-title">
+          <h1 id="moduleTitle">书籍金句</h1>
+          <span class="date" id="todayDate"></span>
+        </div>
+        <div class="topbar-right">
+          <button class="icon-btn" id="refreshBtn">↻ 刷新</button>
+          <button class="icon-btn" id="settingsBtn">⚙ 推送</button>
+        </div>
+      </header>
+
+      <div id="pushBanner" class="push-banner hidden"></div>
+
+      <section class="content fade" id="content"></section>
+    </main>
+  </div>
+
+  <!-- 设置弹窗 -->
+  <div id="settingsModal" class="modal hidden">
+    <div class="modal-box">
+      <div class="modal-head">
+        <h3>今日养分 · 推送设置</h3>
+        <button class="icon-btn" id="closeSettings">✕</button>
+      </div>
+      <div class="setting-row">
+        <label><input type="checkbox" id="pushEnabled" /> 开启每日定时推送</label>
+      </div>
+      <div class="setting-row">
+        <span>推送时间</span>
+        <input type="time" id="pushTime" />
+      </div>
+      <div class="setting-row">
+        <button class="btn" id="saveSettings">保存</button>
+        <button class="btn ghost" id="testPush">测试推送</button>
+      </div>
+      <p class="hint">说明：定时推送会在设定时间把「今日养分」（书籍/新闻/英语/感悟）推送到已打开的本页面（浏览器通知）。请保持页面开启并允许通知权限；历史推送可在下方查看。改用系统级自动化可实现完全后台推送。</p>
+      <div class="pushlog">
+        <div class="pushlog-title">推送记录</div>
+        <ul id="pushLogList"></ul>
+      </div>
+    </div>
+  </div>
+
+  <div id="toast" class="toast hidden"></div>
+
+  <!-- type=module：app.js 与后端共用 heat-core.js 的热度算法实现 -->
+  <script type="module" src="/app.js"></script>
+</body>
+</html>
