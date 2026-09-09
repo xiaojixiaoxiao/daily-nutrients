@@ -1,52 +1,52 @@
 {
-  "generatedAt": "2026-09-08T23:00:59.655Z",
-  "date": "2026-09-09",
+  "generatedAt": "2026-09-09T23:01:07.610Z",
+  "date": "2026-09-10",
   "books": {
-    "date": "2026-09-08",
+    "date": "2026-09-09",
     "books": [
       {
-        "title": "金陵风雨图：生死归途",
-        "author": "何慕",
-        "cover": "https://img9.doubanio.com/view/subject/s/public/s35552914.jpg",
+        "title": "女巫之歌：被遗忘的老妇人童话集",
+        "author": "[英] 沙伦·布莱基",
+        "cover": "https://img9.doubanio.com/view/subject/s/public/s35579946.jpg",
         "rating": 0,
-        "ratingCount": 67,
-        "summary": "高分悬疑《三国谍影》作者新作 一个经商头脑发达的间谍，如何用4年把南唐“卖”给北宋？ 一盘死局，一群内鬼，一个活下来的任务！全员内鬼？身份将反转到最后一页！ 《太平年》没拍的唐宋谍战暗线！谁才是真正的卧底？ 潜伏在敌方做间谍，难！叛逃到敌方做间谍，更难！ 北宋开宝四年（公元971年）春，北宋攻灭南汉。除了北方的辽朝外，只剩下南唐、吴越、北汉三个割据政权，其中",
-        "authorBio": "《金陵风雨图：生死归途》由何慕撰写，于2026-8出版。",
-        "link": "https://book.douban.com/subject/38530226/",
+        "ratingCount": 16,
+        "summary": "童话里不只有少女和公主，还有巫婆、女巨人、悍妇和她们被忽视的智慧与力量。 「阅读它解除了我未曾察觉的渴求。啊，但愿能有一个世界，在那里，关于女性晚年力量与喜悦的故事能无处不在。」——多薇·坎宁安（《探声》作者） 「我非常喜爱《女巫之歌》——在重塑我们文化中关于年长女性角色的叙事方面，这本书正是拼图中缺失的那一块。」——埃莉诺·米尔斯（《未来可 期》作者） 「",
+        "authorBio": "《女巫之歌：被遗忘的老妇人童话集》由[英] 沙伦·布莱基撰写，于2026-8出版。",
+        "link": "https://book.douban.com/subject/38190156/",
         "pubDate": "2026-8",
         "tag": "new"
       },
       {
-        "title": "我们终将成为遗忘",
-        "author": "[哥伦比亚]埃克托·阿巴德·法乔林塞",
-        "cover": "https://img9.doubanio.com/view/subject/s/public/s35573274.jpg",
+        "title": "倒插朱门：明清时期的入赘婚",
+        "author": "薛英杰",
+        "cover": "https://img3.doubanio.com/view/subject/s/public/s35581732.jpg",
         "rating": 0,
-        "ratingCount": 0,
-        "summary": "《我们终将成为遗忘》是哥伦比亚作家埃克托·阿巴德·法乔林塞的回忆录体小说。作者以对父亲的追忆为中心，回望自己的成长岁月，重现了一个热闹、亲密、充满爱意的家庭世界。他用细致的笔触勾勒出了父亲的形象：既是慈爱开明的爸爸，也是尽职尽责的医生、大学教师和公共事务的积极参与者。他长期关注社会的不平等现象与穷人的基本处境，致力于揭露和对抗麦德林这座城市的阶层分化、政治紧",
-        "authorBio": "《我们终将成为遗忘》由[哥伦比亚]埃克托·阿巴德·法乔林塞撰写，于2026-8出版。",
-        "link": "https://book.douban.com/subject/38494941/",
-        "pubDate": "2026-8",
+        "ratingCount": 23,
+        "summary": "入赘，是阶层跃升的捷径，还是命运的赌注？ 从没落仕宦到困顿文人，从商贾之家到普通平民，他们选择“倒插门”，很多情况下不过是一场关于生存、地位与利益的精密交易。 这本书让你看见：当婚姻成为阶层流动的筹码，门第、姓氏、尊严，都要重新标价。 本书聚焦于明清时期的入赘婚这一婚姻形式，展现了一个时代真实的社会流动图景。书中深入没落仕宦、困顿文人、精明商人和普通平民各个",
+        "authorBio": "《倒插朱门：明清时期的入赘婚》由薛英杰撰写，于2026出版。",
+        "link": "https://book.douban.com/subject/38408078/",
+        "pubDate": "2026",
         "tag": "new"
       }
     ],
     "quotes": [
       {
-        "text": "我们笑着说再见，却深知再见遥遥无期。",
-        "author": "卡勒德·胡赛尼",
-        "bio": "阿富汗裔美国作家。",
-        "bg": "出自《追风筝的人》，写离别与愧疚的绵长余味。"
+        "text": "一个人最大的幸福，莫过于在人生途中发现自己的使命。",
+        "author": "茨威格",
+        "bio": "奥地利作家。",
+        "bg": "呼应《人类群星闪耀时》对「被命运选中」时刻的礼赞。"
       },
       {
-        "text": "人生若只如初见，何事秋风悲画扇。",
-        "author": "纳兰性德",
-        "bio": "清代词人，被誉为「北宋以来，一人而已」。",
-        "bg": "出自《木兰花·拟古决绝词》，感叹情谊初时美好、终不免变迁的怅惘。"
+        "text": "所有的光鲜亮丽，都需要时间打磨。",
+        "author": "菲茨杰拉德",
+        "bio": "美国作家，《了不起的盖茨比》作者。",
+        "bg": "呼应《了不起的盖茨比》主题：辉煌背后是漫长而孤独的淬炼。"
       },
       {
-        "text": "我步入丛林，因为我希望生活得有意义。",
-        "author": "梭罗",
-        "bio": "美国作家，《瓦尔登湖》作者。",
-        "bg": "出自《瓦尔登湖》开篇，表达主动选择简朴、专注本质的生活实验。"
+        "text": "满地都是六便士，他却抬头看见了月亮。",
+        "author": "毛姆",
+        "bio": "英国小说家，《月亮与六便士》作者。",
+        "bg": "出自《月亮与六便士》，喻人在庸常生计之外，仍可向艺术与理想仰望。"
       }
     ],
     "source": "douban",
@@ -279,83 +279,20 @@
     }
   ],
   "english": {
-    "date": "2026-09-08",
+    "date": "2026-09-09",
     "news": {
-      "type": "speech",
-      "title": "The power of vulnerability",
-      "summary": "Brené Brown studies human connection -- our ability to empathize, belong, love. In a poignant, funny talk, she shares a deep insight from her research, one that sent her on a personal quest to know herself as well as to understand humanity. A talk to share.",
-      "link": "https://www.ted.com/talks/brene_brown_the_power_of_vulnerability",
-      "videoLink": "https://www.ted.com/talks/brene_brown_the_power_of_vulnerability",
-      "cover": "https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/bb51e7bb-96e6-43dd-8dec-3e9f30b6be6e/BreneBrown_2010X-stageshot.jpg",
-      "source": "TED",
-      "duration": 1202,
+      "type": "news",
+      "title": "Greetings from Paris, where the 2024 Olympics balloon rises again",
+      "summary": "The floating Olympic cauldron, held aloft by a giant glowing balloon, is still making regu…",
+      "link": "https://www.npr.org/2026/09/09/g-s1-142424/paris-olympic-balloon-cauldron-tuileries",
+      "source": "NPR",
       "content": [
-        "So, I'll start with this: a couple years ago, an event planner called me because I was going to do a speaking event. And she called, and she said, \"I'm really struggling with how to write about you on the little flyer.\" And I thought, \"Well, what's the struggle?\" And she said, \"Well, I saw you speak, and I'm going to call you a researcher, I think, but I'm afraid if I call you a researcher, no one will come, because they'll think you're boring and irrelevant.\"",
-        "(Laughter)",
-        "And I was like, \"Okay.\" And she said, \"But the thing I liked about your talk is you're a storyteller. So I think what I'll do is just call you a storyteller.\" And of course, the academic, insecure part of me was like, \"You're going to call me a what?\" And she said, \"I'm going to call you a storyteller.\" And I was like, \"Why not 'magic pixie'?\"",
-        "(Laughter)",
-        "I was like, \"Let me think about this for a second.\" I tried to call deep on my courage. And I thought, you know, I am a storyteller. I'm a qualitative researcher. I collect stories; that's what I do. And maybe stories are just data with a soul. And maybe I'm just a storyteller. And so I said, \"You know what? Why don't you just say I'm a researcher-storyteller.\" And she went, \"Ha ha. There's no such thing.\"",
-        "(Laughter)",
-        "So I'm a researcher-storyteller, and I'm going to talk to you today -- we're talking about expanding perception -- and so I want to talk to you and tell some stories about a piece of my research that fundamentally expanded my perception and really actually changed the way that I live and love and work and parent.",
-        "And this is where my story starts. When I was a young researcher, doctoral student, my first year, I had a research professor who said to us, \"Here's the thing, if you cannot measure it, it does not exist.\" And I thought he was just sweet-talking me. I was like, \"Really?\" and he was like, \"Absolutely.\" And so you have to understand that I have a bachelor's and a master's in social work, and I was getting my Ph.D. in social work, so my entire academic career was surrounded by people who kind of believed in the \"life's messy, love it.\" And I'm more of the, \"life's messy, clean it up, organize it and put it into a bento box.\"",
-        "(Laughter)",
-        "And so to think that I had found my way, to found a career that takes me -- really, one of the big sayings in social work is, \"Lean into the discomfort of the work.\" And I'm like, knock discomfort upside the head and move it over and get all A's. That was my mantra. So I was very excited about this. And so I thought, you know what, this is the career for me, because I am interested in some messy topics. But I want to be able to make them not messy. I want to understand them. I want to hack into these things that I know are important and lay the code out for everyone to see.",
-        "So where I started was with connection. Because, by the time you're a social worker for 10 years, what you realize is that connection is why we're here. It's what gives purpose and meaning to our lives. This is what it's all about. It doesn't matter whether you talk to people who work in social justice, mental health and abuse and neglect, what we know is that connection, the ability to feel connected, is -- neurobiologically that's how we're wired -- it's why we're here.",
-        "So I thought, you know what, I'm going to start with connection. Well, you know that situation where you get an evaluation from your boss, and she tells you 37 things that you do really awesome, and one \"opportunity for growth?\"",
-        "(Laughter)",
-        "And all you can think about is that opportunity for growth, right? Well, apparently this is the way my work went as well, because, when you ask people about love, they tell you about heartbreak. When you ask people about belonging, they'll tell you their most excruciating experiences of being excluded. And when you ask people about connection, the stories they told me were about disconnection.",
-        "So very quickly -- really about six weeks into this research -- I ran into this unnamed thing that absolutely unraveled connection in a way that I didn't understand or had never seen. And so I pulled back out of the research and thought, I need to figure out what this is. And it turned out to be shame. And shame is really easily understood as the fear of disconnection: Is there something about me that, if other people know it or see it, that I won't be worthy of connection?",
-        "The things I can tell you about it: It's universal; we all have it. The only people who don't experience shame have no capacity for human empathy or connection. No one wants to talk about it, and the less you talk about it, the more you have it. What underpinned this shame, this \"I'm not good enough,\" -- which, we all know that feeling: \"I'm not blank enough. I'm not thin enough, rich enough, beautiful enough, smart enough, promoted enough.\" The thing that underpinned this was excruciating vulnerability. This idea of, in order for connection to happen, we have to allow ourselves to be seen, really seen.",
-        "And you know how I feel about vulnerability. I hate vulnerability. And so I thought, this is my chance to beat it back with my measuring stick. I'm going in, I'm going to figure this stuff out, I'm going to spend a year, I'm going to totally deconstruct shame, I'm going to understand how vulnerability works, and I'm going to outsmart it. So I was ready, and I was really excited. As you know, it's not going to turn out well.",
-        "(Laughter)",
-        "You know this. So, I could tell you a lot about shame, but I'd have to borrow everyone else's time. But here's what I can tell you that it boils down to -- and this may be one of the most important things that I've ever learned in the decade of doing this research.",
-        "My one year turned into six years: Thousands of stories, hundreds of long interviews, focus groups. At one point, people were sending me journal pages and sending me their stories -- thousands of pieces of data in six years. And I kind of got a handle on it. I kind of understood, this is what shame is, this is how it works. I wrote a book, I published a theory, but something was not okay -- and what it was is that, if I roughly took the people I interviewed and divided them into people who really have a sense of worthiness -- that's what this comes down to, a sense of worthiness -- they have a strong sense of love and belonging -- and folks who struggle for it, and folks who are always wondering if they're good enough.",
-        "There was only one variable that separated the people who have a strong sense of love and belonging and the people who really struggle for it. And that was, the people who have a strong sense of love and belonging believe they're worthy of love and belonging. That's it. They believe they're worthy. And to me, the hard part of the one thing that keeps us out of connection is our fear that we're not worthy of connection, was something that, personally and professionally, I felt like I needed to understand better. So what I did is I took all of the interviews where I saw worthiness, where I saw people living that way, and just looked at those.",
-        "What do these people have in common? I have a slight office supply addiction, but that's another talk. So I had a manila folder, and I had a Sharpie, and I was like, what am I going to call this research? And the first words that came to my mind were \"whole-hearted.\" These are whole-hearted people, living from this deep sense of worthiness. So I wrote at the top of the manila folder, and I started looking at the data. In fact, I did it first in a four-day, very intensive data analysis, where I went back, pulled the interviews, the stories, pulled the incidents. What's the theme? What's the pattern? My husband left town with the kids because I always go into this Jackson Pollock crazy thing, where I'm just writing and in my researcher mode.",
-        "And so here's what I found. What they had in common was a sense of courage. And I want to separate courage and bravery for you for a minute. Courage, the original definition of courage, when it first came into the English language -- it's from the Latin word \"cor,\" meaning \"heart\" -- and the original definition was to tell the story of who you are with your whole heart. And so these folks had, very simply, the courage to be imperfect. They had the compassion to be kind to themselves first and then to others, because, as it turns out, we can't practice compassion with other people if we can't treat ourselves kindly. And the last was they had connection, and -- this was the hard part -- as a result of authenticity, they were willing to let go of who they thought they should be in order to be who they were, which you have to absolutely do that for connection.",
-        "The other thing that they had in common was this: They fully embraced vulnerability. They believed that what made them vulnerable made them beautiful. They didn't talk about vulnerability being comfortable, nor did they really talk about it being excruciating -- as I had heard it earlier in the shame interviewing. They just talked about it being necessary. They talked about the willingness to say, \"I love you\" first ... the willingness to do something where there are no guarantees ... the willingness to breathe through waiting for the doctor to call after your mammogram. They're willing to invest in a relationship that may or may not work out. They thought this was fundamental.",
-        "I personally thought it was betrayal. I could not believe I had pledged allegiance to research, where our job -- you know, the definition of research is to control and predict, to study phenomena for the explicit reason to control and predict. And now my mission to control and predict had turned up the answer that the way to live is with vulnerability and to stop controlling and predicting. This led to a little breakdown --",
-        "(Laughter)",
-        "-- which actually looked more like this.",
-        "(Laughter)",
-        "And it did.",
-        "I call it a breakdown; my therapist calls it a spiritual awakening.",
-        "(Laughter)",
-        "A spiritual awakening sounds better than breakdown, but I assure you, it was a breakdown. And I had to put my data away and go find a therapist. Let me tell you something: you know who you are when you call your friends and say, \"I think I need to see somebody. Do you have any recommendations?\" Because about five of my friends were like, \"Wooo, I wouldn't want to be your therapist.\"",
-        "(Laughter)",
-        "I was like, \"What does that mean?\" And they're like, \"I'm just saying, you know. Don't bring your measuring stick.\"",
-        "(Laughter)",
-        "I was like, \"Okay.\" So I found a therapist. My first meeting with her, Diana -- I brought in my list of the way the whole-hearted live, and I sat down. And she said, \"How are you?\" And I said, \"I'm great. I'm okay.\" She said, \"What's going on?\" And this is a therapist who sees therapists, because we have to go to those, because their B.S. meters are good.",
-        "(Laughter)",
-        "And so I said, \"Here's the thing, I'm struggling.\" And she said, \"What's the struggle?\" And I said, \"Well, I have a vulnerability issue. And I know that vulnerability is the core of shame and fear and our struggle for worthiness, but it appears that it's also the birthplace of joy, of creativity, of belonging, of love. And I think I have a problem, and I need some help.\" And I said, \"But here's the thing: no family stuff, no childhood shit.\"",
-        "(Laughter)",
-        "\"I just need some strategies.\"",
-        "(Laughter)",
-        "(Applause)",
-        "Thank you. So she goes like this.",
-        "(Laughter)",
-        "And then I said, \"It's bad, right?\" And she said, \"It's neither good nor bad.\"",
-        "(Laughter)",
-        "\"It just is what it is.\" And I said, \"Oh my God, this is going to suck.\"",
-        "(Laughter)",
-        "And it did, and it didn't. And it took about a year. And you know how there are people that, when they realize that vulnerability and tenderness are important, that they surrender and walk into it. A: that's not me, and B: I don't even hang out with people like that.",
-        "(Laughter)",
-        "For me, it was a yearlong street fight. It was a slugfest. Vulnerability pushed, I pushed back. I lost the fight, but probably won my life back.",
-        "And so then I went back into the research and spent the next couple of years really trying to understand what they, the whole-hearted, what choices they were making, and what we are doing with vulnerability. Why do we struggle with it so much? Am I alone in struggling with vulnerability? No.",
-        "So this is what I learned. We numb vulnerability -- when we're waiting for the call. It was funny, I sent something out on Twitter and on Facebook that says, \"How would you define vulnerability? What makes you feel vulnerable?\" And within an hour and a half, I had 150 responses. Because I wanted to know what's out there. Having to ask my husband for help because I'm sick, and we're newly married; initiating sex with my husband; initiating sex with my wife; being turned down; asking someone out; waiting for the doctor to call back; getting laid off; laying off people. This is the world we live in. We live in a vulnerable world. And one of the ways we deal with it is we numb vulnerability.",
-        "And I think there's evidence -- and it's not the only reason this evidence exists, but I think it's a huge cause -- We are the most in-debt ... obese ... addicted and medicated adult cohort in U.S. history. The problem is -- and I learned this from the research -- that you cannot selectively numb emotion. You can't say, here's the bad stuff. Here's vulnerability, here's grief, here's shame, here's fear, here's disappointment. I don't want to feel these. I'm going to have a couple of beers and a banana nut muffin.",
-        "(Laughter)",
-        "I don't want to feel these. And I know that's knowing laughter. I hack into your lives for a living. God.",
-        "(Laughter)",
-        "You can't numb those hard feelings without numbing the other affects, our emotions. You cannot selectively numb. So when we numb those, we numb joy, we numb gratitude, we numb happiness. And then, we are miserable, and we are looking for purpose and meaning, and then we feel vulnerable, so then we have a couple of beers and a banana nut muffin. And it becomes this dangerous cycle.",
-        "One of the things that I think we need to think about is why and how we numb. And it doesn't just have to be addiction. The other thing we do is we make everything that's uncertain certain. Religion has gone from a belief in faith and mystery to certainty. \"I'm right, you're wrong. Shut up.\" That's it. Just certain. The more afraid we are, the more vulnerable we are, the more afraid we are. This is what politics looks like today. There's no discourse anymore. There's no conversation. There's just blame. You know how blame is described in the research? A way to discharge pain and discomfort. We perfect. If there's anyone who wants their life to look like this, it would be me, but it doesn't work. Because what we do is we take fat from our butts and put it in our cheeks.",
-        "(Laughter)",
-        "Which just, I hope in 100 years, people will look back and go, \"Wow.\"",
-        "(Laughter)",
-        "And we perfect, most dangerously, our children. Let me tell you what we think about children. They're hardwired for struggle when they get here. And when you hold those perfect little babies in your hand, our job is not to say, \"Look at her, she's perfect. My job is just to keep her perfect -- make sure she makes the tennis team by fifth grade and Yale by seventh.\" That's not our job. Our job is to look and say, \"You know what? You're imperfect, and you're wired for struggle, but you are worthy of love and belonging.\" That's our job. Show me a generation of kids raised like that, and we'll end the problems, I think, that we see today. We pretend that what we do doesn't have an effect on people. We do that in our personal lives. We do that corporate -- whether it's a bailout, an oil spill ... a recall. We pretend like what we're doing doesn't have a huge impact on other people. I would say to companies, this is not our first rodeo, people. We just need you to be authentic and real and say ... \"We're sorry. We'll fix it.\"",
-        "But there's another way, and I'll leave you with this. This is what I have found: To let ourselves be seen, deeply seen, vulnerably seen ... to love with our whole hearts, even though there's no guarantee -- and that's really hard, and I can tell you as a parent, that's excruciatingly difficult -- to practice gratitude and joy in those moments of terror, when we're wondering, \"Can I love you this much? Can I believe in this this passionately? Can I be this fierce about this?\" just to be able to stop and, instead of catastrophizing what might happen, to say, \"I'm just so grateful, because to feel this vulnerable means I'm alive.\" And the last, which I think is probably the most important, is to believe that we're enough. Because when we work from a place, I believe, that says, \"I'm enough\" ... then we stop screaming and start listening, we're kinder and gentler to the people around us, and we're kinder and gentler to ourselves.",
-        "That's all I have. Thank you.",
-        "(Applause)"
+        "Hannah Bloch/NPR One of the highlights of the 2024 Paris Olympics was, for me, the sight at the opening ceremony of the floating cauldron held aloft by a giant glowing balloon. So I was thrilled to learn on a recent visit that the vasque — the cauldron — is still making regular appearances two years later, showing up all summer long in the nighttime Paris sky.",
+        "Along with hundreds of other spectators, I settled into a spot on the grass between the Louvre and Tuileries Garden to wait and watch on a warm August evening. A couple of hours before the balloon's liftoff from the Tuileries, the area was already packed.",
+        "At 9:30 p.m., a hush fell as the luminous balloon began its slow ascent. Some people broke into applause. As the balloon carrying the cauldron rose and bobbed a couple hundred feet overhead, many got busy taking photos and recording videos and selfies.",
+        "I snapped this picture, then put my phone away. No photo could match the wonder of seeing this. It put me in mind of the magic of a much smaller Parisian balloon, the one from the classic French film The Red Balloon . And I couldn't help but appreciate that in a season when skies across Europe have been marred by wildfire smoke and drones, here was a reason to look up in joy — an event of no purpose other than delight.",
+        "For more Far-Flung Postcards, click here.",
+        "NPR does not offer or accept money for coverage or interviews. Anyone who makes such an offer or request is not an NPR employee and does not represent NPR."
       ],
       "dataSources": [
         {
@@ -392,19 +329,82 @@
   "news": {
     "domestic": [
       {
-        "title": "完善社保体系促农村消费潜能释放",
-        "link": "https://www.ce.cn/xwzx/gnsz/gdxw/202609/t20260909_3201277.shtml",
-        "summary": "扩大内需、提振消费，是当前推动我国经济高质量发展的关键着力点。7月30日召开的中共中央政治局会议强调，“要有效扩大国内需求，适应不同群体消费需求扩大优质供给，挖掘服务消费潜力”。随着城乡融合发展步伐不断加快，农民收入持续增长，农村居民消费支…",
+        "title": "外媒：伊朗多地传出爆炸声",
+        "link": "https://www.chinanews.com.cn/gj/2026/09-10/10693671.shtml",
+        "summary": "中新网9月10日电 据卡塔尔半岛电视台援引伊朗媒体报道，当地时间9月10日凌晨，伊朗格什姆岛传出巨大爆炸声。此外，锡里克和米纳卜的沿海地区也传出了爆炸声。",
+        "source": "中国新闻网",
+        "pub": "Thu, 10 Sep 2026 06:52:56 +0800",
+        "heat": 78,
+        "heatRaw": 63,
+        "heatParts": {
+          "cross": 0,
+          "auth": 13,
+          "rank": 22,
+          "fresh": 23,
+          "kw": 6
+        },
+        "crossCount": 1,
+        "reportCount": 1,
+        "sources": [
+          "中国新闻网"
+        ]
+      },
+      {
+        "title": "菲律宾巴拉望省近海一客轮起火致5人死亡",
+        "link": "https://www.chinanews.com.cn/gj/2026/09-10/10693666.shtml",
+        "summary": "中新社马尼拉9月9日电 (记者 周璟)据菲律宾海岸警卫队消息，一艘载有百余人的客船9日晚在菲律宾巴拉望省附近海域起火。截至当天23时，事故已造成5人死亡，有42人获救，搜救行动仍在进行中。",
+        "source": "中国新闻网",
+        "pub": "Thu, 10 Sep 2026 06:47:38 +0800",
+        "heat": 77,
+        "heatRaw": 61,
+        "heatParts": {
+          "cross": 0,
+          "auth": 13,
+          "rank": 20,
+          "fresh": 23,
+          "kw": 6
+        },
+        "crossCount": 1,
+        "reportCount": 1,
+        "sources": [
+          "中国新闻网"
+        ]
+      },
+      {
+        "title": "大国风范 时代担当",
+        "link": "https://www.news.cn/politics/leaders/20260910/b18eeefa9eb74d029710629843bf27e3/c.html",
+        "summary": "大道之行，天下为公。从吉尔吉斯斯坦到埃及，5天4夜，20余场活动，双多边结合、跨区域联动……习近平主席的中亚、中东之行，于时代变局中作答世界之问，于文明交流中贡献中国智慧，为动荡变革的世界带来深刻思想启迪。",
+        "source": "新华网",
+        "pub": "",
+        "heat": 77,
+        "heatRaw": 61,
+        "heatParts": {
+          "cross": 0,
+          "auth": 14,
+          "rank": 20,
+          "fresh": 21,
+          "kw": 6
+        },
+        "crossCount": 1,
+        "reportCount": 1,
+        "sources": [
+          "新华网"
+        ]
+      },
+      {
+        "title": "斩断“幽灵外卖”黑产链条",
+        "link": "https://www.ce.cn/xwzx/gnsz/gdxw/202609/t20260910_3203993.shtml",
+        "summary": "一段时间以来，全国多地发生外卖食品安全问题，引发广大消费者对餐饮安全的关切。为进一步强化网络餐饮食品安全监管，各级市场监管部门深入开展网络餐饮专项整治行动，严查食品安全风险隐患，打击违法违规行为，坚决守护人民群众“舌尖上的安全”。",
         "source": "中国经济网",
         "pub": "",
-        "heat": 79,
-        "heatRaw": 66,
+        "heat": 76,
+        "heatRaw": 59,
         "heatParts": {
           "cross": 0,
           "auth": 12,
-          "rank": 19,
+          "rank": 23,
           "fresh": 21,
-          "kw": 14
+          "kw": 3
         },
         "crossCount": 1,
         "reportCount": 1,
@@ -413,32 +413,33 @@
         ]
       },
       {
-        "title": "韩国二季度实际GDP环比增长0.6%",
-        "link": "https://www.chinanews.com.cn/gj/2026/09-09/10692979.shtml",
-        "summary": "中新社首尔9月9日电 (记者 金旭)韩国银行(央行)当地时间8日发布相关数据显示，韩国第二季度实际国内生产总值(GDP)环比增长0.6%，与7月公布的初步核算数据持平。",
-        "source": "中国新闻网",
-        "pub": "Wed, 9 Sep 2026 06:49:43 +0800",
-        "heat": 76,
-        "heatRaw": 60,
+        "title": "2026年中国国际服务贸易交易会在北京开幕",
+        "link": "https://www.news.cn/photo/20260909/2c3ef4e89b3246fdb064d37ca8ff03db/c.html",
+        "summary": "2026年中国国际服务贸易交易会在北京开幕-9月9日，2026年中国国际服务贸易交易会在北京首钢园开幕。",
+        "source": "新华网",
+        "pub": "",
+        "heat": 75,
+        "heatRaw": 58,
         "heatParts": {
-          "cross": 0,
-          "auth": 13,
-          "rank": 16,
-          "fresh": 23,
-          "kw": 8
+          "cross": 11,
+          "auth": 14,
+          "rank": 12,
+          "fresh": 21,
+          "kw": 0
         },
-        "crossCount": 1,
+        "crossCount": 2,
         "reportCount": 2,
         "sources": [
+          "新华网",
           "中国新闻网"
         ]
       },
       {
-        "title": "马来西亚直升机坠毁 机上5人罹难",
-        "link": "https://www.chinanews.com.cn/gj/2026/09-09/10692978.shtml",
-        "summary": "中新社吉隆坡9月8日电 (记者 刘育英)马来西亚一架执行医疗任务的直升机8日下午在沙捞越州龙里浪短距起降机场(Long Lellang STOLport)附近坠毁。马来西亚有关方面8日晚确认，机上1名飞行员和4名卫生部门工作人员全部遇难。",
+        "title": "中国代表：政治外交解决才是伊朗核问题出路",
+        "link": "https://www.chinanews.com.cn/gj/2026/09-10/10693670.shtml",
+        "summary": "中新社柏林9月9日电 维也纳消息：当地时间9日，国际原子能机构理事会审议伊朗核问题。中国常驻国际原子能机构代表李松发言阐述中方立场。",
         "source": "中国新闻网",
-        "pub": "Wed, 9 Sep 2026 06:55:46 +0800",
+        "pub": "Thu, 10 Sep 2026 06:56:02 +0800",
         "heat": 75,
         "heatRaw": 59,
         "heatParts": {
@@ -455,19 +456,19 @@
         ]
       },
       {
-        "title": "校服改革得让家长们做主",
-        "link": "https://www.ce.cn/xwzx/gnsz/gdxw/202609/t20260909_3201279.shtml",
-        "summary": "开学季，一则“深圳校服真香”的话题冲上热搜：一套不足百元的蓝白运动服，成为众多家长口中的“开学惊喜”。无需统一征订、家长被动买单，深圳校服实现全市统一款式，在商超、文具店、线上平台即可选购，甚至还能点外卖配送到家。",
+        "title": "莫让育儿焦虑“收割”家长",
+        "link": "https://www.ce.cn/xwzx/gnsz/gdxw/202609/t20260910_3203976.shtml",
+        "summary": "“冲刺一米八”“一年长高7厘米”……社交平台上，不少家长经常能刷到各式各样的增高针晒单。被奉为“长高神器”的增高针，本质是注射用重组人生长激素，为临床上针对矮小症的正规治疗药物。可现在，它跳出医疗边界走向消费市场，很多家长不惜砸下重金，只为…",
         "source": "中国经济网",
         "pub": "",
         "heat": 75,
-        "heatRaw": 58,
+        "heatRaw": 59,
         "heatParts": {
           "cross": 0,
           "auth": 12,
-          "rank": 20,
+          "rank": 17,
           "fresh": 21,
-          "kw": 4
+          "kw": 8
         },
         "crossCount": 1,
         "reportCount": 1,
@@ -476,95 +477,53 @@
         ]
       },
       {
-        "title": "解读｜上海生育医疗费用个人“无自付”，哪些人群受益？保障力度有多大？",
-        "link": "https://www.thepaper.cn/newsDetail_forward_34031229",
-        "summary": "为健全生育支持政策体系、打造生育友好型城市，上海市印发《关于进一步提升本市生育医疗费用保障有关政策的通知》（以下简称《通知》），扩容保障范围、提高报销力度，切实",
-        "source": "澎湃新闻",
+        "title": "在第四十二个教师节到来之际 习近平 向全国广大教师和教育工作者致以节日祝贺和诚挚问候",
+        "link": "https://www.news.cn/politics/leaders/20260909/1fe25be109c5455b92721859b88ef07d/c.html",
+        "summary": "新华社北京9月9日电　在第四十二个教师节到来之际，中共中央总书记、国家主席、中央军委主席习近平代表党中央，向全国广大教师和教育工作者致以节日祝贺和诚挚问候。",
+        "source": "新华网",
         "pub": "",
-        "heat": 75,
-        "heatRaw": 58,
-        "heatParts": {
-          "cross": 0,
-          "auth": 11,
-          "rank": 23,
-          "fresh": 14,
-          "kw": 9
-        },
-        "crossCount": 1,
-        "reportCount": 1,
-        "sources": [
-          "澎湃新闻"
-        ]
-      },
-      {
-        "title": "《欢迎来龙餐馆》在澳大利亚首映",
-        "link": "https://www.chinanews.com.cn/gj/2026/09-09/10692977.shtml",
-        "summary": "中新社墨尔本9月8日电 (记者 薄雯雯)电影《欢迎来龙餐馆》8日晚在澳大利亚墨尔本举行首映礼。",
-        "source": "中国新闻网",
-        "pub": "Wed, 9 Sep 2026 06:55:24 +0800",
         "heat": 74,
         "heatRaw": 57,
         "heatParts": {
           "cross": 0,
-          "auth": 13,
-          "rank": 22,
-          "fresh": 23,
-          "kw": 0
-        },
-        "crossCount": 1,
-        "reportCount": 1,
-        "sources": [
-          "中国新闻网"
-        ]
-      },
-      {
-        "title": "AI形象授权是好生意吗",
-        "link": "https://www.ce.cn/xwzx/gnsz/gdxw/202609/t20260909_3201287.shtml",
-        "summary": "问：近段时间，“普通人靠‘卖脸’3天赚3500元”“AI形象授权”等话题持续引发热议。从知名艺人率先试水，到近期平台向普通人敞开大门，AI形象授权这门生意到底怎么样？",
-        "source": "中国经济网",
-        "pub": "",
-        "heat": 74,
-        "heatRaw": 56,
-        "heatParts": {
-          "cross": 0,
-          "auth": 12,
-          "rank": 23,
-          "fresh": 21,
-          "kw": 0
-        },
-        "crossCount": 1,
-        "reportCount": 1,
-        "sources": [
-          "中国经济网"
-        ]
-      },
-      {
-        "title": "第二届习近平文化思想国际学术研讨会观察",
-        "link": "https://www.news.cn/politics/leaders/20260908/e6457df67db04125bde6d288ff29927d/c.html",
-        "summary": "深圳湾畔，思想交融，文化汇聚。 9月6日，第二届习近平文化思想国际学术研讨会在广东深圳举行。“任何文化要立得住、行得远，要有引领力、凝聚力、塑造力、辐射力，就必须有自己的主体性。”习近平总书记这一深刻论断，成为贯穿整场研讨会的核心命题。",
-        "source": "新华网",
-        "pub": "",
-        "heat": 73,
-        "heatRaw": 55,
-        "heatParts": {
-          "cross": 0,
           "auth": 14,
-          "rank": 22,
+          "rank": 17,
           "fresh": 13,
-          "kw": 6
+          "kw": 11
         },
         "crossCount": 1,
-        "reportCount": 1,
+        "reportCount": 3,
         "sources": [
           "新华网"
         ]
       },
       {
-        "title": "男子与孕妻杀女邻居分尸将遗体藏行李箱丢弃 细节披露",
-        "link": "https://www.163.com/news/article/L6BCDP9L0001899O.html",
-        "summary": "女孩去邻居家吃饭惨遭夫妻分尸，遗体被丢弃在多地火车站附近，案件细节披露：被抓时丈夫激烈反抗，妻子异常平静，作案当天已怀有身孕,分尸,杀人案,行李箱",
+        "title": "科技强农——重庆潼南现代农业发展掠影",
+        "link": "https://www.ce.cn/xwzx/gnsz/gdxw/202609/t20260910_3203991.shtml",
+        "summary": "4月30日，潼南区琼江种业基地里，水肥一体化喷灌机对蔬菜种苗进行精准喷灌。依托数字化农业设施，该基地年蔬菜育苗能力达到2000万株以上。 段东敏摄（中经视觉）",
+        "source": "中国经济网",
+        "pub": "",
+        "heat": 73,
+        "heatRaw": 55,
+        "heatParts": {
+          "cross": 0,
+          "auth": 12,
+          "rank": 22,
+          "fresh": 21,
+          "kw": 0
+        },
+        "crossCount": 1,
+        "reportCount": 1,
+        "sources": [
+          "中国经济网"
+        ]
+      },
+      {
+        "title": "甘肃疑有＂果绿洗莴笋＂至少存在两三年 商户:卖相更好",
+        "link": "https://www.163.com/dy/article/L6DPC9G0053469LG.html",
+        "summary": "极目调查丨染色风波引发榆中莴笋产业阵痛：商户曝“果绿洗莴笋”至少存在两三年，收购价一天之内掉了大半，有商家暂停采购，农户称已有菜烂在地里,莴笋,蔬菜,茄子,新鲜,冬瓜,青笋,大白菜,榆中县,染色风波",
         "source": "网易新闻",
-        "pub": "2026-09-08 22:51:30",
+        "pub": "2026-09-09 22:45:30",
         "heat": 73,
         "heatRaw": 55,
         "heatParts": {
@@ -579,174 +538,90 @@
         "sources": [
           "网易新闻"
         ]
-      },
-      {
-        "title": "坚定不移推动建设开放型世界经济",
-        "link": "https://www.news.cn/politics/leaders/20260908/ea9a341cf9cb4258b169175b47075923/c.html",
-        "summary": "第二十六届中国国际投资贸易洽谈会9月8日至11日在福建厦门举行。129个国家和地区、30个国际组织的1200多个政府官方机构、工商企业团组参会。在外部环境严峻复杂、世界经济发展面临更多不确定性时，更多海外客商将目光投向中国。",
-        "source": "新华网",
-        "pub": "",
-        "heat": 72,
-        "heatRaw": 54,
-        "heatParts": {
-          "cross": 0,
-          "auth": 14,
-          "rank": 23,
-          "fresh": 13,
-          "kw": 3
-        },
-        "crossCount": 1,
-        "reportCount": 1,
-        "sources": [
-          "新华网"
-        ]
       }
     ],
     "world": [
       {
-        "title": "英国为何要制裁约旦河西岸以色列定居点？",
-        "link": "https://news.cri.cn/20260908/8764ac30-143e-a097-b500-c5add37e1cc5.html",
-        "summary": "当地时间9月8日，英国宣布拟对约旦河西岸的以色列定居点采取贸易制裁措施，内容将涉及部分货物与服务贸易。 《金融时报》称，这将成为英国首相伯纳姆今年7月就任以来最重要的外交举措之一。此前，英国外交大臣米利班德已经宣布，英国计划对以色列采",
-        "source": "国际在线",
+        "title": "长城脚下遇清凉 老外一家的“China Cool”之旅",
+        "link": "https://www.news.cn/world/20260908/b4635f8e916d4874b94f7f4aaaa19c5d/c.html",
+        "summary": "来自南非的图安·范德梅韦今年26岁，已在中国定居两年半。她的父母几乎每年都会跨越半个地球来看望她，而今年，他们一家计划了一场特别的“China Cool”（中国又酷又凉爽）之旅。在黄崖关长城脚下的一家民宿里，他们亲身感受到了中国乡村生活的惬…",
+        "source": "新华网",
+        "pub": "",
+        "heat": 83,
+        "heatRaw": 72,
+        "heatParts": {
+          "cross": 22,
+          "auth": 14,
+          "rank": 22,
+          "fresh": 13,
+          "kw": 0
+        },
+        "crossCount": 3,
+        "reportCount": 8,
+        "sources": [
+          "新华网",
+          "中国日报网",
+          "CGTN"
+        ]
+      },
+      {
+        "title": "伊朗称将设立新的海上“制裁区域”",
+        "link": "https://www.news.cn/world/20260909/112aff5502a048acb0b687fb4b15c7f3/c.html",
+        "summary": "新华社德黑兰9月9日电　伊朗伊斯兰革命卫队发言人9日表示，伊朗将设立新的海上“制裁区域”，该区域从恰巴哈尔港开始，延伸到阿曼湾和阿拉伯海部分海域。坐标另行公布。",
+        "source": "新华网",
+        "pub": "",
+        "heat": 83,
+        "heatRaw": 71,
+        "heatParts": {
+          "cross": 11,
+          "auth": 14,
+          "rank": 17,
+          "fresh": 23,
+          "kw": 6
+        },
+        "crossCount": 2,
+        "reportCount": 2,
+        "sources": [
+          "新华网",
+          "中国新闻网"
+        ]
+      },
+      {
+        "title": "习近平向全国广大教师和教育工作者致以节日祝贺和诚挚问候",
+        "link": "https://news.haiwainet.cn/n/2026/0909/c3543307-32981700.html",
+        "summary": "原标题：在第四十二个教师节到来之际习近平向全国广大教师和教育工作者致以节日祝贺和诚挚问候北京9月9日电 在第四十二个教师节到来之际，中共中央总书记、国家主...",
+        "source": "海外网",
         "pub": "",
         "heat": 83,
         "heatRaw": 72,
         "heatParts": {
           "cross": 11,
           "auth": 13,
-          "rank": 16,
-          "fresh": 21,
-          "kw": 10
+          "rank": 23,
+          "fresh": 13,
+          "kw": 11
         },
         "crossCount": 2,
         "reportCount": 3,
-        "sources": [
-          "国际在线",
-          "中国新闻网"
-        ]
-      },
-      {
-        "title": "What to know as Canada’s retaliatory tariffs on $20 billion worth of US goods take effect",
-        "link": "https://apnews.com/article/canada-trump-carney-trade-war-tariffs-4620ffb5ecc029322217207fa6758431",
-        "summary": "Canada’s retaliatory tariffs on about $20 billion worth of U.S. goods take effect Tuesday, turning its escalating trade …",
-        "source": "美联社",
-        "pub": "",
-        "heat": 82,
-        "heatRaw": 71,
-        "heatParts": {
-          "cross": 11,
-          "auth": 13,
-          "rank": 23,
-          "fresh": 19,
-          "kw": 4
-        },
-        "crossCount": 2,
-        "reportCount": 2,
-        "sources": [
-          "美联社",
-          "NPR"
-        ]
-      },
-      {
-        "title": "韩国二季度实际GDP环比增长0.6%",
-        "link": "https://www.chinanews.com.cn/gj/2026/09-09/10692979.shtml",
-        "summary": "中新社首尔9月9日电 (记者 金旭)韩国银行(央行)当地时间8日发布相关数据显示，韩国第二季度实际国内生产总值(GDP)环比增长0.6%，与7月公布的初步核算数据持平。",
-        "source": "中国新闻网",
-        "pub": "Wed, 9 Sep 2026 06:49:43 +0800",
-        "heat": 81,
-        "heatRaw": 68,
-        "heatParts": {
-          "cross": 0,
-          "auth": 13,
-          "rank": 19,
-          "fresh": 23,
-          "kw": 14
-        },
-        "crossCount": 1,
-        "reportCount": 2,
-        "sources": [
-          "中国新闻网"
-        ]
-      },
-      {
-        "title": "习近平同英国首相伯纳姆通电话",
-        "link": "https://news.haiwainet.cn/n/2026/0908/c3543307-32981465.html",
-        "summary": "北京9月8日电9月8日晚，国家主席习近平应约同英国首相伯纳姆通电话。习近平祝贺伯纳姆就任英国首相，指出中英是全面战略伙伴，虽然两国社会制度和国情不同，但...",
-        "source": "海外网",
-        "pub": "",
-        "heat": 80,
-        "heatRaw": 66,
-        "heatParts": {
-          "cross": 11,
-          "auth": 13,
-          "rank": 23,
-          "fresh": 13,
-          "kw": 6
-        },
-        "crossCount": 2,
-        "reportCount": 2,
         "sources": [
           "海外网",
           "国际在线"
         ]
       },
       {
-        "title": "12 countries to restrict trade with Israeli settlements in West Bank",
-        "link": "https://news.cgtn.com/news/2026-09-08/news-1QhbUhZKu8o/p.html",
-        "summary": "Twelve countries, including the UK, Canada and France, issued a joint statement on Tuesday, announcing the introduction …",
-        "source": "CGTN",
-        "pub": "",
-        "heat": 78,
-        "heatRaw": 63,
-        "heatParts": {
-          "cross": 11,
-          "auth": 13,
-          "rank": 20,
-          "fresh": 19,
-          "kw": 0
-        },
-        "crossCount": 2,
-        "reportCount": 2,
-        "sources": [
-          "CGTN",
-          "NPR"
-        ]
-      },
-      {
-        "title": "持续约一小时 普京与特朗普通电话讨论解决乌克兰问题",
-        "link": "https://www.chinanews.com.cn/gj/2026/09-09/10692983.shtml",
-        "summary": "中新网9月9日电 据俄新社及俄罗斯总统网站消息，俄罗斯总统助理乌沙科夫表示，当地时间8日，俄罗斯总统普京与美国总统特朗普通电话，重点讨论解决乌克兰问题。",
+        "title": "外媒：伊朗多地传出爆炸声",
+        "link": "https://www.chinanews.com.cn/gj/2026/09-10/10693671.shtml",
+        "summary": "中新网9月10日电 据卡塔尔半岛电视台援引伊朗媒体报道，当地时间9月10日凌晨，伊朗格什姆岛传出巨大爆炸声。此外，锡里克和米纳卜的沿海地区也传出了爆炸声。",
         "source": "中国新闻网",
-        "pub": "Wed, 9 Sep 2026 06:50:53 +0800",
-        "heat": 77,
-        "heatRaw": 61,
+        "pub": "Thu, 10 Sep 2026 06:52:56 +0800",
+        "heat": 81,
+        "heatRaw": 69,
         "heatParts": {
           "cross": 0,
           "auth": 13,
-          "rank": 20,
+          "rank": 22,
           "fresh": 23,
-          "kw": 5
-        },
-        "crossCount": 1,
-        "reportCount": 2,
-        "sources": [
-          "中国新闻网"
-        ]
-      },
-      {
-        "title": "美特使斡旋后俄乌战火再起 俄美元首通话一小时",
-        "link": "https://www.chinanews.com.cn/gj/2026/09-09/10692973.shtml",
-        "summary": "本月5日及6日，美国总统特使威特科夫与特朗普女婿库什纳带着所谓的“和平方案”先后访问了俄罗斯与乌克兰，斡旋俄乌冲突。访问前夕，俄乌双方均宣布暂停打击对方首都三天。但临时停火到期后，俄乌战火重燃。",
-        "source": "中国新闻网",
-        "pub": "Wed, 9 Sep 2026 06:34:18 +0800",
-        "heat": 77,
-        "heatRaw": 61,
-        "heatParts": {
-          "cross": 0,
-          "auth": 13,
-          "rank": 14,
-          "fresh": 23,
-          "kw": 11
+          "kw": 12
         },
         "crossCount": 1,
         "reportCount": 1,
@@ -755,9 +630,73 @@
         ]
       },
       {
-        "title": "Global food system faces mounting resilience crisis",
-        "link": "https://www.chinadaily.com.cn/a/202609/08/WS6a9f4f97e4b06d4aa055cd2d.html",
-        "summary": "Global cereal production is on track for its second-largest harvest on record in 2026, according to the United Nations F…",
+        "title": "习近平就朝鲜国庆78周年向朝鲜最高领导人金正恩致贺电",
+        "link": "https://www.news.cn/world/20260909/df45d59ad3fe4e688b952cb6f144941d/c.html",
+        "summary": "新华社北京9月9日电　9月9日，中共中央总书记、国家主席习近平就朝鲜国庆78周年向朝鲜劳动党总书记、国务委员会委员长金正恩致贺电。",
+        "source": "新华网",
+        "pub": "",
+        "heat": 79,
+        "heatRaw": 65,
+        "heatParts": {
+          "cross": 11,
+          "auth": 14,
+          "rank": 13,
+          "fresh": 21,
+          "kw": 6
+        },
+        "crossCount": 2,
+        "reportCount": 2,
+        "sources": [
+          "新华网",
+          "中国新闻网"
+        ]
+      },
+      {
+        "title": "中国代表：政治外交解决才是伊朗核问题出路",
+        "link": "https://www.chinanews.com.cn/gj/2026/09-10/10693670.shtml",
+        "summary": "中新社柏林9月9日电 维也纳消息：当地时间9日，国际原子能机构理事会审议伊朗核问题。中国常驻国际原子能机构代表李松发言阐述中方立场。",
+        "source": "中国新闻网",
+        "pub": "Thu, 10 Sep 2026 06:56:02 +0800",
+        "heat": 79,
+        "heatRaw": 65,
+        "heatParts": {
+          "cross": 0,
+          "auth": 13,
+          "rank": 23,
+          "fresh": 23,
+          "kw": 6
+        },
+        "crossCount": 1,
+        "reportCount": 1,
+        "sources": [
+          "中国新闻网"
+        ]
+      },
+      {
+        "title": "菲律宾巴拉望省近海一客轮起火致5人死亡",
+        "link": "https://www.chinanews.com.cn/gj/2026/09-10/10693666.shtml",
+        "summary": "中新社马尼拉9月9日电 (记者 周璟)据菲律宾海岸警卫队消息，一艘载有百余人的客船9日晚在菲律宾巴拉望省附近海域起火。截至当天23时，事故已造成5人死亡，有42人获救，搜救行动仍在进行中。",
+        "source": "中国新闻网",
+        "pub": "Thu, 10 Sep 2026 06:47:38 +0800",
+        "heat": 77,
+        "heatRaw": 61,
+        "heatParts": {
+          "cross": 0,
+          "auth": 13,
+          "rank": 20,
+          "fresh": 23,
+          "kw": 6
+        },
+        "crossCount": 1,
+        "reportCount": 1,
+        "sources": [
+          "中国新闻网"
+        ]
+      },
+      {
+        "title": "Cultural ambassador",
+        "link": "https://www.chinadaily.com.cn/a/202609/08/WS6a9f64cae4b06d4aa055cdea.html",
+        "summary": "Egyptian tour guide Abbas Sayed has been traveling between China and Egypt for more than two decades, promoting cultural…",
         "source": "中国日报网",
         "pub": "",
         "heat": 74,
@@ -777,38 +716,17 @@
         ]
       },
       {
-        "title": "China sends more aid to Nepal, bolsters border disaster warning system",
-        "link": "https://news.cgtn.com/news/2026-09-08/China-sends-more-aid-to-Nepal-bolsters-border-disaster-warning-system-1Qh8QeyhJPq/p.html",
-        "summary": "The fourth batch of emergency relief supplies from China arrived at Tribhuvan International Airport in Kathmandu on Tues…",
-        "source": "CGTN",
-        "pub": "",
-        "heat": 73,
-        "heatRaw": 54,
-        "heatParts": {
-          "cross": 0,
-          "auth": 13,
-          "rank": 19,
-          "fresh": 13,
-          "kw": 9
-        },
-        "crossCount": 1,
-        "reportCount": 2,
-        "sources": [
-          "CGTN"
-        ]
-      },
-      {
-        "title": "Australian social media users to be offered choice to opt out of algorithms",
-        "link": "https://www.npr.org/2026/09/08/g-s1-142311/australian-social-media-users-to-be-offered-choice-to-opt-out-of-algorithms",
-        "summary": "A government statement said on Tuesday social media platforms would be required to send a notification to new and existi…",
+        "title": "Greetings from Paris, where the 2024 Olympics balloon rises again",
+        "link": "https://www.npr.org/2026/09/09/g-s1-142424/paris-olympic-balloon-cauldron-tuileries",
+        "summary": "The floating Olympic cauldron, held aloft by a giant glowing balloon, is still making regular appearances two years afte…",
         "source": "NPR",
-        "pub": "Tue, 08 Sep 2026 09:24:00 -0400",
-        "heat": 73,
-        "heatRaw": 56,
+        "pub": "Wed, 09 Sep 2026 09:56:23 -0400",
+        "heat": 74,
+        "heatRaw": 57,
         "heatParts": {
           "cross": 0,
           "auth": 12,
-          "rank": 22,
+          "rank": 23,
           "fresh": 19,
           "kw": 3
         },
@@ -817,50 +735,71 @@
         "sources": [
           "NPR"
         ]
+      },
+      {
+        "title": "U.S. military destroys 5 Iranian oil tankers. And, the Smithsonian head resigns",
+        "link": "https://www.npr.org/2026/09/09/g-s1-142496/up-first-newsletter-iran-us-uk-israel-palestine-lonnie-bunch-smithsonian",
+        "summary": "The U.S. military says it has destroyed five Iranian oil tankers as the conflict continues to escalate. And, Smithsonian…",
+        "source": "NPR",
+        "pub": "Wed, 09 Sep 2026 07:12:27 -0400",
+        "heat": 72,
+        "heatRaw": 53,
+        "heatParts": {
+          "cross": 0,
+          "auth": 12,
+          "rank": 22,
+          "fresh": 19,
+          "kw": 0
+        },
+        "crossCount": 1,
+        "reportCount": 2,
+        "sources": [
+          "NPR"
+        ]
       }
     ],
     "medical": [
       {
-        "title": "中国疾病预防控制中心（中国预防医学科学院）后勤运营管...",
-        "link": "https://www.chinacdc.cn/tzgg/202609/t20260908_1839883.html",
-        "summary": "网站服务 中国疾控中心公共卫生科学数据中心 新版网站意见 --> 中国疾控中心科技文献服务系统 网站调查 --> 中国疾控中心电子采购平台 中国疾控中心微信公众号",
+        "title": "中国疾控中心与新加坡国立大学签署合作谅解备忘录",
+        "link": "https://www.chinacdc.cn/zxyw/202609/t20260906_1839855.html",
+        "summary": "2026-09-06 中国疾控中心（中国预科院）青年科学家联盟举办第三期团山科研沙龙 2026-09-03",
         "source": "中国疾控中心",
         "pub": "",
-        "heat": 77,
-        "heatRaw": 62,
+        "heat": 81,
+        "heatRaw": 68,
         "heatParts": {
           "cross": 11,
           "auth": 13,
-          "rank": 10,
+          "rank": 23,
           "fresh": 13,
-          "kw": 14
+          "kw": 6
         },
         "crossCount": 2,
-        "reportCount": 3,
+        "reportCount": 6,
         "sources": [
           "新华网·健康",
           "中国疾控中心"
         ]
       },
       {
-        "title": "解码补体机制和靶点 探索罕见病创新诊疗路径",
-        "link": "https://www.news.cn/health/20260903/4f2d135caca640008309fc9edcd41c6e/c.html",
-        "summary": "解码补体机制和靶点 探索罕见病创新诊疗路径-从早期发现、筛查诊断，到精准分层治疗干预，再到长期规范管理，创新技术正在贯穿罕见病诊疗全流程，帮助患者获得更及时、更稳定、更可持续的疾病获益。",
-        "source": "新华网·健康",
+        "title": "加快提供优质高效眼健康服务",
+        "link": "https://jiankang.cctv.com/2026/09/09/ARTIjKWKVVpITjXUT8YoPJoD260909.shtml",
+        "summary": "三部门印发眼健康服务工作方案，提出9方面任务，目标到2030年93%以上县医院设眼科，有效屈光不正矫正覆盖率持续提高。",
+        "source": "央视网·健康",
         "pub": "",
-        "heat": 73,
-        "heatRaw": 55,
+        "heat": 75,
+        "heatRaw": 59,
         "heatParts": {
           "cross": 0,
           "auth": 13,
           "rank": 23,
-          "fresh": 7,
-          "kw": 11
+          "fresh": 13,
+          "kw": 9
         },
         "crossCount": 1,
         "reportCount": 1,
         "sources": [
-          "新华网·健康"
+          "央视网·健康"
         ]
       },
       {
@@ -890,13 +829,13 @@
         "summary": "近期，电解质水消费热度持续攀升。原本多用于运动场景的功能性饮品，正走入大众日常生活。与此同时，“电解质水真能成‘水替’吗”等问题也引发关注。电解质水为何走红？能天天喝吗？",
         "source": "央视网·健康",
         "pub": "",
-        "heat": 72,
-        "heatRaw": 53,
+        "heat": 67,
+        "heatRaw": 45,
         "heatParts": {
           "cross": 0,
           "auth": 13,
-          "rank": 23,
-          "fresh": 13,
+          "rank": 22,
+          "fresh": 7,
           "kw": 3
         },
         "crossCount": 1,
@@ -906,40 +845,19 @@
         ]
       },
       {
-        "title": "中国疾控中心与新加坡国立大学签署合作谅解备忘录",
-        "link": "https://www.chinacdc.cn/zxyw/202609/t20260906_1839855.html",
-        "summary": "2026-09-06 中国疾控中心（中国预科院）青年科学家联盟举办第三期团山科研沙龙 2026-09-03",
-        "source": "中国疾控中心",
-        "pub": "",
-        "heat": 70,
-        "heatRaw": 51,
-        "heatParts": {
-          "cross": 0,
-          "auth": 13,
-          "rank": 23,
-          "fresh": 7,
-          "kw": 6
-        },
-        "crossCount": 1,
-        "reportCount": 4,
-        "sources": [
-          "中国疾控中心"
-        ]
-      },
-      {
-        "title": "基层癌痛综合管理协作体系迈入实施阶段 多方合力补齐基层癌痛管理短板",
-        "link": "https://www.news.cn/health/20260903/95d51d5b91c44ee2916acc7e353ce46d/c.html",
-        "summary": "基层癌痛综合管理协作体系迈入实施阶段 多方合力补齐基层癌痛管理短板-\"基层癌痛综合管理协作体系建设项目主导医院启动会现场梁军教授以及萌蒂中国总经理高伦博均认为，基层是中国癌痛管理的重要场景，补齐基层医疗机构的能力短板，是提升癌痛患者生活质量…",
+        "title": "中国药监政策短片（第5期）| 生物制品分段生产：从试点破冰到入法落地",
+        "link": "https://www.news.cn/health/20260909/b6ba22398cf54f8eab2060dcc7ff93c9/c.html",
+        "summary": "中国药监政策短片（第5期）| 生物制品分段生产：从试点破冰到入法落地-",
         "source": "新华网·健康",
         "pub": "",
-        "heat": 68,
-        "heatRaw": 47,
+        "heat": 65,
+        "heatRaw": 41,
         "heatParts": {
           "cross": 0,
           "auth": 13,
-          "rank": 22,
-          "fresh": 7,
-          "kw": 5
+          "rank": 10,
+          "fresh": 13,
+          "kw": 4
         },
         "crossCount": 1,
         "reportCount": 1,
@@ -948,38 +866,17 @@
         ]
       },
       {
-        "title": "中国疾控中心（中国预科院）青年科学家联盟举办第三...",
-        "link": "https://www.chinacdc.cn/zxyw/202609/t20260906_1839852.html",
-        "summary": "9月2日下午，由中国疾控中心科技处、青年科学家联盟联合主办的第三期“团山科研沙龙”在中国疾控中心环境所举办。本次沙龙以“气候变化下的传染病防控共识、路径与行动”为主题。中心（院）副主任（副院长）施小明、科技处处长李振军出席活动并致辞，环境所…",
-        "source": "中国疾控中心",
-        "pub": "",
-        "heat": 68,
-        "heatRaw": 47,
-        "heatParts": {
-          "cross": 0,
-          "auth": 13,
-          "rank": 20,
-          "fresh": 7,
-          "kw": 6
-        },
-        "crossCount": 1,
-        "reportCount": 1,
-        "sources": [
-          "中国疾控中心"
-        ]
-      },
-      {
         "title": "国家药监局通报不合格滴眼液",
         "link": "https://www.news.cn/health/20260907/eda46996ab7147ff98478d7cb7826d69/c.html",
         "summary": "国家药监局通报不合格滴眼液-\"9月4日，国家药监局通报37批次不符合规定药品，其中23批次为妥布霉素地塞米松滴眼液，涉及珍视明和成都青山利康两家企业。\"",
         "source": "新华网·健康",
         "pub": "",
-        "heat": 66,
-        "heatRaw": 43,
+        "heat": 64,
+        "heatRaw": 40,
         "heatParts": {
           "cross": 0,
           "auth": 13,
-          "rank": 9,
+          "rank": 6,
           "fresh": 7,
           "kw": 14
         },
@@ -990,19 +887,19 @@
         ]
       },
       {
-        "title": "科技聚智 生态蓄势丨生态沙产业研究院成立仪式暨科技创新大会在阿拉善举行",
-        "link": "https://www.news.cn/health/20260908/1da0dee2c3394f0cbda87a7941e00a71/c.html",
-        "summary": "科技聚智 生态蓄势丨生态沙产业研究院成立仪式暨科技创新大会在阿拉善举行-生态沙产业研究院的成立，将为肉苁蓉及沙生药食同源产业集聚智力资源，为产业高质量发展提供有力学术支撑与实践指引。",
+        "title": "信达生物亮相2026全国科普月活动 以前沿成果赋能全民代谢健康科普",
+        "link": "https://www.news.cn/health/20260907/8b3dc95f301f4ae5a6270fcbb71f3409/c.html",
+        "summary": "信达生物亮相2026全国科普月活动 以前沿成果赋能全民代谢健康科普-信达生物作为深度参与本次主场活动的创新型生物制药企业，以专业、亲民、有温度的健康科普实践，践行企业社会责任。",
         "source": "新华网·健康",
         "pub": "",
-        "heat": 63,
-        "heatRaw": 38,
+        "heat": 61,
+        "heatRaw": 35,
         "heatParts": {
           "cross": 0,
           "auth": 13,
-          "rank": 12,
-          "fresh": 13,
-          "kw": 0
+          "rank": 4,
+          "fresh": 7,
+          "kw": 10
         },
         "crossCount": 1,
         "reportCount": 1,
@@ -1016,12 +913,12 @@
         "summary": "阿斯利康全球执行副总裁尹思睿：科学创新只有真正转化为患者获益才有意义-尹思睿表示，阿斯利康已将中国视为全球创新的重要引擎。",
         "source": "新华网·健康",
         "pub": "",
-        "heat": 61,
-        "heatRaw": 36,
+        "heat": 60,
+        "heatRaw": 33,
         "heatParts": {
           "cross": 0,
           "auth": 13,
-          "rank": 10,
+          "rank": 7,
           "fresh": 7,
           "kw": 5
         },
@@ -1030,9 +927,100 @@
         "sources": [
           "新华网·健康"
         ]
+      },
+      {
+        "title": "科技聚智 生态蓄势丨生态沙产业研究院成立仪式暨科技创新大会在阿拉善举行",
+        "link": "https://www.news.cn/health/20260908/1da0dee2c3394f0cbda87a7941e00a71/c.html",
+        "summary": "科技聚智 生态蓄势丨生态沙产业研究院成立仪式暨科技创新大会在阿拉善举行-生态沙产业研究院的成立，将为肉苁蓉及沙生药食同源产业集聚智力资源，为产业高质量发展提供有力学术支撑与实践指引。",
+        "source": "新华网·健康",
+        "pub": "",
+        "heat": 58,
+        "heatRaw": 29,
+        "heatParts": {
+          "cross": 0,
+          "auth": 13,
+          "rank": 9,
+          "fresh": 7,
+          "kw": 0
+        },
+        "crossCount": 1,
+        "reportCount": 1,
+        "sources": [
+          "新华网·健康"
+        ]
+      },
+      {
+        "title": "塞拉利昂疟疾分子流行病学实验室技术培训在京开班",
+        "link": "https://www.chinacdc.cn/gzdt/zxzb/202609/t20260907_1839862.html",
+        "summary": "2026-08-30 2026年疑似预防接种异常反应监测处置培训班在山东省烟台市举办 2026-08-26",
+        "source": "中国疾控中心",
+        "pub": "",
+        "heat": 56,
+        "heatRaw": 26,
+        "heatParts": {
+          "cross": 0,
+          "auth": 13,
+          "rank": 1,
+          "fresh": 7,
+          "kw": 4
+        },
+        "crossCount": 1,
+        "reportCount": 1,
+        "sources": [
+          "中国疾控中心"
+        ]
       }
     ],
     "ai": [
+      {
+        "title": "刚刚，苹果首款折叠屏发布！15999元起，AI参与设计",
+        "link": "https://www.qbitai.com/2026/09/486450.html",
+        "summary": "一比根号二的小胖折叠",
+        "source": "量子位",
+        "pub": "Wed, 09 Sep 2026 19:24:22 +0000"
+      },
+      {
+        "title": "实测星火X2.5：手搓粒子月亮、拆完61页财报……还揪出了我的Bug",
+        "link": "https://www.qbitai.com/2026/09/486374.html",
+        "summary": "（暂无摘要）",
+        "source": "量子位",
+        "pub": "Wed, 09 Sep 2026 10:02:54 +0000"
+      },
+      {
+        "title": "国产AI4S计算平台登场亮相2026外滩大会 算力技术与人才布局双向发力",
+        "link": "https://www.qbitai.com/2026/09/486370.html",
+        "summary": "（暂无摘要）",
+        "source": "量子位",
+        "pub": "Wed, 09 Sep 2026 09:57:54 +0000"
+      },
+      {
+        "title": "蚂蚁百灵发布首个金融增强模型，AI开始进入真实投研工作流",
+        "link": "https://www.qbitai.com/2026/09/486288.html",
+        "summary": "蚂蚁集团百灵首个金融增强开放模型 Ling-3.0-flash-Fin发布。",
+        "source": "量子位",
+        "pub": "Wed, 09 Sep 2026 05:02:30 +0000"
+      },
+      {
+        "title": "具身机器人能搞定超市盘点吗？全球七万门店正在给出答案",
+        "link": "https://www.qbitai.com/2026/09/486280.html",
+        "summary": "从Demo到货架，这两家公司要让具身智能算得过账",
+        "source": "量子位",
+        "pub": "Wed, 09 Sep 2026 04:52:12 +0000"
+      },
+      {
+        "title": "SkyProduction限免活动第二期：MiniMax H3会员限时免费无限用！",
+        "link": "https://www.qbitai.com/2026/09/486052.html",
+        "summary": "8月28日-9月1日，SkyProduction（天工工作台）联合阿里巴巴通义万相，推出了Wan 3.0模型限时免费活动",
+        "source": "量子位",
+        "pub": "Wed, 09 Sep 2026 03:39:58 +0000"
+      },
+      {
+        "title": "宜宾，一场机器人“招聘会”的产业雄心",
+        "link": "https://www.qbitai.com/2026/09/486038.html",
+        "summary": "9月3日，宜宾国际会展中心，55支机器人团队正在完成一场特殊的“面试”。",
+        "source": "量子位",
+        "pub": "Wed, 09 Sep 2026 02:15:54 +0000"
+      },
       {
         "title": "感谢用GPT-6搓3D的！燃烧自己的token换来一次全体重置",
         "link": "https://www.qbitai.com/2026/09/485854.html",
@@ -1041,67 +1029,18 @@
         "pub": "Tue, 08 Sep 2026 06:05:30 +0000"
       },
       {
-        "title": "现场围观金融AI决赛，大厂挑人的逻辑我悟了",
-        "link": "https://www.qbitai.com/2026/09/485794.html",
-        "summary": "百万奖金、大厂直通、VC跟投",
-        "source": "量子位",
-        "pub": "Tue, 08 Sep 2026 05:05:03 +0000"
-      },
-      {
-        "title": "深度智控获宁德时代、沙特阿美战投等重磅加码，加速打造物理AI时代算力与能源底座",
-        "link": "https://www.qbitai.com/2026/09/485784.html",
-        "summary": "近日，物理AI企业深度智控（DeepCtrls）完成新一轮B+轮数亿元融资。",
-        "source": "量子位",
-        "pub": "Tue, 08 Sep 2026 03:22:17 +0000"
-      },
-      {
-        "title": "王云鹤创业后交出首个模型",
-        "link": "https://www.qbitai.com/2026/09/485555.html",
-        "summary": "把多模型执行经验用到了模型训练",
-        "source": "量子位",
-        "pub": "Tue, 08 Sep 2026 02:14:47 +0000"
-      },
-      {
-        "title": "3秒变身！会合体的机器人，卖到全球50国",
-        "link": "https://www.qbitai.com/2026/09/485525.html",
-        "summary": "谁说现在机器人都长得差不多的！",
-        "source": "量子位",
-        "pub": "Mon, 07 Sep 2026 09:34:06 +0000"
-      },
-      {
-        "title": "GPT-6不只Astra！Sol内测结果曝光，速度快6倍",
-        "link": "https://www.qbitai.com/2026/09/485431.html",
-        "summary": "OpenAI研究院人均带3个AI实习生",
-        "source": "量子位",
-        "pub": "Mon, 07 Sep 2026 09:04:06 +0000"
-      },
-      {
-        "title": "DHH领衔，英伟达、微软、HuggingFace等150+全球技术大咖集结，GOSIM Shenzhen 2026全议程公布",
-        "link": "https://www.qbitai.com/2026/09/485154.html",
-        "summary": "10 月 16–17 日，面向全球开发者的开源技术大会 GOSIM 将首次来到深圳，举办 GOSIM Shenzhen 2026。",
-        "source": "量子位",
-        "pub": "Mon, 07 Sep 2026 08:51:30 +0000"
-      },
-      {
-        "title": "菲尔兹奖得主入局大模型！4B手机Qwen+云端GLM刷爆ARC-AGI 3",
-        "link": "https://www.qbitai.com/2026/09/485108.html",
-        "summary": "“在两个模型之间找到数学上的共同基础其实非常困难”",
-        "source": "量子位",
-        "pub": "Mon, 07 Sep 2026 08:36:30 +0000"
-      },
-      {
-        "title": "Apple「随航」的无感体验里，藏着多少流畅的秘密？",
-        "link": "https://sspai.com/prime/story/sidecar-optimizations",
-        "summary": "相较于 Jobs 时代令人惊叹的「iPhone 时刻」，过去十五年的 Apple 或许少了一些足以重新定义一个品类的震撼——但围绕「体验」本身展开的技术革新却从未停止。 查看全文 …",
+        "title": "一图流 | 一张图带你看完 2026 Apple 秋季发布会",
+        "link": "https://sspai.com/post/114393",
+        "summary": "9 月 10 日凌晨，Apple 召开新品发布会。推出了新一代的 iPhone 18 Pro 系列、Apple Watch Series 12、Apple Watch Ultra …",
         "source": "少数派",
-        "pub": "Tue, 08 Sep 2026 18:14:30 +0800"
+        "pub": "Thu, 10 Sep 2026 05:30:34 +0800"
       },
       {
-        "title": "社区速递 157 | NuPhy 全铝磁轴键盘与派友拒绝算法的「反投喂」信息源",
-        "link": "https://sspai.com/post/114327",
-        "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现…",
+        "title": "可以「折」的 iPhone 正式亮相：Apple 发布会看点回顾",
+        "link": "https://sspai.com/post/114392",
+        "summary": "9 月 10 日凌晨，Apple 召开新品发布会。推出了新一代的 iPhone 18 Pro 系列、Apple Watch Series 12、Apple Watch Ultra …",
         "source": "少数派",
-        "pub": "Tue, 08 Sep 2026 17:00:00 +0800"
+        "pub": "Thu, 10 Sep 2026 05:21:18 +0800"
       }
     ]
   },
@@ -1203,7 +1142,7 @@
         "中国新闻网": 24,
         "CGTN": 24,
         "路透社": 0,
-        "美联社": 24,
+        "美联社": 0,
         "BBC新闻": 0,
         "经济学人": 0,
         "NPR": 10,
