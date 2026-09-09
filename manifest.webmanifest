@@ -2,13 +2,13 @@
   "name": "每日养分",
   "short_name": "每日养分",
   "description": "每日自动抓取的书籍 / 热点 / 医疗 / AI / 英语 / 感悟养分工作台",
-  "start_url": "/",
-  "scope": "/",
+  "start_url": "./",
+  "scope": "./",
   "display": "standalone",
   "orientation": "portrait-primary",
   "background_color": "#eaf3fb",
   "theme_color": "#eaf3fb",
   "icons": [
-    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+    { "src": "./icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
   ]
 }
