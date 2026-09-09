@@ -1091,7 +1091,7 @@ $('#overlay').addEventListener('click', closeDrawer);
 
 // ---------- PWA 注册 ----------
 if ('serviceWorker' in navigator) {
-  window.addEventListener('load', () => { navigator.serviceWorker.register('/sw.js').catch(() => {}); });
+  window.addEventListener('load', () => { navigator.serviceWorker.register('./sw.js').catch(() => {}); });
 }
 
 // ---------- 初始化 ----------
