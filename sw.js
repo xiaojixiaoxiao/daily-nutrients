@@ -1,6 +1,6 @@
 // 每日养分 Service Worker：静态资源缓存，支持离线打开与添加到桌面
 const CACHE = 'daily-nutrients-v2';
-const ASSETS = ['/', '/index.html', '/styles.css', '/app.js', '/heat-core.js', '/manifest.webmanifest', '/icon.svg'];
+const ASSETS = ['./', './index.html', './styles.css', './app.js', './heat-core.js', './manifest.webmanifest', './icon.svg'];
 
 self.addEventListener('install', (e) => {
   e.waitUntil(caches.open(CACHE).then((c) => c.addAll(ASSETS)).then(() => self.skipWaiting()));
