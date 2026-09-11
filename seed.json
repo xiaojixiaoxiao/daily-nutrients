@@ -1,52 +1,52 @@
 {
-  "generatedAt": "2026-09-10T23:02:07.149Z",
-  "date": "2026-09-11",
+  "generatedAt": "2026-09-11T23:03:07.384Z",
+  "date": "2026-09-12",
   "books": {
-    "date": "2026-09-10",
+    "date": "2026-09-11",
     "books": [
       {
-        "title": "故事的讲法：从灵感、悬念机制、语言盛宴到故事的未来图景",
-        "author": "黄昱宁",
-        "cover": "https://img3.doubanio.com/view/subject/s/public/s35583532.jpg",
+        "title": "如何像女人那样思考：父权制下，女哲学家们的精神突围",
+        "author": "[美] 丽甘·佩纳卢纳",
+        "cover": "https://img1.doubanio.com/view/subject/s/public/s35589558.jpg",
         "rating": 0,
-        "ratingCount": 79,
-        "summary": "本书是继《小说的细节：从简·奥斯丁到石黑一雄》之后，黄昱宁作为一位“故事生态系统”从业者、观察者、消费者以及终身重度成瘾者的观察笔记。 故事从何而来？在AI时代，又将去向何处？ 动机与素材，悬念与反转，时间与空间，人物与语言，人称与视角，虚构与现实，节奏与质感，变形与改 编，类型与主流……这些叙事的根本命题，在黄昱宁笔下化为二十篇灵动而深邃的文学笔记。她以评",
-        "authorBio": "《故事的讲法：从灵感、悬念机制、语言盛宴到故事的未来图景》由黄昱宁撰写，于2026-8-3出版。",
-        "link": "https://book.douban.com/subject/38583296/",
-        "pubDate": "2026-8-3",
+        "ratingCount": 44,
+        "summary": "丽甘·佩纳卢纳自幼心怀宏大问题意识，她曾以为步入哲学殿堂是通往独立心灵的阶梯。然而，现实令她始料未及 ：主流学术圈的厌女文化与对女性智力的贬低，正无声地消磨着她的意志和才华，令她陷入 自我怀疑的泥淖。 直到她偶遇达玛丽斯·马沙姆及其同时代女性思想家的著作。那些曾被历史尘埃掩埋的名字，如同微光刺破黑暗。她们不仅重新点燃了佩纳卢纳对哲学的热爱，更让她意识到 ：社",
+        "authorBio": "《如何像女人那样思考：父权制下，女哲学家们的精神突围》由[美] 丽甘·佩纳卢纳撰写，于2026-8出版。",
+        "link": "https://book.douban.com/subject/38434682/",
+        "pubDate": "2026-8",
         "tag": "new"
       },
       {
-        "title": "就像烈风归于水",
-        "author": "东来",
-        "cover": "https://img9.doubanio.com/view/subject/s/public/s35588684.jpg",
+        "title": "透明人",
+        "author": "[苏]伊利亚·伊里夫",
+        "cover": "https://img1.doubanio.com/view/subject/s/public/s35528640.jpg",
         "rating": 0,
-        "ratingCount": 26,
-        "summary": "《就像烈风归于水》是东来最新创作的中篇小说集，收录了《丑闻》《就像烈风归于水》《孤馆遇神》三部作品。 《丑闻》通过知名作家意外离世并爆出丑闻，揭示了互相纠缠的“杀戮”：陷入男作家用文字编织的情感陷阱的无名女演员；遭受婚姻的慢性屠戮，逐渐被剥夺姓名，沦为丈夫枪手的妻子。离世后丑闻被公之于世，不能为自己辩解的作家……这不是桃色新闻的文学版本，而是关于暴力的考古。",
-        "authorBio": "《就像烈风归于水》由东来撰写，于2026-8出版。",
-        "link": "https://book.douban.com/subject/38557326/",
+        "ratingCount": 42,
+        "summary": "比卡夫卡更荒诞的打工人寓言 正常的时候被当成小透明，变成透明人后却被当成了大英雄 - ——编辑推荐—— ⭐苏俄讽刺文学不朽经典，伊里夫与彼得罗夫的中短篇小说集首次完整呈现 继承果戈里以来的俄国讽刺文学传统，发扬《十二把椅子》与《金牛犊》的喜剧精神，高尔基、巴比塞、辛克莱等名家交口称赞。近百年来多次再版，为俄语文学奉献了众多捧腹笑料。 🫥顶级荒诞的喜剧寓言",
+        "authorBio": "《透明人》由[苏]伊利亚·伊里夫撰写，于2026-8出版。",
+        "link": "https://book.douban.com/subject/38487618/",
         "pubDate": "2026-8",
         "tag": "new"
       }
     ],
     "quotes": [
       {
-        "text": "成熟不是为了走向复杂，而是为了抵达天真。",
-        "author": "余光中",
-        "bio": "当代诗人、散文家。",
-        "bg": "余光中以「天真」定义历经世事后的通透与单纯。"
+        "text": "生活不止眼前的苟且，还有诗和远方的田野。",
+        "author": "高晓松",
+        "bio": "音乐人、词作者。",
+        "bg": "出自歌曲《生活不止眼前的苟且》，劝人在日常之外保留远方想象。"
       },
       {
-        "text": "你必须非常努力，才能看起来毫不费力。",
-        "author": "佚名",
-        "bio": "网络流行箴言，常被归于努力与天赋之辩。",
-        "bg": "现代励志语境下，提醒人前轻松多来自人后积累。"
+        "text": "自由不是随心所欲，而是自我主宰。",
+        "author": "康德",
+        "bio": "德国哲学家，启蒙思想巨擘。",
+        "bg": "体现康德对理性的尊重：真正的自由是服从自己立下的法则，而非被欲望驱使。"
       },
       {
-        "text": "我们都是阴沟里的虫子，但总还是得有人仰望星空。",
-        "author": "刘慈欣",
-        "bio": "科幻作家，《三体》作者。",
-        "bg": "化用王尔德意象，《三体》中以仰望星空喻对宇宙与文明的敬畏。"
+        "text": "没有什么比时间更具有说服力了，因为时间无需通知我们就可以改变一切。",
+        "author": "余华",
+        "bio": "当代作家，《活着》作者。",
+        "bg": "出自《活着》式苍凉叙述，写尽命运在无言流逝中的改写。"
       }
     ],
     "source": "douban",
@@ -279,15 +279,28 @@
     }
   ],
   "english": {
-    "date": "2026-09-10",
+    "date": "2026-09-11",
     "news": {
-      "type": "news",
-      "title": "Your next primary care doctor could be online only, accessed through an AI tool",
-      "summary": "The shortage of primary care doctors is a national problem. To cope, a large health system…",
-      "link": "https://www.npr.org/sections/shots-health-news/2026/01/09/nx-s1-5670382/primary-care-doctor-shortage-medical-ai-diagnosis",
-      "source": "NPR · Health Shots",
+      "type": "speech",
+      "title": "Build a tower, build a team",
+      "summary": "Tom Wujec presents some surprisingly deep research into the \"marshmallow problem\" -- a simple team-building exercise that involves dry spaghetti, one yard of tape and a marshmallow. Who can build the tallest tower with these ingredients? And why does a surprising group always beat the average?",
+      "link": "https://www.ted.com/talks/tom_wujec_build_a_tower_build_a_team",
+      "videoLink": "https://www.ted.com/talks/tom_wujec_build_a_tower_build_a_team",
+      "cover": "https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/acda85c0-8e5f-4c78-8338-224e7ecf216c/TomWujec_2010U-stageshot.jpg",
+      "source": "TED",
+      "duration": 394,
       "content": [
-        "The shortage of primary care doctors is a national problem. To cope, a large health system…"
+        "Several years ago here at TED, Peter Skillman introduced a design challenge called the marshmallow challenge. And the idea's pretty simple: Teams of four have to build the tallest free-standing structure out of 20 sticks of spaghetti, one yard of tape, one yard of string and a marshmallow. The marshmallow has to be on top. And, though it seems really simple, it's actually pretty hard because it forces people to collaborate very quickly. And so, I thought this was an interesting idea, and I incorporated it into a design workshop. And it was a huge success. And since then, I've conducted about 70 design workshops across the world with students and designers and architects, even the CTOs of the Fortune 50, and there's something about this exercise that reveals very deep lessons about the nature of collaboration, and I'd like to share some of them with you.",
+        "So, normally, most people begin by orienting themselves to the task. They talk about it, they figure out what it's going to look like, they jockey for power. Then they spend some time planning, organizing, they sketch and they lay out spaghetti. They spend the majority of their time assembling the sticks into ever-growing structures. And then finally, just as they're running out of time, someone takes out the marshmallow, and then they gingerly put it on top, and then they stand back, and -- ta-da! -- they admire their work. But what really happens, most of the time, is that the \"ta-da\" turns into an \"uh-oh,\" because the weight of the marshmallow causes the entire structure to buckle and to collapse.",
+        "So there are a number of people who have a lot more \"uh-oh\" moments than others, and among the worst are recent graduates of business school. (Laughter) They lie, they cheat, they get distracted and they produce really lame structures. And of course there are teams that have a lot more \"ta-da\" structures, and among the best are recent graduates of kindergarten. (Laughter) And it's pretty amazing. As Peter tells us, not only do they produce the tallest structures, but they're the most interesting structures of them all.",
+        "So the question you want to ask is: How come? Why? What is it about them? And Peter likes to say that none of the kids spend any time trying to be CEO of Spaghetti, Inc. Right? They don't spend time jockeying for power. But there's another reason as well. And the reason is that business students are trained to find the single right plan, right? And then they execute on it. And then what happens is, when they put the marshmallow on the top, they run out of time and what happens? It's a crisis. Sound familiar? Right. What kindergarteners do differently is that they start with the marshmallow, and they build prototypes, successive prototypes, always keeping the marshmallow on top, so they have multiple times to fix when they build prototypes along the way. Designers recognize this type of collaboration as the essence of the iterative process. And with each version, kids get instant feedback about what works and what doesn't work.",
+        "So the capacity to play in prototype is really essential, but let's look at how different teams perform. So the average for most people is around 20 inches; business schools students, about half of that; lawyers, a little better, but not much better than that, kindergarteners, better than most adults. Who does the very best? Architects and engineers, thankfully. (Laughter) Thirty-nine inches is the tallest structure I've seen. And why is it? Because they understand triangles and self-reinforcing geometrical patterns are the key to building stable structures. So CEOs, a little bit better than average, but here's where it gets interesting. If you put you put an executive admin. on the team, they get significantly better. (Laughter) It's incredible. You know, you look around, you go, \"Oh, that team's going to win.\" You can just tell beforehand. And why is that? Because they have special skills of facilitation. They manage the process, they understand the process. And any team who manages and pays close attention to work will significantly improve the team's performance. Specialized skills and facilitation skills are the combination that leads to strong success. If you have 10 teams that typically perform, you'll get maybe six or so that have standing structures.",
+        "And I tried something interesting. I thought, let's up the ante, once. So I offered a 10,000 dollar prize of software to the winning team. So what do you think happened to these design students? What was the result? Here's what happened: Not one team had a standing structure. If anyone had built, say, a one inch structure, they would have taken home the prize. So, isn't that interesting? That high stakes have a strong impact. We did the exercise again with the same students. What do you think happened then? So now they understand the value of prototyping. So the same team went from being the very worst to being among the very best. They produced the tallest structures in the least amount of time. So there's deep lessons for us about the nature of incentives and success.",
+        "So, you might ask: Why would anyone actually spend time writing a marshmallow challenge? And the reason is, I help create digital tools and processes to help teams build cars and video games and visual effects. And what the marshmallow challenge does is it helps them identify the hidden assumptions. Because, frankly, every project has its own marshmallow, doesn't it? The challenge provides a shared experience, a common language, a common stance to build the right prototype. And so, this is the value of the experience, of this so simple exercise.",
+        "And those of you who are interested may want to go to MarshmallowChallenge.com. It's a blog that you can look at how to build the marshmallows. There's step-by-step instructions on this. There are crazy examples from around the world of how people tweak and adjust the system. There's world records that are on this as well.",
+        "And the fundamental lesson, I believe, is that design truly is a contact sport. It demands that we bring all of our senses to the task, and that we apply the very best of our thinking, our feeling and our doing to the challenge that we have at hand. And sometimes, a little prototype of this experience is all that it takes to turn us from an \"uh-oh\" moment to a \"ta-da\" moment. And that can make a big difference.",
+        "Thank you very much.",
+        "(Applause)"
       ],
       "dataSources": [
         {
@@ -324,86 +337,85 @@
   "news": {
     "domestic": [
       {
-        "title": "扎根高质量发展竞技场",
-        "link": "https://www.ce.cn/xwzx/gnsz/gdxw/202609/t20260911_3206177.shtml",
-        "summary": "在我国，以世界技能大赛为引领、覆盖各层级和各类职业的技能竞赛体系，每年吸引着上千万企业职工和院校师生参赛，助推大批劳动者撬动命运的齿轮，享受出彩人生。",
+        "title": "习近平将赴印度出席金砖国家领导人第十八次会晤",
+        "link": "http://politics.people.com.cn/n1/2026/0911/c1024-40796437.html",
+        "summary": "新华社北京9月10日电外交部发言人10日宣布：应印度共和国总理莫迪邀请，国家主席习近平将于9月12日至13日赴印度新德里出席金砖国家领导人第十八次会晤。 《人民日报》（2026年09月11日01",
+        "source": "人民网",
+        "pub": "",
+        "heat": 86,
+        "heatRaw": 76,
+        "heatParts": {
+          "cross": 11,
+          "auth": 14,
+          "rank": 23,
+          "fresh": 21,
+          "kw": 6
+        },
+        "crossCount": 2,
+        "reportCount": 8,
+        "sources": [
+          "人民网",
+          "新华网"
+        ]
+      },
+      {
+        "title": "和音丨开创“大金砖合作”高质量发展新局面",
+        "link": "http://opinion.people.com.cn/n1/2026/0911/c461529-40796447.html",
+        "summary": "中方愿同金砖各国一道，淬炼金砖成色，展现金砖力量，不断开创“大金砖合作”高质量发展新局面，携手更多全球南方国家共同推动构建人类命运共同体 应印度共和国总理莫迪邀请，习近平主席将于9月12日至",
+        "source": "人民网",
+        "pub": "",
+        "heat": 84,
+        "heatRaw": 73,
+        "heatParts": {
+          "cross": 11,
+          "auth": 14,
+          "rank": 20,
+          "fresh": 21,
+          "kw": 6
+        },
+        "crossCount": 2,
+        "reportCount": 6,
+        "sources": [
+          "人民网",
+          "新华网"
+        ]
+      },
+      {
+        "title": "山东诸城偷排危废致4死案续：主犯王辉已被执行死刑",
+        "link": "https://www.thepaper.cn/newsDetail_forward_34051845",
+        "summary": "山东诸城偷排危废致4人死亡案主犯王辉已被执行死刑。 9月11日下午，澎湃新闻从此案被害人家属李宏宇处了解到，当日，她接到了潍坊中院工作人员的通知，称王辉已被执行",
+        "source": "澎湃新闻",
+        "pub": "",
+        "heat": 82,
+        "heatRaw": 69,
+        "heatParts": {
+          "cross": 11,
+          "auth": 11,
+          "rank": 22,
+          "fresh": 21,
+          "kw": 4
+        },
+        "crossCount": 2,
+        "reportCount": 2,
+        "sources": [
+          "澎湃新闻",
+          "网易新闻"
+        ]
+      },
+      {
+        "title": "“妈祖”守护四海安澜",
+        "link": "https://www.ce.cn/xwzx/gnsz/gdxw/202609/t20260912_3208356.shtml",
+        "summary": "Universal，普惠，简写为U。 连在一起，就是“MAZU”——中国面向全球发布的气象智能预警方案“妈祖”。",
         "source": "中国经济网",
         "pub": "",
         "heat": 80,
         "heatRaw": 66,
         "heatParts": {
-          "cross": 11,
-          "auth": 12,
-          "rank": 22,
-          "fresh": 21,
-          "kw": 0
-        },
-        "crossCount": 2,
-        "reportCount": 3,
-        "sources": [
-          "中国经济网",
-          "澎湃新闻"
-        ]
-      },
-      {
-        "title": "“十五五”时期金融强国建设重点任务明确",
-        "link": "https://www.ce.cn/xwzx/gnsz/gdxw/202609/t20260911_3206138.shtml",
-        "summary": "经济日报北京9月10日讯（记者赵东宇、马春阳）国新办10日举行“开局起步‘十五五’”系列主题新闻发布会，中国人民银行副行长陆磊，金融监管总局副局长丛林，中国证监会副主席李超，国家外汇局新闻发言人、副局长李斌介绍金融领域贯彻落实“十五五”规划…",
-        "source": "中国经济网",
-        "pub": "",
-        "heat": 78,
-        "heatRaw": 63,
-        "heatParts": {
-          "cross": 11,
-          "auth": 12,
-          "rank": 12,
-          "fresh": 21,
-          "kw": 8
-        },
-        "crossCount": 2,
-        "reportCount": 2,
-        "sources": [
-          "中国经济网",
-          "澎湃新闻"
-        ]
-      },
-      {
-        "title": "2026外滩大会在上海举行",
-        "link": "https://www.news.cn/photo/20260910/d668990a00d64c28af9cca0b5df58052/c.html",
-        "summary": "2026外滩大会在上海举行-9月9日至12日，以“共创AI新经济”为主题的2026 Inclusion·外滩大会在上海举行。大会聚焦人工智能从“生成”迈向“执行”的关键跃迁，围绕“智能跃迁”“经济重构”“人本未来”三大板块，设置1场主论坛、…",
-        "source": "新华网",
-        "pub": "",
-        "heat": 76,
-        "heatRaw": 60,
-        "heatParts": {
-          "cross": 22,
-          "auth": 14,
-          "rank": 0,
-          "fresh": 21,
-          "kw": 3
-        },
-        "crossCount": 3,
-        "reportCount": 3,
-        "sources": [
-          "新华网",
-          "中国新闻网",
-          "澎湃新闻"
-        ]
-      },
-      {
-        "title": "【智库圆桌】发展现代设施农业保障多元供给",
-        "link": "https://www.ce.cn/xwzx/gnsz/gdxw/202609/t20260911_3206182.shtml",
-        "summary": "大力发展现代设施农业，是推进农业现代化助力农业强国建设的现实需要。近年来，我国设施农业发展取得长足进步，为保障粮食和重要农产品稳定安全供给发挥了重要作用。“十五五”规划纲要提出，发展现代设施农业，推进节能宜机高效设施种植和集约化养殖。本期特…",
-        "source": "中国经济网",
-        "pub": "",
-        "heat": 76,
-        "heatRaw": 60,
-        "heatParts": {
           "cross": 0,
           "auth": 12,
           "rank": 23,
           "fresh": 21,
-          "kw": 4
+          "kw": 10
         },
         "crossCount": 1,
         "reportCount": 1,
@@ -412,11 +424,55 @@
         ]
       },
       {
-        "title": "霍尔木兹海峡和曼德海峡双线承压 国际能源市场震荡加剧",
-        "link": "https://www.chinanews.com.cn/gj/2026/09-11/10694369.shtml",
-        "summary": "10日，美国和伊朗在霍尔木兹海峡的博弈持续。与此同时，也门西部和北部多地的战事也不断升级，胡塞武装当天相继攻占红海港口城市穆哈和红海战略要地哈尼什群岛。",
+        "title": "擦亮全球南方合作的“金字招牌”",
+        "link": "https://www.news.cn/politics/leaders/20260911/737936a8d61b4c8883940d9ad6e8e0b7/c.html",
+        "summary": "上海浦东，高150米的金砖国家新开发银行总部大楼矗立于世博园区，这是金砖国家团结合作的象征。",
+        "source": "新华网",
+        "pub": "",
+        "heat": 76,
+        "heatRaw": 60,
+        "heatParts": {
+          "cross": 11,
+          "auth": 14,
+          "rank": 22,
+          "fresh": 13,
+          "kw": 0
+        },
+        "crossCount": 2,
+        "reportCount": 3,
+        "sources": [
+          "人民网",
+          "新华网"
+        ]
+      },
+      {
+        "title": "日月谭天丨“台独”分子与“太上皇”一唱一和，台湾恐被推向更险境",
+        "link": "https://www.thepaper.cn/newsDetail_forward_34053072",
+        "summary": "在9月9日举行的“2026台北安全对话”论坛上，“台独”分子与他们的“太上皇”上演了一场令人瞠目的“双簧戏”。 自视为“台湾太上皇”的美国在台协会（AIT）台北",
+        "source": "澎湃新闻",
+        "pub": "",
+        "heat": 76,
+        "heatRaw": 61,
+        "heatParts": {
+          "cross": 11,
+          "auth": 11,
+          "rank": 17,
+          "fresh": 21,
+          "kw": 0
+        },
+        "crossCount": 2,
+        "reportCount": 2,
+        "sources": [
+          "澎湃新闻",
+          "网易新闻"
+        ]
+      },
+      {
+        "title": "9月12日新闻早报",
+        "link": "https://www.chinanews.com.cn/iframe/2026/09-12/10695099.shtml",
+        "summary": "临时调控再出手！油价少涨了 打车20元路程竟收40元？起底计价器虚增里程猫腻",
         "source": "中国新闻网",
-        "pub": "Fri, 11 Sep 2026 06:48:04 +0800",
+        "pub": "Sat, 12 Sep 2026 07:00:14 +0800",
         "heat": 75,
         "heatRaw": 59,
         "heatParts": {
@@ -433,33 +489,54 @@
         ]
       },
       {
-        "title": "国际打击电信网络诈骗联盟成立大会举行 王小洪出席并致辞",
-        "link": "https://www.chinanews.com.cn/gn/2026/09-11/10694361.shtml",
-        "summary": "新华社南京9月10日电(记者董雪、李明辉)国际打击电信网络诈骗联盟成立大会10日在江苏连云港举行，国务委员、公安部部长王小洪出席并致辞。",
+        "title": "美国8月CPI同比上涨3.4%",
+        "link": "https://www.chinanews.com.cn/gj/2026/09-12/10695092.shtml",
+        "summary": "中新社华盛顿9月11日电 (记者 陈孟统)美国劳工部11日发布数据显示，美国8月消费者价格指数(CPI)同比上涨3.4%，环比上涨0.4%。",
         "source": "中国新闻网",
-        "pub": "Fri, 11 Sep 2026 06:22:37 +0800",
+        "pub": "Sat, 12 Sep 2026 06:42:05 +0800",
+        "heat": 75,
+        "heatRaw": 59,
+        "heatParts": {
+          "cross": 0,
+          "auth": 13,
+          "rank": 16,
+          "fresh": 23,
+          "kw": 8
+        },
+        "crossCount": 1,
+        "reportCount": 1,
+        "sources": [
+          "中国新闻网"
+        ]
+      },
+      {
+        "title": "“葫芦娃爷爷”重新挂出葫芦：“如果人多，就减少互动”",
+        "link": "https://www.thepaper.cn/newsDetail_forward_34050314",
+        "summary": "9月11日，六天前亲手剪下葫芦的绍兴“葫芦娃爷爷”陈金敖又将7只葫芦挂回自家临水阳台的葫芦架上。澎湃新闻当天下午从老人所在的越城区府山街道书圣故里社区证实了这一",
+        "source": "澎湃新闻",
+        "pub": "",
         "heat": 75,
         "heatRaw": 58,
         "heatParts": {
           "cross": 11,
-          "auth": 13,
-          "rank": 12,
-          "fresh": 23,
+          "auth": 11,
+          "rank": 17,
+          "fresh": 19,
           "kw": 0
         },
         "crossCount": 2,
         "reportCount": 2,
         "sources": [
-          "中国新闻网",
-          "澎湃新闻"
+          "澎湃新闻",
+          "网易新闻"
         ]
       },
       {
-        "title": "俄媒：普京抵达印度 开启为期三天的访问",
-        "link": "https://www.chinanews.com.cn/gj/2026/09-11/10694368.shtml",
-        "summary": "中新网9月11日电 据俄新社报道，当地时间11日，俄罗斯总统普京抵达印度，开启为期3天的访问，并出席金砖国家领导人第十八次会晤。",
+        "title": "WTT澳门冠军赛：中国队三人晋级单打八强",
+        "link": "https://www.chinanews.com.cn/ty/2026/09-12/10695098.shtml",
+        "summary": "世界乒乓球职业大联盟(WTT)澳门冠军赛11日展开八分之一决赛，中国队选手陈幸同、陈熠、周启豪晋级。",
         "source": "中国新闻网",
-        "pub": "Fri, 11 Sep 2026 06:44:56 +0800",
+        "pub": "Sat, 12 Sep 2026 06:55:11 +0800",
         "heat": 74,
         "heatRaw": 57,
         "heatParts": {
@@ -474,151 +551,90 @@
         "sources": [
           "中国新闻网"
         ]
-      },
-      {
-        "title": "＂弟弟举报哥哥冒名顶替上大学案＂进展：哥哥举报湘大",
-        "link": "https://www.163.com/dy/article/L6G3AHNJ051494GR.html",
-        "summary": "“弟弟举报哥哥冒名顶替上大学案”最新进展：哥哥唐时达向五部门举报湘潭大学，质疑湘大花40万元律师费代理此案,法律,唐时达,法学院,上大学,律师费,湘潭大学,博士学位,湖南科技大学",
-        "source": "网易新闻",
-        "pub": "2026-09-10 22:58:18",
-        "heat": 73,
-        "heatRaw": 55,
-        "heatParts": {
-          "cross": 0,
-          "auth": 11,
-          "rank": 23,
-          "fresh": 21,
-          "kw": 0
-        },
-        "crossCount": 1,
-        "reportCount": 1,
-        "sources": [
-          "网易新闻"
-        ]
-      },
-      {
-        "title": "老人洪水时被蛇咬伤身亡 蛇场老板:无法证明蛇来自我这",
-        "link": "https://www.163.com/dy/article/L6GG6OEB051492T3.html",
-        "summary": "洪水之下60岁母亲被毒蛇咬伤身亡背后：附近无证养蛇场被冲垮大量蛇出逃，老板否认是他的蛇伤人｜红星深度,洪水,毒蛇,无证,蛇场",
-        "source": "网易新闻",
-        "pub": "2026-09-10 22:33:46",
-        "heat": 73,
-        "heatRaw": 55,
-        "heatParts": {
-          "cross": 0,
-          "auth": 11,
-          "rank": 17,
-          "fresh": 21,
-          "kw": 6
-        },
-        "crossCount": 1,
-        "reportCount": 1,
-        "sources": [
-          "网易新闻"
-        ]
-      },
-      {
-        "title": "已婚女子打赏男主播390万 开房后因＂没钱了＂被分手",
-        "link": "https://www.163.com/news/article/L6FU45C800019K82.html",
-        "summary": "已婚女子打赏24岁男主播390万元，见面开房后因“没钱了”被分手；关系败露后夫妻离婚，女子多次轻生，丈夫起诉要求主播及平台等全额返还,离婚,开房,分手,登记结婚",
-        "source": "网易新闻",
-        "pub": "2026-09-10 22:58:18",
-        "heat": 72,
-        "heatRaw": 53,
-        "heatParts": {
-          "cross": 0,
-          "auth": 11,
-          "rank": 22,
-          "fresh": 21,
-          "kw": 0
-        },
-        "crossCount": 1,
-        "reportCount": 1,
-        "sources": [
-          "网易新闻"
-        ]
       }
     ],
     "world": [
       {
-        "title": "习近平将赴印度出席金砖国家领导人第十八次会晤",
-        "link": "https://www.news.cn/world/20260910/a4ed10147d5c47139b3a40822b50238d/c.html",
-        "summary": "新华社北京9月10日电 外交部发言人9月10日宣布：应印度共和国总理莫迪邀请，国家主席习近平将于9月12日至13日赴印度新德里出席金砖国家领导人第十八次会晤。",
+        "title": "中国引领“大金砖合作”不断迈上新台阶",
+        "link": "https://www.news.cn/world/20260911/d1d44a0147dd4497ab35b44047c3b9bc/c.html",
+        "summary": "中国引领“大金砖合作”不断迈上新台阶-\"习近平主席多次主持或出席金砖国家领导人会晤，提出一系列推动金砖合作发展的重要主张和倡议。\"",
         "source": "新华网",
         "pub": "",
-        "heat": 90,
-        "heatRaw": 83,
+        "heat": 91,
+        "heatRaw": 84,
         "heatParts": {
           "cross": 22,
           "auth": 14,
           "rank": 23,
-          "fresh": 13,
-          "kw": 11
+          "fresh": 19,
+          "kw": 6
         },
-        "crossCount": 3,
-        "reportCount": 3,
+        "crossCount": 4,
+        "reportCount": 5,
         "sources": [
           "新华网",
+          "海外网",
+          "国际在线",
+          "中国新闻网"
+        ]
+      },
+      {
+        "title": "沙特输油管道遭伊拉克方向无人机袭击 伊总理下令紧急调查",
+        "link": "https://www.chinanews.com.cn/gj/2026/09-12/10695095.shtml",
+        "summary": "当地时间9月11日晚，伊拉克武装部队总司令发言人萨巴赫·努曼发表声明，谴责针对沙特发起的袭击，并表示反对任何危及沙特安全与稳定或损害两国兄弟关系的行为。",
+        "source": "中国新闻网",
+        "pub": "Sat, 12 Sep 2026 06:33:10 +0800",
+        "heat": 79,
+        "heatRaw": 64,
+        "heatParts": {
+          "cross": 0,
+          "auth": 13,
+          "rank": 17,
+          "fresh": 23,
+          "kw": 11
+        },
+        "crossCount": 1,
+        "reportCount": 2,
+        "sources": [
+          "中国新闻网"
+        ]
+      },
+      {
+        "title": "和总书记面对面·长征特辑｜继往开来，重整行装再出发",
+        "link": "https://news.haiwainet.cn/n/2026/0911/c3543307-32982383.html",
+        "summary": "开栏的话：今年是红军长征胜利90周年。从于都到湘江，从遵义到将台堡，党的十八大以来，习近平总书记多次到长征途经之地考察，深情重温长征故事，深刻阐释伟大长征精神，...",
+        "source": "海外网",
+        "pub": "",
+        "heat": 79,
+        "heatRaw": 65,
+        "heatParts": {
+          "cross": 11,
+          "auth": 13,
+          "rank": 22,
+          "fresh": 13,
+          "kw": 6
+        },
+        "crossCount": 2,
+        "reportCount": 2,
+        "sources": [
           "海外网",
           "国际在线"
         ]
       },
       {
-        "title": "中方在安理会伊朗核问题公开会程序性表决中投反对票",
-        "link": "https://www.chinanews.com.cn/gj/2026/09-11/10694364.shtml",
-        "summary": "中新社联合国9月10日电 联合国安理会10日举行伊朗核问题公开会。中国常驻联合国副代表孙磊在会上议程程序性表决中投下反对票，并敦促个别成员停止利用安理会推进自身政治议程，避免对伊朗核问题政治解决进程制造新的障碍。",
+        "title": "纽约纪念“9·11”事件25周年",
+        "link": "https://www.chinanews.com.cn/gj/2026/09-12/10695091.shtml",
+        "summary": "中新社纽约9月11日电 (记者 王帆)当地时间11日，数千人聚集在美国纽约世贸中心遗址广场，悼念25年前“9·11”恐怖袭击事件中的遇难者。",
         "source": "中国新闻网",
-        "pub": "Fri, 11 Sep 2026 06:35:18 +0800",
-        "heat": 79,
-        "heatRaw": 65,
-        "heatParts": {
-          "cross": 0,
-          "auth": 13,
-          "rank": 19,
-          "fresh": 23,
-          "kw": 11
-        },
-        "crossCount": 1,
-        "reportCount": 1,
-        "sources": [
-          "中国新闻网"
-        ]
-      },
-      {
-        "title": "美财政部宣布对伊朗相关个人和实体实施制裁",
-        "link": "https://www.chinanews.com.cn/gj/2026/09-11/10694362.shtml",
-        "summary": "当地时间9月10日，美国财政部发布声明称，作为对伊“经济孤立行动”的一部分，该部门下属的外国资产控制办公室将为伊朗在中东地区的代理人网络提供支持的个人和实体列入制裁清单，制裁对象包括黎真主党成员等。",
-        "source": "中国新闻网",
-        "pub": "Fri, 11 Sep 2026 06:25:05 +0800",
-        "heat": 79,
-        "heatRaw": 65,
-        "heatParts": {
-          "cross": 0,
-          "auth": 13,
-          "rank": 16,
-          "fresh": 23,
-          "kw": 14
-        },
-        "crossCount": 1,
-        "reportCount": 1,
-        "sources": [
-          "中国新闻网"
-        ]
-      },
-      {
-        "title": "黑海一货船遭无人机袭击致2名阿塞拜疆公民遇难",
-        "link": "https://www.chinanews.com.cn/gj/2026/09-11/10694365.shtml",
-        "summary": "中新社阿斯塔纳9月10日电 巴库消息：阿塞拜疆外交部10日发布通报称，一艘名为“泰迪”号(TEDY)的外国货船9日在黑海水域遭无人机袭击，造成2名阿塞拜疆籍船员遇难、2名阿籍船员受伤。",
-        "source": "中国新闻网",
-        "pub": "Fri, 11 Sep 2026 06:34:56 +0800",
+        "pub": "Sat, 12 Sep 2026 06:42:49 +0800",
         "heat": 78,
         "heatRaw": 63,
         "heatParts": {
           "cross": 0,
           "auth": 13,
-          "rank": 17,
+          "rank": 22,
           "fresh": 23,
-          "kw": 10
+          "kw": 6
         },
         "crossCount": 1,
         "reportCount": 1,
@@ -627,41 +643,40 @@
         ]
       },
       {
-        "title": "伊朗批评国际原子能机构理事会通过的伊核决议",
-        "link": "https://www.news.cn/world/20260910/30a87a99d4444d6091af786432c910b0/c.html",
-        "summary": "伊朗批评国际原子能机构理事会通过的伊核决议-伊朗外交部副部长加里巴巴迪9日批评国际原子能机构理事会当天通过的由英国、法国、德国共同推动的伊核问题决议，该决议主张将相关伊核问题提交至联合国安理会。",
-        "source": "新华网",
-        "pub": "",
-        "heat": 73,
-        "heatRaw": 55,
+        "title": "美国8月CPI同比上涨3.4%",
+        "link": "https://www.chinanews.com.cn/gj/2026/09-12/10695092.shtml",
+        "summary": "中新社华盛顿9月11日电 (记者 陈孟统)美国劳工部11日发布数据显示，美国8月消费者价格指数(CPI)同比上涨3.4%，环比上涨0.4%。",
+        "source": "中国新闻网",
+        "pub": "Sat, 12 Sep 2026 06:42:05 +0800",
+        "heat": 78,
+        "heatRaw": 63,
         "heatParts": {
-          "cross": 11,
-          "auth": 14,
-          "rank": 0,
-          "fresh": 19,
-          "kw": 11
+          "cross": 0,
+          "auth": 13,
+          "rank": 20,
+          "fresh": 23,
+          "kw": 8
         },
-        "crossCount": 2,
-        "reportCount": 2,
+        "crossCount": 1,
+        "reportCount": 1,
         "sources": [
-          "新华网",
           "中国新闻网"
         ]
       },
       {
-        "title": "'I'll never trust them again': Some Afghans who helped the U.S. post-9/11 regret it",
-        "link": "https://www.npr.org/2026/09/10/nx-s1-5958661/ill-never-trust-them-again-some-afghans-who-helped-the-u-s-post-9-11-regret-it",
-        "summary": "Soon after the Sept. 11 attacks, the U.S. launched what would become a 20-year war in Afghanistan. Some Afghans who help…",
+        "title": "Amid war and sanctions, many Iranians are losing their jobs and struggling to get by",
+        "link": "https://www.npr.org/2026/09/11/g-s1-142935/iran-us-war-jobs-economy",
+        "summary": "Many Iranians lost their jobs because of the war and the U.S. blockade. Now some are even losing their backup jobs as sa…",
         "source": "NPR",
-        "pub": "Thu, 10 Sep 2026 04:41:01 -0400",
-        "heat": 73,
-        "heatRaw": 55,
+        "pub": "Fri, 11 Sep 2026 15:39:35 -0400",
+        "heat": 78,
+        "heatRaw": 63,
         "heatParts": {
           "cross": 0,
           "auth": 12,
-          "rank": 20,
-          "fresh": 13,
-          "kw": 9
+          "rank": 22,
+          "fresh": 19,
+          "kw": 10
         },
         "crossCount": 1,
         "reportCount": 1,
@@ -670,40 +685,62 @@
         ]
       },
       {
-        "title": "Trump: Iran war will end right after US midterm elections",
-        "link": "https://news.cgtn.com/news/2026-09-10/Trump-Iran-war-will-end-right-after-US-midterm-elections-1QjOujXufg4/p.html",
-        "summary": "US President Donald Trump said on Wednesday that the war with Iran will end \"immediately after\" the US midterm elections…",
-        "source": "CGTN",
+        "title": "我们为什么要纪念长征",
+        "link": "https://news.cri.cn/20260911/23b02f40-6659-4871-85ab-3706a36fcd6d.html",
+        "summary": "今年是长征胜利90周年，我来到了长征集结出发地——江西于都。走在于都的建国路上，我发现很多老房子只有门框，没有门板。消失的门板背后藏着怎样的长征故事？我们为什么要纪念长征？今天，大白话讲给你听。（孟哲徐潘依如高洁）",
+        "source": "国际在线",
         "pub": "",
-        "heat": 73,
-        "heatRaw": 54,
+        "heat": 75,
+        "heatRaw": 58,
+        "heatParts": {
+          "cross": 11,
+          "auth": 13,
+          "rank": 13,
+          "fresh": 21,
+          "kw": 0
+        },
+        "crossCount": 2,
+        "reportCount": 2,
+        "sources": [
+          "国际在线",
+          "中国新闻网"
+        ]
+      },
+      {
+        "title": "UN chief warns against stoking Gulf tensions",
+        "link": "https://www.chinadaily.com.cn/a/202609/11/WS6aa349f6e4b06d4aa055d70e.html",
+        "summary": "United Nations Secretary-General Antonio Guterres has expressed concerns about the recent escalation in the Strait of Ho…",
+        "source": "中国日报网",
+        "pub": "",
+        "heat": 74,
+        "heatRaw": 56,
         "heatParts": {
           "cross": 0,
           "auth": 13,
-          "rank": 14,
+          "rank": 20,
           "fresh": 13,
-          "kw": 14
+          "kw": 9
         },
         "crossCount": 1,
         "reportCount": 1,
         "sources": [
-          "CGTN"
+          "中国日报网"
         ]
       },
       {
-        "title": "2026年中国国际服务贸易交易会在北京开幕",
-        "link": "https://www.news.cn/world/20260910/47d2926728494b299e43ce2fb5463b19/c.html",
-        "summary": "2026年中国国际服务贸易交易会在北京开幕-9月9日，2026年中国国际服务贸易交易会在北京首钢园开幕。",
+        "title": "2026澳中博览会开幕 助力双边经贸发展",
+        "link": "https://www.news.cn/world/20260910/8b90f0d079284cf789a87c0e495a47f0/c.html",
+        "summary": "9月10日，在澳大利亚墨尔本举行的2026澳中博览会上，参展商介绍澳大利亚羊毛制品。新华社记者 徐海静 摄",
         "source": "新华网",
         "pub": "",
-        "heat": 72,
-        "heatRaw": 53,
+        "heat": 73,
+        "heatRaw": 56,
         "heatParts": {
           "cross": 11,
           "auth": 14,
-          "rank": 10,
+          "rank": 17,
           "fresh": 13,
-          "kw": 4
+          "kw": 0
         },
         "crossCount": 2,
         "reportCount": 2,
@@ -713,82 +750,41 @@
         ]
       },
       {
-        "title": "US' record-breaking $40t national debt raises global concern",
-        "link": "https://www.chinadaily.com.cn/a/202609/10/WS6aa1f086e4b06d4aa055d365.html",
-        "summary": "The US Department of the Treasury must find immediate ways to reduce the record-breaking national debt of over $40 trill…",
-        "source": "中国日报网",
+        "title": "全球媒体聚焦 | 中国正在开启“科技旅游新时代”",
+        "link": "https://news.cri.cn/20260911/5381bbb2-f880-d62c-d240-cb44951d8dd5.html",
+        "summary": "近日，美国《旅行与旅游世界》网站刊文称，中国为世界提供了一个窥见未来的机会。与传统的旅游诉求不一样，人们现在前往中国是为了亲眼见证未来究竟能发展到何种程度，又将以何种速度飞速前进。美国《旅行与旅游世界》网站文章截图 文章说，近年来，随",
+        "source": "国际在线",
         "pub": "",
         "heat": 72,
         "heatRaw": 53,
         "heatParts": {
-          "cross": 0,
+          "cross": 11,
           "auth": 13,
-          "rank": 23,
-          "fresh": 13,
+          "rank": 7,
+          "fresh": 19,
           "kw": 3
         },
-        "crossCount": 1,
-        "reportCount": 1,
+        "crossCount": 2,
+        "reportCount": 2,
         "sources": [
-          "中国日报网"
-        ]
-      },
-      {
-        "title": "习近平：把金砖打造成推动全球治理变革的先锋力量",
-        "link": "https://news.cri.cn/20260910/52c1a838-6b39-47bd-a8ee-77833e230d11.html",
-        "summary": "【本期导读】 “金砖国家就像5根手指，伸开来各有所长，攥起来就是一只拳头。”作为金砖合作的积极倡导者和推动者，2013年以来，习近平主席主持或出席金砖国家领导人历次会晤，深刻阐述金砖合作之道。从首倡“金砖+”合作模式，到提出建设“五大",
-        "source": "国际在线",
-        "pub": "",
-        "heat": 71,
-        "heatRaw": 52,
-        "heatParts": {
-          "cross": 0,
-          "auth": 13,
-          "rank": 20,
-          "fresh": 13,
-          "kw": 6
-        },
-        "crossCount": 1,
-        "reportCount": 1,
-        "sources": [
-          "国际在线"
+          "国际在线",
+          "中国新闻网"
         ]
       }
     ],
     "medical": [
-      {
-        "title": "中国疾病预防控制中心与蒙古国家传染病中心续签合作...",
-        "link": "https://www.chinacdc.cn/zxyw/202609/t20260910_1840047.html",
-        "summary": "2026年9月3—4日，中心领导梅扬同志率团赴蒙古乌兰巴托访问，与蒙古卫生部、蒙古国家传染病中心、蒙古国家公共卫生中心、蒙古国家人兽共患病中心、世卫组织驻蒙古代表处等机构领导和专家开展了交流讨论。9月4日，梅扬同志代表中心与蒙古国家传染病中…",
-        "source": "中国疾控中心",
-        "pub": "",
-        "heat": 76,
-        "heatRaw": 60,
-        "heatParts": {
-          "cross": 0,
-          "auth": 13,
-          "rank": 22,
-          "fresh": 13,
-          "kw": 11
-        },
-        "crossCount": 1,
-        "reportCount": 3,
-        "sources": [
-          "中国疾控中心"
-        ]
-      },
       {
         "title": "中国疾控中心与新加坡国立大学签署合作谅解备忘录",
         "link": "https://www.chinacdc.cn/zxyw/202609/t20260906_1839855.html",
         "summary": "2026-09-06 中国疾控中心（中国预科院）青年科学家联盟举办第三期团山科研沙龙 2026-09-03",
         "source": "中国疾控中心",
         "pub": "",
-        "heat": 74,
-        "heatRaw": 56,
+        "heat": 73,
+        "heatRaw": 55,
         "heatParts": {
           "cross": 11,
           "auth": 13,
-          "rank": 19,
+          "rank": 17,
           "fresh": 7,
           "kw": 6
         },
@@ -800,22 +796,43 @@
         ]
       },
       {
-        "title": "中心（院）举办2026年教师节“师恩如光，桃李芬芳”...",
-        "link": "https://www.chinacdc.cn/zxyw/202609/t20260910_1840051.html",
-        "summary": "2026-09-07 廿五薪传 守正创新——2026年中国现场流行病学培训项目年度会议在贵阳召开 2026-09-06",
-        "source": "中国疾控中心",
+        "title": "家庭用药常见误区 医生权威解答来了",
+        "link": "https://jiankang.cctv.com/2026/09/09/ARTIa0DlKzNywaT5peiRZsJ8260909.shtml?spm=C88180.PGOAD39Q4iGU.ENdZKV0GjGYJ.9",
+        "summary": "药师提醒：药品开封后“有效期”≠“使用期限”，缓释片禁掰开，西柚不与药物同服，漏服勿补双倍剂量。",
+        "source": "央视网·健康",
         "pub": "",
-        "heat": 72,
-        "heatRaw": 54,
+        "heat": 73,
+        "heatRaw": 55,
         "heatParts": {
           "cross": 0,
           "auth": 13,
           "rank": 23,
-          "fresh": 13,
-          "kw": 4
+          "fresh": 7,
+          "kw": 11
         },
         "crossCount": 1,
         "reportCount": 1,
+        "sources": [
+          "央视网·健康"
+        ]
+      },
+      {
+        "title": "中国疾病预防控制中心与蒙古国家传染病中心续签合作...",
+        "link": "https://www.chinacdc.cn/zxyw/202609/t20260910_1840047.html",
+        "summary": "2026年9月3—4日，中心领导梅扬同志率团赴蒙古乌兰巴托访问，与蒙古卫生部、蒙古国家传染病中心、蒙古国家公共卫生中心、蒙古国家人兽共患病中心、世卫组织驻蒙古代表处等机构领导和专家开展了交流讨论。9月4日，梅扬同志代表中心与蒙古国家传染病中…",
+        "source": "中国疾控中心",
+        "pub": "",
+        "heat": 72,
+        "heatRaw": 53,
+        "heatParts": {
+          "cross": 0,
+          "auth": 13,
+          "rank": 20,
+          "fresh": 7,
+          "kw": 11
+        },
+        "crossCount": 1,
+        "reportCount": 3,
         "sources": [
           "中国疾控中心"
         ]
@@ -826,12 +843,12 @@
         "summary": "三部门印发眼健康服务工作方案，提出9方面任务，目标到2030年93%以上县医院设眼科，有效屈光不正矫正覆盖率持续提高。",
         "source": "央视网·健康",
         "pub": "",
-        "heat": 72,
-        "heatRaw": 53,
+        "heat": 71,
+        "heatRaw": 52,
         "heatParts": {
           "cross": 0,
           "auth": 13,
-          "rank": 23,
+          "rank": 22,
           "fresh": 7,
           "kw": 9
         },
@@ -842,18 +859,18 @@
         ]
       },
       {
-        "title": "廿五薪传 守正创新——2026年中国现场流行病学培训项...",
-        "link": "https://www.chinacdc.cn/zxyw/202609/t20260910_1840002.html",
-        "summary": "2026-09-06 中国疾控中心与新加坡国立大学签署合作谅解备忘录 2026-09-06",
+        "title": "“非洲国家新发再发传染病防控技术培训班”和“发展...",
+        "link": "https://www.chinacdc.cn/zxyw/202609/t20260910_1840073.html",
+        "summary": "2026-09-10 中心（院）举办2026年教师节“师恩如光，桃李芬芳”主题活动 2026-09-10",
         "source": "中国疾控中心",
         "pub": "",
-        "heat": 72,
-        "heatRaw": 53,
+        "heat": 70,
+        "heatRaw": 50,
         "heatParts": {
           "cross": 0,
           "auth": 13,
-          "rank": 20,
-          "fresh": 13,
+          "rank": 23,
+          "fresh": 7,
           "kw": 6
         },
         "crossCount": 1,
@@ -863,19 +880,40 @@
         ]
       },
       {
-        "title": "中新疾控机构2026年度技术圆桌会议在新加坡举行",
-        "link": "https://www.chinacdc.cn/zxyw/202609/t20260906_1839854.html",
-        "summary": "2026-09-06 中国疾控中心与新加坡国立大学签署合作谅解备忘录 2026-09-06",
-        "source": "中国疾控中心",
+        "title": "循证筑基守正创新 中医药抗衰成果写入产业年度报告",
+        "link": "https://www.news.cn/health/20260911/f7feda7cec8c4b4bab23af22a1aa6dfc/c.html",
+        "summary": "循证筑基守正创新 中医药抗衰成果写入产业年度报告-\"报告全景梳理全球及我国抗衰老产业发展全貌，系统研判技术演进、市场格局与政策走向，明确“中医药融合现代科技”为产业创新赛道，为积极应对人口老龄化、推进健康中国建设提供了产业维度的参考与实践路…",
+        "source": "新华网·健康",
         "pub": "",
-        "heat": 69,
-        "heatRaw": 48,
+        "heat": 70,
+        "heatRaw": 51,
         "heatParts": {
           "cross": 0,
           "auth": 13,
-          "rank": 17,
+          "rank": 10,
+          "fresh": 13,
+          "kw": 14
+        },
+        "crossCount": 1,
+        "reportCount": 1,
+        "sources": [
+          "新华网·健康"
+        ]
+      },
+      {
+        "title": "中心（院）举办2026年教师节“师恩如光，桃李芬芳”...",
+        "link": "https://www.chinacdc.cn/zxyw/202609/t20260910_1840051.html",
+        "summary": "2026-09-07 廿五薪传 守正创新——2026年中国现场流行病学培训项目年度会议在贵阳召开 2026-09-06",
+        "source": "中国疾控中心",
+        "pub": "",
+        "heat": 68,
+        "heatRaw": 47,
+        "heatParts": {
+          "cross": 0,
+          "auth": 13,
+          "rank": 22,
           "fresh": 7,
-          "kw": 10
+          "kw": 4
         },
         "crossCount": 1,
         "reportCount": 1,
@@ -884,17 +922,38 @@
         ]
       },
       {
+        "title": "恒瑞医药创新药恒曲新适应症获批 口服给药助力CTIT全程管理",
+        "link": "https://www.news.cn/health/20260911/dd051d7eceeb4235baf0c7553cf446e2/c.html",
+        "summary": "恒瑞医药创新药恒曲新适应症获批 口服给药助力CTIT全程管理-从中国注册研究到全球多地区Ⅲ期研究，从CTIT治疗到预防等更多管理场景探索，海曲泊帕正以更多循证证据拓展临床开发布局。",
+        "source": "新华网·健康",
+        "pub": "",
+        "heat": 67,
+        "heatRaw": 44,
+        "heatParts": {
+          "cross": 0,
+          "auth": 13,
+          "rank": 7,
+          "fresh": 13,
+          "kw": 10
+        },
+        "crossCount": 1,
+        "reportCount": 1,
+        "sources": [
+          "新华网·健康"
+        ]
+      },
+      {
         "title": "电解质水能天天喝吗",
         "link": "https://jiankang.cctv.com/2026/09/08/ARTIm0mYfrGEavgQhzrhAzkq260908.shtml",
         "summary": "近期，电解质水消费热度持续攀升。原本多用于运动场景的功能性饮品，正走入大众日常生活。与此同时，“电解质水真能成‘水替’吗”等问题也引发关注。电解质水为何走红？能天天喝吗？",
         "source": "央视网·健康",
         "pub": "",
-        "heat": 67,
-        "heatRaw": 45,
+        "heat": 66,
+        "heatRaw": 44,
         "heatParts": {
           "cross": 0,
           "auth": 13,
-          "rank": 22,
+          "rank": 20,
           "fresh": 7,
           "kw": 3
         },
@@ -905,61 +964,19 @@
         ]
       },
       {
-        "title": "有人跟你说“活着没意思”时，你该怎么接住这句话？",
-        "link": "https://www.news.cn/health/20260910/d2e0e274b3b74b0386948f37311dffbb/c.html",
-        "summary": "每年的9月10日，是世界预防自杀日。国际自杀预防协会（IASP）将2024–2026年的三年期主题确定为“改变关于自杀的叙事（Changing the Narrative on Suicide）”，呼吁全社会打破沉默、消除歧视，让每一个身处…",
+        "title": "四川省社会办医医师职业发展交流会在四川蓝生脑科医院召开",
+        "link": "https://www.news.cn/health/20260911/87030a7eadac43ffbfe0b852cb880cc8/c.html",
+        "summary": "四川省社会办医医师职业发展交流会在四川蓝生脑科医院召开-\"他在分享中提出，人才队伍与人工智能是蓝生脑科高质量发展的两个驱动轮，人才推动技术落地，技术赋能人才成长，协同护航旗下医院可持续发展。\"",
         "source": "新华网·健康",
         "pub": "",
-        "heat": 63,
-        "heatRaw": 38,
-        "heatParts": {
-          "cross": 0,
-          "auth": 13,
-          "rank": 12,
-          "fresh": 13,
-          "kw": 0
-        },
-        "crossCount": 1,
-        "reportCount": 1,
-        "sources": [
-          "新华网·健康"
-        ]
-      },
-      {
-        "title": "国家药监局通报不合格滴眼液",
-        "link": "https://www.news.cn/health/20260907/eda46996ab7147ff98478d7cb7826d69/c.html",
-        "summary": "国家药监局通报不合格滴眼液-\"9月4日，国家药监局通报37批次不符合规定药品，其中23批次为妥布霉素地塞米松滴眼液，涉及珍视明和成都青山利康两家企业。\"",
-        "source": "新华网·健康",
-        "pub": "",
-        "heat": 63,
-        "heatRaw": 39,
-        "heatParts": {
-          "cross": 0,
-          "auth": 13,
-          "rank": 4,
-          "fresh": 7,
-          "kw": 14
-        },
-        "crossCount": 1,
-        "reportCount": 1,
-        "sources": [
-          "新华网·健康"
-        ]
-      },
-      {
-        "title": "中国药监政策短片（第5期）| 生物制品分段生产：从试点破冰到入法落地",
-        "link": "https://www.news.cn/health/20260909/b6ba22398cf54f8eab2060dcc7ff93c9/c.html",
-        "summary": "中国药监政策短片（第5期）| 生物制品分段生产：从试点破冰到入法落地-",
-        "source": "新华网·健康",
-        "pub": "",
-        "heat": 60,
-        "heatRaw": 34,
+        "heat": 64,
+        "heatRaw": 40,
         "heatParts": {
           "cross": 0,
           "auth": 13,
           "rank": 9,
-          "fresh": 7,
-          "kw": 4
+          "fresh": 13,
+          "kw": 5
         },
         "crossCount": 1,
         "reportCount": 1,
@@ -970,74 +987,74 @@
     ],
     "ai": [
       {
-        "title": "ECCV上，顶尖学者们开始研究如何让AI做生意了",
-        "link": "https://www.qbitai.com/2026/09/486934.html",
-        "summary": "多模态AI大牛轮番登台，全球64支团队组团解题",
+        "title": "银行Agent上岗：4200万小微经营者可用，信贷、票据、财税一把梭",
+        "link": "https://www.qbitai.com/2026/09/487631.html",
+        "summary": "看清「一个真正的人」",
         "source": "量子位",
-        "pub": "Thu, 10 Sep 2026 10:17:46 +0000"
+        "pub": "Fri, 11 Sep 2026 18:02:36 +0000"
       },
       {
-        "title": "全球首个3D原生城市世界模型ABot-Earth 0.7发布，构建AI理解真实世界的入口",
-        "link": "https://www.qbitai.com/2026/09/486900.html",
-        "summary": "9月10日，阿里巴巴集团旗下高德正式发布全球首个3D原生城市世界模型ABot-Earth 0.7。",
+        "title": "啊？Anthropic最高320万招销售，只为服务Meta",
+        "link": "https://www.qbitai.com/2026/09/487573.html",
+        "summary": "原来你俩互相下单呢",
         "source": "量子位",
-        "pub": "Thu, 10 Sep 2026 08:17:05 +0000"
+        "pub": "Fri, 11 Sep 2026 14:05:16 +0000"
       },
       {
-        "title": "全球首个可仿真的人–场景交互重建框架 HSImul3R：让人类视频真正成为机器人技能来源",
-        "link": "https://www.qbitai.com/2026/09/486747.html",
-        "summary": "大晓机器人联合南洋理工大学 S-Lab、上海人工智能实验室发布全新人–场景交互重建研究 HSImul3R",
+        "title": "百度秒哒再升级！让最懂业务的人，亲手造自己的系统",
+        "link": "https://www.qbitai.com/2026/09/487415.html",
+        "summary": "把开发、交付和接单全打通了",
         "source": "量子位",
-        "pub": "Thu, 10 Sep 2026 07:57:55 +0000"
+        "pub": "Fri, 11 Sep 2026 13:59:09 +0000"
       },
       {
-        "title": "这个新开源的世界模型只有1.3B，单卡就能实时跑！",
-        "link": "https://www.qbitai.com/2026/09/486716.html",
-        "summary": "轻量版LingBot-World 2.0",
+        "title": "不简单，“吃货快乐榜”也全面AI化了",
+        "link": "https://www.qbitai.com/2026/09/487282.html",
+        "summary": "（暂无摘要）",
         "source": "量子位",
-        "pub": "Thu, 10 Sep 2026 07:44:00 +0000"
+        "pub": "Fri, 11 Sep 2026 08:59:28 +0000"
       },
       {
-        "title": "AGI时代的第一个生图模型，ChatGPT Images 2.5上线",
-        "link": "https://www.qbitai.com/2026/09/486684.html",
-        "summary": "主打生成更快，细节更好，改图也终于越来越像“真·修图”了。",
+        "title": "墨芯人工智能亮相2026 Inclusion·外滩大会：以专用稀疏推理芯片提升算力效能，共创AI新经济",
+        "link": "https://www.qbitai.com/2026/09/487273.html",
+        "summary": "9月9日，墨芯人工智能亮相以\"共创AI新经济\"为主题的2026 Inclusion·外滩大会。",
         "source": "量子位",
-        "pub": "Thu, 10 Sep 2026 07:25:39 +0000"
+        "pub": "Fri, 11 Sep 2026 06:19:03 +0000"
       },
       {
-        "title": "一周连发6个模型！这家公司把具身智能的闭环跑通了",
-        "link": "https://www.qbitai.com/2026/09/486625.html",
-        "summary": "模型可以开源，部署经验不能",
+        "title": "量子位「MEET2027智能未来大会」启动！年度榜单征集进行中",
+        "link": "https://www.qbitai.com/2026/09/487176.html",
+        "summary": "今年12月，北京，MEET2027智能未来大会！",
         "source": "量子位",
-        "pub": "Thu, 10 Sep 2026 04:55:38 +0000"
+        "pub": "Fri, 11 Sep 2026 03:57:32 +0000"
       },
       {
-        "title": "打造10万卡国产算力集群推出JoyAI世界模型，京东发布物理AI建设最新成果",
-        "link": "https://www.qbitai.com/2026/09/486436.html",
-        "summary": "9月9日，以“JoyAI · 跃迁物理世界”为主题的JDDiscovery-2026京东全球科技探索者大会在北京举行",
+        "title": "3万台无人车之后，这家公司盯上了城市级物理AI",
+        "link": "https://www.qbitai.com/2026/09/487163.html",
+        "summary": "（暂无摘要）",
         "source": "量子位",
-        "pub": "Thu, 10 Sep 2026 01:39:13 +0000"
+        "pub": "Fri, 11 Sep 2026 02:50:47 +0000"
       },
       {
-        "title": "实测星火X2.5：手搓粒子月亮、拆完61页财报……还顺手揪出了我的Bug",
-        "link": "https://www.qbitai.com/2026/09/486350.html",
-        "summary": "赶上了API限时五折",
+        "title": "OpenAI这是拿千禧年难题当Benchmark刷啊。。。",
+        "link": "https://www.qbitai.com/2026/09/487092.html",
+        "summary": "爆料直指霍奇猜想",
         "source": "量子位",
-        "pub": "Thu, 10 Sep 2026 00:42:06 +0000"
+        "pub": "Fri, 11 Sep 2026 01:46:55 +0000"
       },
       {
-        "title": "App+1｜下一节：教学工作紧张忙碌，下一节课从从容容",
-        "link": "https://sspai.com/post/114384",
-        "summary": "祝每一位老师教师节快乐！ 查看全文",
+        "title": "本周看什么 | 最近值得一看的 7 部作品",
+        "link": "https://sspai.com/post/114458",
+        "summary": "📅本周新预告《哥斯拉-0.0》正式预告9月8日，电影《哥斯拉-0.0》发布了正式预告，将于11月3日在日本上映、11月6日在北美上映。山崎贵回归担任导演、编剧和特效总监，神木隆之…",
         "source": "少数派",
-        "pub": "Thu, 10 Sep 2026 14:51:52 +0800"
+        "pub": "Fri, 11 Sep 2026 18:02:49 +0800"
       },
       {
-        "title": "派早报：Apple 发布 iPhone Duo 折叠屏等",
-        "link": "https://sspai.com/post/114394",
-        "summary": "奥之心发布 OM SYSTEM PEN 相机、Sonos 更新音频系统等。 查看全文",
+        "title": "iPhone 18 和 Duo 发布会上，Apple 没告诉你的那些事",
+        "link": "https://sspai.com/post/114449",
+        "summary": "新品尚未发货，我们继续整理了一些发布会中未提及的细节，不妨一起来看看有没有你感兴趣的。 查看全文",
         "source": "少数派",
-        "pub": "Thu, 10 Sep 2026 06:38:42 +0800"
+        "pub": "Fri, 11 Sep 2026 16:30:00 +0800"
       }
     ]
   },
