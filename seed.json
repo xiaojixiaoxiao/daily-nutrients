@@ -1,52 +1,52 @@
 {
-  "generatedAt": "2026-09-11T23:03:07.384Z",
-  "date": "2026-09-12",
+  "generatedAt": "2026-09-12T23:01:52.561Z",
+  "date": "2026-09-13",
   "books": {
-    "date": "2026-09-11",
+    "date": "2026-09-12",
     "books": [
       {
-        "title": "如何像女人那样思考：父权制下，女哲学家们的精神突围",
-        "author": "[美] 丽甘·佩纳卢纳",
-        "cover": "https://img1.doubanio.com/view/subject/s/public/s35589558.jpg",
+        "title": "哈拉维精华集",
+        "author": "[美] 唐娜·哈拉维",
+        "cover": "https://img9.doubanio.com/view/subject/s/public/s35587335.jpg",
         "rating": 0,
-        "ratingCount": 44,
-        "summary": "丽甘·佩纳卢纳自幼心怀宏大问题意识，她曾以为步入哲学殿堂是通往独立心灵的阶梯。然而，现实令她始料未及 ：主流学术圈的厌女文化与对女性智力的贬低，正无声地消磨着她的意志和才华，令她陷入 自我怀疑的泥淖。 直到她偶遇达玛丽斯·马沙姆及其同时代女性思想家的著作。那些曾被历史尘埃掩埋的名字，如同微光刺破黑暗。她们不仅重新点燃了佩纳卢纳对哲学的热爱，更让她意识到 ：社",
-        "authorBio": "《如何像女人那样思考：父权制下，女哲学家们的精神突围》由[美] 丽甘·佩纳卢纳撰写，于2026-8出版。",
-        "link": "https://book.douban.com/subject/38434682/",
+        "ratingCount": 12,
+        "summary": "哈拉维经典力作，两份振聋发聩、历久弥新的宣言，一次解读赛博格与伴侣物种的深度对话；全新译本，精准流畅，重启一场关于生命、技术、历史与未来的探索。 汇集哈拉维经典作品，一部极具价值的女性主义生命政治著作。 1.哈拉维经典力作，通向哈拉维哲学的理想门径。哈拉维是美国著名的哲学家，是当代妇女研究、文化批评领域的领军人物。她的研究已经成为后现代文化批判的重要资源，被",
+        "authorBio": "《哈拉维精华集》由[美] 唐娜·哈拉维撰写，于2026-8出版。",
+        "link": "https://book.douban.com/subject/38546836/",
         "pubDate": "2026-8",
         "tag": "new"
       },
       {
-        "title": "透明人",
-        "author": "[苏]伊利亚·伊里夫",
-        "cover": "https://img1.doubanio.com/view/subject/s/public/s35528640.jpg",
+        "title": "中国人的自画像：中国文学史中的自传与自我表述",
+        "author": "[德] 鲍吾刚",
+        "cover": "https://img9.doubanio.com/view/subject/s/public/s35584895.jpg",
         "rating": 0,
-        "ratingCount": 42,
-        "summary": "比卡夫卡更荒诞的打工人寓言 正常的时候被当成小透明，变成透明人后却被当成了大英雄 - ——编辑推荐—— ⭐苏俄讽刺文学不朽经典，伊里夫与彼得罗夫的中短篇小说集首次完整呈现 继承果戈里以来的俄国讽刺文学传统，发扬《十二把椅子》与《金牛犊》的喜剧精神，高尔基、巴比塞、辛克莱等名家交口称赞。近百年来多次再版，为俄语文学奉献了众多捧腹笑料。 🫥顶级荒诞的喜剧寓言",
-        "authorBio": "《透明人》由[苏]伊利亚·伊里夫撰写，于2026-8出版。",
-        "link": "https://book.douban.com/subject/38487618/",
-        "pubDate": "2026-8",
+        "ratingCount": 0,
+        "summary": "中国人如何理解和书写“自我”？作为“个体”的中国人是如何“思想”的？在这部历经30年而成的鸿篇巨制中，作者爬梳自先秦至当代的1500多篇自传和自述作品，涵盖散文、诗词、书信、日记、自传、年谱等不同文体，从中描述和考察中国人的“自我”人格特征的发展，挖掘其典型性和连贯性。近400位性情各异的哲人、史家、政客、诗人、隐士、画家等次第登场，共同呈现作为中国人的整体",
+        "authorBio": "《中国人的自画像：中国文学史中的自传与自我表述》由[德] 鲍吾刚撰写，于2026-7出版。",
+        "link": "https://book.douban.com/subject/38404173/",
+        "pubDate": "2026-7",
         "tag": "new"
       }
     ],
     "quotes": [
       {
-        "text": "生活不止眼前的苟且，还有诗和远方的田野。",
-        "author": "高晓松",
-        "bio": "音乐人、词作者。",
-        "bg": "出自歌曲《生活不止眼前的苟且》，劝人在日常之外保留远方想象。"
+        "text": "你一定要走，走到灯火通明。",
+        "author": "吴青峰",
+        "bio": "音乐人，苏打绿主唱。",
+        "bg": "出自歌曲《蜂鸟》，以执拗的温柔鼓励人走到光里。"
       },
       {
-        "text": "自由不是随心所欲，而是自我主宰。",
-        "author": "康德",
-        "bio": "德国哲学家，启蒙思想巨擘。",
-        "bg": "体现康德对理性的尊重：真正的自由是服从自己立下的法则，而非被欲望驱使。"
+        "text": "如果你因错过太阳而流泪，那么你也将错过群星。",
+        "author": "泰戈尔",
+        "bio": "印度诗人，诺贝尔文学奖得主。",
+        "bg": "出自《飞鸟集》，劝人莫耽于过往遗憾，而错失眼前与未来。"
       },
       {
-        "text": "没有什么比时间更具有说服力了，因为时间无需通知我们就可以改变一切。",
-        "author": "余华",
-        "bio": "当代作家，《活着》作者。",
-        "bg": "出自《活着》式苍凉叙述，写尽命运在无言流逝中的改写。"
+        "text": "每个人都有一个必将遇见的未来，它正在路上。",
+        "author": "宫崎骏",
+        "bio": "日本动画大师。",
+        "bg": "宫崎骏作品常传递对未来的温柔笃定，勉励人向前。"
       }
     ],
     "source": "douban",
@@ -279,28 +279,15 @@
     }
   ],
   "english": {
-    "date": "2026-09-11",
+    "date": "2026-09-12",
     "news": {
-      "type": "speech",
-      "title": "Build a tower, build a team",
-      "summary": "Tom Wujec presents some surprisingly deep research into the \"marshmallow problem\" -- a simple team-building exercise that involves dry spaghetti, one yard of tape and a marshmallow. Who can build the tallest tower with these ingredients? And why does a surprising group always beat the average?",
-      "link": "https://www.ted.com/talks/tom_wujec_build_a_tower_build_a_team",
-      "videoLink": "https://www.ted.com/talks/tom_wujec_build_a_tower_build_a_team",
-      "cover": "https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/acda85c0-8e5f-4c78-8338-224e7ecf216c/TomWujec_2010U-stageshot.jpg",
-      "source": "TED",
-      "duration": 394,
+      "type": "news",
+      "title": "RFK Jr.'s new dietary guidelines go all in on meat and dairy",
+      "summary": "Health Secretary Robert F. Kennedy Jr. has announced new dietary guidelines for Americans …",
+      "link": "https://www.npr.org/2026/01/07/nx-s1-5667021/dietary-guidelines-rfk-jr-nutrition",
+      "source": "NPR · Health Shots",
       "content": [
-        "Several years ago here at TED, Peter Skillman introduced a design challenge called the marshmallow challenge. And the idea's pretty simple: Teams of four have to build the tallest free-standing structure out of 20 sticks of spaghetti, one yard of tape, one yard of string and a marshmallow. The marshmallow has to be on top. And, though it seems really simple, it's actually pretty hard because it forces people to collaborate very quickly. And so, I thought this was an interesting idea, and I incorporated it into a design workshop. And it was a huge success. And since then, I've conducted about 70 design workshops across the world with students and designers and architects, even the CTOs of the Fortune 50, and there's something about this exercise that reveals very deep lessons about the nature of collaboration, and I'd like to share some of them with you.",
-        "So, normally, most people begin by orienting themselves to the task. They talk about it, they figure out what it's going to look like, they jockey for power. Then they spend some time planning, organizing, they sketch and they lay out spaghetti. They spend the majority of their time assembling the sticks into ever-growing structures. And then finally, just as they're running out of time, someone takes out the marshmallow, and then they gingerly put it on top, and then they stand back, and -- ta-da! -- they admire their work. But what really happens, most of the time, is that the \"ta-da\" turns into an \"uh-oh,\" because the weight of the marshmallow causes the entire structure to buckle and to collapse.",
-        "So there are a number of people who have a lot more \"uh-oh\" moments than others, and among the worst are recent graduates of business school. (Laughter) They lie, they cheat, they get distracted and they produce really lame structures. And of course there are teams that have a lot more \"ta-da\" structures, and among the best are recent graduates of kindergarten. (Laughter) And it's pretty amazing. As Peter tells us, not only do they produce the tallest structures, but they're the most interesting structures of them all.",
-        "So the question you want to ask is: How come? Why? What is it about them? And Peter likes to say that none of the kids spend any time trying to be CEO of Spaghetti, Inc. Right? They don't spend time jockeying for power. But there's another reason as well. And the reason is that business students are trained to find the single right plan, right? And then they execute on it. And then what happens is, when they put the marshmallow on the top, they run out of time and what happens? It's a crisis. Sound familiar? Right. What kindergarteners do differently is that they start with the marshmallow, and they build prototypes, successive prototypes, always keeping the marshmallow on top, so they have multiple times to fix when they build prototypes along the way. Designers recognize this type of collaboration as the essence of the iterative process. And with each version, kids get instant feedback about what works and what doesn't work.",
-        "So the capacity to play in prototype is really essential, but let's look at how different teams perform. So the average for most people is around 20 inches; business schools students, about half of that; lawyers, a little better, but not much better than that, kindergarteners, better than most adults. Who does the very best? Architects and engineers, thankfully. (Laughter) Thirty-nine inches is the tallest structure I've seen. And why is it? Because they understand triangles and self-reinforcing geometrical patterns are the key to building stable structures. So CEOs, a little bit better than average, but here's where it gets interesting. If you put you put an executive admin. on the team, they get significantly better. (Laughter) It's incredible. You know, you look around, you go, \"Oh, that team's going to win.\" You can just tell beforehand. And why is that? Because they have special skills of facilitation. They manage the process, they understand the process. And any team who manages and pays close attention to work will significantly improve the team's performance. Specialized skills and facilitation skills are the combination that leads to strong success. If you have 10 teams that typically perform, you'll get maybe six or so that have standing structures.",
-        "And I tried something interesting. I thought, let's up the ante, once. So I offered a 10,000 dollar prize of software to the winning team. So what do you think happened to these design students? What was the result? Here's what happened: Not one team had a standing structure. If anyone had built, say, a one inch structure, they would have taken home the prize. So, isn't that interesting? That high stakes have a strong impact. We did the exercise again with the same students. What do you think happened then? So now they understand the value of prototyping. So the same team went from being the very worst to being among the very best. They produced the tallest structures in the least amount of time. So there's deep lessons for us about the nature of incentives and success.",
-        "So, you might ask: Why would anyone actually spend time writing a marshmallow challenge? And the reason is, I help create digital tools and processes to help teams build cars and video games and visual effects. And what the marshmallow challenge does is it helps them identify the hidden assumptions. Because, frankly, every project has its own marshmallow, doesn't it? The challenge provides a shared experience, a common language, a common stance to build the right prototype. And so, this is the value of the experience, of this so simple exercise.",
-        "And those of you who are interested may want to go to MarshmallowChallenge.com. It's a blog that you can look at how to build the marshmallows. There's step-by-step instructions on this. There are crazy examples from around the world of how people tweak and adjust the system. There's world records that are on this as well.",
-        "And the fundamental lesson, I believe, is that design truly is a contact sport. It demands that we bring all of our senses to the task, and that we apply the very best of our thinking, our feeling and our doing to the challenge that we have at hand. And sometimes, a little prototype of this experience is all that it takes to turn us from an \"uh-oh\" moment to a \"ta-da\" moment. And that can make a big difference.",
-        "Thank you very much.",
-        "(Applause)"
+        "Health Secretary Robert F. Kennedy Jr. has announced new dietary guidelines for Americans …"
       ],
       "dataSources": [
         {
@@ -337,106 +324,65 @@
   "news": {
     "domestic": [
       {
-        "title": "习近平将赴印度出席金砖国家领导人第十八次会晤",
-        "link": "http://politics.people.com.cn/n1/2026/0911/c1024-40796437.html",
-        "summary": "新华社北京9月10日电外交部发言人10日宣布：应印度共和国总理莫迪邀请，国家主席习近平将于9月12日至13日赴印度新德里出席金砖国家领导人第十八次会晤。 《人民日报》（2026年09月11日01",
-        "source": "人民网",
+        "title": "重温习近平主席在金砖峰会的精彩时刻",
+        "link": "https://www.news.cn/politics/leaders/20260911/2fb6ea796358483198cc9dc53febf419/c.html",
+        "summary": "应印度共和国总理莫迪邀请，国家主席习近平将于9月12日至13日赴印度新德里出席金砖国家领导人第十八次会晤。",
+        "source": "新华网",
         "pub": "",
-        "heat": 86,
-        "heatRaw": 76,
+        "heat": 92,
+        "heatRaw": 87,
         "heatParts": {
-          "cross": 11,
+          "cross": 22,
           "auth": 14,
           "rank": 23,
           "fresh": 21,
           "kw": 6
         },
-        "crossCount": 2,
-        "reportCount": 8,
+        "crossCount": 3,
+        "reportCount": 13,
         "sources": [
           "人民网",
-          "新华网"
+          "新华网",
+          "中国新闻网"
         ]
       },
       {
-        "title": "和音丨开创“大金砖合作”高质量发展新局面",
-        "link": "http://opinion.people.com.cn/n1/2026/0911/c461529-40796447.html",
-        "summary": "中方愿同金砖各国一道，淬炼金砖成色，展现金砖力量，不断开创“大金砖合作”高质量发展新局面，携手更多全球南方国家共同推动构建人类命运共同体 应印度共和国总理莫迪邀请，习近平主席将于9月12日至",
+        "title": "习近平会见印度总理莫迪",
+        "link": "http://pic.people.com.cn/n1/2026/0912/c426981-40797580.html",
+        "summary": "当地时间9月12日下午，国家主席习近平在印度新德里出席金砖国家领导人第十八次会晤期间会见印度总理莫迪。新华社记者王晔摄",
         "source": "人民网",
         "pub": "",
-        "heat": 84,
-        "heatRaw": 73,
+        "heat": 89,
+        "heatRaw": 81,
         "heatParts": {
-          "cross": 11,
+          "cross": 22,
           "auth": 14,
-          "rank": 20,
+          "rank": 17,
           "fresh": 21,
           "kw": 6
         },
-        "crossCount": 2,
-        "reportCount": 6,
+        "crossCount": 3,
+        "reportCount": 5,
         "sources": [
           "人民网",
-          "新华网"
+          "新华网",
+          "中国新闻网"
         ]
       },
       {
-        "title": "山东诸城偷排危废致4死案续：主犯王辉已被执行死刑",
-        "link": "https://www.thepaper.cn/newsDetail_forward_34051845",
-        "summary": "山东诸城偷排危废致4人死亡案主犯王辉已被执行死刑。 9月11日下午，澎湃新闻从此案被害人家属李宏宇处了解到，当日，她接到了潍坊中院工作人员的通知，称王辉已被执行",
-        "source": "澎湃新闻",
+        "title": "习近平宣布中国将于明年接任金砖主席国",
+        "link": "http://politics.people.com.cn/n1/2026/0912/c1024-40797532.html",
+        "summary": "当地时间9月12日下午，国家主席习近平在新德里出席金砖国家领导人第十八次会晤第一阶段会议时宣布，中国将于明年接任金砖主席国，主办金砖国家领导人第十九次会晤。习近平强调，中方愿以此为契机，同各方凝聚共识",
+        "source": "人民网",
         "pub": "",
-        "heat": 82,
-        "heatRaw": 69,
+        "heat": 88,
+        "heatRaw": 80,
         "heatParts": {
           "cross": 11,
-          "auth": 11,
-          "rank": 22,
-          "fresh": 21,
-          "kw": 4
-        },
-        "crossCount": 2,
-        "reportCount": 2,
-        "sources": [
-          "澎湃新闻",
-          "网易新闻"
-        ]
-      },
-      {
-        "title": "“妈祖”守护四海安澜",
-        "link": "https://www.ce.cn/xwzx/gnsz/gdxw/202609/t20260912_3208356.shtml",
-        "summary": "Universal，普惠，简写为U。 连在一起，就是“MAZU”——中国面向全球发布的气象智能预警方案“妈祖”。",
-        "source": "中国经济网",
-        "pub": "",
-        "heat": 80,
-        "heatRaw": 66,
-        "heatParts": {
-          "cross": 0,
-          "auth": 12,
+          "auth": 14,
           "rank": 23,
           "fresh": 21,
           "kw": 10
-        },
-        "crossCount": 1,
-        "reportCount": 1,
-        "sources": [
-          "中国经济网"
-        ]
-      },
-      {
-        "title": "擦亮全球南方合作的“金字招牌”",
-        "link": "https://www.news.cn/politics/leaders/20260911/737936a8d61b4c8883940d9ad6e8e0b7/c.html",
-        "summary": "上海浦东，高150米的金砖国家新开发银行总部大楼矗立于世博园区，这是金砖国家团结合作的象征。",
-        "source": "新华网",
-        "pub": "",
-        "heat": 76,
-        "heatRaw": 60,
-        "heatParts": {
-          "cross": 11,
-          "auth": 14,
-          "rank": 22,
-          "fresh": 13,
-          "kw": 0
         },
         "crossCount": 2,
         "reportCount": 3,
@@ -446,103 +392,147 @@
         ]
       },
       {
-        "title": "日月谭天丨“台独”分子与“太上皇”一唱一和，台湾恐被推向更险境",
-        "link": "https://www.thepaper.cn/newsDetail_forward_34053072",
-        "summary": "在9月9日举行的“2026台北安全对话”论坛上，“台独”分子与他们的“太上皇”上演了一场令人瞠目的“双簧戏”。 自视为“台湾太上皇”的美国在台协会（AIT）台北",
+        "title": "山西省委常委胡立杰跨省调任江苏省委常委",
+        "link": "https://www.thepaper.cn/newsDetail_forward_34057688",
+        "summary": "2026年9月12日，交汇点客户端发布消息：中共中央批准：胡立杰同志任江苏省委委员、常委。 胡立杰，女，1971年10月出生，汉族，中共党员，1998年7月参加",
         "source": "澎湃新闻",
         "pub": "",
-        "heat": 76,
-        "heatRaw": 61,
+        "heat": 84,
+        "heatRaw": 74,
         "heatParts": {
           "cross": 11,
           "auth": 11,
-          "rank": 17,
+          "rank": 20,
+          "fresh": 21,
+          "kw": 10
+        },
+        "crossCount": 2,
+        "reportCount": 2,
+        "sources": [
+          "澎湃新闻",
+          "网易新闻"
+        ]
+      },
+      {
+        "title": "公职人员醉驾致一对夫妻身亡、死者家属质疑主次责任认定，警方通报",
+        "link": "https://www.thepaper.cn/newsDetail_forward_34058193",
+        "summary": "9月12日，山西省临汾市蒲县公安局发布情况通报： 关于媒体报道“山西一镇政府公职人员醉驾酿事故致一对夫妻身亡，死者家属质疑事故认定主次责之分申请复核”一事，现就",
+        "source": "澎湃新闻",
+        "pub": "",
+        "heat": 82,
+        "heatRaw": 70,
+        "heatParts": {
+          "cross": 11,
+          "auth": 11,
+          "rank": 16,
+          "fresh": 21,
+          "kw": 10
+        },
+        "crossCount": 2,
+        "reportCount": 3,
+        "sources": [
+          "澎湃新闻",
+          "网易新闻"
+        ]
+      },
+      {
+        "title": "习近平 主席重要讲话为推动金砖合作行稳致远凝聚力量",
+        "link": "https://www.news.cn/politics/leaders/20260913/501ffab5667842efbdff0f2a6cfc549c/c.html",
+        "summary": "勇做时代先锋 共创繁荣进步的光明前景——习近平主席重要讲话为推动金砖合作行稳致远凝聚力量-",
+        "source": "新华网",
+        "pub": "",
+        "heat": 81,
+        "heatRaw": 68,
+        "heatParts": {
+          "cross": 11,
+          "auth": 14,
+          "rank": 16,
+          "fresh": 21,
+          "kw": 6
+        },
+        "crossCount": 2,
+        "reportCount": 2,
+        "sources": [
+          "人民网",
+          "新华网"
+        ]
+      },
+      {
+        "title": "习近平出席金砖国家领导人第十八次会晤第一阶段会议并发表重要讲话",
+        "link": "http://pic.people.com.cn/n1/2026/0912/c426981-40797579.html",
+        "summary": "当地时间9月12日下午，国家主席习近平在新德里出席金砖国家领导人第十八次会晤第一阶段会议。习近平发表题为《共担时代责任勇做先锋力量》的重要讲话。新华社记者燕雁摄",
+        "source": "人民网",
+        "pub": "",
+        "heat": 79,
+        "heatRaw": 65,
+        "heatParts": {
+          "cross": 0,
+          "auth": 14,
+          "rank": 19,
+          "fresh": 21,
+          "kw": 10
+        },
+        "crossCount": 1,
+        "reportCount": 3,
+        "sources": [
+          "人民网"
+        ]
+      },
+      {
+        "title": "2026年中国国际服务贸易交易会迎来公众开放日",
+        "link": "https://www.news.cn/photo/20260912/c742a5ea898a4816b313d66a109c1e07/c.html",
+        "summary": "2026年中国国际服务贸易交易会迎来公众开放日-9月12日和13日，2026年中国国际服务贸易交易会迎来为期2天的公众开放日，观众可通过预约免费进入北京首钢园参观，近距离感受服贸会的魅力。",
+        "source": "新华网",
+        "pub": "",
+        "heat": 79,
+        "heatRaw": 65,
+        "heatParts": {
+          "cross": 11,
+          "auth": 14,
+          "rank": 19,
           "fresh": 21,
           "kw": 0
         },
         "crossCount": 2,
         "reportCount": 2,
         "sources": [
-          "澎湃新闻",
-          "网易新闻"
+          "新华网",
+          "中国经济网"
         ]
       },
       {
-        "title": "9月12日新闻早报",
-        "link": "https://www.chinanews.com.cn/iframe/2026/09-12/10695099.shtml",
-        "summary": "临时调控再出手！油价少涨了 打车20元路程竟收40元？起底计价器虚增里程猫腻",
+        "title": "李鸿忠赴俄罗斯出席第七届中俄中小企业实业论坛并访问伊尔库茨克州",
+        "link": "https://www.chinanews.com.cn/gn/2026/09-13/10695502.shtml",
+        "summary": "中新社莫斯科9月12日电 9月9日至12日，中共中央政治局委员，全国人大常委会副委员长，中俄友好、和平与发展委员会中方主席李鸿忠在莫斯科出席第七届中俄中小企业实业论坛开幕式并致辞；与俄罗斯联邦委员会主席马特维延科，国家杜马第一副主席梅利尼科…",
         "source": "中国新闻网",
-        "pub": "Sat, 12 Sep 2026 07:00:14 +0800",
+        "pub": "Sun, 13 Sep 2026 06:47:41 +0800",
+        "heat": 78,
+        "heatRaw": 64,
+        "heatParts": {
+          "cross": 0,
+          "auth": 13,
+          "rank": 22,
+          "fresh": 23,
+          "kw": 6
+        },
+        "crossCount": 1,
+        "reportCount": 2,
+        "sources": [
+          "中国新闻网"
+        ]
+      },
+      {
+        "title": "曼德海峡局势趋紧 霍尔木兹海峡航运磋商将启 国际油价仍维持高位",
+        "link": "https://www.chinanews.com.cn/gj/2026/09-13/10695508.shtml",
+        "summary": "近期，也门胡塞武装夺取了多个红海地区的关键战略要地并与沙特持续发生激烈冲突，曼德海峡局势骤然趋紧。在12日胡塞武装称将就沙特在过去48小时对也门多地发动的129次袭击进行报复后，胡塞武装于13日凌晨发声称打击沙特的多处军事设施。",
+        "source": "中国新闻网",
+        "pub": "Sun, 13 Sep 2026 06:51:20 +0800",
         "heat": 75,
         "heatRaw": 59,
         "heatParts": {
           "cross": 0,
           "auth": 13,
           "rank": 23,
-          "fresh": 23,
-          "kw": 0
-        },
-        "crossCount": 1,
-        "reportCount": 1,
-        "sources": [
-          "中国新闻网"
-        ]
-      },
-      {
-        "title": "美国8月CPI同比上涨3.4%",
-        "link": "https://www.chinanews.com.cn/gj/2026/09-12/10695092.shtml",
-        "summary": "中新社华盛顿9月11日电 (记者 陈孟统)美国劳工部11日发布数据显示，美国8月消费者价格指数(CPI)同比上涨3.4%，环比上涨0.4%。",
-        "source": "中国新闻网",
-        "pub": "Sat, 12 Sep 2026 06:42:05 +0800",
-        "heat": 75,
-        "heatRaw": 59,
-        "heatParts": {
-          "cross": 0,
-          "auth": 13,
-          "rank": 16,
-          "fresh": 23,
-          "kw": 8
-        },
-        "crossCount": 1,
-        "reportCount": 1,
-        "sources": [
-          "中国新闻网"
-        ]
-      },
-      {
-        "title": "“葫芦娃爷爷”重新挂出葫芦：“如果人多，就减少互动”",
-        "link": "https://www.thepaper.cn/newsDetail_forward_34050314",
-        "summary": "9月11日，六天前亲手剪下葫芦的绍兴“葫芦娃爷爷”陈金敖又将7只葫芦挂回自家临水阳台的葫芦架上。澎湃新闻当天下午从老人所在的越城区府山街道书圣故里社区证实了这一",
-        "source": "澎湃新闻",
-        "pub": "",
-        "heat": 75,
-        "heatRaw": 58,
-        "heatParts": {
-          "cross": 11,
-          "auth": 11,
-          "rank": 17,
-          "fresh": 19,
-          "kw": 0
-        },
-        "crossCount": 2,
-        "reportCount": 2,
-        "sources": [
-          "澎湃新闻",
-          "网易新闻"
-        ]
-      },
-      {
-        "title": "WTT澳门冠军赛：中国队三人晋级单打八强",
-        "link": "https://www.chinanews.com.cn/ty/2026/09-12/10695098.shtml",
-        "summary": "世界乒乓球职业大联盟(WTT)澳门冠军赛11日展开八分之一决赛，中国队选手陈幸同、陈熠、周启豪晋级。",
-        "source": "中国新闻网",
-        "pub": "Sat, 12 Sep 2026 06:55:11 +0800",
-        "heat": 74,
-        "heatRaw": 57,
-        "heatParts": {
-          "cross": 0,
-          "auth": 13,
-          "rank": 22,
           "fresh": 23,
           "kw": 0
         },
@@ -555,22 +545,22 @@
     ],
     "world": [
       {
-        "title": "中国引领“大金砖合作”不断迈上新台阶",
-        "link": "https://www.news.cn/world/20260911/d1d44a0147dd4497ab35b44047c3b9bc/c.html",
-        "summary": "中国引领“大金砖合作”不断迈上新台阶-\"习近平主席多次主持或出席金砖国家领导人会晤，提出一系列推动金砖合作发展的重要主张和倡议。\"",
+        "title": "习近平出席金砖国家领导人第十八次会晤第一阶段会议并发表重要讲话",
+        "link": "https://www.news.cn/world/20260912/3286d45fd68a49c2b7b04579ba25795b/c.html",
+        "summary": "当地时间9月12日下午，国家主席习近平在新德里出席金砖国家领导人第十八次会晤第一阶段会议。习近平发表题为《共担时代责任　勇做先锋力量》的重要讲话。新华社记者 燕雁 摄",
         "source": "新华网",
         "pub": "",
-        "heat": 91,
-        "heatRaw": 84,
+        "heat": 94,
+        "heatRaw": 89,
         "heatParts": {
           "cross": 22,
           "auth": 14,
           "rank": 23,
           "fresh": 19,
-          "kw": 6
+          "kw": 10
         },
         "crossCount": 4,
-        "reportCount": 5,
+        "reportCount": 8,
         "sources": [
           "新华网",
           "海外网",
@@ -579,40 +569,41 @@
         ]
       },
       {
-        "title": "沙特输油管道遭伊拉克方向无人机袭击 伊总理下令紧急调查",
-        "link": "https://www.chinanews.com.cn/gj/2026/09-12/10695095.shtml",
-        "summary": "当地时间9月11日晚，伊拉克武装部队总司令发言人萨巴赫·努曼发表声明，谴责针对沙特发起的袭击，并表示反对任何危及沙特安全与稳定或损害两国兄弟关系的行为。",
-        "source": "中国新闻网",
-        "pub": "Sat, 12 Sep 2026 06:33:10 +0800",
-        "heat": 79,
-        "heatRaw": 64,
+        "title": "菲律宾客船起火事故致35人死亡、54人失联",
+        "link": "https://www.news.cn/world/20260911/8c66017086e8445cbdf0c0b5d3cb6f0c/c.html",
+        "summary": "9月11日，在菲律宾巴拉望省，救援人员在事故现场工作。新华社发（菲律宾海警供图）",
+        "source": "新华网",
+        "pub": "",
+        "heat": 83,
+        "heatRaw": 72,
         "heatParts": {
-          "cross": 0,
-          "auth": 13,
+          "cross": 11,
+          "auth": 14,
           "rank": 17,
           "fresh": 23,
-          "kw": 11
+          "kw": 6
         },
-        "crossCount": 1,
-        "reportCount": 2,
+        "crossCount": 2,
+        "reportCount": 4,
         "sources": [
+          "新华网",
           "中国新闻网"
         ]
       },
       {
-        "title": "和总书记面对面·长征特辑｜继往开来，重整行装再出发",
-        "link": "https://news.haiwainet.cn/n/2026/0911/c3543307-32982383.html",
-        "summary": "开栏的话：今年是红军长征胜利90周年。从于都到湘江，从遵义到将台堡，党的十八大以来，习近平总书记多次到长征途经之地考察，深情重温长征故事，深刻阐释伟大长征精神，...",
+        "title": "习近平宣布中国将于明年接任金砖主席国",
+        "link": "https://news.haiwainet.cn/n/2026/0912/c3543307-32982561.html",
+        "summary": "新德里9月12日电当地时间9月12日下午，国家主席习近平在新德里出席金砖国家领导人第十八次会晤第一阶段会议时宣布，中国将于明年接任金砖主席国，主办金砖国...",
         "source": "海外网",
         "pub": "",
-        "heat": 79,
-        "heatRaw": 65,
+        "heat": 82,
+        "heatRaw": 69,
         "heatParts": {
           "cross": 11,
           "auth": 13,
           "rank": 22,
           "fresh": 13,
-          "kw": 6
+          "kw": 10
         },
         "crossCount": 2,
         "reportCount": 2,
@@ -622,88 +613,69 @@
         ]
       },
       {
-        "title": "纽约纪念“9·11”事件25周年",
-        "link": "https://www.chinanews.com.cn/gj/2026/09-12/10695091.shtml",
-        "summary": "中新社纽约9月11日电 (记者 王帆)当地时间11日，数千人聚集在美国纽约世贸中心遗址广场，悼念25年前“9·11”恐怖袭击事件中的遇难者。",
-        "source": "中国新闻网",
-        "pub": "Sat, 12 Sep 2026 06:42:49 +0800",
-        "heat": 78,
-        "heatRaw": 63,
-        "heatParts": {
-          "cross": 0,
-          "auth": 13,
-          "rank": 22,
-          "fresh": 23,
-          "kw": 6
-        },
-        "crossCount": 1,
-        "reportCount": 1,
-        "sources": [
-          "中国新闻网"
-        ]
-      },
-      {
-        "title": "美国8月CPI同比上涨3.4%",
-        "link": "https://www.chinanews.com.cn/gj/2026/09-12/10695092.shtml",
-        "summary": "中新社华盛顿9月11日电 (记者 陈孟统)美国劳工部11日发布数据显示，美国8月消费者价格指数(CPI)同比上涨3.4%，环比上涨0.4%。",
-        "source": "中国新闻网",
-        "pub": "Sat, 12 Sep 2026 06:42:05 +0800",
-        "heat": 78,
-        "heatRaw": 63,
-        "heatParts": {
-          "cross": 0,
-          "auth": 13,
-          "rank": 20,
-          "fresh": 23,
-          "kw": 8
-        },
-        "crossCount": 1,
-        "reportCount": 1,
-        "sources": [
-          "中国新闻网"
-        ]
-      },
-      {
-        "title": "Amid war and sanctions, many Iranians are losing their jobs and struggling to get by",
-        "link": "https://www.npr.org/2026/09/11/g-s1-142935/iran-us-war-jobs-economy",
-        "summary": "Many Iranians lost their jobs because of the war and the U.S. blockade. Now some are even losing their backup jobs as sa…",
-        "source": "NPR",
-        "pub": "Fri, 11 Sep 2026 15:39:35 -0400",
-        "heat": 78,
-        "heatRaw": 63,
-        "heatParts": {
-          "cross": 0,
-          "auth": 12,
-          "rank": 22,
-          "fresh": 19,
-          "kw": 10
-        },
-        "crossCount": 1,
-        "reportCount": 1,
-        "sources": [
-          "NPR"
-        ]
-      },
-      {
-        "title": "我们为什么要纪念长征",
-        "link": "https://news.cri.cn/20260911/23b02f40-6659-4871-85ab-3706a36fcd6d.html",
-        "summary": "今年是长征胜利90周年，我来到了长征集结出发地——江西于都。走在于都的建国路上，我发现很多老房子只有门框，没有门板。消失的门板背后藏着怎样的长征故事？我们为什么要纪念长征？今天，大白话讲给你听。（孟哲徐潘依如高洁）",
+        "title": "习近平：金砖国家要坚定站在历史正确一边，勇做时代先锋丨",
+        "link": "https://news.cri.cn/20260912/43f4fe70-f991-4e6e-8d73-c9902e94c8cb.html",
+        "summary": "当地时间9月12日下午，国家主席习近平在新德里出席金砖国家领导人第十八次会晤第一阶段会议并发表重要讲话。 习近平指出，金砖国家要坚定站在历史正确一边，做促进创新发展的先锋、维护和平稳定的先锋、推动文明互鉴的先锋、改革完善全球治理的先锋",
         "source": "国际在线",
         "pub": "",
-        "heat": 75,
-        "heatRaw": 58,
+        "heat": 82,
+        "heatRaw": 69,
         "heatParts": {
           "cross": 11,
           "auth": 13,
-          "rank": 13,
-          "fresh": 21,
-          "kw": 0
+          "rank": 22,
+          "fresh": 13,
+          "kw": 10
         },
         "crossCount": 2,
         "reportCount": 2,
         "sources": [
-          "国际在线",
-          "中国新闻网"
+          "海外网",
+          "国际在线"
+        ]
+      },
+      {
+        "title": "Iraq sacks commander over drone attacks on Saudi Arabia",
+        "link": "https://news.cgtn.com/news/2026-09-12/Iraq-sacks-commander-over-drone-attacks-on-Saudi-Arabia-1QnA3AlstcQ/p.html",
+        "summary": "Ali al-Zaidi, Iraqi prime minister and commander-in-chief of the armed forces, dismissed the Maysan Operations Commander…",
+        "source": "CGTN",
+        "pub": "",
+        "heat": 82,
+        "heatRaw": 71,
+        "heatParts": {
+          "cross": 11,
+          "auth": 13,
+          "rank": 20,
+          "fresh": 19,
+          "kw": 8
+        },
+        "crossCount": 2,
+        "reportCount": 2,
+        "sources": [
+          "CGTN",
+          "NPR"
+        ]
+      },
+      {
+        "title": "Xi hails BRICS' importance in fostering emerging markets' cooperation",
+        "link": "https://news.cgtn.com/news/2026-09-12/Xi-attends-BRICS-summit-in-New-Delhi-1Qnw3FYIa7C/p.html",
+        "summary": "Chinese President Xi Jinping said in New Delhi on Saturday that the BRICS cooperation mechanism has become the world",
+        "source": "CGTN",
+        "pub": "",
+        "heat": 81,
+        "heatRaw": 69,
+        "heatParts": {
+          "cross": 11,
+          "auth": 13,
+          "rank": 23,
+          "fresh": 19,
+          "kw": 3
+        },
+        "crossCount": 2,
+        "reportCount": 3,
+        "sources": [
+          "CGTN",
+          "NPR"
         ]
       },
       {
@@ -712,89 +684,88 @@
         "summary": "United Nations Secretary-General Antonio Guterres has expressed concerns about the recent escalation in the Strait of Ho…",
         "source": "中国日报网",
         "pub": "",
-        "heat": 74,
-        "heatRaw": 56,
+        "heat": 80,
+        "heatRaw": 67,
         "heatParts": {
-          "cross": 0,
+          "cross": 11,
           "auth": 13,
           "rank": 20,
           "fresh": 13,
           "kw": 9
         },
-        "crossCount": 1,
-        "reportCount": 1,
-        "sources": [
-          "中国日报网"
-        ]
-      },
-      {
-        "title": "2026澳中博览会开幕 助力双边经贸发展",
-        "link": "https://www.news.cn/world/20260910/8b90f0d079284cf789a87c0e495a47f0/c.html",
-        "summary": "9月10日，在澳大利亚墨尔本举行的2026澳中博览会上，参展商介绍澳大利亚羊毛制品。新华社记者 徐海静 摄",
-        "source": "新华网",
-        "pub": "",
-        "heat": 73,
-        "heatRaw": 56,
-        "heatParts": {
-          "cross": 11,
-          "auth": 14,
-          "rank": 17,
-          "fresh": 13,
-          "kw": 0
-        },
         "crossCount": 2,
         "reportCount": 2,
         "sources": [
-          "新华网",
+          "中国日报网",
           "CGTN"
         ]
       },
       {
-        "title": "全球媒体聚焦 | 中国正在开启“科技旅游新时代”",
-        "link": "https://news.cri.cn/20260911/5381bbb2-f880-d62c-d240-cb44951d8dd5.html",
-        "summary": "近日，美国《旅行与旅游世界》网站刊文称，中国为世界提供了一个窥见未来的机会。与传统的旅游诉求不一样，人们现在前往中国是为了亲眼见证未来究竟能发展到何种程度，又将以何种速度飞速前进。美国《旅行与旅游世界》网站文章截图 文章说，近年来，随",
-        "source": "国际在线",
+        "title": "习近平会见印度总理莫迪",
+        "link": "https://news.haiwainet.cn/n/2026/0912/c3543307-32982610.html",
+        "summary": "新德里9月12日电（记者郝薇薇 刘锴）当地时间9月12日下午，国家主席习近平在印度新德里出席金砖国家领导人第十八次会晤期间会见印度总理莫迪。两国领导人坦诚...",
+        "source": "海外网",
         "pub": "",
-        "heat": 72,
-        "heatRaw": 53,
+        "heat": 79,
+        "heatRaw": 65,
         "heatParts": {
           "cross": 11,
           "auth": 13,
-          "rank": 7,
-          "fresh": 19,
-          "kw": 3
+          "rank": 17,
+          "fresh": 13,
+          "kw": 11
         },
         "crossCount": 2,
         "reportCount": 2,
         "sources": [
-          "国际在线",
+          "海外网",
+          "国际在线"
+        ]
+      },
+      {
+        "title": "曼德海峡局势趋紧 霍尔木兹海峡航运磋商将启 国际油价仍维持高位",
+        "link": "https://www.chinanews.com.cn/gj/2026/09-13/10695508.shtml",
+        "summary": "近期，也门胡塞武装夺取了多个红海地区的关键战略要地并与沙特持续发生激烈冲突，曼德海峡局势骤然趋紧。在12日胡塞武装称将就沙特在过去48小时对也门多地发动的129次袭击进行报复后，胡塞武装于13日凌晨发声称打击沙特的多处军事设施。",
+        "source": "中国新闻网",
+        "pub": "Sun, 13 Sep 2026 06:51:20 +0800",
+        "heat": 79,
+        "heatRaw": 65,
+        "heatParts": {
+          "cross": 0,
+          "auth": 13,
+          "rank": 23,
+          "fresh": 23,
+          "kw": 6
+        },
+        "crossCount": 1,
+        "reportCount": 1,
+        "sources": [
+          "中国新闻网"
+        ]
+      },
+      {
+        "title": "英国朴茨茅斯现两阵营对峙示威",
+        "link": "https://www.chinanews.com.cn/gj/2026/09-13/10695504.shtml",
+        "summary": "中新社伦敦9月12日电 (记者 欧阳开宇)当地时间9月12日，英国南部港口城市朴茨茅斯市中心爆发大规模对立示威游行，反移民集会与反种族主义游行同期上演。当地警方启用新警务管控权力，实施示威蒙面禁令，当日共拘捕三人。",
+        "source": "中国新闻网",
+        "pub": "Sun, 13 Sep 2026 06:47:17 +0800",
+        "heat": 77,
+        "heatRaw": 62,
+        "heatParts": {
+          "cross": 0,
+          "auth": 13,
+          "rank": 22,
+          "fresh": 23,
+          "kw": 4
+        },
+        "crossCount": 1,
+        "reportCount": 1,
+        "sources": [
           "中国新闻网"
         ]
       }
     ],
     "medical": [
-      {
-        "title": "中国疾控中心与新加坡国立大学签署合作谅解备忘录",
-        "link": "https://www.chinacdc.cn/zxyw/202609/t20260906_1839855.html",
-        "summary": "2026-09-06 中国疾控中心（中国预科院）青年科学家联盟举办第三期团山科研沙龙 2026-09-03",
-        "source": "中国疾控中心",
-        "pub": "",
-        "heat": 73,
-        "heatRaw": 55,
-        "heatParts": {
-          "cross": 11,
-          "auth": 13,
-          "rank": 17,
-          "fresh": 7,
-          "kw": 6
-        },
-        "crossCount": 2,
-        "reportCount": 2,
-        "sources": [
-          "新华网·健康",
-          "中国疾控中心"
-        ]
-      },
       {
         "title": "家庭用药常见误区 医生权威解答来了",
         "link": "https://jiankang.cctv.com/2026/09/09/ARTIa0DlKzNywaT5peiRZsJ8260909.shtml?spm=C88180.PGOAD39Q4iGU.ENdZKV0GjGYJ.9",
@@ -880,27 +851,6 @@
         ]
       },
       {
-        "title": "循证筑基守正创新 中医药抗衰成果写入产业年度报告",
-        "link": "https://www.news.cn/health/20260911/f7feda7cec8c4b4bab23af22a1aa6dfc/c.html",
-        "summary": "循证筑基守正创新 中医药抗衰成果写入产业年度报告-\"报告全景梳理全球及我国抗衰老产业发展全貌，系统研判技术演进、市场格局与政策走向，明确“中医药融合现代科技”为产业创新赛道，为积极应对人口老龄化、推进健康中国建设提供了产业维度的参考与实践路…",
-        "source": "新华网·健康",
-        "pub": "",
-        "heat": 70,
-        "heatRaw": 51,
-        "heatParts": {
-          "cross": 0,
-          "auth": 13,
-          "rank": 10,
-          "fresh": 13,
-          "kw": 14
-        },
-        "crossCount": 1,
-        "reportCount": 1,
-        "sources": [
-          "新华网·健康"
-        ]
-      },
-      {
         "title": "中心（院）举办2026年教师节“师恩如光，桃李芬芳”...",
         "link": "https://www.chinacdc.cn/zxyw/202609/t20260910_1840051.html",
         "summary": "2026-09-07 廿五薪传 守正创新——2026年中国现场流行病学培训项目年度会议在贵阳召开 2026-09-06",
@@ -922,24 +872,45 @@
         ]
       },
       {
-        "title": "恒瑞医药创新药恒曲新适应症获批 口服给药助力CTIT全程管理",
-        "link": "https://www.news.cn/health/20260911/dd051d7eceeb4235baf0c7553cf446e2/c.html",
-        "summary": "恒瑞医药创新药恒曲新适应症获批 口服给药助力CTIT全程管理-从中国注册研究到全球多地区Ⅲ期研究，从CTIT治疗到预防等更多管理场景探索，海曲泊帕正以更多循证证据拓展临床开发布局。",
+        "title": "循证筑基守正创新 中医药抗衰成果写入产业年度报告",
+        "link": "https://www.news.cn/health/20260911/f7feda7cec8c4b4bab23af22a1aa6dfc/c.html",
+        "summary": "循证筑基守正创新 中医药抗衰成果写入产业年度报告-\"报告全景梳理全球及我国抗衰老产业发展全貌，系统研判技术演进、市场格局与政策走向，明确“中医药融合现代科技”为产业创新赛道，为积极应对人口老龄化、推进健康中国建设提供了产业维度的参考与实践路…",
         "source": "新华网·健康",
         "pub": "",
         "heat": 67,
-        "heatRaw": 44,
+        "heatRaw": 45,
         "heatParts": {
           "cross": 0,
           "auth": 13,
-          "rank": 7,
-          "fresh": 13,
-          "kw": 10
+          "rank": 10,
+          "fresh": 7,
+          "kw": 14
         },
         "crossCount": 1,
         "reportCount": 1,
         "sources": [
           "新华网·健康"
+        ]
+      },
+      {
+        "title": "廿五薪传 守正创新——2026年中国现场流行病学培训项...",
+        "link": "https://www.chinacdc.cn/zxyw/202609/t20260910_1840002.html",
+        "summary": "2026-09-06 中国疾控中心与新加坡国立大学签署合作谅解备忘录 2026-09-06",
+        "source": "中国疾控中心",
+        "pub": "",
+        "heat": 67,
+        "heatRaw": 45,
+        "heatParts": {
+          "cross": 0,
+          "auth": 13,
+          "rank": 19,
+          "fresh": 7,
+          "kw": 6
+        },
+        "crossCount": 1,
+        "reportCount": 1,
+        "sources": [
+          "中国疾控中心"
         ]
       },
       {
@@ -964,18 +935,39 @@
         ]
       },
       {
+        "title": "恒瑞医药创新药恒曲新适应症获批 口服给药助力CTIT全程管理",
+        "link": "https://www.news.cn/health/20260911/dd051d7eceeb4235baf0c7553cf446e2/c.html",
+        "summary": "恒瑞医药创新药恒曲新适应症获批 口服给药助力CTIT全程管理-从中国注册研究到全球多地区Ⅲ期研究，从CTIT治疗到预防等更多管理场景探索，海曲泊帕正以更多循证证据拓展临床开发布局。",
+        "source": "新华网·健康",
+        "pub": "",
+        "heat": 63,
+        "heatRaw": 38,
+        "heatParts": {
+          "cross": 0,
+          "auth": 13,
+          "rank": 7,
+          "fresh": 7,
+          "kw": 10
+        },
+        "crossCount": 1,
+        "reportCount": 1,
+        "sources": [
+          "新华网·健康"
+        ]
+      },
+      {
         "title": "四川省社会办医医师职业发展交流会在四川蓝生脑科医院召开",
         "link": "https://www.news.cn/health/20260911/87030a7eadac43ffbfe0b852cb880cc8/c.html",
         "summary": "四川省社会办医医师职业发展交流会在四川蓝生脑科医院召开-\"他在分享中提出，人才队伍与人工智能是蓝生脑科高质量发展的两个驱动轮，人才推动技术落地，技术赋能人才成长，协同护航旗下医院可持续发展。\"",
         "source": "新华网·健康",
         "pub": "",
-        "heat": 64,
-        "heatRaw": 40,
+        "heat": 61,
+        "heatRaw": 34,
         "heatParts": {
           "cross": 0,
           "auth": 13,
           "rank": 9,
-          "fresh": 13,
+          "fresh": 7,
           "kw": 5
         },
         "crossCount": 1,
@@ -986,6 +978,48 @@
       }
     ],
     "ai": [
+      {
+        "title": "“算力中国·年度卓越成就”发布 太初元碁超智融合计算系统入选",
+        "link": "https://www.qbitai.com/2026/09/487860.html",
+        "summary": "太初（杭州）集成电路有限公司新一代超智融合计算系统元碁Hypertintellix入选“算力中国·年度卓越成就”。",
+        "source": "量子位",
+        "pub": "Sat, 12 Sep 2026 11:38:16 +0000"
+      },
+      {
+        "title": "A社承认Claude安全对齐存在缺陷，但“尚无解决方案”",
+        "link": "https://www.qbitai.com/2026/09/487796.html",
+        "summary": "Claude越界攻击真实系统，并非只是测试系统的设置问题，模型本身的安全问题也出了问题。",
+        "source": "量子位",
+        "pub": "Sat, 12 Sep 2026 08:49:02 +0000"
+      },
+      {
+        "title": "探索RSI，生数新世界模型让机器人开始自我进化",
+        "link": "https://www.qbitai.com/2026/09/487752.html",
+        "summary": "触觉、记忆、Ego数据、自进化……这个世界模型全都有",
+        "source": "量子位",
+        "pub": "Sat, 12 Sep 2026 08:15:31 +0000"
+      },
+      {
+        "title": "AI数学的最后一道高墙，塌了！GPT-6 Astra刷穿FrontierMath Tier 4",
+        "link": "https://www.qbitai.com/2026/09/487701.html",
+        "summary": "FrontierMath Tier 4，饱和了",
+        "source": "量子位",
+        "pub": "Sat, 12 Sep 2026 07:33:54 +0000"
+      },
+      {
+        "title": "Kimi突发K2.8：性能逼近K3，百万上下文全员开放",
+        "link": "https://www.qbitai.com/2026/09/487688.html",
+        "summary": "冲刺港股IPO",
+        "source": "量子位",
+        "pub": "Sat, 12 Sep 2026 05:58:41 +0000"
+      },
+      {
+        "title": "陶哲轩邓煜究竟在反对什么：AI暴力解题摧毁人类数学精神",
+        "link": "https://www.qbitai.com/2026/09/487653.html",
+        "summary": "25位菲尔兹奖得主联名吹哨",
+        "source": "量子位",
+        "pub": "Sat, 12 Sep 2026 04:53:58 +0000"
+      },
       {
         "title": "银行Agent上岗：4200万小微经营者可用，信贷、票据、财税一把梭",
         "link": "https://www.qbitai.com/2026/09/487631.html",
@@ -1001,46 +1035,11 @@
         "pub": "Fri, 11 Sep 2026 14:05:16 +0000"
       },
       {
-        "title": "百度秒哒再升级！让最懂业务的人，亲手造自己的系统",
-        "link": "https://www.qbitai.com/2026/09/487415.html",
-        "summary": "把开发、交付和接单全打通了",
-        "source": "量子位",
-        "pub": "Fri, 11 Sep 2026 13:59:09 +0000"
-      },
-      {
-        "title": "不简单，“吃货快乐榜”也全面AI化了",
-        "link": "https://www.qbitai.com/2026/09/487282.html",
-        "summary": "（暂无摘要）",
-        "source": "量子位",
-        "pub": "Fri, 11 Sep 2026 08:59:28 +0000"
-      },
-      {
-        "title": "墨芯人工智能亮相2026 Inclusion·外滩大会：以专用稀疏推理芯片提升算力效能，共创AI新经济",
-        "link": "https://www.qbitai.com/2026/09/487273.html",
-        "summary": "9月9日，墨芯人工智能亮相以\"共创AI新经济\"为主题的2026 Inclusion·外滩大会。",
-        "source": "量子位",
-        "pub": "Fri, 11 Sep 2026 06:19:03 +0000"
-      },
-      {
-        "title": "量子位「MEET2027智能未来大会」启动！年度榜单征集进行中",
-        "link": "https://www.qbitai.com/2026/09/487176.html",
-        "summary": "今年12月，北京，MEET2027智能未来大会！",
-        "source": "量子位",
-        "pub": "Fri, 11 Sep 2026 03:57:32 +0000"
-      },
-      {
-        "title": "3万台无人车之后，这家公司盯上了城市级物理AI",
-        "link": "https://www.qbitai.com/2026/09/487163.html",
-        "summary": "（暂无摘要）",
-        "source": "量子位",
-        "pub": "Fri, 11 Sep 2026 02:50:47 +0000"
-      },
-      {
-        "title": "OpenAI这是拿千禧年难题当Benchmark刷啊。。。",
-        "link": "https://www.qbitai.com/2026/09/487092.html",
-        "summary": "爆料直指霍奇猜想",
-        "source": "量子位",
-        "pub": "Fri, 11 Sep 2026 01:46:55 +0000"
+        "title": "与 AI 搏斗失败后重新开始找工作：经验分享与半可靠避雷指南",
+        "link": "https://sspai.com/post/114461",
+        "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。…",
+        "source": "少数派",
+        "pub": "Sat, 12 Sep 2026 15:00:00 +0800"
       },
       {
         "title": "本周看什么 | 最近值得一看的 7 部作品",
@@ -1048,13 +1047,6 @@
         "summary": "📅本周新预告《哥斯拉-0.0》正式预告9月8日，电影《哥斯拉-0.0》发布了正式预告，将于11月3日在日本上映、11月6日在北美上映。山崎贵回归担任导演、编剧和特效总监，神木隆之…",
         "source": "少数派",
         "pub": "Fri, 11 Sep 2026 18:02:49 +0800"
-      },
-      {
-        "title": "iPhone 18 和 Duo 发布会上，Apple 没告诉你的那些事",
-        "link": "https://sspai.com/post/114449",
-        "summary": "新品尚未发货，我们继续整理了一些发布会中未提及的细节，不妨一起来看看有没有你感兴趣的。 查看全文",
-        "source": "少数派",
-        "pub": "Fri, 11 Sep 2026 16:30:00 +0800"
       }
     ]
   },
@@ -1092,7 +1084,7 @@
         "新华网": 24,
         "中国新闻网": 24,
         "中国经济网": 24,
-        "澎湃新闻": 19,
+        "澎湃新闻": 20,
         "网易新闻": 24
       }
     },
