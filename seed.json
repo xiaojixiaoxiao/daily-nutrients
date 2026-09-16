@@ -1,52 +1,52 @@
 {
-  "generatedAt": "2026-09-15T23:02:41.962Z",
-  "date": "2026-09-16",
+  "generatedAt": "2026-09-16T23:02:54.898Z",
+  "date": "2026-09-17",
   "books": {
-    "date": "2026-09-15",
+    "date": "2026-09-16",
     "books": [
       {
-        "title": "落在我身上的雨",
-        "author": "陆庆屹",
-        "cover": "https://img1.doubanio.com/view/subject/s/public/s35577760.jpg",
+        "title": "法槌轻落：温情法官弗兰克·卡普里奥的人性实录",
+        "author": "[美] 弗兰克·卡普里奥",
+        "cover": "https://img3.doubanio.com/view/subject/s/public/s35576103.jpg",
         "rating": 0,
-        "ratingCount": 724,
-        "summary": "“这世界真美好，可是人生总有那么多无奈。” 📖《四个春天》后，陆庆屹全新文学作品。 一本温柔又辽阔的浮生手记，书写跨越余生的重逢。 “我喜欢永恒的东西，幼时坐过的小板凳，床头那张已经发黑的柜子，随着我们一起迁移的碗橱，一把为我定制的小锄头……我看着它们就很宁静，它们在我心里和 那些美丽的高山、河流一样。”——陆庆屹 【编辑推荐】 时隔七年，陆庆屹全新文学作",
-        "authorBio": "《落在我身上的雨》由陆庆屹撰写，于2026-8出版。",
-        "link": "https://book.douban.com/subject/38461487/",
-        "pubDate": "2026-8",
+        "ratingCount": 78,
+        "summary": "这是“世界上最善良的法官”弗兰克·卡普里奥（Frank Caprio）的自传图书。在弗兰克·卡普里奥法官五次获得日间艾美奖提名的电视节目《普罗维登斯法庭实录》中，他的法庭成为世界范围内富有同情心的正义灯塔，也是数百万粉丝难忘的记忆。在他的法庭里，被告得到了有尊严的对待，身陷困境的人得到了喘息的机会——不是一张通行证，也不是一张免罪卡，而是一个改过自新、照顾家",
+        "authorBio": "《法槌轻落：温情法官弗兰克·卡普里奥的人性实录》由[美] 弗兰克·卡普里奥撰写，于2026-8-1出版。",
+        "link": "https://book.douban.com/subject/38572590/",
+        "pubDate": "2026-8-1",
         "tag": "new"
       },
       {
-        "title": "低限度的自我",
-        "author": "[美]克里斯托弗·拉什",
-        "cover": "https://img1.doubanio.com/view/subject/s/public/s35576738.jpg",
+        "title": "不讨喜的女性：流行文化塑造的恶女为何如此迷人",
+        "author": "[英国]安娜·博古茨卡娅",
+        "cover": "https://img1.doubanio.com/view/subject/s/public/s35603288.jpg",
         "rating": 0,
-        "ratingCount": 59,
-        "summary": "在一个瞬息万变、世事难料的世界里，当人们对未来失去了信心，自我意识会怎样？ 本书写于20世纪80年代初，面对当时美国日益加剧的军备竞争、不断升级的犯罪与恐怖主义、持续恶化的环境问题以及长期的经济衰退，作者从消费文化、技术操控、心理、艺术、政治等角度切入当下生活，看曾经“霸道”或“自恋”的自我如何逐渐变为收缩的自我。 学术之外，作为美国知名的社会批评家，作者总",
-        "authorBio": "《低限度的自我》由[美]克里斯托弗·拉什撰写，于2026-7出版。",
-        "link": "https://book.douban.com/subject/38574767/",
-        "pubDate": "2026-7",
+        "ratingCount": 0,
+        "summary": "女人凭什么要比男人更讨喜？ 首部剖析讨喜的双标性的女性主义作品 用流行文化里迷人的恶女角色，揭开父权社会的服从性测试陷阱 从“荡妇”到“女疯子”，再到“泼妇”，但凡有女性越界的地方，就有“不讨喜”的污名等候着你。 我不讨喜，那又怎样？你不必讨人喜欢，你只需要成为你自己。 《新闻周刊》年度好书。 在父权社会里，女性总被施加额外的讨喜压力：女性应当温柔体贴，女性",
+        "authorBio": "《不讨喜的女性：流行文化塑造的恶女为何如此迷人》由[英国]安娜·博古茨卡娅撰写，于2026-9出版。",
+        "link": "https://book.douban.com/subject/38521461/",
+        "pubDate": "2026-9",
         "tag": "new"
       }
     ],
     "quotes": [
       {
-        "text": "我们都在阴沟里，但仍有人仰望星空。",
-        "author": "王尔德",
-        "bio": "爱尔兰作家、唯美主义代表。",
-        "bg": "出自戏剧《温德米尔夫人的扇子》，意在说明纵处困顿，人仍可向美与理想抬望。"
+        "text": "世上只有一种英雄主义，就是在认清生活真相之后依然热爱生活。",
+        "author": "罗曼·罗兰",
+        "bio": "法国作家、诺贝尔文学奖得主。",
+        "bg": "出自《米开朗基罗传》序言， defining 真正的英雄是看清苦难仍选择热爱。"
       },
       {
-        "text": "要么孤独，要么庸俗。",
-        "author": "叔本华",
-        "bio": "德国哲学家，悲观主义代表。",
-        "bg": "出自《附录与补遗》，认为精神丰盈者宁守孤独，也不愿随俗沉沦。"
+        "text": "懂得生命真谛的人，可以使短促的生命延长。",
+        "author": "西塞罗",
+        "bio": "古罗马演说家、哲学家。",
+        "bg": "强调生命价值不在长度而在深度与意义。"
       },
       {
-        "text": "知者不惑，仁者不忧，勇者不惧。",
-        "author": "孔子",
-        "bio": "春秋时期思想家，儒家创始人。",
-        "bg": "出自《论语·子罕》，定义智、仁、勇三种从容心境。"
+        "text": "路漫漫其修远兮，吾将上下而求索。",
+        "author": "屈原",
+        "bio": "战国诗人，《离骚》作者。",
+        "bg": "出自《离骚》，写求索真理与理想之路虽远不辍。"
       }
     ],
     "source": "douban",
@@ -279,57 +279,25 @@
     }
   ],
   "english": {
-    "date": "2026-09-15",
+    "date": "2026-09-16",
     "news": {
-      "type": "speech",
-      "title": "Your body language may shape who you are",
-      "summary": "(NOTE: Some of the findings presented in this talk have been referenced in an ongoing debate among social scientists about robustness and reproducibility. Read \"Corrections & Updates\" below for more details as well as Amy Cuddy's response.) Body language affects how others see us, but it may also change how we see ourselves. Social psychologist Amy Cuddy argues that \"power posing\" -- standing in a posture of confidence, even when we don't feel confident -- can boost feelings of confidence, and might have an impact on our chances for success.",
-      "link": "https://www.ted.com/talks/amy_cuddy_your_body_language_may_shape_who_you_are",
-      "videoLink": "https://www.ted.com/talks/amy_cuddy_your_body_language_may_shape_who_you_are",
-      "cover": "https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/8ff886f0-7953-4f9b-8726-1ce98cae10c6/AmyCuddy_2012G-embed.jpg",
-      "source": "TED",
-      "duration": 1245,
+      "type": "news",
+      "title": "House passes Russia sanctions, sending bill named for Lindsey Graham to Trump's desk",
+      "summary": "The legislation was named for the late South Carolina Republican. It gives the president a…",
+      "link": "https://www.npr.org/2026/09/16/nx-s1-5971289/russia-sanctions-house-vote-lindsey-graham",
+      "source": "NPR",
       "content": [
-        "So I want to start by offering you a free no-tech life hack, and all it requires of you is this: that you change your posture for two minutes. But before I give it away, I want to ask you to right now do a little audit of your body and what you're doing with your body. So how many of you are sort of making yourselves smaller? Maybe you're hunching, crossing your legs, maybe wrapping your ankles. Sometimes we hold onto our arms like this. Sometimes we spread out. (Laughter) I see you. So I want you to pay attention to what you're doing right now. We're going to come back to that in a few minutes, and I'm hoping that if you learn to tweak this a little bit, it could significantly change the way your life unfolds.",
-        "So, we're really fascinated with body language, and we're particularly interested in other people's body language. You know, we're interested in, like, you know — (Laughter) — an awkward interaction, or a smile, or a contemptuous glance, or maybe a very awkward wink, or maybe even something like a handshake.",
-        "Narrator: Here they are arriving at Number 10. This lucky policeman gets to shake hands with the President of the United States. Here comes the Prime Minister -- No. (Laughter) (Applause)",
-        "(Laughter) (Applause)",
-        "Amy Cuddy: So a handshake, or the lack of a handshake, can have us talking for weeks and weeks and weeks. Even the BBC and The New York Times. So obviously when we think about nonverbal behavior, or body language -- but we call it nonverbals as social scientists -- it's language, so we think about communication. When we think about communication, we think about interactions. So what is your body language communicating to me? What's mine communicating to you?",
-        "And there's a lot of reason to believe that this is a valid way to look at this. So social scientists have spent a lot of time looking at the effects of our body language, or other people's body language, on judgments. And we make sweeping judgments and inferences from body language. And those judgments can predict really meaningful life outcomes like who we hire or promote, who we ask out on a date. For example, Nalini Ambady, a researcher at Tufts University, shows that when people watch 30-second soundless clips of real physician-patient interactions, their judgments of the physician's niceness predict whether or not that physician will be sued. So it doesn't have to do so much with whether or not that physician was incompetent, but do we like that person and how they interacted? Even more dramatic, Alex Todorov at Princeton has shown us that judgments of political candidates' faces in just one second predict 70 percent of U.S. Senate and gubernatorial race outcomes, and even, let's go digital, emoticons used well in online negotiations can lead you to claim more value from that negotiation. If you use them poorly, bad idea. Right?",
-        "So when we think of nonverbals, we think of how we judge others, how they judge us and what the outcomes are. We tend to forget, though, the other audience that's influenced by our nonverbals, and that's ourselves. We are also influenced by our nonverbals, our thoughts and our feelings and our physiology.",
-        "So what nonverbals am I talking about? I'm a social psychologist. I study prejudice, and I teach at a competitive business school, so it was inevitable that I would become interested in power dynamics. I became especially interested in nonverbal expressions of power and dominance.",
-        "And what are nonverbal expressions of power and dominance? Well, this is what they are. So in the animal kingdom, they are about expanding. So you make yourself big, you stretch out, you take up space, you're basically opening up. It's about opening up. And this is true across the animal kingdom. It's not just limited to primates. And humans do the same thing. (Laughter) So they do this both when they have power sort of chronically, and also when they're feeling powerful in the moment. And this one is especially interesting because it really shows us how universal and old these expressions of power are. This expression, which is known as pride, Jessica Tracy has studied. She shows that people who are born with sight and people who are congenitally blind do this when they win at a physical competition. So when they cross the finish line and they've won, it doesn't matter if they've never seen anyone do it. They do this. So the arms up in the V, the chin is slightly lifted.",
-        "What do we do when we feel powerless? We do exactly the opposite. We close up. We wrap ourselves up. We make ourselves small. We don't want to bump into the person next to us. So again, both animals and humans do the same thing. And this is what happens when you put together high and low power. So what we tend to do when it comes to power is that we complement the other's nonverbals. So if someone is being really powerful with us, we tend to make ourselves smaller. We don't mirror them. We do the opposite of them.",
-        "So I'm watching this behavior in the classroom, and what do I notice? I notice that MBA students really exhibit the full range of power nonverbals. So you have people who are like caricatures of alphas, really coming into the room, they get right into the middle of the room before class even starts, like they really want to occupy space. When they sit down, they're sort of spread out. They raise their hands like this. You have other people who are virtually collapsing when they come in. As soon they come in, you see it. You see it on their faces and their bodies, and they sit in their chair and they make themselves tiny, and they go like this when they raise their hand.",
-        "I notice a couple of things about this. One, you're not going to be surprised. It seems to be related to gender. So women are much more likely to do this kind of thing than men. Women feel chronically less powerful than men, so this is not surprising.",
-        "But the other thing I noticed is that it also seemed to be related to the extent to which the students were participating, and how well they were participating. And this is really important in the MBA classroom, because participation counts for half the grade.",
-        "So business schools have been struggling with this gender grade gap. You get these equally qualified women and men coming in and then you get these differences in grades, and it seems to be partly attributable to participation. So I started to wonder, you know, okay, so you have these people coming in like this, and they're participating. Is it possible that we could get people to fake it and would it lead them to participate more?",
-        "So my main collaborator Dana Carney, who's at Berkeley, and I really wanted to know, can you fake it till you make it? Like, can you do this just for a little while and actually experience a behavioral outcome that makes you seem more powerful? So we know that our nonverbals govern how other people think and feel about us. There's a lot of evidence. But our question really was, do our nonverbals govern how we think and feel about ourselves?",
-        "There's some evidence that they do. So, for example, we smile when we feel happy, but also, when we're forced to smile by holding a pen in our teeth like this, it makes us feel happy. So it goes both ways. When it comes to power, it also goes both ways. So when you feel powerful, you're more likely to do this, but it's also possible that when you pretend to be powerful, you are more likely to actually feel powerful.",
-        "So the second question really was, you know, so we know that our minds change our bodies, but is it also true that our bodies change our minds? And when I say minds, in the case of the powerful, what am I talking about? So I'm talking about thoughts and feelings and the sort of physiological things that make up our thoughts and feelings, and in my case, that's hormones. I look at hormones. So what do the minds of the powerful versus the powerless look like? So powerful people tend to be, not surprisingly, more assertive and more confident, more optimistic. They actually feel they're going to win even at games of chance. They also tend to be able to think more abstractly. So there are a lot of differences. They take more risks. There are a lot of differences between powerful and powerless people. Physiologically, there also are differences on two key hormones: testosterone, which is the dominance hormone, and cortisol, which is the stress hormone.",
-        "So what we find is that high-power alpha males in primate hierarchies have high testosterone and low cortisol, and powerful and effective leaders also have high testosterone and low cortisol. So what does that mean? When you think about power, people tended to think only about testosterone, because that was about dominance. But really, power is also about how you react to stress. So do you want the high-power leader that's dominant, high on testosterone, but really stress reactive? Probably not, right? You want the person who's powerful and assertive and dominant, but not very stress reactive, the person who's laid back.",
-        "So we know that in primate hierarchies, if an alpha needs to take over, if an individual needs to take over an alpha role sort of suddenly, within a few days, that individual's testosterone has gone up significantly and his cortisol has dropped significantly. So we have this evidence, both that the body can shape the mind, at least at the facial level, and also that role changes can shape the mind. So what happens, okay, you take a role change, what happens if you do that at a really minimal level, like this tiny manipulation, this tiny intervention? \"For two minutes,\" you say, \"I want you to stand like this, and it's going to make you feel more powerful.\"",
-        "So this is what we did. We decided to bring people into the lab and run a little experiment, and these people adopted, for two minutes, either high-power poses or low-power poses, and I'm just going to show you five of the poses, although they took on only two. So here's one. A couple more. This one has been dubbed the \"Wonder Woman\" by the media. Here are a couple more. So you can be standing or you can be sitting. And here are the low-power poses. So you're folding up, you're making yourself small. This one is very low-power. When you're touching your neck, you're really protecting yourself.",
-        "So this is what happens. They come in, they spit into a vial, for two minutes, we say, \"You need to do this or this.\" They don't look at pictures of the poses. We don't want to prime them with a concept of power. We want them to be feeling power. So two minutes they do this. We then ask them, \"How powerful do you feel?\" on a series of items, and then we give them an opportunity to gamble, and then we take another saliva sample. That's it. That's the whole experiment.",
-        "So this is what we find. Risk tolerance, which is the gambling, we find that when you are in the high-power pose condition, 86 percent of you will gamble. When you're in the low-power pose condition, only 60 percent, and that's a whopping significant difference.",
-        "Here's what we find on testosterone. From their baseline when they come in, high-power people experience about a 20-percent increase, and low-power people experience about a 10-percent decrease. So again, two minutes, and you get these changes. Here's what you get on cortisol. High-power people experience about a 25-percent decrease, and the low-power people experience about a 15-percent increase. So two minutes lead to these hormonal changes that configure your brain to basically be either assertive, confident and comfortable, or really stress-reactive, and feeling sort of shut down. And we've all had the feeling, right? So it seems that our nonverbals do govern how we think and feel about ourselves, so it's not just others, but it's also ourselves. Also, our bodies change our minds.",
-        "But the next question, of course, is, can power posing for a few minutes really change your life in meaningful ways? This is in the lab, it's this little task, it's just a couple of minutes. Where can you actually apply this? Which we cared about, of course. And so we think where you want to use this is evaluative situations, like social threat situations. Where are you being evaluated, either by your friends? For teenagers, it's at the lunchroom table. For some people it's speaking at a school board meeting. It might be giving a pitch or giving a talk like this or doing a job interview. We decided that the one that most people could relate to because most people had been through, was the job interview.",
-        "So we published these findings, and the media are all over it, and they say, Okay, so this is what you do when you go in for the job interview, right?",
-        "(Laughter)",
-        "You know, so we were of course horrified, and said, Oh my God, no, that's not what we meant at all. For numerous reasons, no, don't do that. Again, this is not about you talking to other people. It's you talking to yourself. What do you do before you go into a job interview? You do this. You're sitting down. You're looking at your iPhone -- or your Android, not trying to leave anyone out. You're looking at your notes, you're hunching up, making yourself small, when really what you should be doing maybe is this, like, in the bathroom, right? Do that. Find two minutes. So that's what we want to test. Okay? So we bring people into a lab, and they do either high- or low-power poses again, they go through a very stressful job interview. It's five minutes long. They are being recorded. They're being judged also, and the judges are trained to give no nonverbal feedback, so they look like this. Imagine this is the person interviewing you. So for five minutes, nothing, and this is worse than being heckled. People hate this. It's what Marianne LaFrance calls \"standing in social quicksand.\" So this really spikes your cortisol. So this is the job interview we put them through, because we really wanted to see what happened. We then have these coders look at these tapes, four of them. They're blind to the hypothesis. They're blind to the conditions. They have no idea who's been posing in what pose, and they end up looking at these sets of tapes, and they say, \"We want to hire these people,\" all the high-power posers. \"We don't want to hire these people. We also evaluate these people much more positively overall.\" But what's driving it? It's not about the content of the speech. It's about the presence that they're bringing to the speech. Because we rate them on all these variables related to competence, like, how well-structured is the speech? How good is it? What are their qualifications? No effect on those things. This is what's affected. These kinds of things. People are bringing their true selves, basically. They're bringing themselves. They bring their ideas, but as themselves, with no, you know, residue over them. So this is what's driving the effect, or mediating the effect.",
-        "So when I tell people about this, that our bodies change our minds and our minds can change our behavior, and our behavior can change our outcomes, they say to me, \"It feels fake.\" Right? So I said, fake it till you make it. It's not me. I don't want to get there and then still feel like a fraud. I don't want to feel like an impostor. I don't want to get there only to feel like I'm not supposed to be here. And that really resonated with me, because I want to tell you a little story about being an impostor and feeling like I'm not supposed to be here.",
-        "When I was 19, I was in a really bad car accident. I was thrown out of a car, rolled several times. I was thrown from the car. And I woke up in a head injury rehab ward, and I had been withdrawn from college, and I learned that my IQ had dropped by two standard deviations, which was very traumatic. I knew my IQ because I had identified with being smart, and I had been called gifted as a child. So I'm taken out of college, I keep trying to go back. They say, \"You're not going to finish college. Just, you know, there are other things for you to do, but that's not going to work out for you.\"",
-        "So I really struggled with this, and I have to say, having your identity taken from you, your core identity, and for me it was being smart, having that taken from you, there's nothing that leaves you feeling more powerless than that. So I felt entirely powerless. I worked and worked, and I got lucky, and worked, and got lucky, and worked.",
-        "Eventually I graduated from college. It took me four years longer than my peers, and I convinced someone, my angel advisor, Susan Fiske, to take me on, and so I ended up at Princeton, and I was like, I am not supposed to be here. I am an impostor. And the night before my first-year talk, and the first-year talk at Princeton is a 20-minute talk to 20 people. That's it. I was so afraid of being found out the next day that I called her and said, \"I'm quitting.\" She was like, \"You are not quitting, because I took a gamble on you, and you're staying. You're going to stay, and this is what you're going to do. You are going to fake it. You're going to do every talk that you ever get asked to do. You're just going to do it and do it and do it, even if you're terrified and just paralyzed and having an out-of-body experience, until you have this moment where you say, 'Oh my gosh, I'm doing it. Like, I have become this. I am actually doing this.'\" So that's what I did. Five years in grad school, a few years, you know, I'm at Northwestern, I moved to Harvard, I'm at Harvard, I'm not really thinking about it anymore, but for a long time I had been thinking, \"Not supposed to be here.\"",
-        "So at the end of my first year at Harvard, a student who had not talked in class the entire semester, who I had said, \"Look, you've gotta participate or else you're going to fail,\" came into my office. I really didn't know her at all. She came in totally defeated, and she said, \"I'm not supposed to be here.\" And that was the moment for me. Because two things happened. One was that I realized, oh my gosh, I don't feel like that anymore. I don't feel that anymore, but she does, and I get that feeling. And the second was, she is supposed to be here! Like, she can fake it, she can become it.",
-        "So I was like, \"Yes, you are! You are supposed to be here! And tomorrow you're going to fake it, you're going to make yourself powerful, and, you know --",
-        "(Applause)",
-        "And you're going to go into the classroom, and you are going to give the best comment ever.\" You know? And she gave the best comment ever, and people turned around and were like, oh my God, I didn't even notice her sitting there. (Laughter)",
-        "She comes back to me months later, and I realized that she had not just faked it till she made it, she had actually faked it till she became it. So she had changed. And so I want to say to you, don't fake it till you make it. Fake it till you become it. Do it enough until you actually become it and internalize.",
-        "The last thing I'm going to leave you with is this. Tiny tweaks can lead to big changes. So, this is two minutes. Two minutes, two minutes, two minutes. Before you go into the next stressful evaluative situation, for two minutes, try doing this, in the elevator, in a bathroom stall, at your desk behind closed doors. That's what you want to do. Configure your brain to cope the best in that situation. Get your testosterone up. Get your cortisol down. Don't leave that situation feeling like, oh, I didn't show them who I am. Leave that situation feeling like, I really feel like I got to say who I am and show who I am.",
-        "So I want to ask you first, you know, both to try power posing, and also I want to ask you to share the science, because this is simple. I don't have ego involved in this. (Laughter) Give it away. Share it with people, because the people who can use it the most are the ones with no resources and no technology and no status and no power. Give it to them because they can do it in private. They need their bodies, privacy and two minutes, and it can significantly change the outcomes of their life.",
-        "Thank you.",
-        "(Applause)"
+        "The U.S Capitol is photographed Monday, Sept. 14, 2026, in Washington, D.C. Mariam Zuhaib/AP hide caption",
+        "Congress is sending a Russia sanctions bill to President Trump's desk after the package cleared the House on Wednesday. The legislation, which passed 262 to 159, split lawmakers in both parties.",
+        "The package is intended to put pressure on the Russian economy with the aim of forcing President Vladimir Putin to end his war in Ukraine. Thousands of civilians have been killed since Russia invaded Ukraine in 2022.",
+        "The sanctions target Russian officials, companies and financial institutions helping fuel the war.",
+        "\"This is a moral issue that requires moral courage,\" said Rep. Michael McCaul, R-Texas. \"I want us to be able to say that we did everything possible to end this war. That we understood the threat. That we had the courage to do what was right — to cripple the Russian war machine and turn the tide toward peace.\"",
+        "The legislation also gives the president authority to impose tariffs on top countries importing oil and natural gas from Russia, such as China and India. The tariff authority was a sticking point for many Democrats who opposed the measure, citing fears that Trump could gain a new avenue to levy tariffs on nations of his choosing.",
+        "\"This bill has a loophole that would allow him to define basically any country as a facilitator of evading Russian sanctions,\" said Rep. Don Beyer, D-Va. \"He could then hit them with tariffs of up to 100%, with no guardrails or oversight, and no expiration.\"",
+        "A man walks between stands displaying portraits of fallen Ukrainian fighters, which have been set up at St Sophia Square in the center of Kyiv on Sept.15, 2026, amid the Russian invasion of Ukraine. Sergei Supinsky/AFP via Getty Images hide caption",
+        "Fifty-eight House Democrats joined with most Republicans to advance the legislation, which passed the Senate in a more bipartisan 86-11 vote in August. Seven Republicans joined most Democrats voting to block the measure in the House, with U.S. support for Ukraine having emerged in recent years as a fracture in the GOP caucus.",
+        "The legislation is named in memory of the late Sen. Lindsey Graham , the South Carolina Republican who helped negotiate Trump's support for the package.",
+        "NPR does not offer or accept money for coverage or interviews. Anyone who makes such an offer or request is not an NPR employee and does not represent NPR."
       ],
       "dataSources": [
         {
@@ -366,78 +334,118 @@
   "news": {
     "domestic": [
       {
-        "title": "《求是》杂志发表习近平总书记重要文章《在加强基础研究座谈会上的讲话》",
-        "link": "https://www.news.cn/politics/leaders/20260915/a3f56d969013456db5c5af90f4bc3d23/c.html",
-        "summary": "新华社北京9月15日电　9月16日出版的第18期《求是》杂志将发表中共中央总书记、国家主席、中央军委主席习近平的重要文章《在加强基础研究座谈会上的讲话》。",
-        "source": "新华网",
+        "title": "东莞一布料店偷排有毒废气致楼上母子中毒昏迷，事故调查报告建议追究店主刑责",
+        "link": "https://www.thepaper.cn/newsDetail_forward_34081761",
+        "summary": "今年5月22日，居住在东莞一间出租公寓内的母子二人昏迷在屋内，导致失去对外联络、求救能力。发现学生未按时到校的班主任多次联系无果，判断家中可能发生意外，立即驱车",
+        "source": "澎湃新闻",
         "pub": "",
-        "heat": 85,
-        "heatRaw": 74,
+        "heat": 81,
+        "heatRaw": 68,
         "heatParts": {
           "cross": 11,
-          "auth": 14,
-          "rank": 22,
-          "fresh": 21,
-          "kw": 6
-        },
-        "crossCount": 2,
-        "reportCount": 3,
-        "sources": [
-          "人民网",
-          "新华网"
-        ]
-      },
-      {
-        "title": "立原在现场丨北京香山论坛是个什么会",
-        "link": "https://www.news.cn/video/20260915/59656f2a9ce2409a96248a33f29335d2/c.html",
-        "summary": "立原在现场｜北京香山论坛是个什么会-\"论坛2006年创办，历经二十年发展，已升级为“一轨半”（半官方）高端国际安全对话平台。\"",
-        "source": "新华网",
-        "pub": "",
-        "heat": 82,
-        "heatRaw": 71,
-        "heatParts": {
-          "cross": 22,
-          "auth": 14,
-          "rank": 12,
-          "fresh": 23,
-          "kw": 0
-        },
-        "crossCount": 3,
-        "reportCount": 3,
-        "sources": [
-          "人民网",
-          "新华网",
-          "中国新闻网"
-        ]
-      },
-      {
-        "title": "习近平：坚守为民初心矢志担当奉献 做党和人民的忠诚卫士",
-        "link": "http://politics.people.com.cn/n1/2026/0916/c1024-40799323.html",
-        "summary": "回信福建省“漳州110”全体队员： 来信收悉。“漳州110”是公安系统的一张亮丽名片，给我留下深刻印象。你们扎根警务一线，在服务群众、护民安宁等方面辛勤付出，得到了广泛赞许，我感到很欣慰。 守百姓",
-        "source": "人民网",
-        "pub": "",
-        "heat": 79,
-        "heatRaw": 65,
-        "heatParts": {
-          "cross": 11,
-          "auth": 14,
-          "rank": 13,
+          "auth": 11,
+          "rank": 19,
           "fresh": 21,
           "kw": 6
         },
         "crossCount": 2,
         "reportCount": 2,
         "sources": [
-          "人民网",
-          "中国经济网"
+          "澎湃新闻",
+          "网易新闻"
         ]
       },
       {
-        "title": "9月16日新闻早报",
-        "link": "https://www.chinanews.com.cn/iframe/2026/09-16/10697146.shtml",
-        "summary": "美国对伊战损全景首曝光：损失重大、先进武器告急 前瞻第十三届北京香山论坛：一场热议、一个窗口、一方平台",
+        "title": "外媒：美联储三年多来首次加息，特朗普强烈反对",
+        "link": "https://www.chinanews.com.cn/gj/2026/09-17/10697957.shtml",
+        "summary": "中新网9月17日电 据英国广播公司(BBC)报道，当地时间16日，美国利率三年多来首次上调，为了遏制物价上涨，美联储可能还会进一步提高利率。",
         "source": "中国新闻网",
-        "pub": "Wed, 16 Sep 2026 06:54:38 +0800",
+        "pub": "Thu, 17 Sep 2026 06:39:14 +0800",
+        "heat": 78,
+        "heatRaw": 63,
+        "heatParts": {
+          "cross": 0,
+          "auth": 13,
+          "rank": 22,
+          "fresh": 23,
+          "kw": 5
+        },
+        "crossCount": 1,
+        "reportCount": 2,
+        "sources": [
+          "中国新闻网"
+        ]
+      },
+      {
+        "title": "陕西一男子疑遭盗用身份注册公司虚开增值税发票近千万，如何自证清白遇难题",
+        "link": "https://www.thepaper.cn/newsDetail_forward_34080139",
+        "summary": "石富（化名）的个人信息又被他人盗用了——他妻子所在单位核查个人事项报告，组织部门发现石富是一家化工公司的实际控制人、唯一的股东。 工商信息显示，该公司名为西安泰",
+        "source": "澎湃新闻",
+        "pub": "",
+        "heat": 78,
+        "heatRaw": 63,
+        "heatParts": {
+          "cross": 11,
+          "auth": 11,
+          "rank": 20,
+          "fresh": 21,
+          "kw": 0
+        },
+        "crossCount": 2,
+        "reportCount": 2,
+        "sources": [
+          "澎湃新闻",
+          "网易新闻"
+        ]
+      },
+      {
+        "title": "正道昭昭行万里——感悟大国外交的宏阔时空经纬",
+        "link": "https://www.news.cn/politics/leaders/20260917/22349b039f054ca6be3d83ef8b85d3ef/c.html",
+        "summary": "8月30日至9月3日，习近平主席出席2026年上海合作组织峰会并对吉尔吉斯斯坦、埃及进行国事访问；9月12日至13日，赴印度新德里出席金砖国家领导人第十八次会晤。",
+        "source": "新华网",
+        "pub": "",
+        "heat": 78,
+        "heatRaw": 63,
+        "heatParts": {
+          "cross": 0,
+          "auth": 14,
+          "rank": 22,
+          "fresh": 21,
+          "kw": 6
+        },
+        "crossCount": 1,
+        "reportCount": 1,
+        "sources": [
+          "新华网"
+        ]
+      },
+      {
+        "title": "中国驻南非使馆向斐京华侨公学捐赠图书",
+        "link": "https://www.chinanews.com.cn/hr/2026/09-17/10697956.shtml",
+        "summary": "中新社比勒陀利亚9月16日电 (记者 孙翔)中国驻南非使馆代表15日向位于南非比勒陀利亚的斐京华侨公学捐赠图书，支持当地中文教育和中华文化传播。",
+        "source": "中国新闻网",
+        "pub": "Thu, 17 Sep 2026 06:24:07 +0800",
+        "heat": 76,
+        "heatRaw": 61,
+        "heatParts": {
+          "cross": 0,
+          "auth": 13,
+          "rank": 20,
+          "fresh": 23,
+          "kw": 5
+        },
+        "crossCount": 1,
+        "reportCount": 1,
+        "sources": [
+          "中国新闻网"
+        ]
+      },
+      {
+        "title": "9月17日新闻早报",
+        "link": "https://www.chinanews.com.cn/iframe/2026/09-17/10697958.shtml",
+        "summary": "“父亲背8个鸡蛋接考”，贺永辉作为新生代表发言 中新网评：三九胃泰的营销病，比胃病更该治",
+        "source": "中国新闻网",
+        "pub": "Thu, 17 Sep 2026 06:50:35 +0800",
         "heat": 75,
         "heatRaw": 59,
         "heatParts": {
@@ -454,62 +462,19 @@
         ]
       },
       {
-        "title": "美媒：美国对伊朗战争耗资已超420亿美元",
-        "link": "https://www.chinanews.com.cn/gj/2026/09-16/10697145.shtml",
-        "summary": "中新网9月16日电 据美国《国会山报》当地时间15日报道，美国国防部8月曾告诉国会，伊朗战争的成本现在已经攀升至420亿美元以上，这比国防部最近一次公开估计的成本增加了45亿美元。",
-        "source": "中国新闻网",
-        "pub": "Wed, 16 Sep 2026 06:45:40 +0800",
-        "heat": 75,
-        "heatRaw": 58,
-        "heatParts": {
-          "cross": 0,
-          "auth": 13,
-          "rank": 22,
-          "fresh": 23,
-          "kw": 0
-        },
-        "crossCount": 1,
-        "reportCount": 2,
-        "sources": [
-          "中国新闻网"
-        ]
-      },
-      {
-        "title": "村干部直播，有盼也有忧——村播观察①",
-        "link": "https://www.ce.cn/xwzx/gnsz/gdxw/202609/t20260916_3215279.shtml",
-        "summary": "江西省上饶市广信区四十八镇北山村党支部书记陈建国（左四）在直播间帮助村民销售农产品。郑瀚霖摄",
+        "title": "人才引进需防留不住用不长",
+        "link": "https://www.ce.cn/xwzx/gnsz/gdxw/202609/t20260917_3217728.shtml",
+        "summary": "编辑部： 今年以来，全国多地出台多项人才引进政策，搭建人才发展平台，招才引智力度不断加大。记者在采访中发现，由于市场化意识不强，在引进人才和服务人才环节还有不少堵点，造成了“引才力度大，落地效果差”的困境。对此，需要精准找到问题症结，有的放…",
         "source": "中国经济网",
         "pub": "",
         "heat": 75,
-        "heatRaw": 58,
-        "heatParts": {
-          "cross": 11,
-          "auth": 12,
-          "rank": 14,
-          "fresh": 21,
-          "kw": 0
-        },
-        "crossCount": 2,
-        "reportCount": 2,
-        "sources": [
-          "中国经济网",
-          "澎湃新闻"
-        ]
-      },
-      {
-        "title": "林下生金需多些“慢功夫”",
-        "link": "https://www.ce.cn/xwzx/gnsz/gdxw/202609/t20260916_3215291.shtml",
-        "summary": "编辑部： 近日，记者在辽宁东部连绵的群山间，看到了多种多样林下资源的绿色宝库，也了解到林下经济长期处于浅层次开发的隐忧。一些常年埋头创品牌的林下经济蹚路者呼吁，深耕厚植林下经济需要多些耐心，多下费时费力的“慢功夫”。",
-        "source": "中国经济网",
-        "pub": "",
-        "heat": 75,
-        "heatRaw": 58,
+        "heatRaw": 59,
         "heatParts": {
           "cross": 0,
           "auth": 12,
           "rank": 22,
           "fresh": 21,
-          "kw": 3
+          "kw": 4
         },
         "crossCount": 1,
         "reportCount": 1,
@@ -518,9 +483,9 @@
         ]
       },
       {
-        "title": "河北武安从钢铁围城到文旅繁花",
-        "link": "https://www.ce.cn/xwzx/gnsz/gdxw/202609/t20260916_3215296.shtml",
-        "summary": "2025年全年接待游客1360.7万人次，实现旅游总收入224.5亿元……一组数据为河北省武安市这座曾经的“钢铁重镇”标注了崭新的发展坐标：从“钢铁围城”的工业记忆，到“文旅繁花”的生动实践。这座连续9年实现全国百强县排名跃升的千年古邑，正…",
+        "title": "种下创新种子 培育产业大树",
+        "link": "https://www.ce.cn/xwzx/gnsz/gdxw/202609/t20260917_3217729.shtml",
+        "summary": "图① 厦门火炬石墨烯新材料产业园。（资料图片） 图② 厦门松鼠精密科技有限公司生产车间内，工程师正在操作设备。 （资料图片）",
         "source": "中国经济网",
         "pub": "",
         "heat": 74,
@@ -539,32 +504,32 @@
         ]
       },
       {
-        "title": "一箭九星 引力一号遥三运载火箭发射成功",
-        "link": "https://www.chinanews.com.cn/gn/2026/09-16/10697144.shtml",
-        "summary": "中新网北京9月16日电 (马帅莎 李宸)北京时间2026年9月16日6时，我国太原卫星发射中心在上海东部海域使用引力一号遥三运载火箭，将搭载的千帆极轨26组卫星及EUHT技术试验卫星共9颗卫星顺利送入预定轨道，飞行试验任务取得圆满成功。",
-        "source": "中国新闻网",
-        "pub": "Wed, 16 Sep 2026 06:38:11 +0800",
+        "title": "“中国经济圆桌会”聚焦加强新就业群体服务管理",
+        "link": "https://www.news.cn/fortune/20260916/7c8203f812124084865c2b279bfc7e1d/c.html",
+        "summary": "新就业群体是社会主义劳动者的重要组成部分，是经济社会发展不可或缺的重要力量。",
+        "source": "新华网",
+        "pub": "",
         "heat": 73,
-        "heatRaw": 56,
+        "heatRaw": 54,
         "heatParts": {
           "cross": 0,
-          "auth": 13,
-          "rank": 20,
-          "fresh": 23,
-          "kw": 0
+          "auth": 14,
+          "rank": 19,
+          "fresh": 13,
+          "kw": 8
         },
         "crossCount": 1,
         "reportCount": 1,
         "sources": [
-          "中国新闻网"
+          "新华网"
         ]
       },
       {
-        "title": "盗窃犯刑满释放前8天改判死缓 检方称其＂天生的罪犯＂",
-        "link": "https://www.163.com/dy/article/L6RP12RK0512D3VJ.html",
-        "summary": "疑罪去疑：盗窃犯刑满释放前8天改判死缓，一桩十年悬案的罪与罚,法院,证据,悬案,最高法,检察官,盗窃犯,余华英拐卖儿童案",
+        "title": "父亲遛狗2岁娃独留家中从18楼坠亡 父亲发声:我很愧疚",
+        "link": "https://www.163.com/dy/article/L6VQDI100530RMGL.html",
+        "summary": "近日，重庆发生一起令人痛心的意外事件：一名2岁2个月大的幼童从18楼坠楼身亡。孩子母亲刘女士在网络发帖称，丈夫崔先生外出遛狗时将幼童独自留在家中，导致悲剧发生。",
         "source": "网易新闻",
-        "pub": "2026-09-15 23:10:14",
+        "pub": "2026-09-16 23:17:47",
         "heat": 73,
         "heatRaw": 55,
         "heatParts": {
@@ -583,64 +548,64 @@
     ],
     "world": [
       {
-        "title": "我国县域消费加速扩容提质",
-        "link": "https://news.haiwainet.cn/n/2026/0915/c3544276-32983199.html",
-        "summary": "消息（新闻联播）：今年以来，我国县域商业设施持续完善，商品与服务供给不断丰富，县域居民消费呈现加速扩容提质的良好态势。不久前，湖南省邵阳市洞口县首家商业...",
-        "source": "海外网",
+        "title": "新华网国际看点｜“大金砖合作”为推动全球南方团结自强凝聚力量",
+        "link": "https://www.news.cn/world/20260916/3e309ed6aadf4ecab00d1a7b846e21bc/c.html",
+        "summary": "新华网国际看点｜“大金砖合作”为推动全球南方团结自强凝聚力量-习近平主席提出的“四大先锋”主张和一系列务实举措，对促进“大金砖合作”高质量发展、支持全球南方团结自强有怎样的重要意义。",
+        "source": "新华网",
         "pub": "",
-        "heat": 85,
-        "heatRaw": 75,
+        "heat": 87,
+        "heatRaw": 79,
         "heatParts": {
           "cross": 22,
-          "auth": 13,
-          "rank": 17,
-          "fresh": 19,
-          "kw": 3
+          "auth": 14,
+          "rank": 23,
+          "fresh": 13,
+          "kw": 6
         },
         "crossCount": 3,
         "reportCount": 4,
         "sources": [
+          "新华网",
           "海外网",
+          "国际在线"
+        ]
+      },
+      {
+        "title": "巴基斯坦召见印度临时代办 就印巴军舰碰撞事件提出抗议",
+        "link": "https://news.cri.cn/20260917/2fb12125-a9e2-4484-e4cc-2bc9b20d13fe.html",
+        "summary": "巴基斯坦外交部当地时间16日晚发表声明，就印度一艘军舰15日与巴军舰相撞的有关行动提出强烈抗议。 声明称，巴基斯坦外交部16日召见印度驻伊斯兰堡高级专员公署临时代办，就印度海军一艘舰艇于2026年9月15日在巴基斯坦专属经济区内采取的",
+        "source": "国际在线",
+        "pub": "",
+        "heat": 85,
+        "heatRaw": 75,
+        "heatParts": {
+          "cross": 11,
+          "auth": 13,
+          "rank": 20,
+          "fresh": 23,
+          "kw": 8
+        },
+        "crossCount": 2,
+        "reportCount": 2,
+        "sources": [
           "国际在线",
           "中国新闻网"
         ]
       },
       {
-        "title": "习近平主席赴印度新德里出席金砖国家领导人第十八次会晤纪实",
-        "link": "https://www.news.cn/world/20260915/11643defc28f40c4bc77de430a492cb4/c.html",
-        "summary": "勇做时代先锋 汇聚团结力量——习近平主席赴印度新德里出席金砖国家领导人第十八次会晤纪实-",
-        "source": "新华网",
-        "pub": "",
-        "heat": 80,
-        "heatRaw": 66,
-        "heatParts": {
-          "cross": 11,
-          "auth": 14,
-          "rank": 22,
-          "fresh": 13,
-          "kw": 6
-        },
-        "crossCount": 2,
-        "reportCount": 2,
-        "sources": [
-          "新华网",
-          "海外网"
-        ]
-      },
-      {
-        "title": "美媒：美国对伊朗战争耗资已超420亿美元",
-        "link": "https://www.chinanews.com.cn/gj/2026/09-16/10697145.shtml",
-        "summary": "中新网9月16日电 据美国《国会山报》当地时间15日报道，美国国防部8月曾告诉国会，伊朗战争的成本现在已经攀升至420亿美元以上，这比国防部最近一次公开估计的成本增加了45亿美元。",
+        "title": "外媒：美联储三年多来首次加息，特朗普强烈反对",
+        "link": "https://www.chinanews.com.cn/gj/2026/09-17/10697957.shtml",
+        "summary": "中新网9月17日电 据英国广播公司(BBC)报道，当地时间16日，美国利率三年多来首次上调，为了遏制物价上涨，美联储可能还会进一步提高利率。",
         "source": "中国新闻网",
-        "pub": "Wed, 16 Sep 2026 06:45:40 +0800",
-        "heat": 79,
-        "heatRaw": 65,
+        "pub": "Thu, 17 Sep 2026 06:39:14 +0800",
+        "heat": 81,
+        "heatRaw": 69,
         "heatParts": {
           "cross": 0,
           "auth": 13,
           "rank": 23,
           "fresh": 23,
-          "kw": 6
+          "kw": 9
         },
         "crossCount": 1,
         "reportCount": 2,
@@ -649,62 +614,19 @@
         ]
       },
       {
-        "title": "Turks often keep gold as a hedge against inflation. It may be hurting Turkey's future",
-        "link": "https://www.npr.org/2026/09/15/nx-s1-5949212/turks-often-keep-gold-as-a-hedge-against-inflation-it-may-be-hurting-turkeys-future",
-        "summary": "Billions of dollars worth of gold is held in Turkish households outside the banking system. The government aims to convi…",
-        "source": "NPR",
-        "pub": "Tue, 15 Sep 2026 18:26:14 -0400",
+        "title": "特朗普：美国利率应当降至1%或更低",
+        "link": "https://www.chinanews.com.cn/gj/2026/09-17/10697954.shtml",
+        "summary": "当地时间9月16日，美国总统特朗普在“真实社交”平台发文表示，美国的利率应当降至1%或更低，“因为美国拥有世界上的最佳信用”。",
+        "source": "中国新闻网",
+        "pub": "Thu, 17 Sep 2026 06:06:52 +0800",
         "heat": 77,
-        "heatRaw": 61,
+        "heatRaw": 62,
         "heatParts": {
           "cross": 0,
-          "auth": 12,
-          "rank": 23,
-          "fresh": 19,
-          "kw": 8
-        },
-        "crossCount": 1,
-        "reportCount": 1,
-        "sources": [
-          "NPR"
-        ]
-      },
-      {
-        "title": "IAEA General Conference opens amid growing nuclear proliferation concerns",
-        "link": "https://www.chinadaily.com.cn/a/202609/15/WS6aa89cd0e4b06d4aa055e089.html",
-        "summary": "VIENNA - The 70th General Conference of the International Atomic Energy Agency (IAEA) opened in Vienna on Monday, with c…",
-        "source": "中国日报网",
-        "pub": "",
-        "heat": 76,
-        "heatRaw": 59,
-        "heatParts": {
-          "cross": 11,
           "auth": 13,
           "rank": 22,
-          "fresh": 13,
-          "kw": 0
-        },
-        "crossCount": 2,
-        "reportCount": 2,
-        "sources": [
-          "中国日报网",
-          "国际在线"
-        ]
-      },
-      {
-        "title": "美国10年期国债收益率一度升至2007年以来高点",
-        "link": "https://www.chinanews.com.cn/gj/2026/09-16/10697141.shtml",
-        "summary": "由于通胀形势持续引发市场担忧和美国联邦储备委员会加息预期推动，美国10年期国债收益率在15日凌晨升至5.045%，为2007年7月以来的最高水平。",
-        "source": "中国新闻网",
-        "pub": "Wed, 16 Sep 2026 05:57:04 +0800",
-        "heat": 76,
-        "heatRaw": 60,
-        "heatParts": {
-          "cross": 0,
-          "auth": 13,
-          "rank": 20,
           "fresh": 23,
-          "kw": 4
+          "kw": 5
         },
         "crossCount": 1,
         "reportCount": 1,
@@ -713,17 +635,17 @@
         ]
       },
       {
-        "title": "Talks between Iran and Gulf states put off",
-        "link": "https://www.chinadaily.com.cn/a/202609/15/WS6aa8a1dbe4b06d4aa055e0e7.html",
-        "summary": "The much-anticipated meeting between Iran and the Gulf countries on Monday — with the Strait of Hormuz expected to domin…",
+        "title": "Middle East tensions rise amid fresh strikes",
+        "link": "https://www.chinadaily.com.cn/a/202609/16/WS6aa9ed00e4b06d4aa055e3e6.html",
+        "summary": "Sustained tensions in the Middle East kept the region on edge on Tuesday as Yemen's Houthis and the Saudi Arabian-backed…",
         "source": "中国日报网",
         "pub": "",
-        "heat": 76,
-        "heatRaw": 60,
+        "heat": 77,
+        "heatRaw": 62,
         "heatParts": {
           "cross": 11,
           "auth": 13,
-          "rank": 19,
+          "rank": 22,
           "fresh": 13,
           "kw": 3
         },
@@ -735,85 +657,169 @@
         ]
       },
       {
-        "title": "跨越山海，为梦想铺路——中拉教育合作驶入快车道",
-        "link": "https://news.haiwainet.cn/n/2026/0915/c3544276-32983240.html",
-        "summary": "墨西哥城9月14日电 综述｜跨越山海，为梦想铺路——中拉教育合作驶入快车道新华社记者陈威华 张拓 吴梦从拉美首个中外共建中文本科专业在巴西开学，到美洲首家...",
+        "title": "EU rolls out red carpet to Canada to become its first 'associate member'",
+        "link": "https://www.npr.org/2026/09/16/nx-s1-5971043/eu-canada-carney-tariffs-trump",
+        "summary": "The European Union's top official backs the Canadian prime minister's push for his country to become the bloc's first \"a…",
+        "source": "NPR",
+        "pub": "Wed, 16 Sep 2026 16:08:27 -0400",
+        "heat": 76,
+        "heatRaw": 59,
+        "heatParts": {
+          "cross": 0,
+          "auth": 12,
+          "rank": 23,
+          "fresh": 19,
+          "kw": 5
+        },
+        "crossCount": 1,
+        "reportCount": 2,
+        "sources": [
+          "NPR"
+        ]
+      },
+      {
+        "title": "权威解读｜从前8个月数据看中国经济向新向优",
+        "link": "https://news.haiwainet.cn/n/2026/0916/c3544276-32983597.html",
+        "summary": "2026年是“十五五”开局之年，中国经济在1至8月交出一份总体平稳、向新向优的成绩单。国家统计局15日发布数据显示，8月份生产供给平稳增长，就业物价总体稳定，...",
         "source": "海外网",
         "pub": "",
         "heat": 75,
         "heatRaw": 58,
         "heatParts": {
+          "cross": 0,
+          "auth": 13,
+          "rank": 19,
+          "fresh": 13,
+          "kw": 13
+        },
+        "crossCount": 1,
+        "reportCount": 1,
+        "sources": [
+          "海外网"
+        ]
+      },
+      {
+        "title": "平陆运河通航 外媒看好区域互联互通新机遇",
+        "link": "https://news.haiwainet.cn/n/2026/0916/c3544276-32983578.html",
+        "summary": "9月16日，平陆运河迎来通航的历史性时刻。多家外媒近期关注这一重大交通基础设施投入使用，认为平陆运河将进一步拉近中国与东南亚市场之间的距离，并为区域贸易、物流和...",
+        "source": "海外网",
+        "pub": "",
+        "heat": 74,
+        "heatRaw": 57,
+        "heatParts": {
           "cross": 11,
           "auth": 13,
-          "rank": 10,
-          "fresh": 19,
-          "kw": 5
+          "rank": 16,
+          "fresh": 13,
+          "kw": 4
         },
         "crossCount": 2,
         "reportCount": 2,
         "sources": [
           "海外网",
-          "中国新闻网"
-        ]
-      },
-      {
-        "title": "金砖峰会，习近平为何强调“坚定站在历史正确一边”",
-        "link": "https://news.cri.cn/20260915/257176bb-9e4b-4be1-943b-083b46bb972f.html",
-        "summary": "中新网9月13日电题：金砖峰会，习近平为何强调“坚定站在历史正确一边” 9月13日，习近平主席圆满结束出席金砖国家领导人第十八次会晤返回北京。 面对百年变局加速演进、国际形势变乱交织，习近平主席再次与金砖国家领导人面对面交流，备受国",
-        "source": "国际在线",
-        "pub": "",
-        "heat": 75,
-        "heatRaw": 59,
-        "heatParts": {
-          "cross": 0,
-          "auth": 13,
-          "rank": 22,
-          "fresh": 13,
-          "kw": 11
-        },
-        "crossCount": 1,
-        "reportCount": 1,
-        "sources": [
           "国际在线"
         ]
       },
       {
-        "title": "SCOTUS rejects Trump's mail voting limits. And, the Kennedy Center financial crisis",
-        "link": "https://www.npr.org/2026/09/15/g-s1-143294/up-first-newsletter-bernie-sanders-steve-bannon-ai-mail-in-ballots-kennedy-center-emmys",
-        "summary": "The Supreme Court has rejected Trump's mail-in voting restrictions ahead of the midterm elections. And, the Kennedy Cent…",
-        "source": "NPR",
-        "pub": "Tue, 15 Sep 2026 07:35:49 -0400",
-        "heat": 75,
-        "heatRaw": 59,
+        "title": "东盟通过《马尼拉宣言》 强化灾害韧性合作",
+        "link": "https://www.chinanews.com.cn/gj/2026/09-17/10697949.shtml",
+        "summary": "中新社马尼拉9月16日电 (记者 周璟)东盟成员国16日在菲律宾帕赛市举行的东盟灾害韧性部长级会议闭幕式上正式通过《马尼拉宣言》，进一步加强区域灾害韧性合作，推动灾害治理向灾前预防行动转变。",
+        "source": "中国新闻网",
+        "pub": "Thu, 17 Sep 2026 05:54:13 +0800",
+        "heat": 73,
+        "heatRaw": 54,
         "heatParts": {
           "cross": 0,
-          "auth": 12,
-          "rank": 20,
-          "fresh": 19,
-          "kw": 8
+          "auth": 13,
+          "rank": 14,
+          "fresh": 23,
+          "kw": 4
         },
         "crossCount": 1,
         "reportCount": 1,
         "sources": [
-          "NPR"
+          "中国新闻网"
         ]
-      }
-    ],
-    "medical": [
+      },
       {
-        "title": "锚定决定性进展 绘就健康中国新蓝图",
-        "link": "https://jiankang.cctv.com/2026/09/15/ARTI3e4Ee4DDJZdzTTyy0d4M260915.shtml",
-        "summary": "9月14日，国务院新闻办公室在京举行“开局起步‘十五五’”系列主题新闻发布会。国家卫生健康委主任雷海潮等出席，围绕推动健康中国建设取得决定性进展介绍总体部署，聚焦全民健康、医疗提质、中医药振兴、疾控体系建设等重点领域，详解“十五五”卫生健康…",
-        "source": "央视网·健康",
+        "title": "Top court rejects mail ballot restrictions ahead of midterms",
+        "link": "https://www.chinadaily.com.cn/a/202609/16/WS6aa9f8dee4b06d4aa055e4dc.html",
+        "summary": "WASHINGTON — The US Supreme Court on Monday rejected President Donald Trump's bid to restrict mail ballots for the midte…",
+        "source": "中国日报网",
         "pub": "",
-        "heat": 78,
-        "heatRaw": 64,
+        "heat": 72,
+        "heatRaw": 53,
         "heatParts": {
           "cross": 0,
           "auth": 13,
           "rank": 23,
           "fresh": 13,
-          "kw": 14
+          "kw": 3
+        },
+        "crossCount": 1,
+        "reportCount": 1,
+        "sources": [
+          "中国日报网"
+        ]
+      }
+    ],
+    "medical": [
+      {
+        "title": "中国疾控中心（中国预科院）党委召开理论学习中心组...",
+        "link": "https://www.chinacdc.cn/zxyw/202609/t20260915_1840171.html",
+        "summary": "9月14日上午，中心（院）党委召开理论学习中心组集体（扩大）学习会，深入学习贯彻习近平党建思想和习近平总书记关于基层工作方法的重要论述。中心（院）党委书记、副主任（副院长）张国新主持会议并作总结讲话，中心（院）领导班子成员和部分处室、直属单…",
+        "source": "中国疾控中心",
+        "pub": "",
+        "heat": 77,
+        "heatRaw": 61,
+        "heatParts": {
+          "cross": 0,
+          "auth": 13,
+          "rank": 23,
+          "fresh": 13,
+          "kw": 10
+        },
+        "crossCount": 1,
+        "reportCount": 4,
+        "sources": [
+          "中国疾控中心"
+        ]
+      },
+      {
+        "title": "外企在中国｜勃林格殷格翰大中华区总裁兼CEO苏晏宁博士：创新不止于药物，让肺纤维化患者真正获益",
+        "link": "https://www.news.cn/health/20260916/2a8f119f0a62477c829769d274d0feb7/c.html",
+        "summary": "外企在中国｜勃林格殷格翰大中华区总裁兼CEO苏晏宁博士：创新不止于药物，让肺纤维化患者真正获益-但在苏晏宁博士看来，创新药物只是改善患者治疗结局的一部分。",
+        "source": "新华网·健康",
+        "pub": "",
+        "heat": 77,
+        "heatRaw": 61,
+        "heatParts": {
+          "cross": 0,
+          "auth": 13,
+          "rank": 23,
+          "fresh": 13,
+          "kw": 11
+        },
+        "crossCount": 1,
+        "reportCount": 2,
+        "sources": [
+          "新华网·健康"
+        ]
+      },
+      {
+        "title": "中西医结合要避免“合而不融”",
+        "link": "https://jiankang.cctv.com/2026/09/16/ARTIt8dwjN37x3S73ECZ38Z9260916.shtml",
+        "summary": "香山科学会议聚焦中西医结合70年，院士专家指出分科诊疗导致治疗碎片化和多重用药，呼吁从单病种诊疗走向共病综合防治。",
+        "source": "央视网·健康",
+        "pub": "",
+        "heat": 76,
+        "heatRaw": 60,
+        "heatParts": {
+          "cross": 0,
+          "auth": 13,
+          "rank": 23,
+          "fresh": 13,
+          "kw": 10
         },
         "crossCount": 1,
         "reportCount": 1,
@@ -822,31 +828,10 @@
         ]
       },
       {
-        "title": "王健伟主任（院长）会见美国疾控中心新任在华项目负...",
-        "link": "https://www.chinacdc.cn/zxyw/202609/t20260915_1840118.html",
-        "summary": "2026-09-10 王健伟主任（院长）会见葛兰素史克董事会主席司明麒爵士一行 2026-08-04",
-        "source": "中国疾控中心",
-        "pub": "",
-        "heat": 74,
-        "heatRaw": 56,
-        "heatParts": {
-          "cross": 0,
-          "auth": 13,
-          "rank": 23,
-          "fresh": 13,
-          "kw": 6
-        },
-        "crossCount": 1,
-        "reportCount": 2,
-        "sources": [
-          "中国疾控中心"
-        ]
-      },
-      {
-        "title": "全国包虫病综合防治工作推进会在西宁召开",
-        "link": "https://www.chinacdc.cn/zxyw/202609/t20260914_1840114.html",
-        "summary": "会议要求，进一步提高政治站位，坚决贯彻落实党中央、国务院决策部署，细化工作举措，补齐短板弱项，持续巩固防治成果，坚决防范疫情反弹，持续推进包虫病控制与消除进程。",
-        "source": "中国疾控中心",
+        "title": "锚定决定性进展 绘就健康中国新蓝图",
+        "link": "https://jiankang.cctv.com/2026/09/15/ARTI3e4Ee4DDJZdzTTyy0d4M260915.shtml",
+        "summary": "9月14日，国务院新闻办公室在京举行“开局起步‘十五五’”系列主题新闻发布会。国家卫生健康委主任雷海潮等出席，围绕推动健康中国建设取得决定性进展介绍总体部署，聚焦全民健康、医疗提质、中医药振兴、疾控体系建设等重点领域，详解“十五五”卫生健康…",
+        "source": "央视网·健康",
         "pub": "",
         "heat": 74,
         "heatRaw": 56,
@@ -856,6 +841,48 @@
           "rank": 22,
           "fresh": 7,
           "kw": 14
+        },
+        "crossCount": 1,
+        "reportCount": 1,
+        "sources": [
+          "央视网·健康"
+        ]
+      },
+      {
+        "title": "全国包虫病综合防治工作推进会在西宁召开",
+        "link": "https://www.chinacdc.cn/zxyw/202609/t20260914_1840114.html",
+        "summary": "会议要求，进一步提高政治站位，坚决贯彻落实党中央、国务院决策部署，细化工作举措，补齐短板弱项，持续巩固防治成果，坚决防范疫情反弹，持续推进包虫病控制与消除进程。",
+        "source": "中国疾控中心",
+        "pub": "",
+        "heat": 73,
+        "heatRaw": 55,
+        "heatParts": {
+          "cross": 0,
+          "auth": 13,
+          "rank": 20,
+          "fresh": 7,
+          "kw": 14
+        },
+        "crossCount": 1,
+        "reportCount": 1,
+        "sources": [
+          "中国疾控中心"
+        ]
+      },
+      {
+        "title": "王健伟主任（院长）会见美国疾控中心新任在华项目负...",
+        "link": "https://www.chinacdc.cn/zxyw/202609/t20260915_1840118.html",
+        "summary": "2026-09-10 王健伟主任（院长）会见葛兰素史克董事会主席司明麒爵士一行 2026-08-04",
+        "source": "中国疾控中心",
+        "pub": "",
+        "heat": 69,
+        "heatRaw": 48,
+        "heatParts": {
+          "cross": 0,
+          "auth": 13,
+          "rank": 22,
+          "fresh": 7,
+          "kw": 6
         },
         "crossCount": 1,
         "reportCount": 1,
@@ -869,48 +896,6 @@
         "summary": "当打之年，轻舟再启！“减负新‘支’点・轻舟三人行”活动第2弹火热“开赛”-\"在此基础上，“减负新‘支’点·轻舟三人行”第2弹活动将继续深入探索青年体重管理的社会协同与同伴支持机制。\"",
         "source": "新华网·健康",
         "pub": "",
-        "heat": 72,
-        "heatRaw": 54,
-        "heatParts": {
-          "cross": 0,
-          "auth": 13,
-          "rank": 23,
-          "fresh": 13,
-          "kw": 4
-        },
-        "crossCount": 1,
-        "reportCount": 1,
-        "sources": [
-          "新华网·健康"
-        ]
-      },
-      {
-        "title": "中国疾病预防控制中心与蒙古国家传染病中心续签合作...",
-        "link": "https://www.chinacdc.cn/zxyw/202609/t20260910_1840047.html",
-        "summary": "2026年9月3—4日，中心领导梅扬同志率团赴蒙古乌兰巴托访问，与蒙古卫生部、蒙古国家传染病中心、蒙古国家公共卫生中心、蒙古国家人兽共患病中心、世卫组织驻蒙古代表处等机构领导和专家开展了交流讨论。9月4日，梅扬同志代表中心与蒙古国家传染病中…",
-        "source": "中国疾控中心",
-        "pub": "",
-        "heat": 70,
-        "heatRaw": 49,
-        "heatParts": {
-          "cross": 0,
-          "auth": 13,
-          "rank": 17,
-          "fresh": 7,
-          "kw": 11
-        },
-        "crossCount": 1,
-        "reportCount": 2,
-        "sources": [
-          "中国疾控中心"
-        ]
-      },
-      {
-        "title": "服贸会健康卫生服务专题创新成果发布",
-        "link": "https://jiankang.cctv.com/2026/09/14/ARTIjbFK5kqnJuGZ1Ty09hSI260914.shtml",
-        "summary": "日前，2026年服贸会健康卫生服务专题创新成果发布活动在北京首钢园举行，主题为“全球服务、共享健康”。活动现场重磅成果集中亮相。",
-        "source": "央视网·健康",
-        "pub": "",
         "heat": 68,
         "heatRaw": 47,
         "heatParts": {
@@ -923,44 +908,44 @@
         "crossCount": 1,
         "reportCount": 1,
         "sources": [
-          "央视网·健康"
+          "新华网·健康"
         ]
       },
       {
-        "title": "“非洲国家新发再发传染病防控技术培训班”和“发展...",
-        "link": "https://www.chinacdc.cn/zxyw/202609/t20260910_1840073.html",
-        "summary": "2026-09-10 中心（院）举办2026年教师节“师恩如光，桃李芬芳”主题活动 2026-09-10",
-        "source": "中国疾控中心",
+        "title": "服贸会健康卫生服务专题创新成果发布",
+        "link": "https://jiankang.cctv.com/2026/09/14/ARTIjbFK5kqnJuGZ1Ty09hSI260914.shtml",
+        "summary": "日前，2026年服贸会健康卫生服务专题创新成果发布活动在北京首钢园举行，主题为“全球服务、共享健康”。活动现场重磅成果集中亮相。",
+        "source": "央视网·健康",
         "pub": "",
-        "heat": 68,
-        "heatRaw": 47,
+        "heat": 67,
+        "heatRaw": 45,
         "heatParts": {
           "cross": 0,
           "auth": 13,
           "rank": 20,
           "fresh": 7,
-          "kw": 6
+          "kw": 4
         },
         "crossCount": 1,
         "reportCount": 1,
         "sources": [
-          "中国疾控中心"
+          "央视网·健康"
         ]
       },
       {
-        "title": "我国创新药出海再提速 今年对外授权突破1200亿美元",
-        "link": "https://www.news.cn/health/20260915/8c26d934be634c359c3c443a5b984ae5/c.html",
-        "summary": "我国创新药出海再提速 今年对外授权突破1200亿美元- 随着审评审批制度改革深化，医药创新成果持续涌现。",
+        "title": "中国农业大学付文阁：挖掘驴产业差异化价值 助力农食绿色转型",
+        "link": "https://www.news.cn/health/20260916/31df0d3bd7554687b6b07939d2aedc93/c.html",
+        "summary": "中国农业大学付文阁：挖掘驴产业差异化价值 助力农食绿色转型-9月15日，以“农食系统绿色健康转型”为主题的2026WAFI全球驴产业可持续发展论坛在中国农业大学国际会议中心举办。",
         "source": "新华网·健康",
         "pub": "",
-        "heat": 68,
-        "heatRaw": 47,
+        "heat": 65,
+        "heatRaw": 41,
         "heatParts": {
           "cross": 0,
           "auth": 13,
           "rank": 10,
           "fresh": 13,
-          "kw": 10
+          "kw": 4
         },
         "crossCount": 1,
         "reportCount": 1,
@@ -969,40 +954,19 @@
         ]
       },
       {
-        "title": "中心（院）举办2026年教师节“师恩如光，桃李芬芳”...",
-        "link": "https://www.chinacdc.cn/zxyw/202609/t20260910_1840051.html",
-        "summary": "2026-09-07 廿五薪传 守正创新——2026年中国现场流行病学培训项目年度会议在贵阳召开 2026-09-06",
-        "source": "中国疾控中心",
-        "pub": "",
-        "heat": 66,
-        "heatRaw": 44,
-        "heatParts": {
-          "cross": 0,
-          "auth": 13,
-          "rank": 19,
-          "fresh": 7,
-          "kw": 4
-        },
-        "crossCount": 1,
-        "reportCount": 1,
-        "sources": [
-          "中国疾控中心"
-        ]
-      },
-      {
-        "title": "1类创新药优可盼准入南京“宁惠保”七期 加速惠及PNH患者",
-        "link": "https://www.news.cn/health/20260914/72eaa638858d4ce3b707c1db1307c4fb/c.html",
-        "summary": "1类创新药优可盼准入南京“宁惠保”七期 加速惠及PNH患者-\"“南京宁惠保”七期参保时间为2026年9月11日至2026年12月31日，保障时间为2027年1月1日至2027年12月31日。\"",
+        "title": "席春玲：共建国际驴产业种质创新实验室 打造南南农业合作产业样本",
+        "link": "https://www.news.cn/health/20260916/e2b5b767e6aa474db3ecfa753b5b2678/c.html",
+        "summary": "席春玲：共建国际驴产业种质创新实验室 打造南南农业合作产业样本-\"针对国际驴产业种质创新联合实验室，席春玲指出，该实验室面向发展中国家输出成熟产业经验，构建“科研-种质-产业-市场”贯通模式，破解全球驴产业科研与产业脱节的痛点，既保护驴遗传…",
         "source": "新华网·健康",
         "pub": "",
-        "heat": 64,
-        "heatRaw": 40,
+        "heat": 61,
+        "heatRaw": 35,
         "heatParts": {
           "cross": 0,
           "auth": 13,
           "rank": 9,
-          "fresh": 7,
-          "kw": 11
+          "fresh": 13,
+          "kw": 0
         },
         "crossCount": 1,
         "reportCount": 1,
@@ -1013,74 +977,74 @@
     ],
     "ai": [
       {
-        "title": "梁文锋CFO到位！投过智谱MiniMax",
-        "link": "https://www.qbitai.com/2026/09/489707.html",
-        "summary": "严文韬，1991年生，高瓴创投合伙人",
+        "title": "通用能力不打折，空间具身智能断层领先！ZDTaichu5.0-9B国产开源，跻身全球多模态第一梯队",
+        "link": "https://www.qbitai.com/2026/09/490839.html",
+        "summary": "九大空间测试10B规模通用模型中8项第一",
         "source": "量子位",
-        "pub": "Tue, 15 Sep 2026 13:53:39 +0000"
+        "pub": "Wed, 16 Sep 2026 13:08:20 +0000"
       },
       {
-        "title": "地平线第1500万颗征程芯片搭载大众 ID. AURA T6，HSD V2.1 即将推出",
-        "link": "https://www.qbitai.com/2026/09/489698.html",
-        "summary": "首发全场景倒车能力，体验再进一步",
+        "title": "AI大模型工场2026 AI产业生态大会今日举办，大咖同台共探智能生长与产业共生",
+        "link": "https://www.qbitai.com/2026/09/490760.html",
+        "summary": "9月15日，由AI大模型工场主办的“2026 AI产业生态大会”在北京举行。",
         "source": "量子位",
-        "pub": "Tue, 15 Sep 2026 13:32:54 +0000"
+        "pub": "Wed, 16 Sep 2026 08:51:02 +0000"
       },
       {
-        "title": "手机替我跑了一整套流程！我就说了一句话，AI执行了100步",
-        "link": "https://www.qbitai.com/2026/09/489466.html",
-        "summary": "一句话，YOYO全面接管我的生活",
+        "title": "高通技术公司携手中兴努比亚和豆包手机助手，共同推动智能手机迈入个人AI新时代",
+        "link": "https://www.qbitai.com/2026/09/490756.html",
+        "summary": "第五代骁龙8至尊版赋能全新AI智能体手机努比亚NaviX Ultra，加速智能体体验规模化落地",
         "source": "量子位",
-        "pub": "Tue, 15 Sep 2026 12:47:16 +0000"
+        "pub": "Wed, 16 Sep 2026 08:18:44 +0000"
       },
       {
-        "title": "无问芯穹联合清华、上交正式开源具身端侧推理引擎APXInf，Pi 0.5性能SOTA",
-        "link": "https://www.qbitai.com/2026/09/489460.html",
-        "summary": "卡位具身智能规模化落地“最后一公里”！",
+        "title": "协同办公进入Agent时代，飞书+豆包工作跑在了最前面",
+        "link": "https://www.qbitai.com/2026/09/490686.html",
+        "summary": "AI协同办公的新官配，我先磕了",
         "source": "量子位",
-        "pub": "Tue, 15 Sep 2026 10:43:28 +0000"
+        "pub": "Wed, 16 Sep 2026 07:46:38 +0000"
       },
       {
-        "title": "全球AI视频榜单第一梯队再添中国力量：智象发布首款物理规律导向视频模型",
-        "link": "https://www.qbitai.com/2026/09/489389.html",
-        "summary": "智象未来（HiDream.ai）正式发布首个原生全模态视频生成模型 HiDream-O1-Video-1.0",
+        "title": "西门子不造机器人，为什么机器人进厂的故事里总有它？",
+        "link": "https://www.qbitai.com/2026/09/490416.html",
+        "summary": "帮助成熟赛道复制方案，帮助新赛道长出场景。",
         "source": "量子位",
-        "pub": "Tue, 15 Sep 2026 10:41:06 +0000"
+        "pub": "Wed, 16 Sep 2026 07:38:18 +0000"
       },
       {
-        "title": "一张GPU跑10万原子！分子之心用AI把化学反应“拍”成了电影",
-        "link": "https://www.qbitai.com/2026/09/489381.html",
-        "summary": "打破分子模拟“不可能三角”",
+        "title": "清华稳准智能联合发布LimiX-2，结构化数据基础模型登顶国际评测榜单",
+        "link": "https://www.qbitai.com/2026/09/490400.html",
+        "summary": "9月16日，稳准智能联合清华大学发布新一代数据大模型 LimiX-2，模型参数规模提升至400M。",
         "source": "量子位",
-        "pub": "Tue, 15 Sep 2026 09:58:00 +0000"
+        "pub": "Wed, 16 Sep 2026 06:32:31 +0000"
       },
       {
-        "title": "首个AIGC长片大赛！RunningHub单项大奖100万，科幻IP免费改编",
-        "link": "https://www.qbitai.com/2026/09/489260.html",
-        "summary": "刘慈欣督战",
+        "title": "B站AI无限竞技场今日上线！全球百大AI模型同场竞技，GPT-6高居榜首",
+        "link": "https://www.qbitai.com/2026/09/490396.html",
+        "summary": "9月16日，B站「AI无限竞技场」正式上线，首期大模型测评榜单同步公布。",
         "source": "量子位",
-        "pub": "Tue, 15 Sep 2026 07:48:48 +0000"
+        "pub": "Wed, 16 Sep 2026 06:23:05 +0000"
       },
       {
-        "title": "Meta新研究：字节模型蒸馏后，天花板破了",
-        "link": "https://www.qbitai.com/2026/09/489337.html",
-        "summary": "（暂无摘要）",
+        "title": "量子位2026人工智能年度榜单，正式启动！",
+        "link": "https://www.qbitai.com/2026/09/490329.html",
+        "summary": "报名通道已开启，欢迎参与！",
         "source": "量子位",
-        "pub": "Tue, 15 Sep 2026 06:37:16 +0000"
+        "pub": "Wed, 16 Sep 2026 04:16:10 +0000"
       },
       {
-        "title": "社区速递 158 | 便宜耐造的副厂手柄与大学宿舍里那些相见恨晚的装备",
-        "link": "https://sspai.com/post/114613",
-        "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现…",
+        "title": "探秘柬埔寨，千年吴哥窟",
+        "link": "https://sspai.com/post/114454",
+        "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。…",
         "source": "少数派",
-        "pub": "Tue, 15 Sep 2026 17:00:00 +0800"
+        "pub": "Wed, 16 Sep 2026 17:33:41 +0800"
       },
       {
-        "title": "具透 | 精心优化， 体验感愉悦升华：iOS 27 中值得关注的新特性",
-        "link": "https://sspai.com/post/114565",
-        "summary": "少数派在体验了新版系统之后，帮你整理了 iOS 27 中值得关注的新功能和新特性，希望帮你能了解新版系统的方方面面。 查看全文",
+        "title": "具透 | Liquid Glass 设计改进、性能提升……iPadOS 27 中值得一瞥的新特性",
+        "link": "https://sspai.com/post/114607",
+        "summary": "今年 iPadOS 中的更新并不算多，我们依旧帮你整理出了哪些值得关注的新特性。 查看全文",
         "source": "少数派",
-        "pub": "Tue, 15 Sep 2026 15:00:00 +0800"
+        "pub": "Wed, 16 Sep 2026 15:00:00 +0800"
       }
     ]
   },
