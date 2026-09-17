@@ -1,52 +1,52 @@
 {
-  "generatedAt": "2026-09-16T23:02:54.898Z",
-  "date": "2026-09-17",
+  "generatedAt": "2026-09-17T23:01:03.471Z",
+  "date": "2026-09-18",
   "books": {
-    "date": "2026-09-16",
+    "date": "2026-09-17",
     "books": [
       {
-        "title": "法槌轻落：温情法官弗兰克·卡普里奥的人性实录",
-        "author": "[美] 弗兰克·卡普里奥",
-        "cover": "https://img3.doubanio.com/view/subject/s/public/s35576103.jpg",
+        "title": "大一统的制度密码：行政发包制与国家治理",
+        "author": "周黎安",
+        "cover": "https://img1.doubanio.com/view/subject/s/public/s35608688.jpg",
         "rating": 0,
-        "ratingCount": 78,
-        "summary": "这是“世界上最善良的法官”弗兰克·卡普里奥（Frank Caprio）的自传图书。在弗兰克·卡普里奥法官五次获得日间艾美奖提名的电视节目《普罗维登斯法庭实录》中，他的法庭成为世界范围内富有同情心的正义灯塔，也是数百万粉丝难忘的记忆。在他的法庭里，被告得到了有尊严的对待，身陷困境的人得到了喘息的机会——不是一张通行证，也不是一张免罪卡，而是一个改过自新、照顾家",
-        "authorBio": "《法槌轻落：温情法官弗兰克·卡普里奥的人性实录》由[美] 弗兰克·卡普里奥撰写，于2026-8-1出版。",
-        "link": "https://book.douban.com/subject/38572590/",
-        "pubDate": "2026-8-1",
+        "ratingCount": 24,
+        "summary": "全书以行政发包制为主线，贯通清代至今的中国国家治理历史。书中首先构建理论框架，清晰界定行政内包、外包及其相互关系；进而剖析清代基层治理、海关管理等传统行政发包形态；随后对比中苏体制，分析计划经济时期的空间发包、地方包干及教育管理制度；再围绕分税制、预算管理和县域治理，探讨行政发包制与国家能力及社会关系；最后开展跨文明比较，辨析中国行政发包与波斯、罗马、西欧、",
+        "authorBio": "《大一统的制度密码：行政发包制与国家治理》由周黎安撰写，于2026-8出版。",
+        "link": "https://book.douban.com/subject/38574624/",
+        "pubDate": "2026-8",
         "tag": "new"
       },
       {
-        "title": "不讨喜的女性：流行文化塑造的恶女为何如此迷人",
-        "author": "[英国]安娜·博古茨卡娅",
-        "cover": "https://img1.doubanio.com/view/subject/s/public/s35603288.jpg",
+        "title": "真实与虚幻：厄休拉·勒古恩短篇小说自选集",
+        "author": "[美] 厄休拉·勒古恩",
+        "cover": "https://img2.doubanio.com/view/subject/s/public/s35588711.jpg",
         "rating": 0,
-        "ratingCount": 0,
-        "summary": "女人凭什么要比男人更讨喜？ 首部剖析讨喜的双标性的女性主义作品 用流行文化里迷人的恶女角色，揭开父权社会的服从性测试陷阱 从“荡妇”到“女疯子”，再到“泼妇”，但凡有女性越界的地方，就有“不讨喜”的污名等候着你。 我不讨喜，那又怎样？你不必讨人喜欢，你只需要成为你自己。 《新闻周刊》年度好书。 在父权社会里，女性总被施加额外的讨喜压力：女性应当温柔体贴，女性",
-        "authorBio": "《不讨喜的女性：流行文化塑造的恶女为何如此迷人》由[英国]安娜·博古茨卡娅撰写，于2026-9出版。",
-        "link": "https://book.douban.com/subject/38521461/",
-        "pubDate": "2026-9",
+        "ratingCount": 59,
+        "summary": "“我们可以一遍又一遍地讲述这个故事，直到我们把它讲对。” 《黑暗的左手》《地海传奇》作者、奇幻女王厄休拉·勒古恩代表作 作者本人精选近四十则最佳短篇，撰写序言并首度汇集成册 跳出人类中心，重返万物有灵的勒古恩宇宙 为无言者发声，以想象重述世界 《真实与虚 幻》是奇幻女王厄休拉•勒古恩的短篇小说自选集。本书收录了勒古恩在自己浩如烟海的作品之中，以严格标",
+        "authorBio": "《真实与虚幻：厄休拉·勒古恩短篇小说自选集》由[美] 厄休拉·勒古恩撰写，于2026-8出版。",
+        "link": "https://book.douban.com/subject/38431581/",
+        "pubDate": "2026-8",
         "tag": "new"
       }
     ],
     "quotes": [
       {
-        "text": "世上只有一种英雄主义，就是在认清生活真相之后依然热爱生活。",
-        "author": "罗曼·罗兰",
-        "bio": "法国作家、诺贝尔文学奖得主。",
-        "bg": "出自《米开朗基罗传》序言， defining 真正的英雄是看清苦难仍选择热爱。"
+        "text": "当你凝视深渊时，深渊也在凝视着你。",
+        "author": "尼采",
+        "bio": "德国哲学家，提出「超人」「权力意志」。",
+        "bg": "出自《善恶的彼岸》，警示人与恶对抗时谨防被其同化。"
       },
       {
-        "text": "懂得生命真谛的人，可以使短促的生命延长。",
-        "author": "西塞罗",
-        "bio": "古罗马演说家、哲学家。",
-        "bg": "强调生命价值不在长度而在深度与意义。"
+        "text": "命运赠送的礼物，早已在暗中标好了价格。",
+        "author": "茨威格",
+        "bio": "奥地利作家，《人类群星闪耀时》作者。",
+        "bg": "出自《断头王后》评玛丽·安托瓦内特，警示轻易所得终须偿还。"
       },
       {
-        "text": "路漫漫其修远兮，吾将上下而求索。",
-        "author": "屈原",
-        "bio": "战国诗人，《离骚》作者。",
-        "bg": "出自《离骚》，写求索真理与理想之路虽远不辍。"
+        "text": "不积跬步，无以至千里；不积小流，无以成江海。",
+        "author": "荀子",
+        "bio": "战国儒家学者。",
+        "bg": "出自《劝学》，以积累说明恒心成就远大。"
       }
     ],
     "source": "douban",
@@ -279,25 +279,61 @@
     }
   ],
   "english": {
-    "date": "2026-09-16",
+    "date": "2026-09-17",
     "news": {
-      "type": "news",
-      "title": "House passes Russia sanctions, sending bill named for Lindsey Graham to Trump's desk",
-      "summary": "The legislation was named for the late South Carolina Republican. It gives the president a…",
-      "link": "https://www.npr.org/2026/09/16/nx-s1-5971289/russia-sanctions-house-vote-lindsey-graham",
-      "source": "NPR",
+      "type": "speech",
+      "title": "My stroke of insight",
+      "summary": "Jill Bolte Taylor got a research opportunity few brain scientists would wish for: She had a massive stroke, and watched as her brain functions -- motion, speech, self-awareness -- shut down one by one. An astonishing story.",
+      "link": "https://www.ted.com/talks/jill_bolte_taylor_my_stroke_of_insight",
+      "videoLink": "https://www.ted.com/talks/jill_bolte_taylor_my_stroke_of_insight",
+      "cover": "https://pe.tedcdn.com/images/ted/71ea6602cca0006617a2420c4dec8f8da18c85c5_2400x1800.jpg",
+      "source": "TED",
+      "duration": 1104,
       "content": [
-        "The U.S Capitol is photographed Monday, Sept. 14, 2026, in Washington, D.C. Mariam Zuhaib/AP hide caption",
-        "Congress is sending a Russia sanctions bill to President Trump's desk after the package cleared the House on Wednesday. The legislation, which passed 262 to 159, split lawmakers in both parties.",
-        "The package is intended to put pressure on the Russian economy with the aim of forcing President Vladimir Putin to end his war in Ukraine. Thousands of civilians have been killed since Russia invaded Ukraine in 2022.",
-        "The sanctions target Russian officials, companies and financial institutions helping fuel the war.",
-        "\"This is a moral issue that requires moral courage,\" said Rep. Michael McCaul, R-Texas. \"I want us to be able to say that we did everything possible to end this war. That we understood the threat. That we had the courage to do what was right — to cripple the Russian war machine and turn the tide toward peace.\"",
-        "The legislation also gives the president authority to impose tariffs on top countries importing oil and natural gas from Russia, such as China and India. The tariff authority was a sticking point for many Democrats who opposed the measure, citing fears that Trump could gain a new avenue to levy tariffs on nations of his choosing.",
-        "\"This bill has a loophole that would allow him to define basically any country as a facilitator of evading Russian sanctions,\" said Rep. Don Beyer, D-Va. \"He could then hit them with tariffs of up to 100%, with no guardrails or oversight, and no expiration.\"",
-        "A man walks between stands displaying portraits of fallen Ukrainian fighters, which have been set up at St Sophia Square in the center of Kyiv on Sept.15, 2026, amid the Russian invasion of Ukraine. Sergei Supinsky/AFP via Getty Images hide caption",
-        "Fifty-eight House Democrats joined with most Republicans to advance the legislation, which passed the Senate in a more bipartisan 86-11 vote in August. Seven Republicans joined most Democrats voting to block the measure in the House, with U.S. support for Ukraine having emerged in recent years as a fracture in the GOP caucus.",
-        "The legislation is named in memory of the late Sen. Lindsey Graham , the South Carolina Republican who helped negotiate Trump's support for the package.",
-        "NPR does not offer or accept money for coverage or interviews. Anyone who makes such an offer or request is not an NPR employee and does not represent NPR."
+        "I grew up to study the brain because I have a brother who has been diagnosed with a brain disorder, schizophrenia. And as a sister and later, as a scientist, I wanted to understand, why is it that I can take my dreams, I can connect them to my reality, and I can make my dreams come true? What is it about my brother's brain and his schizophrenia that he cannot connect his dreams to a common and shared reality, so they instead become delusion?",
+        "So I dedicated my career to research into the severe mental illnesses. And I moved from my home state of Indiana to Boston, where I was working in the lab of Dr. Francine Benes, in the Harvard Department of Psychiatry. And in the lab, we were asking the question, \"What are the biological differences between the brains of individuals who would be diagnosed as normal control, as compared with the brains of individuals diagnosed with schizophrenia, schizoaffective or bipolar disorder?\"",
+        "So we were essentially mapping the microcircuitry of the brain: which cells are communicating with which cells, with which chemicals, and then in what quantities of those chemicals? So there was a lot of meaning in my life because I was performing this type of research during the day, but then in the evenings and on the weekends, I traveled as an advocate for NAMI, the National Alliance on Mental Illness.",
+        "But on the morning of December 10, 1996, I woke up to discover that I had a brain disorder of my own. A blood vessel exploded in the left half of my brain. And in the course of four hours, I watched my brain completely deteriorate in its ability to process all information. On the morning of the hemorrhage, I could not walk, talk, read, write or recall any of my life. I essentially became an infant in a woman's body.",
+        "If you've ever seen a human brain, it's obvious that the two hemispheres are completely separate from one another. And I have brought for you a real human brain.",
+        "(Groaning, laughter)",
+        "So this is a real human brain. This is the front of the brain, the back of brain with the spinal cord hanging down, and this is how it would be positioned inside of my head. And when you look at the brain, it's obvious that the two cerebral cortices are completely separate from one another.",
+        "For those of you who understand computers, our right hemisphere functions like a parallel processor, while our left hemisphere functions like a serial processor. The two hemispheres do communicate with one another through the corpus callosum, which is made up of some 300 million axonal fibers. But other than that, the two hemispheres are completely separate. Because they process information differently, each of our hemispheres think about different things, they care about different things, and, dare I say, they have very different personalities. Excuse me. Thank you. It's been a joy.",
+        "Assistant: It has been.",
+        "(Laughter)",
+        "Our right human hemisphere is all about this present moment. It's all about \"right here, right now.\" Our right hemisphere, it thinks in pictures and it learns kinesthetically through the movement of our bodies. Information, in the form of energy, streams in simultaneously through all of our sensory systems and then it explodes into this enormous collage of what this present moment looks like, what this present moment smells like and tastes like, what it feels like and what it sounds like. I am an energy-being connected to the energy all around me through the consciousness of my right hemisphere. We are energy-beings connected to one another through the consciousness of our right hemispheres as one human family. And right here, right now, we are brothers and sisters on this planet, here to make the world a better place. And in this moment we are perfect, we are whole and we are beautiful.",
+        "My left hemisphere, our left hemisphere, is a very different place. Our left hemisphere thinks linearly and methodically. Our left hemisphere is all about the past and it's all about the future. Our left hemisphere is designed to take that enormous collage of the present moment and start picking out details, and more details about those details. It then categorizes and organizes all that information, associates it with everything in the past we've ever learned, and projects into the future all of our possibilities. And our left hemisphere thinks in language. It's that ongoing brain chatter that connects me and my internal world to my external world. It's that little voice that says to me, \"Hey, you've got to remember to pick up bananas on your way home. I need them in the morning.\" It's that calculating intelligence that reminds me when I have to do my laundry. But perhaps most important, it's that little voice that says to me, \"I am. I am.\"",
+        "And as soon as my left hemisphere says to me \"I am,\" I become separate. I become a single solid individual, separate from the energy flow around me and separate from you. And this was the portion of my brain that I lost on the morning of my stroke.",
+        "On the morning of the stroke, I woke up to a pounding pain behind my left eye. And it was the kind of caustic pain that you get when you bite into ice cream. And it just gripped me -- and then it released me. And then it just gripped me -- and then it released me. And it was very unusual for me to ever experience any kind of pain, so I thought, \"OK, I'll just start my normal routine.\"",
+        "So I got up and I jumped onto my cardio glider, which is a full-body, full-exercise machine. And I'm jamming away on this thing, and I'm realizing that my hands look like primitive claws grasping onto the bar. And I thought, \"That's very peculiar.\" And I looked down at my body and I thought, \"Whoa, I'm a weird-looking thing.\" And it was as though my consciousness had shifted away from my normal perception of reality, where I'm the person on the machine having the experience, to some esoteric space where I'm witnessing myself having this experience.",
+        "And it was all very peculiar, and my headache was just getting worse. So I get off the machine, and I'm walking across my living room floor, and I realize that everything inside of my body has slowed way down. And every step is very rigid and very deliberate. There's no fluidity to my pace, and there's this constriction in my area of perception, so I'm just focused on internal systems. And I'm standing in my bathroom getting ready to step into the shower, and I could actually hear the dialogue inside of my body. I heard a little voice saying, \"OK. You muscles, you've got to contract. You muscles, you relax.\"",
+        "And then I lost my balance, and I'm propped up against the wall. And I look down at my arm and I realize that I can no longer define the boundaries of my body. I can't define where I begin and where I end, because the atoms and the molecules of my arm blended with the atoms and molecules of the wall. And all I could detect was this energy -- energy.",
+        "And I'm asking myself, \"What is wrong with me? What is going on?\" And in that moment, my left hemisphere brain chatter went totally silent. Just like someone took a remote control and pushed the mute button. Total silence. And at first I was shocked to find myself inside of a silent mind. But then I was immediately captivated by the magnificence of the energy around me. And because I could no longer identify the boundaries of my body, I felt enormous and expansive. I felt at one with all the energy that was, and it was beautiful there.",
+        "Then all of a sudden my left hemisphere comes back online and it says to me, \"Hey! We've got a problem! We've got to get some help.\" And I'm going, \"Ahh! I've got a problem!\"",
+        "(Laughter)",
+        "So it's like, \"OK, I've got a problem.\" But then I immediately drifted right back out into the consciousness -- and I affectionately refer to this space as La La Land. But it was beautiful there. Imagine what it would be like to be totally disconnected from your brain chatter that connects you to the external world.",
+        "So here I am in this space, and my job, and any stress related to my job -- it was gone. And I felt lighter in my body. And imagine all of the relationships in the external world and any stressors related to any of those -- they were gone. And I felt this sense of peacefulness. And imagine what it would feel like to lose 37 years of emotional baggage! (Laughter) Oh! I felt euphoria -- euphoria. It was beautiful.",
+        "And again, my left hemisphere comes online and it says, \"Hey! You've got to pay attention. We've got to get help.\" And I'm thinking, \"I've got to get help. I've got to focus.\" So I get out of the shower and I mechanically dress and I'm walking around my apartment, and I'm thinking, \"I've got to get to work. Can I drive?\"",
+        "And in that moment, my right arm went totally paralyzed by my side. Then I realized, \"Oh my gosh! I'm having a stroke!\" And the next thing my brain says to me is, Wow! This is so cool!",
+        "(Laughter)",
+        "This is so cool! How many brain scientists have the opportunity to study their own brain from the inside out?\"",
+        "(Laughter)",
+        "And then it crosses my mind, \"But I'm a very busy woman!\"",
+        "(Laughter)",
+        "\"I don't have time for a stroke!\" So I'm like, \"OK, I can't stop the stroke from happening, so I'll do this for a week or two, and then I'll get back to my routine. OK. So I've got to call help. I've got to call work.\" I couldn't remember the number at work, so I remembered, in my office I had a business card with my number. So I go into my business room, I pull out a three-inch stack of business cards. And I'm looking at the card on top and even though I could see clearly in my mind's eye what my business card looked like, I couldn't tell if this was my card or not, because all I could see were pixels. And the pixels of the words blended with the pixels of the background and the pixels of the symbols, and I just couldn't tell. And then I would wait for what I call a wave of clarity. And in that moment, I would be able to reattach to normal reality and I could tell that's not the card... that's not the card. It took me 45 minutes to get one inch down inside of that stack of cards. In the meantime, for 45 minutes, the hemorrhage is getting bigger in my left hemisphere. I do not understand numbers, I do not understand the telephone, but it's the only plan I have.",
+        "So I take the phone pad and I put it right here. I take the business card, I put it right here, and I'm matching the shape of the squiggles on the card to the shape of the squiggles on the phone pad. But then I would drift back out into La La Land, and not remember when I came back if I'd already dialed those numbers. So I had to wield my paralyzed arm like a stump and cover the numbers as I went along and pushed them, so that as I would come back to normal reality, I'd be able to tell, \"Yes, I've already dialed that number.\"",
+        "Eventually, the whole number gets dialed and I'm listening to the phone, and my colleague picks up the phone and he says to me, \"Woo woo woo woo.\" (Laughter)",
+        "(Laughter)",
+        "And I think to myself, \"Oh my gosh, he sounds like a Golden Retriever!\"",
+        "(Laughter)",
+        "And so I say to him -- clear in my mind, I say to him: \"This is Jill! I need help!\" And what comes out of my voice is, \"Woo woo woo woo woo.\" I'm thinking, \"Oh my gosh, I sound like a Golden Retriever.\" So I couldn't know -- I didn't know that I couldn't speak or understand language until I tried. So he recognizes that I need help and he gets me help.",
+        "And a little while later, I am riding in an ambulance from one hospital across Boston to [Massachusetts] General Hospital. And I curl up into a little fetal ball. And just like a balloon with the last bit of air, just right out of the balloon, I just felt my energy lift and just I felt my spirit surrender.",
+        "And in that moment, I knew that I was no longer the choreographer of my life. And either the doctors rescue my body and give me a second chance at life, or this was perhaps my moment of transition.",
+        "When I woke later that afternoon, I was shocked to discover that I was still alive. When I felt my spirit surrender, I said goodbye to my life. And my mind was now suspended between two very opposite planes of reality. Stimulation coming in through my sensory systems felt like pure pain. Light burned my brain like wildfire, and sounds were so loud and chaotic that I could not pick a voice out from the background noise, and I just wanted to escape. Because I could not identify the position of my body in space, I felt enormous and expansive, like a genie just liberated from her bottle. And my spirit soared free, like a great whale gliding through the sea of silent euphoria. Nirvana. I found Nirvana. And I remember thinking, there's no way I would ever be able to squeeze the enormousness of myself back inside this tiny little body.",
+        "But then I realized, \"But I'm still alive! I'm still alive, and I have found Nirvana. And if I have found Nirvana and I'm still alive, then everyone who is alive can find Nirvana.\" And I pictured a world filled with beautiful, peaceful, compassionate, loving people who knew that they could come to this space at any time. And that they could purposely choose to step to the right of their left hemispheres -- and find this peace. And then I realized what a tremendous gift this experience could be, what a stroke of insight this could be to how we live our lives. And it motivated me to recover.",
+        "Two and a half weeks after the hemorrhage, the surgeons went in, and they removed a blood clot the size of a golf ball that was pushing on my language centers. Here I am with my mama, who is a true angel in my life. It took me eight years to completely recover.",
+        "So who are we? We are the life-force power of the universe, with manual dexterity and two cognitive minds. And we have the power to choose, moment by moment, who and how we want to be in the world. Right here, right now, I can step into the consciousness of my right hemisphere, where we are. I am the life-force power of the universe. I am the life-force power of the 50 trillion beautiful molecular geniuses that make up my form, at one with all that is. Or, I can choose to step into the consciousness of my left hemisphere, where I become a single individual, a solid. Separate from the flow, separate from you. I am Dr. Jill Bolte Taylor: intellectual, neuroanatomist. These are the \"we\" inside of me. Which would you choose? Which do you choose? And when? I believe that the more time we spend choosing to run the deep inner-peace circuitry of our right hemispheres, the more peace we will project into the world, and the more peaceful our planet will be. And I thought that was an idea worth spreading.",
+        "Thank you.",
+        "(Applause)"
       ],
       "dataSources": [
         {
@@ -334,61 +370,106 @@
   "news": {
     "domestic": [
       {
-        "title": "东莞一布料店偷排有毒废气致楼上母子中毒昏迷，事故调查报告建议追究店主刑责",
-        "link": "https://www.thepaper.cn/newsDetail_forward_34081761",
-        "summary": "今年5月22日，居住在东莞一间出租公寓内的母子二人昏迷在屋内，导致失去对外联络、求救能力。发现学生未按时到校的班主任多次联系无果，判断家中可能发生意外，立即驱车",
-        "source": "澎湃新闻",
+        "title": "习近平就发展先进制造业作出重要指示",
+        "link": "https://www.news.cn/politics/leaders/20260917/abc0da39131b46bea12f83fe738bbce7/c.html",
+        "summary": "新华社北京9月17日电　中共中央总书记、国家主席、中央军委主席习近平近日就发展先进制造业作出重要指示指出，党的十八大以来，我国先进制造业不断发展壮大，创新力、竞争力、综合实力显著增强，制造强国建设迈出坚实步伐。",
+        "source": "新华网",
+        "pub": "",
+        "heat": 89,
+        "heatRaw": 82,
+        "heatParts": {
+          "cross": 22,
+          "auth": 14,
+          "rank": 19,
+          "fresh": 21,
+          "kw": 6
+        },
+        "crossCount": 3,
+        "reportCount": 4,
+        "sources": [
+          "人民网",
+          "新华网",
+          "中国经济网"
+        ]
+      },
+      {
+        "title": "没有网络安全就没有国家安全",
+        "link": "https://www.news.cn/politics/xxjxs/20260917/d63d3c7606ea4c42ae6a4bb29af113e5/c.html",
+        "summary": "学习进行时丨没有网络安全就没有国家安全-\"策划：潘子荻设计：初林。\"",
+        "source": "新华网",
+        "pub": "",
+        "heat": 81,
+        "heatRaw": 69,
+        "heatParts": {
+          "cross": 11,
+          "auth": 14,
+          "rank": 23,
+          "fresh": 21,
+          "kw": 0
+        },
+        "crossCount": 2,
+        "reportCount": 2,
+        "sources": [
+          "新华网",
+          "中国经济网"
+        ]
+      },
+      {
+        "title": "汇聚建设制造强国磅礴力量",
+        "link": "https://www.news.cn/politics/leaders/20260918/ff643c6864d746b990771a5eb391ed1b/c.html",
+        "summary": "为加快构建现代化产业体系铸牢骨干——习近平总书记重要指示汇聚建设制造强国磅礴力量-",
+        "source": "新华网",
         "pub": "",
         "heat": 81,
         "heatRaw": 68,
         "heatParts": {
           "cross": 11,
-          "auth": 11,
-          "rank": 19,
+          "auth": 14,
+          "rank": 16,
           "fresh": 21,
           "kw": 6
         },
         "crossCount": 2,
         "reportCount": 2,
         "sources": [
-          "澎湃新闻",
-          "网易新闻"
+          "人民网",
+          "新华网"
         ]
       },
       {
-        "title": "外媒：美联储三年多来首次加息，特朗普强烈反对",
-        "link": "https://www.chinanews.com.cn/gj/2026/09-17/10697957.shtml",
-        "summary": "中新网9月17日电 据英国广播公司(BBC)报道，当地时间16日，美国利率三年多来首次上调，为了遏制物价上涨，美联储可能还会进一步提高利率。",
+        "title": "荷兰西尼罗病毒疫情蔓延 死亡病例增至4例",
+        "link": "https://www.chinanews.com.cn/gj/2026/09-18/10698627.shtml",
+        "summary": "中新社海牙9月17日电 荷兰当局17日通报，荷兰西尼罗病毒疫情蔓延，目前感染病例增至28例，死亡病例增至4例。",
         "source": "中国新闻网",
-        "pub": "Thu, 17 Sep 2026 06:39:14 +0800",
-        "heat": 78,
-        "heatRaw": 63,
+        "pub": "Fri, 18 Sep 2026 06:52:31 +0800",
+        "heat": 79,
+        "heatRaw": 66,
         "heatParts": {
           "cross": 0,
           "auth": 13,
-          "rank": 22,
+          "rank": 20,
           "fresh": 23,
-          "kw": 5
+          "kw": 10
         },
         "crossCount": 1,
-        "reportCount": 2,
+        "reportCount": 1,
         "sources": [
           "中国新闻网"
         ]
       },
       {
-        "title": "陕西一男子疑遭盗用身份注册公司虚开增值税发票近千万，如何自证清白遇难题",
-        "link": "https://www.thepaper.cn/newsDetail_forward_34080139",
-        "summary": "石富（化名）的个人信息又被他人盗用了——他妻子所在单位核查个人事项报告，组织部门发现石富是一家化工公司的实际控制人、唯一的股东。 工商信息显示，该公司名为西安泰",
+        "title": "“孙子疑非亲生”案：儿子去世，老人能不能申请亲子鉴定？",
+        "link": "https://www.thepaper.cn/newsDetail_forward_34090518",
+        "summary": "9月16日下午，“儿子去世孙子疑非亲生”案再审听证会在广西高院召开。 孩子姑姑陆女士告诉澎湃新闻，哥哥阿东（化名）因车祸去世后，大嫂黄女士的反常行为让家人心生疑",
         "source": "澎湃新闻",
         "pub": "",
         "heat": 78,
-        "heatRaw": 63,
+        "heatRaw": 64,
         "heatParts": {
           "cross": 11,
           "auth": 11,
-          "rank": 20,
-          "fresh": 21,
+          "rank": 23,
+          "fresh": 19,
           "kw": 0
         },
         "crossCount": 2,
@@ -399,53 +480,32 @@
         ]
       },
       {
-        "title": "正道昭昭行万里——感悟大国外交的宏阔时空经纬",
-        "link": "https://www.news.cn/politics/leaders/20260917/22349b039f054ca6be3d83ef8b85d3ef/c.html",
-        "summary": "8月30日至9月3日，习近平主席出席2026年上海合作组织峰会并对吉尔吉斯斯坦、埃及进行国事访问；9月12日至13日，赴印度新德里出席金砖国家领导人第十八次会晤。",
-        "source": "新华网",
-        "pub": "",
-        "heat": 78,
-        "heatRaw": 63,
+        "title": "深圳商铺楼板坍塌致1名收废品人员死亡 调查报告公布",
+        "link": "https://www.163.com/dy/article/L6VGVDR005129QAF.html",
+        "summary": "奥一新闻注意到，9月14日，龙岗区应急管理局公布《龙岗区龙岗街道南联路29-1商铺“5·31”一般坍塌死亡事故调查报告》（以下称“调查报告”）。调查报告显示，2026年5月31日17时53分许，深圳市龙岗区龙岗街道南联社区南联路29-1商铺…",
+        "source": "网易新闻",
+        "pub": "2026-09-17 22:48:13",
+        "heat": 76,
+        "heatRaw": 60,
         "heatParts": {
           "cross": 0,
-          "auth": 14,
-          "rank": 22,
+          "auth": 11,
+          "rank": 23,
           "fresh": 21,
           "kw": 6
         },
         "crossCount": 1,
         "reportCount": 1,
         "sources": [
-          "新华网"
+          "网易新闻"
         ]
       },
       {
-        "title": "中国驻南非使馆向斐京华侨公学捐赠图书",
-        "link": "https://www.chinanews.com.cn/hr/2026/09-17/10697956.shtml",
-        "summary": "中新社比勒陀利亚9月16日电 (记者 孙翔)中国驻南非使馆代表15日向位于南非比勒陀利亚的斐京华侨公学捐赠图书，支持当地中文教育和中华文化传播。",
-        "source": "中国新闻网",
-        "pub": "Thu, 17 Sep 2026 06:24:07 +0800",
-        "heat": 76,
-        "heatRaw": 61,
-        "heatParts": {
-          "cross": 0,
-          "auth": 13,
-          "rank": 20,
-          "fresh": 23,
-          "kw": 5
-        },
-        "crossCount": 1,
-        "reportCount": 1,
-        "sources": [
-          "中国新闻网"
-        ]
-      },
-      {
-        "title": "9月17日新闻早报",
-        "link": "https://www.chinanews.com.cn/iframe/2026/09-17/10697958.shtml",
+        "title": "9月18日新闻早报",
+        "link": "https://www.chinanews.com.cn/iframe/2026/09-18/10698629.shtml",
         "summary": "“父亲背8个鸡蛋接考”，贺永辉作为新生代表发言 中新网评：三九胃泰的营销病，比胃病更该治",
         "source": "中国新闻网",
-        "pub": "Thu, 17 Sep 2026 06:50:35 +0800",
+        "pub": "Fri, 18 Sep 2026 06:55:30 +0800",
         "heat": 75,
         "heatRaw": 59,
         "heatParts": {
@@ -462,30 +522,30 @@
         ]
       },
       {
-        "title": "人才引进需防留不住用不长",
-        "link": "https://www.ce.cn/xwzx/gnsz/gdxw/202609/t20260917_3217728.shtml",
-        "summary": "编辑部： 今年以来，全国多地出台多项人才引进政策，搭建人才发展平台，招才引智力度不断加大。记者在采访中发现，由于市场化意识不强，在引进人才和服务人才环节还有不少堵点，造成了“引才力度大，落地效果差”的困境。对此，需要精准找到问题症结，有的放…",
-        "source": "中国经济网",
-        "pub": "",
-        "heat": 75,
-        "heatRaw": 59,
+        "title": "美国30年期贷款利率升至6.95% 创19个月来最高值",
+        "link": "https://www.chinanews.com.cn/gj/2026/09-18/10698628.shtml",
+        "summary": "中新社华盛顿9月17日电 (记者 沙晗汀)美国住房金融机构房地美(Freddie Mac)当地时间17日公布数据显示，美国30年期固定抵押贷款平均利率升至6.95%，是自2025年1月30日以来的最高值。",
+        "source": "中国新闻网",
+        "pub": "Fri, 18 Sep 2026 06:53:33 +0800",
+        "heat": 74,
+        "heatRaw": 57,
         "heatParts": {
           "cross": 0,
-          "auth": 12,
+          "auth": 13,
           "rank": 22,
-          "fresh": 21,
-          "kw": 4
+          "fresh": 23,
+          "kw": 0
         },
         "crossCount": 1,
         "reportCount": 1,
         "sources": [
-          "中国经济网"
+          "中国新闻网"
         ]
       },
       {
-        "title": "种下创新种子 培育产业大树",
-        "link": "https://www.ce.cn/xwzx/gnsz/gdxw/202609/t20260917_3217729.shtml",
-        "summary": "图① 厦门火炬石墨烯新材料产业园。（资料图片） 图② 厦门松鼠精密科技有限公司生产车间内，工程师正在操作设备。 （资料图片）",
+        "title": "“由治及美”后，祁连山怎样守住青绿——来自甘肃省的调查",
+        "link": "https://www.ce.cn/xwzx/gnsz/gdxw/202609/t20260918_3219910.shtml",
+        "summary": "祁连山绵延近千公里，是我国重要的生态安全屏障。曾经，不合理的矿山开采、水电建设让当地人的“母亲山”变得千疮百孔。如何像保护眼睛一样呵护祁连山？怎样避免“一阵风”式整改，持续巩固生态环境治理成效？近年来，甘肃省多措并举，统筹推进山水林田湖草沙…",
         "source": "中国经济网",
         "pub": "",
         "heat": 74,
@@ -504,129 +564,86 @@
         ]
       },
       {
-        "title": "“中国经济圆桌会”聚焦加强新就业群体服务管理",
-        "link": "https://www.news.cn/fortune/20260916/7c8203f812124084865c2b279bfc7e1d/c.html",
-        "summary": "新就业群体是社会主义劳动者的重要组成部分，是经济社会发展不可或缺的重要力量。",
-        "source": "新华网",
+        "title": "智能家居懂家更要懂人",
+        "link": "https://www.ce.cn/xwzx/gnsz/gdxw/202609/t20260918_3219906.shtml",
+        "summary": "数据来源 小红书灵犀平台 曾经主打炫酷概念的智能家居，正慢慢褪去科技滤镜，从追逐新潮的概念时代，步入回归生活、以人为本的务实阶段。今年前7个月，智能家居全品类搜索量达8.42亿次。海量搜索数据的背后，折射出普通家庭选购智能家居的心态转变：消…",
+        "source": "中国经济网",
         "pub": "",
-        "heat": 73,
-        "heatRaw": 54,
-        "heatParts": {
-          "cross": 0,
-          "auth": 14,
-          "rank": 19,
-          "fresh": 13,
-          "kw": 8
-        },
-        "crossCount": 1,
-        "reportCount": 1,
-        "sources": [
-          "新华网"
-        ]
-      },
-      {
-        "title": "父亲遛狗2岁娃独留家中从18楼坠亡 父亲发声:我很愧疚",
-        "link": "https://www.163.com/dy/article/L6VQDI100530RMGL.html",
-        "summary": "近日，重庆发生一起令人痛心的意外事件：一名2岁2个月大的幼童从18楼坠楼身亡。孩子母亲刘女士在网络发帖称，丈夫崔先生外出遛狗时将幼童独自留在家中，导致悲剧发生。",
-        "source": "网易新闻",
-        "pub": "2026-09-16 23:17:47",
         "heat": 73,
         "heatRaw": 55,
         "heatParts": {
           "cross": 0,
-          "auth": 11,
-          "rank": 23,
+          "auth": 12,
+          "rank": 22,
           "fresh": 21,
           "kw": 0
         },
         "crossCount": 1,
         "reportCount": 1,
         "sources": [
-          "网易新闻"
+          "中国经济网"
         ]
       }
     ],
     "world": [
       {
-        "title": "新华网国际看点｜“大金砖合作”为推动全球南方团结自强凝聚力量",
-        "link": "https://www.news.cn/world/20260916/3e309ed6aadf4ecab00d1a7b846e21bc/c.html",
-        "summary": "新华网国际看点｜“大金砖合作”为推动全球南方团结自强凝聚力量-习近平主席提出的“四大先锋”主张和一系列务实举措，对促进“大金砖合作”高质量发展、支持全球南方团结自强有怎样的重要意义。",
-        "source": "新华网",
+        "title": "Saudi Arabia claims Houthis tried to attack Mecca",
+        "link": "https://www.chinadaily.com.cn/a/202609/17/WS6aab4daae4b06d4aa055e885.html",
+        "summary": "RIYADH/SANAA — Saudi Arabia's air defenses intercepted a drone allegedly launched by the Houthi group south of Mecca bef…",
+        "source": "中国日报网",
         "pub": "",
-        "heat": 87,
-        "heatRaw": 79,
-        "heatParts": {
-          "cross": 22,
-          "auth": 14,
-          "rank": 23,
-          "fresh": 13,
-          "kw": 6
-        },
-        "crossCount": 3,
-        "reportCount": 4,
-        "sources": [
-          "新华网",
-          "海外网",
-          "国际在线"
-        ]
-      },
-      {
-        "title": "巴基斯坦召见印度临时代办 就印巴军舰碰撞事件提出抗议",
-        "link": "https://news.cri.cn/20260917/2fb12125-a9e2-4484-e4cc-2bc9b20d13fe.html",
-        "summary": "巴基斯坦外交部当地时间16日晚发表声明，就印度一艘军舰15日与巴军舰相撞的有关行动提出强烈抗议。 声明称，巴基斯坦外交部16日召见印度驻伊斯兰堡高级专员公署临时代办，就印度海军一艘舰艇于2026年9月15日在巴基斯坦专属经济区内采取的",
-        "source": "国际在线",
-        "pub": "",
-        "heat": 85,
-        "heatRaw": 75,
-        "heatParts": {
-          "cross": 11,
-          "auth": 13,
-          "rank": 20,
-          "fresh": 23,
-          "kw": 8
-        },
-        "crossCount": 2,
-        "reportCount": 2,
-        "sources": [
-          "国际在线",
-          "中国新闻网"
-        ]
-      },
-      {
-        "title": "外媒：美联储三年多来首次加息，特朗普强烈反对",
-        "link": "https://www.chinanews.com.cn/gj/2026/09-17/10697957.shtml",
-        "summary": "中新网9月17日电 据英国广播公司(BBC)报道，当地时间16日，美国利率三年多来首次上调，为了遏制物价上涨，美联储可能还会进一步提高利率。",
-        "source": "中国新闻网",
-        "pub": "Thu, 17 Sep 2026 06:39:14 +0800",
         "heat": 81,
         "heatRaw": 69,
         "heatParts": {
+          "cross": 22,
+          "auth": 13,
+          "rank": 17,
+          "fresh": 13,
+          "kw": 3
+        },
+        "crossCount": 3,
+        "reportCount": 3,
+        "sources": [
+          "中国日报网",
+          "CGTN",
+          "NPR"
+        ]
+      },
+      {
+        "title": "中俄在安理会否决涉伊朗制裁决议草案",
+        "link": "https://www.chinanews.com.cn/gj/2026/09-18/10698626.shtml",
+        "summary": "中新社联合国9月17日电 联合国安理会17日就美国起草的伊朗制裁委员会专家小组授权延期决议草案进行表决。由于常任理事国中国和俄罗斯投票反对，决议草案被否决。",
+        "source": "中国新闻网",
+        "pub": "Fri, 18 Sep 2026 06:52:07 +0800",
+        "heat": 81,
+        "heatRaw": 68,
+        "heatParts": {
           "cross": 0,
           "auth": 13,
-          "rank": 23,
+          "rank": 20,
           "fresh": 23,
-          "kw": 9
+          "kw": 11
         },
         "crossCount": 1,
-        "reportCount": 2,
+        "reportCount": 3,
         "sources": [
           "中国新闻网"
         ]
       },
       {
-        "title": "特朗普：美国利率应当降至1%或更低",
-        "link": "https://www.chinanews.com.cn/gj/2026/09-17/10697954.shtml",
-        "summary": "当地时间9月16日，美国总统特朗普在“真实社交”平台发文表示，美国的利率应当降至1%或更低，“因为美国拥有世界上的最佳信用”。",
+        "title": "外媒：伊朗领导人将前往纽约，出席联合国大会",
+        "link": "https://www.chinanews.com.cn/gj/2026/09-18/10698625.shtml",
+        "summary": "中新网9月18日电 据美国《国会山报》报道，尽管美国和伊朗仍处于交战状态，谈判陷入僵局，但美国政府已同意伊朗领导层的“核心代表团”参加下周在纽约举行的联合国大会高级别会议。",
         "source": "中国新闻网",
-        "pub": "Thu, 17 Sep 2026 06:06:52 +0800",
-        "heat": 77,
-        "heatRaw": 62,
+        "pub": "Fri, 18 Sep 2026 06:49:09 +0800",
+        "heat": 81,
+        "heatRaw": 68,
         "heatParts": {
           "cross": 0,
           "auth": 13,
-          "rank": 22,
+          "rank": 19,
           "fresh": 23,
-          "kw": 5
+          "kw": 14
         },
         "crossCount": 1,
         "reportCount": 1,
@@ -635,19 +652,106 @@
         ]
       },
       {
-        "title": "Middle East tensions rise amid fresh strikes",
-        "link": "https://www.chinadaily.com.cn/a/202609/16/WS6aa9ed00e4b06d4aa055e3e6.html",
-        "summary": "Sustained tensions in the Middle East kept the region on edge on Tuesday as Yemen's Houthis and the Saudi Arabian-backed…",
-        "source": "中国日报网",
+        "title": "荷兰西尼罗病毒疫情蔓延 死亡病例增至4例",
+        "link": "https://www.chinanews.com.cn/gj/2026/09-18/10698627.shtml",
+        "summary": "中新社海牙9月17日电 荷兰当局17日通报，荷兰西尼罗病毒疫情蔓延，目前感染病例增至28例，死亡病例增至4例。",
+        "source": "中国新闻网",
+        "pub": "Fri, 18 Sep 2026 06:52:31 +0800",
+        "heat": 80,
+        "heatRaw": 67,
+        "heatParts": {
+          "cross": 0,
+          "auth": 13,
+          "rank": 22,
+          "fresh": 23,
+          "kw": 10
+        },
+        "crossCount": 1,
+        "reportCount": 1,
+        "sources": [
+          "中国新闻网"
+        ]
+      },
+      {
+        "title": "习言道｜持续做大做强先进制造业",
+        "link": "https://news.haiwainet.cn/n/2026/0917/c3543307-32983862.html",
+        "summary": "中共中央总书记、国家主席、中央军委主席习近平近日就发展先进制造业作出重要指示指出，党的十八大以来，我国先进制造业不断发展壮大，创新力、竞争力、综合实力显著增强...",
+        "source": "海外网",
         "pub": "",
-        "heat": 77,
-        "heatRaw": 62,
+        "heat": 80,
+        "heatRaw": 67,
         "heatParts": {
           "cross": 11,
           "auth": 13,
+          "rank": 23,
+          "fresh": 13,
+          "kw": 6
+        },
+        "crossCount": 2,
+        "reportCount": 4,
+        "sources": [
+          "海外网",
+          "国际在线"
+        ]
+      },
+      {
+        "title": "日本高市早苗内阁全体阁僚辞职以进行内阁改组",
+        "link": "https://www.news.cn/world/20260917/f879e020513e4f49ac5c5aadda8335ff/c.html",
+        "summary": "9月17日，在日本东京，日本首相高市早苗（中）与阁僚出席内阁会议。新华社/共同社",
+        "source": "新华网",
+        "pub": "",
+        "heat": 79,
+        "heatRaw": 65,
+        "heatParts": {
+          "cross": 11,
+          "auth": 14,
           "rank": 22,
           "fresh": 13,
-          "kw": 3
+          "kw": 4
+        },
+        "crossCount": 2,
+        "reportCount": 3,
+        "sources": [
+          "新华网",
+          "国际在线"
+        ]
+      },
+      {
+        "title": "国际锐评丨首个五年规划公布 开启香港由治及兴新篇章",
+        "link": "https://news.cri.cn/20260917/355144cf-7c14-a9f1-c4aa-e4e05ed5d522.html",
+        "summary": "9月16日，\"东方之珠\"香港迎来经济和社会发展的新蓝图。 当天，中国香港特别行政区政府公布《香港特别行政区经济和社会发展第一个五年规划（2026—2030年）》。这是香港特区首次对经济和社会发展进行",
+        "source": "国际在线",
+        "pub": "",
+        "heat": 76,
+        "heatRaw": 61,
+        "heatParts": {
+          "cross": 11,
+          "auth": 13,
+          "rank": 16,
+          "fresh": 13,
+          "kw": 8
+        },
+        "crossCount": 2,
+        "reportCount": 2,
+        "sources": [
+          "海外网",
+          "国际在线"
+        ]
+      },
+      {
+        "title": "Takaichi reshuffles ruling party's executive lineup",
+        "link": "https://www.chinadaily.com.cn/a/202609/17/WS6aab52b2e4b06d4aa055e8a8.html",
+        "summary": "TOKYO — Japanese Prime Minister Sanae Takaichi, who also heads the ruling Liberal Democratic Party, reshuffled the party…",
+        "source": "中国日报网",
+        "pub": "",
+        "heat": 76,
+        "heatRaw": 60,
+        "heatParts": {
+          "cross": 11,
+          "auth": 13,
+          "rank": 14,
+          "fresh": 13,
+          "kw": 8
         },
         "crossCount": 2,
         "reportCount": 2,
@@ -657,126 +761,105 @@
         ]
       },
       {
-        "title": "EU rolls out red carpet to Canada to become its first 'associate member'",
-        "link": "https://www.npr.org/2026/09/16/nx-s1-5971043/eu-canada-carney-tariffs-trump",
-        "summary": "The European Union's top official backs the Canadian prime minister's push for his country to become the bloc's first \"a…",
+        "title": "Can an AI chatbot save lives by answering texts about pregnancy?",
+        "link": "https://www.npr.org/2026/09/17/nx-s1-5962840/artificial-intelligence-ai-chatbot-pregnancy-maternal-health",
+        "summary": "Many questions come up during pregnancy. Is swelling normal? Are avocados safe to eat? For folks in Kenya who don't have…",
         "source": "NPR",
-        "pub": "Wed, 16 Sep 2026 16:08:27 -0400",
-        "heat": 76,
-        "heatRaw": 59,
+        "pub": "Thu, 17 Sep 2026 15:33:30 -0400",
+        "heat": 73,
+        "heatRaw": 56,
         "heatParts": {
           "cross": 0,
           "auth": 12,
-          "rank": 23,
+          "rank": 22,
           "fresh": 19,
-          "kw": 5
-        },
-        "crossCount": 1,
-        "reportCount": 2,
-        "sources": [
-          "NPR"
-        ]
-      },
-      {
-        "title": "权威解读｜从前8个月数据看中国经济向新向优",
-        "link": "https://news.haiwainet.cn/n/2026/0916/c3544276-32983597.html",
-        "summary": "2026年是“十五五”开局之年，中国经济在1至8月交出一份总体平稳、向新向优的成绩单。国家统计局15日发布数据显示，8月份生产供给平稳增长，就业物价总体稳定，...",
-        "source": "海外网",
-        "pub": "",
-        "heat": 75,
-        "heatRaw": 58,
-        "heatParts": {
-          "cross": 0,
-          "auth": 13,
-          "rank": 19,
-          "fresh": 13,
-          "kw": 13
-        },
-        "crossCount": 1,
-        "reportCount": 1,
-        "sources": [
-          "海外网"
-        ]
-      },
-      {
-        "title": "平陆运河通航 外媒看好区域互联互通新机遇",
-        "link": "https://news.haiwainet.cn/n/2026/0916/c3544276-32983578.html",
-        "summary": "9月16日，平陆运河迎来通航的历史性时刻。多家外媒近期关注这一重大交通基础设施投入使用，认为平陆运河将进一步拉近中国与东南亚市场之间的距离，并为区域贸易、物流和...",
-        "source": "海外网",
-        "pub": "",
-        "heat": 74,
-        "heatRaw": 57,
-        "heatParts": {
-          "cross": 11,
-          "auth": 13,
-          "rank": 16,
-          "fresh": 13,
-          "kw": 4
-        },
-        "crossCount": 2,
-        "reportCount": 2,
-        "sources": [
-          "海外网",
-          "国际在线"
-        ]
-      },
-      {
-        "title": "东盟通过《马尼拉宣言》 强化灾害韧性合作",
-        "link": "https://www.chinanews.com.cn/gj/2026/09-17/10697949.shtml",
-        "summary": "中新社马尼拉9月16日电 (记者 周璟)东盟成员国16日在菲律宾帕赛市举行的东盟灾害韧性部长级会议闭幕式上正式通过《马尼拉宣言》，进一步加强区域灾害韧性合作，推动灾害治理向灾前预防行动转变。",
-        "source": "中国新闻网",
-        "pub": "Thu, 17 Sep 2026 05:54:13 +0800",
-        "heat": 73,
-        "heatRaw": 54,
-        "heatParts": {
-          "cross": 0,
-          "auth": 13,
-          "rank": 14,
-          "fresh": 23,
-          "kw": 4
-        },
-        "crossCount": 1,
-        "reportCount": 1,
-        "sources": [
-          "中国新闻网"
-        ]
-      },
-      {
-        "title": "Top court rejects mail ballot restrictions ahead of midterms",
-        "link": "https://www.chinadaily.com.cn/a/202609/16/WS6aa9f8dee4b06d4aa055e4dc.html",
-        "summary": "WASHINGTON — The US Supreme Court on Monday rejected President Donald Trump's bid to restrict mail ballots for the midte…",
-        "source": "中国日报网",
-        "pub": "",
-        "heat": 72,
-        "heatRaw": 53,
-        "heatParts": {
-          "cross": 0,
-          "auth": 13,
-          "rank": 23,
-          "fresh": 13,
           "kw": 3
         },
         "crossCount": 1,
         "reportCount": 1,
         "sources": [
-          "中国日报网"
+          "NPR"
+        ]
+      },
+      {
+        "title": "U.N.-backed experts cite possible U.S. war crimes in Iran, including a school attack",
+        "link": "https://www.npr.org/2026/09/17/nx-s1-5972934/us-iran-war-un-report-alleged-war-crimes",
+        "summary": "Human rights experts commissioned by the U.N. say they have found \"reasonable grounds\" to believe the U.S. committed war…",
+        "source": "NPR",
+        "pub": "Thu, 17 Sep 2026 08:33:36 -0400",
+        "heat": 73,
+        "heatRaw": 55,
+        "heatParts": {
+          "cross": 0,
+          "auth": 12,
+          "rank": 19,
+          "fresh": 19,
+          "kw": 6
+        },
+        "crossCount": 1,
+        "reportCount": 1,
+        "sources": [
+          "NPR"
         ]
       }
     ],
     "medical": [
+      {
+        "title": "创新药出海再提速 对外授权获新突破",
+        "link": "https://jiankang.cctv.com/2026/09/17/ARTIJeSIJRxrCMTPS0LeCfGh260917.shtml",
+        "summary": "今年以来，我国创新药出海步伐再提速，对外授权交易总额突破1200亿美元，同比增长36%。其中首付款规模超百亿美元，市场同时呈现单笔平均交易金额稳步增长、首付款金额与占比双双提升、大额交易频频落地的特点，彰显出本土创新药的含金量不断提高。",
+        "source": "央视网·健康",
+        "pub": "",
+        "heat": 80,
+        "heatRaw": 67,
+        "heatParts": {
+          "cross": 11,
+          "auth": 13,
+          "rank": 23,
+          "fresh": 13,
+          "kw": 6
+        },
+        "crossCount": 2,
+        "reportCount": 2,
+        "sources": [
+          "新华网·健康",
+          "央视网·健康"
+        ]
+      },
+      {
+        "title": "锚定决定性进展 绘就健康中国新蓝图",
+        "link": "https://jiankang.cctv.com/2026/09/15/ARTI3e4Ee4DDJZdzTTyy0d4M260915.shtml",
+        "summary": "9月14日，国务院新闻办公室在京举行“开局起步‘十五五’”系列主题新闻发布会。国家卫生健康委主任雷海潮等出席，围绕推动健康中国建设取得决定性进展介绍总体部署，聚焦全民健康、医疗提质、中医药振兴、疾控体系建设等重点领域，详解“十五五”卫生健康…",
+        "source": "央视网·健康",
+        "pub": "",
+        "heat": 73,
+        "heatRaw": 55,
+        "heatParts": {
+          "cross": 0,
+          "auth": 13,
+          "rank": 20,
+          "fresh": 7,
+          "kw": 14
+        },
+        "crossCount": 1,
+        "reportCount": 1,
+        "sources": [
+          "央视网·健康"
+        ]
+      },
       {
         "title": "中国疾控中心（中国预科院）党委召开理论学习中心组...",
         "link": "https://www.chinacdc.cn/zxyw/202609/t20260915_1840171.html",
         "summary": "9月14日上午，中心（院）党委召开理论学习中心组集体（扩大）学习会，深入学习贯彻习近平党建思想和习近平总书记关于基层工作方法的重要论述。中心（院）党委书记、副主任（副院长）张国新主持会议并作总结讲话，中心（院）领导班子成员和部分处室、直属单…",
         "source": "中国疾控中心",
         "pub": "",
-        "heat": 77,
-        "heatRaw": 61,
+        "heat": 73,
+        "heatRaw": 55,
         "heatParts": {
           "cross": 0,
           "auth": 13,
           "rank": 23,
-          "fresh": 13,
+          "fresh": 7,
           "kw": 10
         },
         "crossCount": 1,
@@ -791,61 +874,19 @@
         "summary": "外企在中国｜勃林格殷格翰大中华区总裁兼CEO苏晏宁博士：创新不止于药物，让肺纤维化患者真正获益-但在苏晏宁博士看来，创新药物只是改善患者治疗结局的一部分。",
         "source": "新华网·健康",
         "pub": "",
-        "heat": 77,
-        "heatRaw": 61,
+        "heat": 73,
+        "heatRaw": 55,
         "heatParts": {
           "cross": 0,
           "auth": 13,
           "rank": 23,
-          "fresh": 13,
+          "fresh": 7,
           "kw": 11
         },
         "crossCount": 1,
-        "reportCount": 2,
+        "reportCount": 1,
         "sources": [
           "新华网·健康"
-        ]
-      },
-      {
-        "title": "中西医结合要避免“合而不融”",
-        "link": "https://jiankang.cctv.com/2026/09/16/ARTIt8dwjN37x3S73ECZ38Z9260916.shtml",
-        "summary": "香山科学会议聚焦中西医结合70年，院士专家指出分科诊疗导致治疗碎片化和多重用药，呼吁从单病种诊疗走向共病综合防治。",
-        "source": "央视网·健康",
-        "pub": "",
-        "heat": 76,
-        "heatRaw": 60,
-        "heatParts": {
-          "cross": 0,
-          "auth": 13,
-          "rank": 23,
-          "fresh": 13,
-          "kw": 10
-        },
-        "crossCount": 1,
-        "reportCount": 1,
-        "sources": [
-          "央视网·健康"
-        ]
-      },
-      {
-        "title": "锚定决定性进展 绘就健康中国新蓝图",
-        "link": "https://jiankang.cctv.com/2026/09/15/ARTI3e4Ee4DDJZdzTTyy0d4M260915.shtml",
-        "summary": "9月14日，国务院新闻办公室在京举行“开局起步‘十五五’”系列主题新闻发布会。国家卫生健康委主任雷海潮等出席，围绕推动健康中国建设取得决定性进展介绍总体部署，聚焦全民健康、医疗提质、中医药振兴、疾控体系建设等重点领域，详解“十五五”卫生健康…",
-        "source": "央视网·健康",
-        "pub": "",
-        "heat": 74,
-        "heatRaw": 56,
-        "heatParts": {
-          "cross": 0,
-          "auth": 13,
-          "rank": 22,
-          "fresh": 7,
-          "kw": 14
-        },
-        "crossCount": 1,
-        "reportCount": 1,
-        "sources": [
-          "央视网·健康"
         ]
       },
       {
@@ -867,6 +908,27 @@
         "reportCount": 1,
         "sources": [
           "中国疾控中心"
+        ]
+      },
+      {
+        "title": "中西医结合要避免“合而不融”",
+        "link": "https://jiankang.cctv.com/2026/09/16/ARTIt8dwjN37x3S73ECZ38Z9260916.shtml",
+        "summary": "香山科学会议聚焦中西医结合70年，院士专家指出分科诊疗导致治疗碎片化和多重用药，呼吁从单病种诊疗走向共病综合防治。",
+        "source": "央视网·健康",
+        "pub": "",
+        "heat": 72,
+        "heatRaw": 53,
+        "heatParts": {
+          "cross": 0,
+          "auth": 13,
+          "rank": 22,
+          "fresh": 7,
+          "kw": 10
+        },
+        "crossCount": 1,
+        "reportCount": 1,
+        "sources": [
+          "央视网·健康"
         ]
       },
       {
@@ -917,12 +979,12 @@
         "summary": "日前，2026年服贸会健康卫生服务专题创新成果发布活动在北京首钢园举行，主题为“全球服务、共享健康”。活动现场重磅成果集中亮相。",
         "source": "央视网·健康",
         "pub": "",
-        "heat": 67,
-        "heatRaw": 45,
+        "heat": 66,
+        "heatRaw": 44,
         "heatParts": {
           "cross": 0,
           "auth": 13,
-          "rank": 20,
+          "rank": 19,
           "fresh": 7,
           "kw": 4
         },
@@ -933,9 +995,9 @@
         ]
       },
       {
-        "title": "中国农业大学付文阁：挖掘驴产业差异化价值 助力农食绿色转型",
-        "link": "https://www.news.cn/health/20260916/31df0d3bd7554687b6b07939d2aedc93/c.html",
-        "summary": "中国农业大学付文阁：挖掘驴产业差异化价值 助力农食绿色转型-9月15日，以“农食系统绿色健康转型”为主题的2026WAFI全球驴产业可持续发展论坛在中国农业大学国际会议中心举办。",
+        "title": "看懂饮料上的“ABCD”，选饮料不再靠猜——《现制饮料营养选择标识规范》科普解读",
+        "link": "https://www.news.cn/health/20260917/ac18bd1e5275471bb21cbc9ddc713988/c.html",
+        "summary": "看懂饮料上的“ABCD”，选饮料不再靠猜——《现制饮料营养选择标识规范》科普解读-\"二、“营养选择”标识长什么样。\"",
         "source": "新华网·健康",
         "pub": "",
         "heat": 65,
@@ -952,99 +1014,78 @@
         "sources": [
           "新华网·健康"
         ]
-      },
-      {
-        "title": "席春玲：共建国际驴产业种质创新实验室 打造南南农业合作产业样本",
-        "link": "https://www.news.cn/health/20260916/e2b5b767e6aa474db3ecfa753b5b2678/c.html",
-        "summary": "席春玲：共建国际驴产业种质创新实验室 打造南南农业合作产业样本-\"针对国际驴产业种质创新联合实验室，席春玲指出，该实验室面向发展中国家输出成熟产业经验，构建“科研-种质-产业-市场”贯通模式，破解全球驴产业科研与产业脱节的痛点，既保护驴遗传…",
-        "source": "新华网·健康",
-        "pub": "",
-        "heat": 61,
-        "heatRaw": 35,
-        "heatParts": {
-          "cross": 0,
-          "auth": 13,
-          "rank": 9,
-          "fresh": 13,
-          "kw": 0
-        },
-        "crossCount": 1,
-        "reportCount": 1,
-        "sources": [
-          "新华网·健康"
-        ]
       }
     ],
     "ai": [
       {
-        "title": "通用能力不打折，空间具身智能断层领先！ZDTaichu5.0-9B国产开源，跻身全球多模态第一梯队",
-        "link": "https://www.qbitai.com/2026/09/490839.html",
-        "summary": "九大空间测试10B规模通用模型中8项第一",
+        "title": "从“会回答”到“会办事”，vivo如何解AI手机这道题？",
+        "link": "https://www.qbitai.com/2026/09/491649.html",
+        "summary": "构建个体专属AI助理",
         "source": "量子位",
-        "pub": "Wed, 16 Sep 2026 13:08:20 +0000"
+        "pub": "Thu, 17 Sep 2026 12:03:24 +0000"
       },
       {
-        "title": "AI大模型工场2026 AI产业生态大会今日举办，大咖同台共探智能生长与产业共生",
-        "link": "https://www.qbitai.com/2026/09/490760.html",
-        "summary": "9月15日，由AI大模型工场主办的“2026 AI产业生态大会”在北京举行。",
+        "title": "Claude Code团队讲究啊，这都往外说",
+        "link": "https://www.qbitai.com/2026/09/491596.html",
+        "summary": "工程师的核心永远是Problem Solving。",
         "source": "量子位",
-        "pub": "Wed, 16 Sep 2026 08:51:02 +0000"
+        "pub": "Thu, 17 Sep 2026 11:56:13 +0000"
       },
       {
-        "title": "高通技术公司携手中兴努比亚和豆包手机助手，共同推动智能手机迈入个人AI新时代",
-        "link": "https://www.qbitai.com/2026/09/490756.html",
-        "summary": "第五代骁龙8至尊版赋能全新AI智能体手机努比亚NaviX Ultra，加速智能体体验规模化落地",
+        "title": "央企做了个通用Agent，直接杀进IDC实测前三！",
+        "link": "https://www.qbitai.com/2026/09/491454.html",
+        "summary": "中国电信，TeleAgent",
         "source": "量子位",
-        "pub": "Wed, 16 Sep 2026 08:18:44 +0000"
+        "pub": "Thu, 17 Sep 2026 09:39:19 +0000"
       },
       {
-        "title": "协同办公进入Agent时代，飞书+豆包工作跑在了最前面",
-        "link": "https://www.qbitai.com/2026/09/490686.html",
-        "summary": "AI协同办公的新官配，我先磕了",
+        "title": "Claude双入口合并，原生Office上线！硅谷AI办公大战也开始了",
+        "link": "https://www.qbitai.com/2026/09/491391.html",
+        "summary": "文档和PPT都能做了",
         "source": "量子位",
-        "pub": "Wed, 16 Sep 2026 07:46:38 +0000"
+        "pub": "Thu, 17 Sep 2026 09:07:25 +0000"
       },
       {
-        "title": "西门子不造机器人，为什么机器人进厂的故事里总有它？",
-        "link": "https://www.qbitai.com/2026/09/490416.html",
-        "summary": "帮助成熟赛道复制方案，帮助新赛道长出场景。",
+        "title": "刚刚，唐杰发布智谱RSI首个成果",
+        "link": "https://www.qbitai.com/2026/09/491357.html",
+        "summary": "GLM已经开始参与构建GLM了",
         "source": "量子位",
-        "pub": "Wed, 16 Sep 2026 07:38:18 +0000"
+        "pub": "Thu, 17 Sep 2026 08:28:23 +0000"
       },
       {
-        "title": "清华稳准智能联合发布LimiX-2，结构化数据基础模型登顶国际评测榜单",
-        "link": "https://www.qbitai.com/2026/09/490400.html",
-        "summary": "9月16日，稳准智能联合清华大学发布新一代数据大模型 LimiX-2，模型参数规模提升至400M。",
+        "title": "马斯克睡进工地！为AI基建拼了",
+        "link": "https://www.qbitai.com/2026/09/491280.html",
+        "summary": "AI正火嘛，老马的待遇也算提升了一点：这回至少有房车了（doge）",
         "source": "量子位",
-        "pub": "Wed, 16 Sep 2026 06:32:31 +0000"
+        "pub": "Thu, 17 Sep 2026 04:37:26 +0000"
       },
       {
-        "title": "B站AI无限竞技场今日上线！全球百大AI模型同场竞技，GPT-6高居榜首",
-        "link": "https://www.qbitai.com/2026/09/490396.html",
-        "summary": "9月16日，B站「AI无限竞技场」正式上线，首期大模型测评榜单同步公布。",
+        "title": "首购积分加赠70%：SkyProduction天工工作台联合火山引擎推出中秋国庆三重福利",
+        "link": "https://www.qbitai.com/2026/09/491147.html",
+        "summary": "从9月15日开始，SkyProduction（天工工作台）和火山引擎(Seedance 2.5)隆重推出中秋国庆特惠活动",
         "source": "量子位",
-        "pub": "Wed, 16 Sep 2026 06:23:05 +0000"
+        "pub": "Thu, 17 Sep 2026 03:39:43 +0000"
       },
       {
-        "title": "量子位2026人工智能年度榜单，正式启动！",
-        "link": "https://www.qbitai.com/2026/09/490329.html",
-        "summary": "报名通道已开启，欢迎参与！",
+        "title": "国产RSI模型交卷！Flash模型靠它反打旗舰",
+        "link": "https://www.qbitai.com/2026/09/491091.html",
+        "summary": "1亿Tokens人人免费领",
         "source": "量子位",
-        "pub": "Wed, 16 Sep 2026 04:16:10 +0000"
+        "pub": "Thu, 17 Sep 2026 03:26:21 +0000"
       },
       {
-        "title": "探秘柬埔寨，千年吴哥窟",
-        "link": "https://sspai.com/post/114454",
-        "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。…",
+        "title": "城市漫步指南｜威海初秋，看海玩沙",
+        "link": "https://sspai.com/post/114557",
+        "summary": "9 月刚开渔，避开暑假，正是玩沙吃海鲜的好时节。而威海，胶东半岛尖端上的海滨小城，有历史厚重的一面，也有现代休闲的一面。多留几天给它，会有很丰富的度假体验。 查看全文",
         "source": "少数派",
-        "pub": "Wed, 16 Sep 2026 17:33:41 +0800"
+        "pub": "Thu, 17 Sep 2026 17:47:28 +0800"
       },
       {
-        "title": "具透 | Liquid Glass 设计改进、性能提升……iPadOS 27 中值得一瞥的新特性",
-        "link": "https://sspai.com/post/114607",
-        "summary": "今年 iPadOS 中的更新并不算多，我们依旧帮你整理出了哪些值得关注的新特性。 查看全文",
+        "title": "具透 | macOS 27 正式版来了，这些是你值得了解新细节",
+        "link": "https://sspai.com/post/114643",
+        "summary": "除了只支持 Apple Silicon，macOS 27 Golden Gate 还有这些变化。 查看全文",
         "source": "少数派",
-        "pub": "Wed, 16 Sep 2026 15:00:00 +0800"
+        "pub": "Thu, 17 Sep 2026 15:00:00 +0800"
       }
     ]
   },
