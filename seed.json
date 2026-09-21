@@ -1,52 +1,52 @@
 {
-  "generatedAt": "2026-09-20T23:02:09.023Z",
-  "date": "2026-09-21",
+  "generatedAt": "2026-09-21T23:03:04.724Z",
+  "date": "2026-09-22",
   "books": {
-    "date": "2026-09-20",
+    "date": "2026-09-21",
     "books": [
       {
-        "title": "庄子：我心如何得自由？",
-        "author": "吴展良",
-        "cover": "https://img3.doubanio.com/view/subject/s/public/s35595763.jpg",
+        "title": "无人观看",
+        "author": "刘天昭",
+        "cover": "https://img3.doubanio.com/view/subject/s/public/s35588023.jpg",
         "rating": 0,
-        "ratingCount": 0,
-        "summary": "本书是中国思想史名家，钱穆、史景迁弟子，台湾大学历史系吴展良教授四十年学习与实践《庄子》的思想结晶，重点讲解最能表现庄子核心思想的《逍遥游》《齐物论》和《养生主》。读懂这三篇，整部《庄子》自然会涣然冰释。 本书以钱穆先生的《庄子纂笺》为底本，并参考王叔岷、郭庆藩等名家著作，是一部根底扎实、言必有据的作品。本书结合如何处理各种家庭、社会关系，如何面对学习、工作",
-        "authorBio": "《庄子：我心如何得自由？》由吴展良撰写，于2026-8出版。",
-        "link": "https://book.douban.com/subject/38603752/",
-        "pubDate": "2026-8",
+        "ratingCount": 137,
+        "summary": "本书是一部长篇现实题材小说，它潜入日常生活的深处，以北京为背景，通过多组城市家庭的并行叙事，通过家庭成员各自不同的视角，细腻编织出在技术洪流与生活重压之下，每个人力图寻找自己的位置、抵抗虚无的精神状况和情感生活。作者以文学的方式呈现了我们时代的精神状况，书写我们正在经历的今天。 小说围绕冯悦诚、周丹、裘琳、沈知溟，以及沈知微母女展开。他们拥有相对稳定的生活条",
+        "authorBio": "《无人观看》由刘天昭撰写，于2026-8-12出版。",
+        "link": "https://book.douban.com/subject/38591073/",
+        "pubDate": "2026-8-12",
         "tag": "new"
       },
       {
-        "title": "隐蔽嫌疑人",
-        "author": "陈浩基",
-        "cover": "https://img3.doubanio.com/view/subject/s/public/s35576027.jpg",
+        "title": "活水",
+        "author": "[英] 罗伯特·麦克法伦",
+        "cover": "https://img9.doubanio.com/view/subject/s/public/s35586916.jpg",
         "rating": 0,
-        "ratingCount": 691,
-        "summary": "警方接到报案，一名中年男子在家中死亡，清理现场时却在衣橱里发现了以玻璃瓶盛装的人体标本。 去世的房间主人谢柏宸被警方列为第一位嫌疑人。他中年无业，单身未婚，因畏惧社交足不出户已有二十年。与此事相关的新闻及案件报道，更加深了大众对“茧居一族”的刻板印象：孤僻、阴郁、心理变态，会犯下连环杀人的罪行。 谢柏宸的好友兼邻居阚致远力争好友绝不会是杀人凶手。但谢柏宸若不",
-        "authorBio": "《隐蔽嫌疑人》由陈浩基撰写，于2026-8出版。",
-        "link": "https://book.douban.com/subject/37147122/",
+        "ratingCount": 162,
+        "summary": "“奔跑时，我们是河流。静坐时，我们是池塘。” 在想象力枯萎的时代，你要化身为丰盈的水 · 当代最好的行走文学作家 罗伯特·麦克法伦 重磅新书 一场跨越三大洲的寻水之旅，回到所有故事的源头——水 · ◶ 南美云雾林，印度死城，魁北克洪流：三场冒险，一部关于流水、凡人与神的复 调史诗 ◶ 从冰川到大海，从雨滴到河流，从乳汁到鲜血与眼泪，以流动的文字捕捉水的万千形",
+        "authorBio": "《活水》由[英] 罗伯特·麦克法伦撰写，于2026-8出版。",
+        "link": "https://book.douban.com/subject/38495054/",
         "pubDate": "2026-8",
         "tag": "new"
       }
     ],
     "quotes": [
       {
-        "text": "我们终将相遇，在没有黑暗的地方。",
-        "author": "张爱玲",
-        "bio": "现代女作家，文字冷艳透彻。",
-        "bg": "出自《倾城之恋》，乱世中男女的牵绊与相守，于苍凉里见温柔。"
+        "text": "人生若只如初见，何事秋风悲画扇。",
+        "author": "纳兰性德",
+        "bio": "清代词人，被誉为「北宋以来，一人而已」。",
+        "bg": "出自《木兰花·拟古决绝词》，感叹情谊初时美好、终不免变迁的怅惘。"
       },
       {
-        "text": "不要问你的国家能为你做些什么，要问你能为你的国家做些什么。",
-        "author": "肯尼迪",
-        "bio": "美国第35任总统。",
-        "bg": "出自1961年就职演说，呼唤公民责任而非索取。"
+        "text": "我步入丛林，因为我希望生活得有意义。",
+        "author": "梭罗",
+        "bio": "美国作家，《瓦尔登湖》作者。",
+        "bg": "出自《瓦尔登湖》开篇，表达主动选择简朴、专注本质的生活实验。"
       },
       {
-        "text": "心若没有栖息的地方，到哪里都是流浪。",
-        "author": "三毛",
-        "bio": "台湾女作家。",
-        "bg": "三毛文字中对「精神归属」的执念，呼应她洒脱又漂泊的一生。"
+        "text": "我们笑着说再见，却深知再见遥遥无期。",
+        "author": "卡勒德·胡赛尼",
+        "bio": "阿富汗裔美国作家。",
+        "bg": "出自《追风筝的人》，写离别与愧疚的绵长余味。"
       }
     ],
     "source": "douban",
@@ -279,57 +279,15 @@
     }
   ],
   "english": {
-    "date": "2026-09-20",
+    "date": "2026-09-21",
     "news": {
-      "type": "speech",
-      "title": "Your body language may shape who you are",
-      "summary": "(NOTE: Some of the findings presented in this talk have been referenced in an ongoing debate among social scientists about robustness and reproducibility. Read \"Corrections & Updates\" below for more details as well as Amy Cuddy's response.) Body language affects how others see us, but it may also change how we see ourselves. Social psychologist Amy Cuddy argues that \"power posing\" -- standing in a posture of confidence, even when we don't feel confident -- can boost feelings of confidence, and might have an impact on our chances for success.",
-      "link": "https://www.ted.com/talks/amy_cuddy_your_body_language_may_shape_who_you_are",
-      "videoLink": "https://www.ted.com/talks/amy_cuddy_your_body_language_may_shape_who_you_are",
-      "cover": "https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/8ff886f0-7953-4f9b-8726-1ce98cae10c6/AmyCuddy_2012G-embed.jpg",
-      "source": "TED",
-      "duration": 1245,
+      "type": "news",
+      "title": "Your next primary care doctor could be online only, accessed through an AI tool",
+      "summary": "The shortage of primary care doctors is a national problem. To cope, a large health system…",
+      "link": "https://www.npr.org/sections/shots-health-news/2026/01/09/nx-s1-5670382/primary-care-doctor-shortage-medical-ai-diagnosis",
+      "source": "NPR · Health Shots",
       "content": [
-        "So I want to start by offering you a free no-tech life hack, and all it requires of you is this: that you change your posture for two minutes. But before I give it away, I want to ask you to right now do a little audit of your body and what you're doing with your body. So how many of you are sort of making yourselves smaller? Maybe you're hunching, crossing your legs, maybe wrapping your ankles. Sometimes we hold onto our arms like this. Sometimes we spread out. (Laughter) I see you. So I want you to pay attention to what you're doing right now. We're going to come back to that in a few minutes, and I'm hoping that if you learn to tweak this a little bit, it could significantly change the way your life unfolds.",
-        "So, we're really fascinated with body language, and we're particularly interested in other people's body language. You know, we're interested in, like, you know — (Laughter) — an awkward interaction, or a smile, or a contemptuous glance, or maybe a very awkward wink, or maybe even something like a handshake.",
-        "Narrator: Here they are arriving at Number 10. This lucky policeman gets to shake hands with the President of the United States. Here comes the Prime Minister -- No. (Laughter) (Applause)",
-        "(Laughter) (Applause)",
-        "Amy Cuddy: So a handshake, or the lack of a handshake, can have us talking for weeks and weeks and weeks. Even the BBC and The New York Times. So obviously when we think about nonverbal behavior, or body language -- but we call it nonverbals as social scientists -- it's language, so we think about communication. When we think about communication, we think about interactions. So what is your body language communicating to me? What's mine communicating to you?",
-        "And there's a lot of reason to believe that this is a valid way to look at this. So social scientists have spent a lot of time looking at the effects of our body language, or other people's body language, on judgments. And we make sweeping judgments and inferences from body language. And those judgments can predict really meaningful life outcomes like who we hire or promote, who we ask out on a date. For example, Nalini Ambady, a researcher at Tufts University, shows that when people watch 30-second soundless clips of real physician-patient interactions, their judgments of the physician's niceness predict whether or not that physician will be sued. So it doesn't have to do so much with whether or not that physician was incompetent, but do we like that person and how they interacted? Even more dramatic, Alex Todorov at Princeton has shown us that judgments of political candidates' faces in just one second predict 70 percent of U.S. Senate and gubernatorial race outcomes, and even, let's go digital, emoticons used well in online negotiations can lead you to claim more value from that negotiation. If you use them poorly, bad idea. Right?",
-        "So when we think of nonverbals, we think of how we judge others, how they judge us and what the outcomes are. We tend to forget, though, the other audience that's influenced by our nonverbals, and that's ourselves. We are also influenced by our nonverbals, our thoughts and our feelings and our physiology.",
-        "So what nonverbals am I talking about? I'm a social psychologist. I study prejudice, and I teach at a competitive business school, so it was inevitable that I would become interested in power dynamics. I became especially interested in nonverbal expressions of power and dominance.",
-        "And what are nonverbal expressions of power and dominance? Well, this is what they are. So in the animal kingdom, they are about expanding. So you make yourself big, you stretch out, you take up space, you're basically opening up. It's about opening up. And this is true across the animal kingdom. It's not just limited to primates. And humans do the same thing. (Laughter) So they do this both when they have power sort of chronically, and also when they're feeling powerful in the moment. And this one is especially interesting because it really shows us how universal and old these expressions of power are. This expression, which is known as pride, Jessica Tracy has studied. She shows that people who are born with sight and people who are congenitally blind do this when they win at a physical competition. So when they cross the finish line and they've won, it doesn't matter if they've never seen anyone do it. They do this. So the arms up in the V, the chin is slightly lifted.",
-        "What do we do when we feel powerless? We do exactly the opposite. We close up. We wrap ourselves up. We make ourselves small. We don't want to bump into the person next to us. So again, both animals and humans do the same thing. And this is what happens when you put together high and low power. So what we tend to do when it comes to power is that we complement the other's nonverbals. So if someone is being really powerful with us, we tend to make ourselves smaller. We don't mirror them. We do the opposite of them.",
-        "So I'm watching this behavior in the classroom, and what do I notice? I notice that MBA students really exhibit the full range of power nonverbals. So you have people who are like caricatures of alphas, really coming into the room, they get right into the middle of the room before class even starts, like they really want to occupy space. When they sit down, they're sort of spread out. They raise their hands like this. You have other people who are virtually collapsing when they come in. As soon they come in, you see it. You see it on their faces and their bodies, and they sit in their chair and they make themselves tiny, and they go like this when they raise their hand.",
-        "I notice a couple of things about this. One, you're not going to be surprised. It seems to be related to gender. So women are much more likely to do this kind of thing than men. Women feel chronically less powerful than men, so this is not surprising.",
-        "But the other thing I noticed is that it also seemed to be related to the extent to which the students were participating, and how well they were participating. And this is really important in the MBA classroom, because participation counts for half the grade.",
-        "So business schools have been struggling with this gender grade gap. You get these equally qualified women and men coming in and then you get these differences in grades, and it seems to be partly attributable to participation. So I started to wonder, you know, okay, so you have these people coming in like this, and they're participating. Is it possible that we could get people to fake it and would it lead them to participate more?",
-        "So my main collaborator Dana Carney, who's at Berkeley, and I really wanted to know, can you fake it till you make it? Like, can you do this just for a little while and actually experience a behavioral outcome that makes you seem more powerful? So we know that our nonverbals govern how other people think and feel about us. There's a lot of evidence. But our question really was, do our nonverbals govern how we think and feel about ourselves?",
-        "There's some evidence that they do. So, for example, we smile when we feel happy, but also, when we're forced to smile by holding a pen in our teeth like this, it makes us feel happy. So it goes both ways. When it comes to power, it also goes both ways. So when you feel powerful, you're more likely to do this, but it's also possible that when you pretend to be powerful, you are more likely to actually feel powerful.",
-        "So the second question really was, you know, so we know that our minds change our bodies, but is it also true that our bodies change our minds? And when I say minds, in the case of the powerful, what am I talking about? So I'm talking about thoughts and feelings and the sort of physiological things that make up our thoughts and feelings, and in my case, that's hormones. I look at hormones. So what do the minds of the powerful versus the powerless look like? So powerful people tend to be, not surprisingly, more assertive and more confident, more optimistic. They actually feel they're going to win even at games of chance. They also tend to be able to think more abstractly. So there are a lot of differences. They take more risks. There are a lot of differences between powerful and powerless people. Physiologically, there also are differences on two key hormones: testosterone, which is the dominance hormone, and cortisol, which is the stress hormone.",
-        "So what we find is that high-power alpha males in primate hierarchies have high testosterone and low cortisol, and powerful and effective leaders also have high testosterone and low cortisol. So what does that mean? When you think about power, people tended to think only about testosterone, because that was about dominance. But really, power is also about how you react to stress. So do you want the high-power leader that's dominant, high on testosterone, but really stress reactive? Probably not, right? You want the person who's powerful and assertive and dominant, but not very stress reactive, the person who's laid back.",
-        "So we know that in primate hierarchies, if an alpha needs to take over, if an individual needs to take over an alpha role sort of suddenly, within a few days, that individual's testosterone has gone up significantly and his cortisol has dropped significantly. So we have this evidence, both that the body can shape the mind, at least at the facial level, and also that role changes can shape the mind. So what happens, okay, you take a role change, what happens if you do that at a really minimal level, like this tiny manipulation, this tiny intervention? \"For two minutes,\" you say, \"I want you to stand like this, and it's going to make you feel more powerful.\"",
-        "So this is what we did. We decided to bring people into the lab and run a little experiment, and these people adopted, for two minutes, either high-power poses or low-power poses, and I'm just going to show you five of the poses, although they took on only two. So here's one. A couple more. This one has been dubbed the \"Wonder Woman\" by the media. Here are a couple more. So you can be standing or you can be sitting. And here are the low-power poses. So you're folding up, you're making yourself small. This one is very low-power. When you're touching your neck, you're really protecting yourself.",
-        "So this is what happens. They come in, they spit into a vial, for two minutes, we say, \"You need to do this or this.\" They don't look at pictures of the poses. We don't want to prime them with a concept of power. We want them to be feeling power. So two minutes they do this. We then ask them, \"How powerful do you feel?\" on a series of items, and then we give them an opportunity to gamble, and then we take another saliva sample. That's it. That's the whole experiment.",
-        "So this is what we find. Risk tolerance, which is the gambling, we find that when you are in the high-power pose condition, 86 percent of you will gamble. When you're in the low-power pose condition, only 60 percent, and that's a whopping significant difference.",
-        "Here's what we find on testosterone. From their baseline when they come in, high-power people experience about a 20-percent increase, and low-power people experience about a 10-percent decrease. So again, two minutes, and you get these changes. Here's what you get on cortisol. High-power people experience about a 25-percent decrease, and the low-power people experience about a 15-percent increase. So two minutes lead to these hormonal changes that configure your brain to basically be either assertive, confident and comfortable, or really stress-reactive, and feeling sort of shut down. And we've all had the feeling, right? So it seems that our nonverbals do govern how we think and feel about ourselves, so it's not just others, but it's also ourselves. Also, our bodies change our minds.",
-        "But the next question, of course, is, can power posing for a few minutes really change your life in meaningful ways? This is in the lab, it's this little task, it's just a couple of minutes. Where can you actually apply this? Which we cared about, of course. And so we think where you want to use this is evaluative situations, like social threat situations. Where are you being evaluated, either by your friends? For teenagers, it's at the lunchroom table. For some people it's speaking at a school board meeting. It might be giving a pitch or giving a talk like this or doing a job interview. We decided that the one that most people could relate to because most people had been through, was the job interview.",
-        "So we published these findings, and the media are all over it, and they say, Okay, so this is what you do when you go in for the job interview, right?",
-        "(Laughter)",
-        "You know, so we were of course horrified, and said, Oh my God, no, that's not what we meant at all. For numerous reasons, no, don't do that. Again, this is not about you talking to other people. It's you talking to yourself. What do you do before you go into a job interview? You do this. You're sitting down. You're looking at your iPhone -- or your Android, not trying to leave anyone out. You're looking at your notes, you're hunching up, making yourself small, when really what you should be doing maybe is this, like, in the bathroom, right? Do that. Find two minutes. So that's what we want to test. Okay? So we bring people into a lab, and they do either high- or low-power poses again, they go through a very stressful job interview. It's five minutes long. They are being recorded. They're being judged also, and the judges are trained to give no nonverbal feedback, so they look like this. Imagine this is the person interviewing you. So for five minutes, nothing, and this is worse than being heckled. People hate this. It's what Marianne LaFrance calls \"standing in social quicksand.\" So this really spikes your cortisol. So this is the job interview we put them through, because we really wanted to see what happened. We then have these coders look at these tapes, four of them. They're blind to the hypothesis. They're blind to the conditions. They have no idea who's been posing in what pose, and they end up looking at these sets of tapes, and they say, \"We want to hire these people,\" all the high-power posers. \"We don't want to hire these people. We also evaluate these people much more positively overall.\" But what's driving it? It's not about the content of the speech. It's about the presence that they're bringing to the speech. Because we rate them on all these variables related to competence, like, how well-structured is the speech? How good is it? What are their qualifications? No effect on those things. This is what's affected. These kinds of things. People are bringing their true selves, basically. They're bringing themselves. They bring their ideas, but as themselves, with no, you know, residue over them. So this is what's driving the effect, or mediating the effect.",
-        "So when I tell people about this, that our bodies change our minds and our minds can change our behavior, and our behavior can change our outcomes, they say to me, \"It feels fake.\" Right? So I said, fake it till you make it. It's not me. I don't want to get there and then still feel like a fraud. I don't want to feel like an impostor. I don't want to get there only to feel like I'm not supposed to be here. And that really resonated with me, because I want to tell you a little story about being an impostor and feeling like I'm not supposed to be here.",
-        "When I was 19, I was in a really bad car accident. I was thrown out of a car, rolled several times. I was thrown from the car. And I woke up in a head injury rehab ward, and I had been withdrawn from college, and I learned that my IQ had dropped by two standard deviations, which was very traumatic. I knew my IQ because I had identified with being smart, and I had been called gifted as a child. So I'm taken out of college, I keep trying to go back. They say, \"You're not going to finish college. Just, you know, there are other things for you to do, but that's not going to work out for you.\"",
-        "So I really struggled with this, and I have to say, having your identity taken from you, your core identity, and for me it was being smart, having that taken from you, there's nothing that leaves you feeling more powerless than that. So I felt entirely powerless. I worked and worked, and I got lucky, and worked, and got lucky, and worked.",
-        "Eventually I graduated from college. It took me four years longer than my peers, and I convinced someone, my angel advisor, Susan Fiske, to take me on, and so I ended up at Princeton, and I was like, I am not supposed to be here. I am an impostor. And the night before my first-year talk, and the first-year talk at Princeton is a 20-minute talk to 20 people. That's it. I was so afraid of being found out the next day that I called her and said, \"I'm quitting.\" She was like, \"You are not quitting, because I took a gamble on you, and you're staying. You're going to stay, and this is what you're going to do. You are going to fake it. You're going to do every talk that you ever get asked to do. You're just going to do it and do it and do it, even if you're terrified and just paralyzed and having an out-of-body experience, until you have this moment where you say, 'Oh my gosh, I'm doing it. Like, I have become this. I am actually doing this.'\" So that's what I did. Five years in grad school, a few years, you know, I'm at Northwestern, I moved to Harvard, I'm at Harvard, I'm not really thinking about it anymore, but for a long time I had been thinking, \"Not supposed to be here.\"",
-        "So at the end of my first year at Harvard, a student who had not talked in class the entire semester, who I had said, \"Look, you've gotta participate or else you're going to fail,\" came into my office. I really didn't know her at all. She came in totally defeated, and she said, \"I'm not supposed to be here.\" And that was the moment for me. Because two things happened. One was that I realized, oh my gosh, I don't feel like that anymore. I don't feel that anymore, but she does, and I get that feeling. And the second was, she is supposed to be here! Like, she can fake it, she can become it.",
-        "So I was like, \"Yes, you are! You are supposed to be here! And tomorrow you're going to fake it, you're going to make yourself powerful, and, you know --",
-        "(Applause)",
-        "And you're going to go into the classroom, and you are going to give the best comment ever.\" You know? And she gave the best comment ever, and people turned around and were like, oh my God, I didn't even notice her sitting there. (Laughter)",
-        "She comes back to me months later, and I realized that she had not just faked it till she made it, she had actually faked it till she became it. So she had changed. And so I want to say to you, don't fake it till you make it. Fake it till you become it. Do it enough until you actually become it and internalize.",
-        "The last thing I'm going to leave you with is this. Tiny tweaks can lead to big changes. So, this is two minutes. Two minutes, two minutes, two minutes. Before you go into the next stressful evaluative situation, for two minutes, try doing this, in the elevator, in a bathroom stall, at your desk behind closed doors. That's what you want to do. Configure your brain to cope the best in that situation. Get your testosterone up. Get your cortisol down. Don't leave that situation feeling like, oh, I didn't show them who I am. Leave that situation feeling like, I really feel like I got to say who I am and show who I am.",
-        "So I want to ask you first, you know, both to try power posing, and also I want to ask you to share the science, because this is simple. I don't have ego involved in this. (Laughter) Give it away. Share it with people, because the people who can use it the most are the ones with no resources and no technology and no status and no power. Give it to them because they can do it in private. They need their bodies, privacy and two minutes, and it can significantly change the outcomes of their life.",
-        "Thank you.",
-        "(Applause)"
+        "The shortage of primary care doctors is a national problem. To cope, a large health system…"
       ],
       "dataSources": [
         {
@@ -366,17 +324,39 @@
   "news": {
     "domestic": [
       {
-        "title": "为了共同繁荣的梦想——习近平主席引领全球发展倡议造福世界",
-        "link": "https://www.news.cn/politics/leaders/20260920/039289bea896429580ee4a847940202a/c.html",
-        "summary": "“发展是实现人民幸福的关键。” 2021年9月21日，面对全球发展事业何去何从的时代之问，习近平主席在联合国舞台上郑重提出全球发展倡议。",
+        "title": "中共中央政治局召开会议 讨论拟提请二十届五中全会审议的文件 中共中央总书记习近平主持会议",
+        "link": "https://www.news.cn/politics/leaders/20260921/6d2f7db5a4c1477bb588a75e1ad87a4b/c.html",
+        "summary": "新华社北京9月21日电　中共中央政治局9月21日召开会议，研究持之以恒推进全面从严治党重大问题。中共中央总书记习近平主持会议。",
         "source": "新华网",
         "pub": "",
-        "heat": 83,
-        "heatRaw": 71,
+        "heat": 85,
+        "heatRaw": 75,
         "heatParts": {
           "cross": 11,
           "auth": 14,
           "rank": 19,
+          "fresh": 21,
+          "kw": 10
+        },
+        "crossCount": 2,
+        "reportCount": 2,
+        "sources": [
+          "人民网",
+          "新华网"
+        ]
+      },
+      {
+        "title": "答好保障粮食安全这个“永恒课题”",
+        "link": "https://www.news.cn/politics/leaders/20260921/c1e87b88256944b486a52d89a36e7472/c.html",
+        "summary": "秋粮是全年粮食生产的大头。今年6月，习近平总书记来到山东德州考察，得知夏粮有了好收成，高兴地勉励“秋粮也寄予希望，争取今年又是一个丰收年”。",
+        "source": "新华网",
+        "pub": "",
+        "heat": 83,
+        "heatRaw": 72,
+        "heatParts": {
+          "cross": 11,
+          "auth": 14,
+          "rank": 20,
           "fresh": 21,
           "kw": 6
         },
@@ -388,42 +368,105 @@
         ]
       },
       {
-        "title": "铸牢共同体 中华一家亲丨藏在时光里的历史遥望与现实同框",
-        "link": "https://www.news.cn/local/20260920/b78d77d5020a4696be5ea61bf85e5b3d/c.html",
-        "summary": "铸牢共同体 中华一家亲丨呼和浩特：藏在时光里的历史遥望与现实同框-",
-        "source": "新华网",
-        "pub": "",
-        "heat": 82,
-        "heatRaw": 71,
+        "title": "多地开启“抢老人”模式 年轻人解锁智慧养老新赛道",
+        "link": "https://www.chinanews.com.cn/sh/2026/09-22/10701200.shtml",
+        "summary": "养老既是民生事业，也是朝阳产业。“十五五”规划纲要提出，深入实施积极应对人口老龄化国家战略，健全养老事业和产业协同发展政策机制，大力发展银发经济，丰富适老化产品和老年服务供给。东北三省老龄化程度位居全国前列，庞大的市场需求，为年轻人在养老领…",
+        "source": "中国新闻网",
+        "pub": "Tue, 22 Sep 2026 06:39:45 +0800",
+        "heat": 81,
+        "heatRaw": 68,
         "heatParts": {
-          "cross": 22,
-          "auth": 14,
-          "rank": 13,
-          "fresh": 21,
-          "kw": 0
+          "cross": 0,
+          "auth": 13,
+          "rank": 20,
+          "fresh": 23,
+          "kw": 13
         },
-        "crossCount": 3,
-        "reportCount": 4,
+        "crossCount": 1,
+        "reportCount": 1,
         "sources": [
-          "人民网",
-          "新华网",
           "中国新闻网"
         ]
       },
       {
-        "title": "“摩博会”组委会通报一起现场事故：3人受伤，要求涉事企业立即整改",
-        "link": "https://www.thepaper.cn/newsDetail_forward_34110331",
-        "summary": "针对“第二十四届中国国际摩托车博览会现场一名摩友撞倒3人”，中国摩博会组委会9月20日发布情况通报： 9月19日13时许，1名试驾摩友在第二十四届摩博会北广场试",
+        "title": "写在习近平主席对美国进行国事访问之际",
+        "link": "https://www.news.cn/politics/leaders/20260922/6cb1b42a4291419db781ad6bad6f0e82/c.html",
+        "summary": "应美利坚合众国总统特朗普邀请，国家主席习近平将于9月23日至25日对美国进行国事访问。",
+        "source": "新华网",
+        "pub": "",
+        "heat": 80,
+        "heatRaw": 67,
+        "heatParts": {
+          "cross": 11,
+          "auth": 14,
+          "rank": 14,
+          "fresh": 21,
+          "kw": 6
+        },
+        "crossCount": 2,
+        "reportCount": 3,
+        "sources": [
+          "人民网",
+          "新华网"
+        ]
+      },
+      {
+        "title": "广东省人大常委会党组成员覃伟中被查，曾任深圳市长",
+        "link": "https://www.thepaper.cn/newsDetail_forward_34116039",
+        "summary": "2026年9月21日下午，中央纪委国家监委网站发布消息：广东省人大常委会党组成员覃伟中涉嫌严重违纪违法，目前正接受中央纪委国家监委纪律审查和监察调查。 覃伟中，",
         "source": "澎湃新闻",
         "pub": "",
-        "heat": 82,
-        "heatRaw": 69,
+        "heat": 80,
+        "heatRaw": 67,
         "heatParts": {
           "cross": 11,
           "auth": 11,
-          "rank": 16,
+          "rank": 19,
           "fresh": 21,
-          "kw": 10
+          "kw": 4
+        },
+        "crossCount": 2,
+        "reportCount": 4,
+        "sources": [
+          "澎湃新闻",
+          "网易新闻"
+        ]
+      },
+      {
+        "title": "巴西工业活动放缓 市场预期年内仍有降息空间",
+        "link": "https://www.chinanews.com.cn/gj/2026/09-22/10701201.shtml",
+        "summary": "中新社圣保罗9月21日电 巴西全国工业联合会(CNI)21日发布的工业调查显示，8月工业生产变化指数为46.3点，较7月下降4.7点。该指数低于50点意味着生产下降，为2015年以来8月份最低水平。",
+        "source": "中国新闻网",
+        "pub": "Tue, 22 Sep 2026 06:41:13 +0800",
+        "heat": 79,
+        "heatRaw": 65,
+        "heatParts": {
+          "cross": 0,
+          "auth": 13,
+          "rank": 22,
+          "fresh": 23,
+          "kw": 8
+        },
+        "crossCount": 1,
+        "reportCount": 1,
+        "sources": [
+          "中国新闻网"
+        ]
+      },
+      {
+        "title": "黑龙江一村民因祖坟被强拆提行政诉讼十起，诉乡政府二审开庭",
+        "link": "https://www.thepaper.cn/newsDetail_forward_34115176",
+        "summary": "因为迁坟的事，石春华先后提起了十起行政诉讼。 今年60岁的石春华，是黑龙江省五常市八家子乡的村民。三年前，当地修建高速公路，包括她父亲在内的多座亲人坟墓被强制拆",
+        "source": "澎湃新闻",
+        "pub": "",
+        "heat": 76,
+        "heatRaw": 61,
+        "heatParts": {
+          "cross": 11,
+          "auth": 11,
+          "rank": 17,
+          "fresh": 21,
+          "kw": 0
         },
         "crossCount": 2,
         "reportCount": 2,
@@ -433,95 +476,11 @@
         ]
       },
       {
-        "title": "“十五五”平台经济监管重点明确 加快推动电子商务法修改 压实平台企业责任",
-        "link": "https://www.ce.cn/xwzx/gnsz/gdxw/202609/t20260921_3226208.shtml",
-        "summary": "平台经济连着千行百业、千家万户。9月20日，在国务院新闻办公室举行的“开局起步‘十五五’”系列主题新闻发布会上，市场监管总局新闻发言人、副局长束为表示，“十五五”时期，将进一步加强对平台企业的数据、算法、规则、流量等监管，压实平台企业“守门…",
-        "source": "中国经济网",
-        "pub": "",
-        "heat": 80,
-        "heatRaw": 67,
-        "heatParts": {
-          "cross": 0,
-          "auth": 12,
-          "rank": 20,
-          "fresh": 21,
-          "kw": 14
-        },
-        "crossCount": 1,
-        "reportCount": 1,
-        "sources": [
-          "中国经济网"
-        ]
-      },
-      {
-        "title": "德国两州选举基民盟遭遇惨败 默茨发表讲话",
-        "link": "https://www.chinanews.com.cn/kong/2026/09-21/10700503.shtml",
-        "summary": "中新网9月21日电 据英国《卫报》报道，当地时间20日，德国东部梅克伦堡-前波美拉尼亚州(梅前州)和柏林州举行州议会选举。当晚公布的出口民调显示，极右翼德国选择党(选择党)在梅前州得票率居首，左翼党则在柏林州领先。德国总理默茨所在的基民盟在…",
+        "title": "赛场上跑起来、工厂里干起来 中国机器人从“能用”走向“好用”",
+        "link": "https://www.chinanews.com.cn/cj/2026/09-22/10701202.shtml",
+        "summary": "叶晓楠 马艺轩 走进中建钢构的生产车间，高空焊接、除锈、重型物料转运等作业由机器人完成，员工转型从事设备调试、程序管控、质量巡检岗，成为智能设备管理员；在腾格里沙漠，云深处科技携山猫M20S轮足机器人参与防沙固沙工作，风卷着沙粒打在机身，凭…",
         "source": "中国新闻网",
-        "pub": "Mon, 21 Sep 2026 06:43:35 +0800",
-        "heat": 79,
-        "heatRaw": 65,
-        "heatParts": {
-          "cross": 0,
-          "auth": 13,
-          "rank": 20,
-          "fresh": 23,
-          "kw": 9
-        },
-        "crossCount": 1,
-        "reportCount": 1,
-        "sources": [
-          "中国新闻网"
-        ]
-      },
-      {
-        "title": "提取和使用范围拓宽 新修订《住房公积金管理条例》施行",
-        "link": "https://www.ce.cn/xwzx/gnsz/gdxw/202609/t20260921_3226207.shtml",
-        "summary": "住房公积金制度是我国城镇住房制度的重要组成部分，关系到老百姓的切身利益。9月20日起，新修订的《住房公积金管理条例》（下称《条例》）正式施行。记者从日前举办的国新办发布会上获悉，《条例》将扩大制度覆盖面并拓宽提取使用范围，通过优化住房公积金…",
-        "source": "中国经济网",
-        "pub": "",
-        "heat": 77,
-        "heatRaw": 61,
-        "heatParts": {
-          "cross": 0,
-          "auth": 12,
-          "rank": 19,
-          "fresh": 21,
-          "kw": 9
-        },
-        "crossCount": 1,
-        "reportCount": 1,
-        "sources": [
-          "中国经济网"
-        ]
-      },
-      {
-        "title": "国家药监局：建立儿童药品、罕见病用药等领域市场独占期制度",
-        "link": "https://www.ce.cn/xwzx/gnsz/gdxw/202609/t20260921_3226211.shtml",
-        "summary": "9月20日，国家药监局副局长杨胜在国新办发布会上介绍称，今年我国已批准59个创新药、51个创新医疗器械上市。“十五五”阶段，国家药监局将从激发研发活力，推动制造升级，让好药供给更加丰富、更加可及三方面发力，加速“中国造、全球新”创新成果落地…",
-        "source": "中国经济网",
-        "pub": "",
-        "heat": 76,
-        "heatRaw": 60,
-        "heatParts": {
-          "cross": 0,
-          "auth": 12,
-          "rank": 23,
-          "fresh": 21,
-          "kw": 4
-        },
-        "crossCount": 1,
-        "reportCount": 1,
-        "sources": [
-          "中国经济网"
-        ]
-      },
-      {
-        "title": "9月21日新闻早报",
-        "link": "https://www.chinanews.com.cn/iframe/2026/09-21/10700505.shtml",
-        "summary": "白宫高官减脂餐，东北人的过年菜：一口酸菜，两种顶流 干眼不只是“眼睛缺水” 患者呈现年轻化趋势",
-        "source": "中国新闻网",
-        "pub": "Mon, 21 Sep 2026 06:58:39 +0800",
+        "pub": "Tue, 22 Sep 2026 06:43:45 +0800",
         "heat": 75,
         "heatRaw": 59,
         "heatParts": {
@@ -538,40 +497,40 @@
         ]
       },
       {
-        "title": "马克龙：支持加拿大和欧盟相互靠拢",
-        "link": "https://www.chinanews.com.cn/gj/2026/09-21/10700504.shtml",
-        "summary": "法国总统马克龙20日说，法国支持加拿大和欧盟相互靠拢的议程，支持加拿大成为欧盟“联席成员”。",
-        "source": "中国新闻网",
-        "pub": "Mon, 21 Sep 2026 06:48:45 +0800",
+        "title": "为算力系统做好“感知之眼”",
+        "link": "https://www.ce.cn/xwzx/gnsz/gdxw/202609/t20260922_3228511.shtml",
+        "summary": "位于辽宁省大连市普兰店区丰荣工业园区的大连北方互感器集团有限公司（以下简称“大北互”）车间内，工人们在拆装模具，设备高速运转，数字大屏实时显示着炉号、炉温、当前累计产量等数据，一派热火朝天的生产景象。",
+        "source": "中国经济网",
+        "pub": "",
         "heat": 74,
-        "heatRaw": 57,
+        "heatRaw": 56,
         "heatParts": {
           "cross": 0,
-          "auth": 13,
-          "rank": 22,
-          "fresh": 23,
+          "auth": 12,
+          "rank": 23,
+          "fresh": 21,
           "kw": 0
         },
         "crossCount": 1,
         "reportCount": 1,
         "sources": [
-          "中国新闻网"
+          "中国经济网"
         ]
       },
       {
-        "title": "女孩模拟外交发言走红 想成为撒贝宁一样的优秀主持人",
-        "link": "https://www.163.com/dy/article/L7A77TGN053469LG.html",
-        "summary": "模拟外交发言走红全网的13岁武汉女孩：立志考中国传媒大学，成为撒贝宁一样的优秀主持人,王静,朗诵,撒贝宁,金话筒,武汉市,模拟外交,春晚舞台,中国传媒大学",
+        "title": "经历惊魂79天赴泰失联男子获救回国 身上新旧伤疤交错",
+        "link": "https://www.163.com/dy/article/L7CM9KSG051492T3.html",
+        "summary": "惊魂79天：赴泰国失联男子获解救回国，讲述入电诈园全过程 想提醒人们别轻信“境外机会”,泰国,失联,广州,小黑,曼谷,警察局,入电诈园",
         "source": "网易新闻",
-        "pub": "2026-09-20 22:50:11",
-        "heat": 73,
-        "heatRaw": 55,
+        "pub": "2026-09-21 21:33:08",
+        "heat": 74,
+        "heatRaw": 57,
         "heatParts": {
           "cross": 0,
           "auth": 11,
-          "rank": 23,
+          "rank": 20,
           "fresh": 21,
-          "kw": 0
+          "kw": 6
         },
         "crossCount": 1,
         "reportCount": 1,
@@ -582,87 +541,107 @@
     ],
     "world": [
       {
-        "title": "也门胡塞武装称袭击沙特“敏感目标”和阿美公司设施",
-        "link": "https://www.news.cn/world/20260920/5365fb57b4be40139d0a667c32dec952/c.html",
-        "summary": "新华社科威特城9月19日电（记者尹炣）萨那消息:也门胡塞武装19日晚宣布，该组织发动两次军事行动，分别袭击了沙特阿拉伯首都利雅得的“敏感目标”以及沙特阿美石油公司位于延布的设施。",
+        "title": "出口民调：统一俄罗斯党在俄国家杜马选举中得票领先",
+        "link": "https://www.news.cn/world/20260921/7ff387d8652740ca8fdd4ea3f981973f/c.html",
+        "summary": "新华社莫斯科9月20日电　俄罗斯全俄社会舆论研究中心20日发布的出口民调显示，在第九届国家杜马（议会下院）选举中，执政党统一俄罗斯党以49.4%的得票率位居第一。",
         "source": "新华网",
         "pub": "",
-        "heat": 85,
-        "heatRaw": 74,
+        "heat": 86,
+        "heatRaw": 76,
         "heatParts": {
-          "cross": 22,
+          "cross": 11,
           "auth": 14,
-          "rank": 13,
-          "fresh": 19,
-          "kw": 6
+          "rank": 17,
+          "fresh": 21,
+          "kw": 13
         },
-        "crossCount": 3,
-        "reportCount": 4,
+        "crossCount": 2,
+        "reportCount": 2,
         "sources": [
           "新华网",
-          "国际在线",
           "中国新闻网"
         ]
       },
       {
-        "title": "伊朗称仍在通过调解方向美方传递谈判条件",
-        "link": "https://www.news.cn/world/20260920/a3f7fe61ab094141b7f737291ad24a75/c.html",
-        "summary": "新华社德黑兰9月19日报道（记者霍丹彤）伊朗最高国家安全委员会秘书穆赫辛·雷扎伊19日表示，卡塔尔作为调解方已向美国方面转达伊朗的谈判条件，正等待美国总统特朗普的回应。",
+        "title": "格陵兰岛民众担心美国获得“独占权”",
+        "link": "https://www.news.cn/world/20260920/deacd7fe45d64b43b15d373a2941d350/c.html",
+        "summary": "新华社北京9月20日电　美国18日宣布与丹麦及其自治领地格陵兰岛达成新安全协议，但协议具体内容尚未对外公布。格陵兰岛当地居民对此心情复杂，担心美国借此获得“独占权”。",
         "source": "新华网",
-        "pub": "",
-        "heat": 85,
-        "heatRaw": 75,
-        "heatParts": {
-          "cross": 22,
-          "auth": 14,
-          "rank": 14,
-          "fresh": 19,
-          "kw": 5
-        },
-        "crossCount": 3,
-        "reportCount": 5,
-        "sources": [
-          "新华网",
-          "国际在线",
-          "中国新闻网"
-        ]
-      },
-      {
-        "title": "传习录丨持续做大做强先进制造业",
-        "link": "https://news.cri.cn/20260919/ca391394-92bf-4c6c-b555-566bca7e0cb7.html",
-        "summary": "近日，习近平总书记就发展先进制造业作出重要指示强调，坚持智能化、绿色化、融合化方向，持续做大做强先进制造业，提升产业链自主可控水平，加快构建以先进制造业为骨干的现代化产业体系，巩固壮大实体经济根基，为推进中国式现代化提供有力支撑。 制",
-        "source": "国际在线",
         "pub": "",
         "heat": 85,
         "heatRaw": 75,
         "heatParts": {
           "cross": 11,
+          "auth": 14,
+          "rank": 22,
+          "fresh": 23,
+          "kw": 5
+        },
+        "crossCount": 2,
+        "reportCount": 2,
+        "sources": [
+          "新华网",
+          "中国新闻网"
+        ]
+      },
+      {
+        "title": "中共中央政治局召开会议 讨论拟提请二十届五中全会审议的文件 中共中央总书记习近平主持会议",
+        "link": "https://news.haiwainet.cn/n/2026/0921/c3543307-32984720.html",
+        "summary": "北京9月21日电中共中央政治局9月21日召开会议，研究持之以恒推进全面从严治党重大问题。中共中央总书记习近平主持会议。会议决定，中国共产党第二十届中央委...",
+        "source": "海外网",
+        "pub": "",
+        "heat": 82,
+        "heatRaw": 71,
+        "heatParts": {
+          "cross": 11,
           "auth": 13,
           "rank": 23,
           "fresh": 13,
-          "kw": 14
+          "kw": 10
         },
         "crossCount": 2,
-        "reportCount": 4,
+        "reportCount": 2,
         "sources": [
           "海外网",
           "国际在线"
         ]
       },
       {
-        "title": "马克龙：支持加拿大和欧盟相互靠拢",
-        "link": "https://www.chinanews.com.cn/gj/2026/09-21/10700504.shtml",
-        "summary": "法国总统马克龙20日说，法国支持加拿大和欧盟相互靠拢的议程，支持加拿大成为欧盟“联席成员”。",
+        "title": "习近平将对美国进行国事访问",
+        "link": "https://news.haiwainet.cn/n/2026/0921/c3543307-32984725.html",
+        "summary": "北京9月21日电 外交部发言人9月21日宣布：应美利坚合众国总统特朗普邀请，国家主席习近平将于9月23日至25日对美国进行国事访问。...",
+        "source": "海外网",
+        "pub": "",
+        "heat": 80,
+        "heatRaw": 67,
+        "heatParts": {
+          "cross": 11,
+          "auth": 13,
+          "rank": 19,
+          "fresh": 13,
+          "kw": 11
+        },
+        "crossCount": 2,
+        "reportCount": 2,
+        "sources": [
+          "海外网",
+          "国际在线"
+        ]
+      },
+      {
+        "title": "巴西工业活动放缓 市场预期年内仍有降息空间",
+        "link": "https://www.chinanews.com.cn/gj/2026/09-22/10701201.shtml",
+        "summary": "中新社圣保罗9月21日电 巴西全国工业联合会(CNI)21日发布的工业调查显示，8月工业生产变化指数为46.3点，较7月下降4.7点。该指数低于50点意味着生产下降，为2015年以来8月份最低水平。",
         "source": "中国新闻网",
-        "pub": "Mon, 21 Sep 2026 06:48:45 +0800",
-        "heat": 78,
-        "heatRaw": 64,
+        "pub": "Tue, 22 Sep 2026 06:41:13 +0800",
+        "heat": 80,
+        "heatRaw": 66,
         "heatParts": {
           "cross": 0,
           "auth": 13,
           "rank": 23,
           "fresh": 23,
-          "kw": 5
+          "kw": 8
         },
         "crossCount": 1,
         "reportCount": 1,
@@ -671,17 +650,60 @@
         ]
       },
       {
-        "title": "Yemen's Houthis claim attack on Riyadh",
-        "link": "https://www.chinadaily.com.cn/a/202609/20/WS6aaf1988e4b06d4aa055efe7.html",
-        "summary": "RIYADH/SANAA -- Yemen's Houthi group said Saturday that it had launched large-scale attacks targeting the Saudi capital …",
+        "title": "欧盟通过延长对俄制裁方案 期限长达三年",
+        "link": "https://www.chinanews.com.cn/gj/2026/09-22/10701195.shtml",
+        "summary": "当地时间21日，经过长时间的磋商，欧盟成员国就延长对俄制裁达成一致，同意将相关制裁措施延长三年。",
+        "source": "中国新闻网",
+        "pub": "Tue, 22 Sep 2026 02:39:28 +0800",
+        "heat": 80,
+        "heatRaw": 67,
+        "heatParts": {
+          "cross": 0,
+          "auth": 13,
+          "rank": 20,
+          "fresh": 23,
+          "kw": 11
+        },
+        "crossCount": 1,
+        "reportCount": 1,
+        "sources": [
+          "中国新闻网"
+        ]
+      },
+      {
+        "title": "深读丨首都遭胡塞武装袭击，沙特面临的威胁有多大？",
+        "link": "https://www.news.cn/world/20260921/7971ca8c225949298d194fb886c68de0/c.html",
+        "summary": "沙特首都利雅得19日凌晨连续两次拉响空袭警报，利雅得机场附近出现火光和浓烟，这是此轮沙特与也门胡塞武装发生冲突以来，利雅得首次遭胡塞武装袭击。首都遇袭，沙特是否面临更大威胁？沙特与巴基斯坦和土耳其8月刚刚签署的旨在加强共同防卫的“麦加协议”…",
+        "source": "新华网",
+        "pub": "",
+        "heat": 79,
+        "heatRaw": 65,
+        "heatParts": {
+          "cross": 11,
+          "auth": 14,
+          "rank": 16,
+          "fresh": 13,
+          "kw": 11
+        },
+        "crossCount": 2,
+        "reportCount": 2,
+        "sources": [
+          "新华网",
+          "国际在线"
+        ]
+      },
+      {
+        "title": "France supports closer ties between Canada, EU: Macron",
+        "link": "https://www.chinadaily.com.cn/a/202609/21/WS6ab08abde4b06d4aa055f2c6.html",
+        "summary": "PARIS - French President Emmanuel Macron said Sunday that France supports the agenda of rapprochement between Canada and…",
         "source": "中国日报网",
         "pub": "",
-        "heat": 77,
-        "heatRaw": 62,
+        "heat": 78,
+        "heatRaw": 64,
         "heatParts": {
           "cross": 11,
           "auth": 13,
-          "rank": 22,
+          "rank": 23,
           "fresh": 13,
           "kw": 3
         },
@@ -689,137 +711,53 @@
         "reportCount": 2,
         "sources": [
           "中国日报网",
-          "NPR"
-        ]
-      },
-      {
-        "title": "泰国多地遭强降雨致山体滑坡",
-        "link": "https://www.chinanews.com.cn/gj/2026/09-20/10700490.shtml",
-        "summary": "中新社曼谷9月20日电 (李映民 王茜)泰国气象部门20日报告说，受高压系统、季风槽以及较强西南季风共同影响，泰国多地当天出现强降雨，部分地区出现特大暴雨。泰国矿产资源厅当天也报告多地山体滑坡。",
-        "source": "中国新闻网",
-        "pub": "Sun, 20 Sep 2026 23:21:25 +0800",
-        "heat": 76,
-        "heatRaw": 59,
-        "heatParts": {
-          "cross": 0,
-          "auth": 13,
-          "rank": 20,
-          "fresh": 21,
-          "kw": 6
-        },
-        "crossCount": 1,
-        "reportCount": 1,
-        "sources": [
-          "中国新闻网"
-        ]
-      },
-      {
-        "title": "伊朗：“在关键时刻会动用全部军力，给予对手毁灭性打击”",
-        "link": "https://www.chinanews.com.cn/gj/2026/09-20/10700321.shtml",
-        "summary": "中新网9月20日电 据卡塔尔半岛电视台当地时间20日报道，伊朗议会议长卡利巴夫表示，随着与美国持续近7个月的战争仍在延续，“既要战斗，也要谈判”。",
-        "source": "中国新闻网",
-        "pub": "Sun, 20 Sep 2026 19:03:23 +0800",
-        "heat": 76,
-        "heatRaw": 60,
-        "heatParts": {
-          "cross": 0,
-          "auth": 13,
-          "rank": 16,
-          "fresh": 21,
-          "kw": 10
-        },
-        "crossCount": 1,
-        "reportCount": 1,
-        "sources": [
-          "中国新闻网"
-        ]
-      },
-      {
-        "title": "Defining global leadership in AI at Trump-Xi summit",
-        "link": "https://www.npr.org/2026/09/20/nx-s1-5973116/defining-global-leadership-in-ai-at-trump-xi-summit",
-        "summary": "Former U.S. deputy national security advisor Anne Neuberger is watching for signs of competition and cooperation on arti…",
-        "source": "NPR",
-        "pub": "Sun, 20 Sep 2026 17:15:56 -0400",
-        "heat": 76,
-        "heatRaw": 61,
-        "heatParts": {
-          "cross": 0,
-          "auth": 12,
-          "rank": 22,
-          "fresh": 19,
-          "kw": 8
-        },
-        "crossCount": 1,
-        "reportCount": 1,
-        "sources": [
-          "NPR"
-        ]
-      },
-      {
-        "title": "China, US start economic, trade consultations in New York",
-        "link": "https://news.cgtn.com/news/2026-09-20/China-US-start-economic-trade-consultations-in-New-York-1QAYKVLUI00/p.html",
-        "summary": "The Chinese and US delegations convened on Sunday morning for consultations on economic and trade issues in New York, th…",
-        "source": "CGTN",
-        "pub": "",
-        "heat": 75,
-        "heatRaw": 58,
-        "heatParts": {
-          "cross": 0,
-          "auth": 13,
-          "rank": 23,
-          "fresh": 21,
-          "kw": 0
-        },
-        "crossCount": 1,
-        "reportCount": 4,
-        "sources": [
           "CGTN"
         ]
       },
       {
-        "title": "Poison suspected in deaths of ten lions in game reserve in Tanzania",
-        "link": "https://www.npr.org/2026/09/20/nx-s1-5975478/poison-suspected-in-deaths-of-ten-lions-in-game-reserve-in-tanzania",
-        "summary": "The lions were found dead inside the Ngorongoro Conservation Area, a popular wildlife reserve in Tanzania. Deaths raise …",
+        "title": "World leaders convene for UNGA. And, Trump says D.C. arch will be a 'military complex'",
+        "link": "https://www.npr.org/2026/09/21/g-s1-144238/up-first-newsletter-united-nations-general-assembly-trump-arch-faa-ai-federal-agent-shooting",
+        "summary": "This week, world leaders convene for the U.N. General Assembly as war continues in Ukraine and the Gulf. And, President …",
         "source": "NPR",
-        "pub": "Sun, 20 Sep 2026 17:39:24 -0400",
-        "heat": 74,
-        "heatRaw": 57,
+        "pub": "Mon, 21 Sep 2026 07:24:27 -0400",
+        "heat": 76,
+        "heatRaw": 60,
         "heatParts": {
           "cross": 0,
           "auth": 12,
-          "rank": 23,
+          "rank": 20,
           "fresh": 19,
-          "kw": 3
+          "kw": 9
         },
         "crossCount": 1,
         "reportCount": 1,
         "sources": [
           "NPR"
         ]
-      }
-    ],
-    "medical": [
+      },
       {
-        "title": "专家支招秋季科学进补三原则",
-        "link": "https://jiankang.cctv.com/2026/09/18/ARTIZGciK2cmeyFAFigDcUbb260918.shtml?spm=C88180.PGOAD39Q4iGU.ENdZKV0GjGYJ.23",
-        "summary": "国家中医药管理局17日召开健康中国中医药健康促进系列发布会之“秋季中医药养生”专题发布会。重庆市永川区大安街道社区卫生服务中心副主任医师夏志萍在会上介绍了秋季科学“贴秋膘”应遵循的三个原则。",
-        "source": "央视网·健康",
-        "pub": "",
-        "heat": 75,
-        "heatRaw": 58,
+        "title": "“黄金周”临近 泰国旅游市场迎中国游客接待高峰",
+        "link": "https://www.chinanews.com.cn/gj/2026/09-22/10701191.shtml",
+        "summary": "中新社曼谷9月21日电 (李映民 梁峻祥 王茜)随着中国中秋节、国庆节假期临近，泰国旅游市场迎来中国游客出行预订高峰。在线旅游平台Trip.com Group21日发布的数据显示，黄金周期间中国游客赴泰旅游呈现提前预订、延长停留以及更加关注…",
+        "source": "中国新闻网",
+        "pub": "Tue, 22 Sep 2026 00:00:40 +0800",
+        "heat": 74,
+        "heatRaw": 57,
         "heatParts": {
           "cross": 0,
           "auth": 13,
-          "rank": 23,
-          "fresh": 7,
-          "kw": 14
+          "rank": 19,
+          "fresh": 21,
+          "kw": 4
         },
         "crossCount": 1,
         "reportCount": 1,
         "sources": [
-          "央视网·健康"
+          "中国新闻网"
         ]
-      },
+      }
+    ],
+    "medical": [
       {
         "title": "外企在中国｜勃林格殷格翰大中华区总裁兼CEO苏晏宁博士：创新不止于药物，让肺纤维化患者真正获益",
         "link": "https://www.news.cn/health/20260916/2a8f119f0a62477c829769d274d0feb7/c.html",
@@ -842,17 +780,80 @@
         ]
       },
       {
+        "title": "2026年疾控机构健康宣教能力提升培训班在西安成功举办",
+        "link": "https://www.chinacdc.cn/zxyw/202609/t20260918_1840337.html",
+        "summary": "2026-09-15 中国疾控中心（中国预科院）党委召开理论学习中心组集体（扩大）学习会 2026-09-15",
+        "source": "中国疾控中心",
+        "pub": "",
+        "heat": 71,
+        "heatRaw": 52,
+        "heatParts": {
+          "cross": 0,
+          "auth": 13,
+          "rank": 14,
+          "fresh": 13,
+          "kw": 10
+        },
+        "crossCount": 1,
+        "reportCount": 3,
+        "sources": [
+          "中国疾控中心"
+        ]
+      },
+      {
+        "title": "2026年慢性病防控大会成功召开",
+        "link": "https://www.chinacdc.cn/zxyw/202609/t20260921_1840354.html",
+        "summary": "2026-09-20 亚太地区卫生应急领导者研讨会在京召开 2026-09-20",
+        "source": "中国疾控中心",
+        "pub": "",
+        "heat": 70,
+        "heatRaw": 50,
+        "heatParts": {
+          "cross": 0,
+          "auth": 13,
+          "rank": 23,
+          "fresh": 13,
+          "kw": 0
+        },
+        "crossCount": 1,
+        "reportCount": 1,
+        "sources": [
+          "中国疾控中心"
+        ]
+      },
+      {
         "title": "王健伟主任（院长）会见沙特公共卫生署代理首席执行...",
         "link": "https://www.chinacdc.cn/zxyw/202609/t20260918_1840336.html",
         "summary": "2026-09-15 中国疾控中心（中国预科院）党委召开理论学习中心组集体（扩大）学习会 2026-09-15",
         "source": "中国疾控中心",
         "pub": "",
-        "heat": 73,
-        "heatRaw": 55,
+        "heat": 70,
+        "heatRaw": 50,
         "heatParts": {
           "cross": 0,
           "auth": 13,
-          "rank": 23,
+          "rank": 19,
+          "fresh": 7,
+          "kw": 11
+        },
+        "crossCount": 1,
+        "reportCount": 1,
+        "sources": [
+          "中国疾控中心"
+        ]
+      },
+      {
+        "title": "西班牙卡洛斯三世卫生研究所代表团访问中国疾控中心",
+        "link": "https://www.chinacdc.cn/zxyw/202609/t20260917_1840250.html",
+        "summary": "2026年9月17日，中国疾控中心（中国预科院）李群副主任（副院长）会见来访的西班牙卡洛斯三世卫生研究所（ISCIII）主任玛丽娜·波扬·桑塔马里亚博士一行。传染病所、病毒病所、教育处、实验室处、应急中心、传染病处及外事处等相关部门负责同志…",
+        "source": "中国疾控中心",
+        "pub": "",
+        "heat": 70,
+        "heatRaw": 49,
+        "heatParts": {
+          "cross": 0,
+          "auth": 13,
+          "rank": 17,
           "fresh": 7,
           "kw": 11
         },
@@ -863,59 +864,17 @@
         ]
       },
       {
-        "title": "中国疾控中心（中国预科院）党委召开理论学习中心组...",
-        "link": "https://www.chinacdc.cn/zxyw/202609/t20260915_1840171.html",
-        "summary": "9月14日上午，中心（院）党委召开理论学习中心组集体（扩大）学习会，深入学习贯彻习近平党建思想和习近平总书记关于基层工作方法的重要论述。中心（院）党委书记、副主任（副院长）张国新主持会议并作总结讲话，中心（院）领导班子成员和部分处室、直属单…",
-        "source": "中国疾控中心",
-        "pub": "",
-        "heat": 72,
-        "heatRaw": 54,
-        "heatParts": {
-          "cross": 0,
-          "auth": 13,
-          "rank": 22,
-          "fresh": 7,
-          "kw": 10
-        },
-        "crossCount": 1,
-        "reportCount": 4,
-        "sources": [
-          "中国疾控中心"
-        ]
-      },
-      {
-        "title": "锚定决定性进展 绘就健康中国新蓝图",
-        "link": "https://jiankang.cctv.com/2026/09/15/ARTI3e4Ee4DDJZdzTTyy0d4M260915.shtml",
-        "summary": "9月14日，国务院新闻办公室在京举行“开局起步‘十五五’”系列主题新闻发布会。国家卫生健康委主任雷海潮等出席，围绕推动健康中国建设取得决定性进展介绍总体部署，聚焦全民健康、医疗提质、中医药振兴、疾控体系建设等重点领域，详解“十五五”卫生健康…",
-        "source": "央视网·健康",
-        "pub": "",
-        "heat": 71,
-        "heatRaw": 52,
-        "heatParts": {
-          "cross": 0,
-          "auth": 13,
-          "rank": 17,
-          "fresh": 7,
-          "kw": 14
-        },
-        "crossCount": 1,
-        "reportCount": 1,
-        "sources": [
-          "央视网·健康"
-        ]
-      },
-      {
         "title": "开海季，别让一口“鲜”变身健康“刺客”",
         "link": "https://jiankang.cctv.com/2026/09/17/ARTItMi5pZzlksgrJ4cQj1kH260917.shtml?spm=C88180.PGOAD39Q4iGU.ENdZKV0GjGYJ.19",
         "summary": "海鲜是天然营养宝库，却也藏着食用误区与安全风险。金秋时节，吃海鲜要避坑，健康营养最重要。",
         "source": "央视网·健康",
         "pub": "",
-        "heat": 68,
-        "heatRaw": 47,
+        "heat": 67,
+        "heatRaw": 45,
         "heatParts": {
           "cross": 0,
           "auth": 13,
-          "rank": 22,
+          "rank": 20,
           "fresh": 7,
           "kw": 4
         },
@@ -931,12 +890,12 @@
         "summary": "今年以来，我国创新药出海步伐再提速，对外授权交易总额突破1200亿美元，同比增长36%。其中首付款规模超百亿美元，市场同时呈现单笔平均交易金额稳步增长、首付款金额与占比双双提升、大额交易频频落地的特点，彰显出本土创新药的含金量不断提高。",
         "source": "央视网·健康",
         "pub": "",
-        "heat": 68,
-        "heatRaw": 47,
+        "heat": 67,
+        "heatRaw": 45,
         "heatParts": {
           "cross": 0,
           "auth": 13,
-          "rank": 20,
+          "rank": 19,
           "fresh": 7,
           "kw": 6
         },
@@ -947,24 +906,24 @@
         ]
       },
       {
-        "title": "当打之年，轻舟再启！“减负新‘支’点・轻舟三人行”活动第2弹火热“开赛”",
-        "link": "https://www.news.cn/health/20260915/e297fb612aa94366a85e564e899e4bfc/c.html",
-        "summary": "当打之年，轻舟再启！“减负新‘支’点・轻舟三人行”活动第2弹火热“开赛”-\"在此基础上，“减负新‘支’点·轻舟三人行”第2弹活动将继续深入探索青年体重管理的社会协同与同伴支持机制。\"",
-        "source": "新华网·健康",
+        "title": "秋季防跌倒 稳住每一步",
+        "link": "https://jiankang.cctv.com/2026/09/20/ARTIykcBXLMU9RXhumGzwKXN260920.shtml?spm=C88180.PGOAD39Q4iGU.ENdZKV0GjGYJ.25",
+        "summary": "（该来源未提供摘要，点击右侧「查看原链接」阅读全文）",
+        "source": "央视网·健康",
         "pub": "",
-        "heat": 68,
-        "heatRaw": 47,
+        "heat": 66,
+        "heatRaw": 44,
         "heatParts": {
           "cross": 0,
           "auth": 13,
-          "rank": 22,
+          "rank": 23,
           "fresh": 7,
-          "kw": 4
+          "kw": 0
         },
         "crossCount": 1,
         "reportCount": 1,
         "sources": [
-          "新华网·健康"
+          "央视网·健康"
         ]
       },
       {
@@ -973,13 +932,13 @@
         "summary": "参半8020公益计划走进曲阜 爱牙日捐赠价值500万元口腔物资-\"捐赠仪式结束后，参半联合曲阜市口腔医院开展公益课堂与口腔义诊活动，为儿童群体送去口腔健康关怀。\"",
         "source": "新华网·健康",
         "pub": "",
-        "heat": 68,
-        "heatRaw": 46,
+        "heat": 64,
+        "heatRaw": 40,
         "heatParts": {
           "cross": 0,
           "auth": 13,
           "rank": 10,
-          "fresh": 13,
+          "fresh": 7,
           "kw": 9
         },
         "crossCount": 1,
@@ -989,97 +948,97 @@
         ]
       },
       {
-        "title": "2026年疾控机构健康宣教能力提升培训班在西安成功举办",
-        "link": "https://www.chinacdc.cn/zxyw/202609/t20260918_1840337.html",
-        "summary": "2026-09-15 中国疾控中心（中国预科院）党委召开理论学习中心组集体（扩大）学习会 2026-09-15",
-        "source": "中国疾控中心",
+        "title": "赛诺菲上海外资研发创新中心正式揭牌 携手华山医院共建全球卓越转化中心",
+        "link": "https://www.news.cn/health/20260918/fc5169510fd34e698a6afb60fc278435/c.html",
+        "summary": "赛诺菲上海外资研发创新中心正式揭牌 携手华山医院共建全球卓越转化中心-\"9月16日，赛诺菲上海外资研发创新中心在静安区正式揭牌；同日，赛诺菲与复旦大学附属华山医院签署合作协议，共建赛诺菲全球第四家卓越转化中心（TCoE），将进一步推动中国的…",
+        "source": "新华网·健康",
         "pub": "",
-        "heat": 67,
-        "heatRaw": 45,
+        "heat": 60,
+        "heatRaw": 33,
         "heatParts": {
           "cross": 0,
           "auth": 13,
-          "rank": 14,
+          "rank": 7,
           "fresh": 7,
-          "kw": 10
+          "kw": 5
         },
         "crossCount": 1,
         "reportCount": 1,
         "sources": [
-          "中国疾控中心"
+          "新华网·健康"
         ]
       }
     ],
     "ai": [
       {
-        "title": "刚刚，剪映发了个大的：AI生视频和AI剪辑的壁，被打破了！",
-        "link": "https://www.qbitai.com/2026/09/492973.html",
-        "summary": "剪映Hub+剪映助手，好用",
+        "title": "SkyProduction天工工作台中秋国庆特惠第二波：Seedance 2.5 720P 低至 0.27 元/秒，全网地板价！",
+        "link": "https://www.qbitai.com/2026/09/493268.html",
+        "summary": "9月15日，SkyProduction（天工工作台）中秋国庆折上折活动正式开启！",
         "source": "量子位",
-        "pub": "Sun, 20 Sep 2026 14:30:26 +0000"
+        "pub": "Mon, 21 Sep 2026 08:25:44 +0000"
       },
       {
-        "title": "华为首发企业AI白皮书：AI让员工更快了，怎样让整个企业受益？",
-        "link": "https://www.qbitai.com/2026/09/493068.html",
-        "summary": "AI越来越能干，企业该怎么用",
+        "title": "啊啊啊GPT-6 Astra这么不安全！这次马斯克都瘫坐了",
+        "link": "https://www.qbitai.com/2026/09/493241.html",
+        "summary": "97%尝试危险行为",
         "source": "量子位",
-        "pub": "Sun, 20 Sep 2026 14:23:52 +0000"
+        "pub": "Mon, 21 Sep 2026 08:21:55 +0000"
       },
       {
-        "title": "一张3090就能跑！全栈国产模型，把AI办公搬到企业本地",
-        "link": "https://www.qbitai.com/2026/09/492946.html",
-        "summary": "AI办公这块蛋糕，中国电信可能要先切走一块了。",
+        "title": "长三角安全人工智能安徽省实验室发布星界、星驭、星鉴三大AI安全解决方案",
+        "link": "https://www.qbitai.com/2026/09/493235.html",
+        "summary": "9月19日，第一届中国网络空间安全大会（CCSC 2026）的高水平专题论坛在安徽合肥正式举办。",
         "source": "量子位",
-        "pub": "Sun, 20 Sep 2026 12:22:41 +0000"
+        "pub": "Mon, 21 Sep 2026 07:52:46 +0000"
       },
       {
-        "title": "APUS 开源国内首批Jev跨平台复现：国产模型实现秒级决策",
-        "link": "https://www.qbitai.com/2026/09/492939.html",
-        "summary": "9月19日，中国人工智能企业APUS旗下 AI 实验室公布了全球最早一批针对Jev的独立开源复现成果",
+        "title": "国产数据库跑出AI新能力！OceanBase登顶国际Data Agent榜单",
+        "link": "https://www.qbitai.com/2026/09/493231.html",
+        "summary": "OceanBase团队提交的Data Agent方案登顶国际数据智能体基准Data Agent Benchmark",
         "source": "量子位",
-        "pub": "Sun, 20 Sep 2026 08:30:32 +0000"
+        "pub": "Mon, 21 Sep 2026 07:31:26 +0000"
       },
       {
-        "title": "谷歌AI首次“越狱”：竟然自己破解密码入侵三家公司！",
-        "link": "https://www.qbitai.com/2026/09/492912.html",
-        "summary": "亚马逊云科技给企业安全用Agent打了个样",
+        "title": "GPT-6 Astra开进机器人身体！清华联手无问芯穹等开源RPent",
+        "link": "https://www.qbitai.com/2026/09/493218.html",
+        "summary": "在物理世界真正干活的具身智能体",
         "source": "量子位",
-        "pub": "Sun, 20 Sep 2026 08:01:13 +0000"
+        "pub": "Mon, 21 Sep 2026 06:22:37 +0000"
       },
       {
-        "title": "预售价31.98万-38.98万元，腾势Z9S展车抵达全国166城334家门店",
-        "link": "https://www.qbitai.com/2026/09/492873.html",
-        "summary": "腾势Z9S迎来成都车展首秀",
+        "title": "开源Top2！实测阶跃Step 5 Preview，真有点猛啊…",
+        "link": "https://www.qbitai.com/2026/09/493179.html",
+        "summary": "激活参数仅27B",
         "source": "量子位",
-        "pub": "Sun, 20 Sep 2026 07:51:09 +0000"
+        "pub": "Mon, 21 Sep 2026 03:46:43 +0000"
       },
       {
-        "title": "《网络安全人才实战能力报告-AI赋能篇》正式发布，当AI进入业务深水区安全如何跟上",
-        "link": "https://www.qbitai.com/2026/09/492849.html",
-        "summary": "9月18日，在第一届中国网络空间安全大会上，《网络安全人才实战能力报告—AI赋能篇》正式发布",
+        "title": "中国Neocloud市场第一！商汤大装置全面领跑",
+        "link": "https://www.qbitai.com/2026/09/493175.html",
+        "summary": "沙利文报告",
         "source": "量子位",
-        "pub": "Sun, 20 Sep 2026 02:48:18 +0000"
+        "pub": "Mon, 21 Sep 2026 03:32:03 +0000"
       },
       {
-        "title": "“留给人类阻止AI的时间不多了”",
-        "link": "https://www.qbitai.com/2026/09/492755.html",
-        "summary": "AI有可能终结我们所有人",
+        "title": "百曜科技发起，《AI虚拟细胞（AIVC）技术趋势、产业生态与应用前景研究报告》正式发布",
+        "link": "https://www.qbitai.com/2026/09/493114.html",
+        "summary": "《AI 虚拟细胞（AIVC）技术趋势、产业生态与应用前景研究报告——AI 时代生命科学的新型基础设施》正式发布。",
         "source": "量子位",
-        "pub": "Sat, 19 Sep 2026 11:53:12 +0000"
+        "pub": "Mon, 21 Sep 2026 02:28:46 +0000"
       },
       {
-        "title": "觉来知打明钟未，忽听邻家叫佛声：佛国老挝行记",
-        "link": "https://sspai.com/post/114495",
-        "summary": "这是一趟水陆空三栖的旅行——在万象的街头巷尾无意间推门而入点了一份炸五花肉套饭，味道香上了头发根；在万荣连跳两天水，最高的 8 米跳台跳下来砸得屁股很疼，各种户外活动性价比拉满；琅…",
+        "title": "一台主机，多重角色：新款 Mac mini 首发体验",
+        "link": "https://sspai.com/post/114829",
+        "summary": "Macmini虽然不是性能最强、体验最完整的Mac电脑，但在AI时代，它或许比以往任何时候都更适合家庭用户。从年初OpenClaw的现象级走红，到如今Codex引领Agent工作方…",
         "source": "少数派",
-        "pub": "Sun, 20 Sep 2026 15:00:00 +0800"
+        "pub": "Mon, 21 Sep 2026 21:02:58 +0800"
       },
       {
-        "title": "给电话加上「辅助驾驶」？我们想听听你的意见",
-        "link": "https://sspai.com/post/114717",
-        "summary": "会议开到一半，手机亮了：一个陌生号码。你盯着屏幕犹豫了几秒，不知道这会是推销、客户，还是外卖员。直接挂掉，又得惦记着会不会耽误正事；接起来，不方便说，聊完还得整理待办。轮到你主动打…",
+        "title": "派评 | 近期值得关注的 App",
+        "link": "https://sspai.com/post/114815",
+        "summary": ">下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀 查看全文",
         "source": "少数派",
-        "pub": "Sun, 20 Sep 2026 11:01:47 +0800"
+        "pub": "Mon, 21 Sep 2026 17:57:01 +0800"
       }
     ]
   },
@@ -1184,7 +1143,7 @@
         "美联社": 0,
         "BBC新闻": 0,
         "经济学人": 0,
-        "NPR": 9,
+        "NPR": 10,
         "今日美国": 0
       }
     },
