@@ -1,52 +1,52 @@
 {
-  "generatedAt": "2026-09-22T23:04:08.719Z",
-  "date": "2026-09-23",
+  "generatedAt": "2026-09-24T08:23:48.982Z",
+  "date": "2026-09-24",
   "books": {
-    "date": "2026-09-22",
+    "date": "2026-09-24",
     "books": [
       {
-        "title": "揭开道学面纱：宋孝宗朝的政治景观",
-        "author": "张维玲",
-        "cover": "https://img3.doubanio.com/view/subject/s/public/s35610118.jpg",
+        "title": "雪田故事集",
+        "author": "徐畅",
+        "cover": "https://img3.doubanio.com/view/subject/s/public/s35623498.jpg",
         "rating": 0,
-        "ratingCount": 17,
-        "summary": "二十多年来，以朱熹为核心的道学派士大夫，成为宋孝宗朝政治史的研究框架。本书借由拆解此框架，即将朱熹去中心化，重新解读朱熹曾活跃的时代。在揭开道学的面纱后，本书把握四个维度，以重建朱熹时代的政治景观。四个维度分别以侧近官员(君主宠臣)曾觌，以及外朝宰执陈俊卿、虞允文、周必大为核心，探讨他们各自所属的恩庇权力网络，如何在以“恢复中原”为目标的政治赛局中，提出迥异",
-        "authorBio": "《揭开道学面纱：宋孝宗朝的政治景观》由张维玲撰写，于2026-7出版。",
-        "link": "https://book.douban.com/subject/38481180/",
-        "pubDate": "2026-7",
+        "ratingCount": 0,
+        "summary": "《雪田故事集》以“雪田”为精神原点，将童年往事、乡土故园、城市漂泊以及人生行旅串联起来，用克制、洁净而富有生活质感的语言，勾勒出一代青年从故乡出发、走向城市的成长轨迹。全书共收录《雪田》《早班车》《冰河》《干货店》《空白》《灯火如萤》《原野先生》《出租屋》《小黑猫》《米 谷》等十篇作品。 童年时期寄养在亲人身边的孩子，在干货店里学着叫卖和记账，慢慢学着认识生",
+        "authorBio": "《雪田故事集》由徐畅撰写，于2026-9出版。",
+        "link": "https://book.douban.com/subject/38656230/",
+        "pubDate": "2026-9",
         "tag": "new"
       },
       {
-        "title": "艺术与对象",
-        "author": "[美]格拉汉姆·哈曼",
-        "cover": "https://img3.doubanio.com/view/subject/s/public/s35562637.jpg",
+        "title": "怪奇物语：不归之路",
+        "author": "[美] 凯特琳·施奈德汉",
+        "cover": "https://img3.doubanio.com/view/subject/s/public/s35601378.jpg",
         "rating": 0,
         "ratingCount": 0,
-        "summary": "●编辑推荐● “艺术之所以重要，是因为它揭示了事物永远无法被任何关系和任何知识所穷尽的那份沉默的深度。” ——汪民安 面向对象的本体论代表作; “美学作为第一哲学”核心命题的系统阐述; 从康德、海德格尔、格林伯格、弗雷德到达达主义、超现实主义、当代艺术, 重新思考： 艺术作品究竟是什么？ 艺术与哲学都有指向“第三张桌子”的使命 艺术作品究竟是什么？它既不",
-        "authorBio": "《艺术与对象》由[美]格拉汉姆·哈曼撰写，于2026-8出版。",
-        "link": "https://book.douban.com/subject/38449856/",
-        "pubDate": "2026-8",
+        "summary": "Netflix全球现象级IP，正版授权官方小说 剧集全五季累计播放超12亿次，单季首播观看达2.87亿小时；57次艾美奖提名，12座艾美奖杯；豆瓣44万人打分，季均评分9.1，全网短视频总播放超31.5亿。正版授权官方小说Shou次引进 实力作者+正剧编剧亲自执笔，原汁原味“怪奇”式惊险浪漫 Netflix指定实力作者，剧集主创编剧亲自撰写，官方认证的正",
+        "authorBio": "《怪奇物语：不归之路》由[美] 凯特琳·施奈德汉撰写，于2026-9出版。",
+        "link": "https://book.douban.com/subject/38593432/",
+        "pubDate": "2026-9",
         "tag": "new"
       }
     ],
     "quotes": [
       {
-        "text": "所有的光鲜亮丽，都需要时间打磨。",
-        "author": "菲茨杰拉德",
-        "bio": "美国作家，《了不起的盖茨比》作者。",
-        "bg": "呼应《了不起的盖茨比》主题：辉煌背后是漫长而孤独的淬炼。"
+        "text": "自由不是随心所欲，而是自我主宰。",
+        "author": "康德",
+        "bio": "德国哲学家，启蒙思想巨擘。",
+        "bg": "体现康德对理性的尊重：真正的自由是服从自己立下的法则，而非被欲望驱使。"
       },
       {
-        "text": "满地都是六便士，他却抬头看见了月亮。",
-        "author": "毛姆",
-        "bio": "英国小说家，《月亮与六便士》作者。",
-        "bg": "出自《月亮与六便士》，喻人在庸常生计之外，仍可向艺术与理想仰望。"
+        "text": "没有什么比时间更具有说服力了，因为时间无需通知我们就可以改变一切。",
+        "author": "余华",
+        "bio": "当代作家，《活着》作者。",
+        "bg": "出自《活着》式苍凉叙述，写尽命运在无言流逝中的改写。"
       },
       {
-        "text": "一个人最大的幸福，莫过于在人生途中发现自己的使命。",
-        "author": "茨威格",
-        "bio": "奥地利作家。",
-        "bg": "呼应《人类群星闪耀时》对「被命运选中」时刻的礼赞。"
+        "text": "生活不止眼前的苟且，还有诗和远方的田野。",
+        "author": "高晓松",
+        "bio": "音乐人、词作者。",
+        "bg": "出自歌曲《生活不止眼前的苟且》，劝人在日常之外保留远方想象。"
       }
     ],
     "source": "douban",
@@ -279,60 +279,68 @@
     }
   ],
   "english": {
-    "date": "2026-09-22",
+    "date": "2026-09-24",
     "news": {
       "type": "speech",
-      "title": "My stroke of insight",
-      "summary": "Jill Bolte Taylor got a research opportunity few brain scientists would wish for: She had a massive stroke, and watched as her brain functions -- motion, speech, self-awareness -- shut down one by one. An astonishing story.",
-      "link": "https://www.ted.com/talks/jill_bolte_taylor_my_stroke_of_insight",
-      "videoLink": "https://www.ted.com/talks/jill_bolte_taylor_my_stroke_of_insight",
-      "cover": "https://pe.tedcdn.com/images/ted/71ea6602cca0006617a2420c4dec8f8da18c85c5_2400x1800.jpg",
+      "title": "The power of introverts",
+      "summary": "In a culture where being social and outgoing are prized above all else, it can be difficult, even shameful, to be an introvert. But, as Susan Cain argues in this passionate talk, introverts bring extraordinary talents and abilities to the world, and should be encouraged and celebrated.",
+      "link": "https://www.ted.com/talks/susan_cain_the_power_of_introverts",
+      "videoLink": "https://www.ted.com/talks/susan_cain_the_power_of_introverts",
+      "cover": "https://pe.tedcdn.com/images/ted/b542b1ddd2e40cfcf9db3430598bc37cebfec8c1_1600x1200.jpg",
       "source": "TED",
-      "duration": 1104,
+      "duration": 1127,
       "content": [
-        "I grew up to study the brain because I have a brother who has been diagnosed with a brain disorder, schizophrenia. And as a sister and later, as a scientist, I wanted to understand, why is it that I can take my dreams, I can connect them to my reality, and I can make my dreams come true? What is it about my brother's brain and his schizophrenia that he cannot connect his dreams to a common and shared reality, so they instead become delusion?",
-        "So I dedicated my career to research into the severe mental illnesses. And I moved from my home state of Indiana to Boston, where I was working in the lab of Dr. Francine Benes, in the Harvard Department of Psychiatry. And in the lab, we were asking the question, \"What are the biological differences between the brains of individuals who would be diagnosed as normal control, as compared with the brains of individuals diagnosed with schizophrenia, schizoaffective or bipolar disorder?\"",
-        "So we were essentially mapping the microcircuitry of the brain: which cells are communicating with which cells, with which chemicals, and then in what quantities of those chemicals? So there was a lot of meaning in my life because I was performing this type of research during the day, but then in the evenings and on the weekends, I traveled as an advocate for NAMI, the National Alliance on Mental Illness.",
-        "But on the morning of December 10, 1996, I woke up to discover that I had a brain disorder of my own. A blood vessel exploded in the left half of my brain. And in the course of four hours, I watched my brain completely deteriorate in its ability to process all information. On the morning of the hemorrhage, I could not walk, talk, read, write or recall any of my life. I essentially became an infant in a woman's body.",
-        "If you've ever seen a human brain, it's obvious that the two hemispheres are completely separate from one another. And I have brought for you a real human brain.",
-        "(Groaning, laughter)",
-        "So this is a real human brain. This is the front of the brain, the back of brain with the spinal cord hanging down, and this is how it would be positioned inside of my head. And when you look at the brain, it's obvious that the two cerebral cortices are completely separate from one another.",
-        "For those of you who understand computers, our right hemisphere functions like a parallel processor, while our left hemisphere functions like a serial processor. The two hemispheres do communicate with one another through the corpus callosum, which is made up of some 300 million axonal fibers. But other than that, the two hemispheres are completely separate. Because they process information differently, each of our hemispheres think about different things, they care about different things, and, dare I say, they have very different personalities. Excuse me. Thank you. It's been a joy.",
-        "Assistant: It has been.",
+        "When I was nine years old, I went off to summer camp for the first time. And my mother packed me a suitcase full of books, which to me seemed like a perfectly natural thing to do. Because in my family, reading was the primary group activity. And this might sound antisocial to you, but for us it was really just a different way of being social. You have the animal warmth of your family sitting right next to you, but you are also free to go roaming around the adventureland inside your own mind. And I had this idea that camp was going to be just like this, but better.",
         "(Laughter)",
-        "Our right human hemisphere is all about this present moment. It's all about \"right here, right now.\" Our right hemisphere, it thinks in pictures and it learns kinesthetically through the movement of our bodies. Information, in the form of energy, streams in simultaneously through all of our sensory systems and then it explodes into this enormous collage of what this present moment looks like, what this present moment smells like and tastes like, what it feels like and what it sounds like. I am an energy-being connected to the energy all around me through the consciousness of my right hemisphere. We are energy-beings connected to one another through the consciousness of our right hemispheres as one human family. And right here, right now, we are brothers and sisters on this planet, here to make the world a better place. And in this moment we are perfect, we are whole and we are beautiful.",
-        "My left hemisphere, our left hemisphere, is a very different place. Our left hemisphere thinks linearly and methodically. Our left hemisphere is all about the past and it's all about the future. Our left hemisphere is designed to take that enormous collage of the present moment and start picking out details, and more details about those details. It then categorizes and organizes all that information, associates it with everything in the past we've ever learned, and projects into the future all of our possibilities. And our left hemisphere thinks in language. It's that ongoing brain chatter that connects me and my internal world to my external world. It's that little voice that says to me, \"Hey, you've got to remember to pick up bananas on your way home. I need them in the morning.\" It's that calculating intelligence that reminds me when I have to do my laundry. But perhaps most important, it's that little voice that says to me, \"I am. I am.\"",
-        "And as soon as my left hemisphere says to me \"I am,\" I become separate. I become a single solid individual, separate from the energy flow around me and separate from you. And this was the portion of my brain that I lost on the morning of my stroke.",
-        "On the morning of the stroke, I woke up to a pounding pain behind my left eye. And it was the kind of caustic pain that you get when you bite into ice cream. And it just gripped me -- and then it released me. And then it just gripped me -- and then it released me. And it was very unusual for me to ever experience any kind of pain, so I thought, \"OK, I'll just start my normal routine.\"",
-        "So I got up and I jumped onto my cardio glider, which is a full-body, full-exercise machine. And I'm jamming away on this thing, and I'm realizing that my hands look like primitive claws grasping onto the bar. And I thought, \"That's very peculiar.\" And I looked down at my body and I thought, \"Whoa, I'm a weird-looking thing.\" And it was as though my consciousness had shifted away from my normal perception of reality, where I'm the person on the machine having the experience, to some esoteric space where I'm witnessing myself having this experience.",
-        "And it was all very peculiar, and my headache was just getting worse. So I get off the machine, and I'm walking across my living room floor, and I realize that everything inside of my body has slowed way down. And every step is very rigid and very deliberate. There's no fluidity to my pace, and there's this constriction in my area of perception, so I'm just focused on internal systems. And I'm standing in my bathroom getting ready to step into the shower, and I could actually hear the dialogue inside of my body. I heard a little voice saying, \"OK. You muscles, you've got to contract. You muscles, you relax.\"",
-        "And then I lost my balance, and I'm propped up against the wall. And I look down at my arm and I realize that I can no longer define the boundaries of my body. I can't define where I begin and where I end, because the atoms and the molecules of my arm blended with the atoms and molecules of the wall. And all I could detect was this energy -- energy.",
-        "And I'm asking myself, \"What is wrong with me? What is going on?\" And in that moment, my left hemisphere brain chatter went totally silent. Just like someone took a remote control and pushed the mute button. Total silence. And at first I was shocked to find myself inside of a silent mind. But then I was immediately captivated by the magnificence of the energy around me. And because I could no longer identify the boundaries of my body, I felt enormous and expansive. I felt at one with all the energy that was, and it was beautiful there.",
-        "Then all of a sudden my left hemisphere comes back online and it says to me, \"Hey! We've got a problem! We've got to get some help.\" And I'm going, \"Ahh! I've got a problem!\"",
+        "I had a vision of 10 girls sitting in a cabin cozily reading books in their matching nightgowns.",
         "(Laughter)",
-        "So it's like, \"OK, I've got a problem.\" But then I immediately drifted right back out into the consciousness -- and I affectionately refer to this space as La La Land. But it was beautiful there. Imagine what it would be like to be totally disconnected from your brain chatter that connects you to the external world.",
-        "So here I am in this space, and my job, and any stress related to my job -- it was gone. And I felt lighter in my body. And imagine all of the relationships in the external world and any stressors related to any of those -- they were gone. And I felt this sense of peacefulness. And imagine what it would feel like to lose 37 years of emotional baggage! (Laughter) Oh! I felt euphoria -- euphoria. It was beautiful.",
-        "And again, my left hemisphere comes online and it says, \"Hey! You've got to pay attention. We've got to get help.\" And I'm thinking, \"I've got to get help. I've got to focus.\" So I get out of the shower and I mechanically dress and I'm walking around my apartment, and I'm thinking, \"I've got to get to work. Can I drive?\"",
-        "And in that moment, my right arm went totally paralyzed by my side. Then I realized, \"Oh my gosh! I'm having a stroke!\" And the next thing my brain says to me is, Wow! This is so cool!",
+        "Camp was more like a keg party without any alcohol. And on the very first day, our counselor gathered us all together and she taught us a cheer that she said we would be doing every day for the rest of the summer to instill camp spirit. And it went like this: \"R-O-W-D-I-E, that's the way we spell rowdie. Rowdie, rowdie, let's get rowdie.\"",
         "(Laughter)",
-        "This is so cool! How many brain scientists have the opportunity to study their own brain from the inside out?\"",
+        "Yeah. So I couldn't figure out for the life of me why we were supposed to be so rowdy, or why we had to spell this word incorrectly.",
         "(Laughter)",
-        "And then it crosses my mind, \"But I'm a very busy woman!\"",
+        "But I recited a cheer. I recited a cheer along with everybody else. I did my best. And I just waited for the time that I could go off and read my books.",
+        "But the first time that I took my book out of my suitcase, the coolest girl in the bunk came up to me and she asked me, \"Why are you being so mellow?\" -- mellow, of course, being the exact opposite of R-O-W-D-I-E. And then the second time I tried it, the counselor came up to me with a concerned expression on her face and she repeated the point about camp spirit and said we should all work very hard to be outgoing.",
+        "And so I put my books away, back in their suitcase, and I put them under my bed, and there they stayed for the rest of the summer. And I felt kind of guilty about this. I felt as if the books needed me somehow, and they were calling out to me and I was forsaking them. But I did forsake them and I didn't open that suitcase again until I was back home with my family at the end of the summer.",
+        "Now, I tell you this story about summer camp. I could have told you 50 others just like it -- all the times that I got the message that somehow my quiet and introverted style of being was not necessarily the right way to go, that I should be trying to pass as more of an extrovert. And I always sensed deep down that this was wrong and that introverts were pretty excellent just as they were. But for years I denied this intuition, and so I became a Wall Street lawyer, of all things, instead of the writer that I had always longed to be -- partly because I needed to prove to myself that I could be bold and assertive too. And I was always going off to crowded bars when I really would have preferred to just have a nice dinner with friends. And I made these self-negating choices so reflexively, that I wasn't even aware that I was making them.",
+        "Now this is what many introverts do, and it's our loss for sure, but it is also our colleagues' loss and our communities' loss. And at the risk of sounding grandiose, it is the world's loss. Because when it comes to creativity and to leadership, we need introverts doing what they do best. A third to a half of the population are introverts -- a third to a half. So that's one out of every two or three people you know. So even if you're an extrovert yourself, I'm talking about your coworkers and your spouses and your children and the person sitting next to you right now -- all of them subject to this bias that is pretty deep and real in our society. We all internalize it from a very early age without even having a language for what we're doing.",
+        "Now, to see the bias clearly, you need to understand what introversion is. It's different from being shy. Shyness is about fear of social judgment. Introversion is more about, how do you respond to stimulation, including social stimulation. So extroverts really crave large amounts of stimulation, whereas introverts feel at their most alive and their most switched-on and their most capable when they're in quieter, more low-key environments. Not all the time -- these things aren't absolute -- but a lot of the time. So the key then to maximizing our talents is for us all to put ourselves in the zone of stimulation that is right for us.",
+        "But now here's where the bias comes in. Our most important institutions, our schools and our workplaces, they are designed mostly for extroverts and for extroverts' need for lots of stimulation. And also we have this belief system right now that I call the new groupthink, which holds that all creativity and all productivity comes from a very oddly gregarious place.",
+        "So if you picture the typical classroom nowadays: When I was going to school, we sat in rows. We sat in rows of desks like this, and we did most of our work pretty autonomously. But nowadays, your typical classroom has pods of desks -- four or five or six or seven kids all facing each other. And kids are working in countless group assignments. Even in subjects like math and creative writing, which you think would depend on solo flights of thought, kids are now expected to act as committee members. And for the kids who prefer to go off by themselves or just to work alone, those kids are seen as outliers often or, worse, as problem cases. And the vast majority of teachers reports believing that the ideal student is an extrovert as opposed to an introvert, even though introverts actually get better grades and are more knowledgeable, according to research.",
         "(Laughter)",
-        "\"I don't have time for a stroke!\" So I'm like, \"OK, I can't stop the stroke from happening, so I'll do this for a week or two, and then I'll get back to my routine. OK. So I've got to call help. I've got to call work.\" I couldn't remember the number at work, so I remembered, in my office I had a business card with my number. So I go into my business room, I pull out a three-inch stack of business cards. And I'm looking at the card on top and even though I could see clearly in my mind's eye what my business card looked like, I couldn't tell if this was my card or not, because all I could see were pixels. And the pixels of the words blended with the pixels of the background and the pixels of the symbols, and I just couldn't tell. And then I would wait for what I call a wave of clarity. And in that moment, I would be able to reattach to normal reality and I could tell that's not the card... that's not the card. It took me 45 minutes to get one inch down inside of that stack of cards. In the meantime, for 45 minutes, the hemorrhage is getting bigger in my left hemisphere. I do not understand numbers, I do not understand the telephone, but it's the only plan I have.",
-        "So I take the phone pad and I put it right here. I take the business card, I put it right here, and I'm matching the shape of the squiggles on the card to the shape of the squiggles on the phone pad. But then I would drift back out into La La Land, and not remember when I came back if I'd already dialed those numbers. So I had to wield my paralyzed arm like a stump and cover the numbers as I went along and pushed them, so that as I would come back to normal reality, I'd be able to tell, \"Yes, I've already dialed that number.\"",
-        "Eventually, the whole number gets dialed and I'm listening to the phone, and my colleague picks up the phone and he says to me, \"Woo woo woo woo.\" (Laughter)",
+        "Okay, same thing is true in our workplaces. Now, most of us work in open plan offices, without walls, where we are subject to the constant noise and gaze of our coworkers. And when it comes to leadership, introverts are routinely passed over for leadership positions, even though introverts tend to be very careful, much less likely to take outsize risks -- which is something we might all favor nowadays. And interesting research by Adam Grant at the Wharton School has found that introverted leaders often deliver better outcomes than extroverts do, because when they are managing proactive employees, they're much more likely to let those employees run with their ideas, whereas an extrovert can, quite unwittingly, get so excited about things that they're putting their own stamp on things, and other people's ideas might not as easily then bubble up to the surface.",
+        "Now in fact, some of our transformative leaders in history have been introverts. I'll give you some examples. Eleanor Roosevelt, Rosa Parks, Gandhi -- all these people described themselves as quiet and soft-spoken and even shy. And they all took the spotlight, even though every bone in their bodies was telling them not to. And this turns out to have a special power all its own, because people could feel that these leaders were at the helm not because they enjoyed directing others and not out of the pleasure of being looked at; they were there because they had no choice, because they were driven to do what they thought was right.",
+        "Now I think at this point it's important for me to say that I actually love extroverts. I always like to say some of my best friends are extroverts, including my beloved husband. And we all fall at different points, of course, along the introvert/extrovert spectrum. Even Carl Jung, the psychologist who first popularized these terms, said that there's no such thing as a pure introvert or a pure extrovert. He said that such a man would be in a lunatic asylum, if he existed at all. And some people fall smack in the middle of the introvert/extrovert spectrum, and we call these people ambiverts. And I often think that they have the best of all worlds. But many of us do recognize ourselves as one type or the other.",
+        "And what I'm saying is that culturally, we need a much better balance. We need more of a yin and yang between these two types. This is especially important when it comes to creativity and to productivity, because when psychologists look at the lives of the most creative people, what they find are people who are very good at exchanging ideas and advancing ideas, but who also have a serious streak of introversion in them.",
+        "And this is because solitude is a crucial ingredient often to creativity. So Darwin, he took long walks alone in the woods and emphatically turned down dinner-party invitations. Theodor Geisel, better known as Dr. Seuss, he dreamed up many of his amazing creations in a lonely bell tower office that he had in the back of his house in La Jolla, California. And he was actually afraid to meet the young children who read his books for fear that they were expecting him this kind of jolly Santa Claus-like figure and would be disappointed with his more reserved persona. Steve Wozniak invented the first Apple computer sitting alone in his cubicle in Hewlett-Packard where he was working at the time. And he says that he never would have become such an expert in the first place had he not been too introverted to leave the house when he was growing up.",
+        "Now, of course, this does not mean that we should all stop collaborating -- and case in point, is Steve Wozniak famously coming together with Steve Jobs to start Apple Computer -- but it does mean that solitude matters and that for some people it is the air that they breathe. And in fact, we have known for centuries about the transcendent power of solitude. It's only recently that we've strangely begun to forget it. If you look at most of the world's major religions, you will find seekers -- Moses, Jesus, Buddha, Muhammad -- seekers who are going off by themselves alone to the wilderness, where they then have profound epiphanies and revelations that they then bring back to the rest of the community. So, no wilderness, no revelations.",
+        "This is no surprise, though, if you look at the insights of contemporary psychology. It turns out that we can't even be in a group of people without instinctively mirroring, mimicking their opinions. Even about seemingly personal and visceral things like who you're attracted to, you will start aping the beliefs of the people around you without even realizing that that's what you're doing.",
+        "And groups famously follow the opinions of the most dominant or charismatic person in the room, even though there's zero correlation between being the best talker and having the best ideas -- I mean zero. So --",
         "(Laughter)",
-        "And I think to myself, \"Oh my gosh, he sounds like a Golden Retriever!\"",
+        "You might be following the person with the best ideas, but you might not. And do you really want to leave it up to chance? Much better for everybody to go off by themselves, generate their own ideas freed from the distortions of group dynamics, and then come together as a team to talk them through in a well-managed environment and take it from there.",
+        "Now if all this is true, then why are we getting it so wrong? Why are we setting up our schools this way, and our workplaces? And why are we making these introverts feel so guilty about wanting to just go off by themselves some of the time? One answer lies deep in our cultural history. Western societies, and in particular the U.S., have always favored the man of action over the \"man\" of contemplation. But in America's early days, we lived in what historians call a culture of character, where we still, at that point, valued people for their inner selves and their moral rectitude. And if you look at the self-help books from this era, they all had titles with things like \"Character, the Grandest Thing in the World.\" And they featured role models like Abraham Lincoln, who was praised for being modest and unassuming. Ralph Waldo Emerson called him \"A man who does not offend by superiority.\"",
+        "But then we hit the 20th century, and we entered a new culture that historians call the culture of personality. What happened is we had evolved an agricultural economy to a world of big business. And so suddenly people are moving from small towns to the cities. And instead of working alongside people they've known all their lives, now they are having to prove themselves in a crowd of strangers. So, quite understandably, qualities like magnetism and charisma suddenly come to seem really important. And sure enough, the self-help books change to meet these new needs and they start to have names like \"How to Win Friends and Influence People.\" And they feature as their role models really great salesmen. So that's the world we're living in today. That's our cultural inheritance.",
+        "Now none of this is to say that social skills are unimportant, and I'm also not calling for the abolishing of teamwork at all. The same religions who send their sages off to lonely mountain tops also teach us love and trust. And the problems that we are facing today in fields like science and in economics are so vast and so complex that we are going to need armies of people coming together to solve them working together. But I am saying that the more freedom that we give introverts to be themselves, the more likely that they are to come up with their own unique solutions to these problems.",
+        "So now I'd like to share with you what's in my suitcase today. Guess what? Books. I have a suitcase full of books. Here's Margaret Atwood, \"Cat's Eye.\" Here's a novel by Milan Kundera. And here's \"The Guide for the Perplexed\" by Maimonides. But these are not exactly my books. I brought these books with me because they were written by my grandfather's favorite authors.",
+        "My grandfather was a rabbi and he was a widower who lived alone in a small apartment in Brooklyn that was my favorite place in the world when I was growing up, partly because it was filled with his very gentle, very courtly presence and partly because it was filled with books. I mean literally every table, every chair in this apartment had yielded its original function to now serve as a surface for swaying stacks of books. Just like the rest of my family, my grandfather's favorite thing to do in the whole world was to read.",
+        "But he also loved his congregation, and you could feel this love in the sermons that he gave every week for the 62 years that he was a rabbi. He would takes the fruits of each week's reading and he would weave these intricate tapestries of ancient and humanist thought. And people would come from all over to hear him speak.",
+        "But here's the thing about my grandfather. Underneath this ceremonial role, he was really modest and really introverted -- so much so that when he delivered these sermons, he had trouble making eye contact with the very same congregation that he had been speaking to for 62 years. And even away from the podium, when you called him to say hello, he would often end the conversation prematurely for fear that he was taking up too much of your time. But when he died at the age of 94, the police had to close down the streets of his neighborhood to accommodate the crowd of people who came out to mourn him. And so these days I try to learn from my grandfather's example in my own way.",
+        "So I just published a book about introversion, and it took me about seven years to write. And for me, that seven years was like total bliss, because I was reading, I was writing, I was thinking, I was researching. It was my version of my grandfather's hours of the day alone in his library. But now all of a sudden my job is very different, and my job is to be out here talking about it, talking about introversion.",
         "(Laughter)",
-        "And so I say to him -- clear in my mind, I say to him: \"This is Jill! I need help!\" And what comes out of my voice is, \"Woo woo woo woo woo.\" I'm thinking, \"Oh my gosh, I sound like a Golden Retriever.\" So I couldn't know -- I didn't know that I couldn't speak or understand language until I tried. So he recognizes that I need help and he gets me help.",
-        "And a little while later, I am riding in an ambulance from one hospital across Boston to [Massachusetts] General Hospital. And I curl up into a little fetal ball. And just like a balloon with the last bit of air, just right out of the balloon, I just felt my energy lift and just I felt my spirit surrender.",
-        "And in that moment, I knew that I was no longer the choreographer of my life. And either the doctors rescue my body and give me a second chance at life, or this was perhaps my moment of transition.",
-        "When I woke later that afternoon, I was shocked to discover that I was still alive. When I felt my spirit surrender, I said goodbye to my life. And my mind was now suspended between two very opposite planes of reality. Stimulation coming in through my sensory systems felt like pure pain. Light burned my brain like wildfire, and sounds were so loud and chaotic that I could not pick a voice out from the background noise, and I just wanted to escape. Because I could not identify the position of my body in space, I felt enormous and expansive, like a genie just liberated from her bottle. And my spirit soared free, like a great whale gliding through the sea of silent euphoria. Nirvana. I found Nirvana. And I remember thinking, there's no way I would ever be able to squeeze the enormousness of myself back inside this tiny little body.",
-        "But then I realized, \"But I'm still alive! I'm still alive, and I have found Nirvana. And if I have found Nirvana and I'm still alive, then everyone who is alive can find Nirvana.\" And I pictured a world filled with beautiful, peaceful, compassionate, loving people who knew that they could come to this space at any time. And that they could purposely choose to step to the right of their left hemispheres -- and find this peace. And then I realized what a tremendous gift this experience could be, what a stroke of insight this could be to how we live our lives. And it motivated me to recover.",
-        "Two and a half weeks after the hemorrhage, the surgeons went in, and they removed a blood clot the size of a golf ball that was pushing on my language centers. Here I am with my mama, who is a true angel in my life. It took me eight years to completely recover.",
-        "So who are we? We are the life-force power of the universe, with manual dexterity and two cognitive minds. And we have the power to choose, moment by moment, who and how we want to be in the world. Right here, right now, I can step into the consciousness of my right hemisphere, where we are. I am the life-force power of the universe. I am the life-force power of the 50 trillion beautiful molecular geniuses that make up my form, at one with all that is. Or, I can choose to step into the consciousness of my left hemisphere, where I become a single individual, a solid. Separate from the flow, separate from you. I am Dr. Jill Bolte Taylor: intellectual, neuroanatomist. These are the \"we\" inside of me. Which would you choose? Which do you choose? And when? I believe that the more time we spend choosing to run the deep inner-peace circuitry of our right hemispheres, the more peace we will project into the world, and the more peaceful our planet will be. And I thought that was an idea worth spreading.",
+        "And that's a lot harder for me, because as honored as I am to be here with all of you right now, this is not my natural milieu.",
+        "So I prepared for moments like these as best I could. I spent the last year practicing public speaking every chance I could get. And I call this my \"year of speaking dangerously.\"",
+        "(Laughter)",
+        "And that actually helped a lot. But I'll tell you, what helps even more is my sense, my belief, my hope that when it comes to our attitudes to introversion and to quiet and to solitude, we truly are poised on the brink on dramatic change. I mean, we are. And so I am going to leave you now with three calls for action for those who share this vision.",
+        "Number one: Stop the madness for constant group work. Just stop it.",
+        "(Laughter)",
         "Thank you.",
+        "(Applause)",
+        "And I want to be clear about what I'm saying, because I deeply believe our offices should be encouraging casual, chatty cafe-style types of interactions -- you know, the kind where people come together and serendipitously have an exchange of ideas. That is great. It's great for introverts and it's great for extroverts. But we need much more privacy and much more freedom and much more autonomy at work. School, same thing. We need to be teaching kids to work together, for sure, but we also need to be teaching them how to work on their own. This is especially important for extroverted children too. They need to work on their own because that is where deep thought comes from in part.",
+        "Okay, number two: Go to the wilderness. Be like Buddha, have your own revelations. I'm not saying that we all have to now go off and build our own cabins in the woods and never talk to each other again, but I am saying that we could all stand to unplug and get inside our own heads a little more often.",
+        "Number three: Take a good look at what's inside your own suitcase and why you put it there. So extroverts, maybe your suitcases are also full of books. Or maybe they're full of champagne glasses or skydiving equipment. Whatever it is, I hope you take these things out every chance you get and grace us with your energy and your joy. But introverts, you being you, you probably have the impulse to guard very carefully what's inside your own suitcase. And that's okay. But occasionally, just occasionally, I hope you will open up your suitcases for other people to see, because the world needs you and it needs the things you carry.",
+        "So I wish you the best of all possible journeys and the courage to speak softly.",
+        "Thank you very much.",
+        "(Applause)",
+        "Thank you. Thank you.",
         "(Applause)"
       ],
       "dataSources": [
@@ -370,84 +378,87 @@
   "news": {
     "domestic": [
       {
-        "title": "第48届世界技能大赛开幕",
-        "link": "https://www.news.cn/photo/20260922/8f0804993d4248ac8f29f42a89da3cf4/c.html",
-        "summary": "第48届世界技能大赛开幕-9月22日，第48届世界技能大赛在上海开幕，主题为“技能改变世界 技能照亮前程”。",
+        "title": "今年国庆假期小客车上高速继续免收通行费",
+        "link": "https://www.news.cn/fortune/20260924/1feff9caf8d3460794dae56736ed77d5/c.html",
+        "summary": "新华社权威快报丨2026年国庆假期小客车上高速继续免收通行费-",
         "source": "新华网",
         "pub": "",
-        "heat": 79,
-        "heatRaw": 65,
+        "heat": 90,
+        "heatRaw": 83,
         "heatParts": {
           "cross": 22,
           "auth": 14,
-          "rank": 7,
-          "fresh": 21,
+          "rank": 23,
+          "fresh": 23,
           "kw": 0
         },
-        "crossCount": 3,
-        "reportCount": 4,
+        "crossCount": 4,
+        "reportCount": 5,
         "sources": [
-          "人民网",
           "新华网",
+          "中国新闻网",
+          "中国经济网",
           "澎湃新闻"
         ]
       },
       {
-        "title": "习近平向全国广大农民和工作在“三农”战线上的同志们致以节日祝贺和诚挚问候",
-        "link": "https://www.news.cn/politics/leaders/20260922/08c590d262bf40df8b2fc385a18580b1/c.html",
-        "summary": "习近平向全国广大农民和工作在“三农”战线上的同志们致以节日祝贺和诚挚问候",
+        "title": "习近平抵达华盛顿对美国进行国事访问",
+        "link": "https://www.news.cn/politics/leaders/20260924/ac8d5ae9674b406abc946d13c7d3204d/c.html",
+        "summary": "当地时间9月23日下午，国家主席习近平乘专机抵达华盛顿，应美国总统特朗普邀请，对美国进行国事访问。习近平和夫人彭丽媛抵达华盛顿安德鲁斯空军基地时，特朗普和夫人梅拉尼娅热情迎接。这是习近平和夫人彭丽媛步出舱门。 新华社记者 刘彬 摄",
         "source": "新华网",
         "pub": "",
-        "heat": 77,
-        "heatRaw": 62,
+        "heat": 82,
+        "heatRaw": 70,
         "heatParts": {
-          "cross": 0,
+          "cross": 11,
           "auth": 14,
-          "rank": 20,
-          "fresh": 21,
+          "rank": 19,
+          "fresh": 19,
           "kw": 6
         },
-        "crossCount": 1,
-        "reportCount": 2,
+        "crossCount": 2,
+        "reportCount": 4,
         "sources": [
+          "人民网",
           "新华网"
         ]
       },
       {
-        "title": "伊朗外长与美特使在纽约会晤",
-        "link": "https://www.chinanews.com.cn/gj/2026/09-23/10701923.shtml",
-        "summary": "当地时间22日，伊朗外长阿拉格齐与美国总统特使威特科夫在第81届联合国大会会议期间于纽约举行会晤。",
-        "source": "中国新闻网",
-        "pub": "Wed, 23 Sep 2026 06:28:55 +0800",
-        "heat": 76,
-        "heatRaw": 60,
+        "title": "国新办发布会聚焦“十五五”时期民政事业高质量发展",
+        "link": "https://www.ce.cn/xwzx/gnsz/gdxw/202609/t20260924_3234633.shtml",
+        "summary": "新华社北京9月23日电 题：以满足人民美好生活需要为目标——国新办发布会聚焦“十五五”时期民政事业高质量发展",
+        "source": "中国经济网",
+        "pub": "",
+        "heat": 81,
+        "heatRaw": 68,
         "heatParts": {
-          "cross": 0,
-          "auth": 13,
-          "rank": 20,
-          "fresh": 23,
+          "cross": 11,
+          "auth": 12,
+          "rank": 22,
+          "fresh": 19,
           "kw": 4
         },
-        "crossCount": 1,
-        "reportCount": 1,
+        "crossCount": 2,
+        "reportCount": 2,
         "sources": [
-          "中国新闻网"
+          "中国经济网",
+          "澎湃新闻"
         ]
       },
       {
-        "title": "农民增收“链”上发力",
-        "link": "https://www.ce.cn/xwzx/gnsz/gdxw/202609/t20260923_3230464.shtml",
-        "summary": "九月的龙江大地，稻浪翻滚、沃野飘香。青冈县加工车间将糯玉米速冻锁鲜销往全国，孙吴县智能工厂快速产出冷鲜安格斯牛肉，北安市鹅经济产业园把鹅绒、鹅翎加工成羽绒服、羽毛球等产品……作为保障国家粮食安全的“压舱石”，黑龙江省立足黑土地资源优势，在稳…",
+        "title": "【“十五五”开好局起好步】锚定蓝图 加快建设教育强国",
+        "link": "https://www.ce.cn/xwzx/gnsz/gdxw/202609/t20260924_3234736.shtml",
+        "summary": "央视网消息（新闻联播）：国务院新闻办9月23日举行“开局起步‘十五五’”系列主题新闻发布会，教育部相关负责人介绍贯彻落实“十五五”规划，加快推进教育强国建设有关情况。",
         "source": "中国经济网",
         "pub": "",
-        "heat": 76,
-        "heatRaw": 59,
+        "heat": 81,
+        "heatRaw": 68,
         "heatParts": {
           "cross": 0,
           "auth": 12,
           "rank": 23,
-          "fresh": 21,
-          "kw": 3
+          "fresh": 19,
+          "kw": 14
         },
         "crossCount": 1,
         "reportCount": 1,
@@ -456,54 +467,120 @@
         ]
       },
       {
-        "title": "近镜头 | 走出一条新时代大国正确相处之道",
-        "link": "https://www.news.cn/politics/leaders/20260923/1fe699a24ba84e819958dbb16812f358/c.html",
-        "summary": "应美利坚合众国总统特朗普邀请，国家主席习近平将于9月23日至25日对美国进行国事访问。元首外交对中美关系具有不可替代的战略引领作用。中美两国元首在半年内实现互访，具有历史性、里程碑意义。",
+        "title": "“北大仓”迎来丰收季",
+        "link": "https://www.news.cn/local/20260923/6b2c798d3d6f48b49f62e266dd01a408/c.html",
+        "summary": "这是9月21日在黑龙江佳木斯市汤原县拍摄的一处水稻收获现场（无人机照片）。新华社发（朱宗强摄）",
         "source": "新华网",
         "pub": "",
-        "heat": 76,
-        "heatRaw": 61,
+        "heat": 79,
+        "heatRaw": 65,
         "heatParts": {
           "cross": 11,
           "auth": 14,
-          "rank": 9,
-          "fresh": 21,
-          "kw": 6
+          "rank": 22,
+          "fresh": 19,
+          "kw": 0
         },
         "crossCount": 2,
         "reportCount": 2,
         "sources": [
           "新华网",
-          "澎湃新闻"
+          "中国经济网"
         ]
       },
       {
-        "title": "特朗普：美国官员与伊朗代表举行了一场“非常好的”会谈",
-        "link": "https://www.chinanews.com.cn/gj/2026/09-23/10701925.shtml",
-        "summary": "中新网9月23日电 综合外媒报道，美国总统特朗普22日透露，伊朗官员在联合国大会期间与美国总统特使威特科夫举行了一场“非常好的”会谈，长达三小时。他表示，双方将在不久的将来再次会晤。",
+        "title": "超低排放改造、提高产业集中度 我国钢铁产业提质转型",
+        "link": "https://www.chinanews.com.cn/cj/2026/09-24/10703052.shtml",
+        "summary": "近日，中钢协发布8月钢铁行业运行情况，钢铁产量持续收缩，行业运行贴合高质量发展调控导向。",
         "source": "中国新闻网",
-        "pub": "Wed, 23 Sep 2026 06:53:21 +0800",
-        "heat": 75,
-        "heatRaw": 59,
+        "pub": "Thu, 24 Sep 2026 15:58:42 +0800",
+        "heat": 79,
+        "heatRaw": 65,
+        "heatParts": {
+          "cross": 11,
+          "auth": 13,
+          "rank": 14,
+          "fresh": 23,
+          "kw": 4
+        },
+        "crossCount": 2,
+        "reportCount": 2,
+        "sources": [
+          "中国新闻网",
+          "中国经济网"
+        ]
+      },
+      {
+        "title": "商务部：中美第八轮经贸磋商达成多项共识",
+        "link": "https://www.chinanews.com.cn/cj/2026/09-24/10703050.shtml",
+        "summary": "中新网9月24日电 商务部24日举行例行新闻发布会。会上，新闻发言人何亚东就中美经贸团队在美国纽约举行的第八轮经贸磋商相关情况进行回应。",
+        "source": "中国新闻网",
+        "pub": "Thu, 24 Sep 2026 16:01:28 +0800",
+        "heat": 78,
+        "heatRaw": 63,
+        "heatParts": {
+          "cross": 11,
+          "auth": 13,
+          "rank": 12,
+          "fresh": 23,
+          "kw": 4
+        },
+        "crossCount": 2,
+        "reportCount": 2,
+        "sources": [
+          "中国新闻网",
+          "中国经济网"
+        ]
+      },
+      {
+        "title": "一见丨“推动中美关系这艘巨轮沿着正确航道平稳前行”",
+        "link": "https://world.people.com.cn/n1/2026/0924/c1002-40804599.html",
+        "summary": "开栏的话 时代浪潮奔涌，复兴步履坚实。领袖足迹所至，是国情民意所向；时政新闻现场，是观察中国的第一窗口。 “一见”由此出发。第一时间抵达现场，定格历史瞬间；第一视角聚焦观察，捕捉动人细节；第一",
+        "source": "人民网",
+        "pub": "",
+        "heat": 74,
+        "heatRaw": 56,
         "heatParts": {
           "cross": 0,
-          "auth": 13,
+          "auth": 14,
           "rank": 23,
-          "fresh": 23,
+          "fresh": 19,
           "kw": 0
         },
         "crossCount": 1,
-        "reportCount": 1,
+        "reportCount": 2,
         "sources": [
-          "中国新闻网"
+          "人民网"
         ]
       },
       {
-        "title": "9月23日新闻早报",
-        "link": "https://www.chinanews.com.cn/iframe/2026/09-23/10701924.shtml",
-        "summary": "“西城大妈”里怎么会有一位美国“大爷”？ 中国武术在文莱“种”出亚运奖牌",
+        "title": "中美关系的根基由人民浇筑,未来靠青年创造",
+        "link": "http://world.people.com.cn/n1/2026/0924/c1002-40804618.html",
+        "summary": "4月19日，2026年“汉语桥”美国青年学生来华团组研学暨“儒风齐鲁水城有约”文化交流活动在山东聊城举行。图为美国青年学生在体验划龙舟。 马红坤摄（人民视觉） 4月16日，中美青年乒乓球友谊赛",
+        "source": "人民网",
+        "pub": "",
+        "heat": 74,
+        "heatRaw": 57,
+        "heatParts": {
+          "cross": 11,
+          "auth": 14,
+          "rank": 13,
+          "fresh": 19,
+          "kw": 0
+        },
+        "crossCount": 2,
+        "reportCount": 2,
+        "sources": [
+          "人民网",
+          "中国经济网"
+        ]
+      },
+      {
+        "title": "中国研发竞赛系统护航亚运会电竞赛事",
+        "link": "https://www.chinanews.com.cn/cj/2026/09-24/10703073.shtml",
+        "summary": "中国日报9月22日电 (记者 李映雪) 第20届亚运会电子竞技项目将于9月22日至10月2日举行，这是电子竞技第二次作为正式奖牌项目列入亚运会竞赛日程，共设11个小项，规模为历届之最。9月20日，腾讯电竞宣布成为第20届亚运会电竞解决方案提…",
         "source": "中国新闻网",
-        "pub": "Wed, 23 Sep 2026 06:42:24 +0800",
+        "pub": "Thu, 24 Sep 2026 16:17:13 +0800",
         "heat": 74,
         "heatRaw": 57,
         "heatParts": {
@@ -518,106 +595,89 @@
         "sources": [
           "中国新闻网"
         ]
-      },
-      {
-        "title": "景区招NPC称提供百万年薪、千万年薪 后台直接＂爆炸＂",
-        "link": "https://www.163.com/dy/article/L7ETG6UO0514BE2Q.html",
-        "summary": "网红景区提供百万年薪、千万年薪，“后台直接爆炸了”,二娘,山西,司徒,旅游,npc",
-        "source": "网易新闻",
-        "pub": "2026-09-22 21:22:03",
-        "heat": 74,
-        "heatRaw": 56,
-        "heatParts": {
-          "cross": 0,
-          "auth": 11,
-          "rank": 19,
-          "fresh": 21,
-          "kw": 6
-        },
-        "crossCount": 1,
-        "reportCount": 1,
-        "sources": [
-          "网易新闻"
-        ]
-      },
-      {
-        "title": "余额宝将无法直接付款了吗",
-        "link": "https://www.ce.cn/xwzx/gnsz/gdxw/202609/t20260923_3230462.shtml",
-        "summary": "问：《金融产品网络营销管理办法》将于本月底施行。与此同时，“零钱通、余额宝从9月30日开始将无法再直接用于付款”的说法在社交平台广泛传播，让不少习惯用这些基金产品的用户产生担忧。传言是真的吗？新规将对用户产生什么影响？",
-        "source": "中国经济网",
-        "pub": "",
-        "heat": 73,
-        "heatRaw": 55,
-        "heatParts": {
-          "cross": 0,
-          "auth": 12,
-          "rank": 22,
-          "fresh": 21,
-          "kw": 0
-        },
-        "crossCount": 1,
-        "reportCount": 1,
-        "sources": [
-          "中国经济网"
-        ]
-      },
-      {
-        "title": "重庆市委书记袁家军赴张雪机车调研并召开座谈会",
-        "link": "https://www.163.com/dy/article/L7F4DJER0514R9P4.html",
-        "summary": "9月22日上午，重庆市委书记袁家军，市委副书记、市长陈新武在张雪机车调研 记者 苏思 摄/视觉重庆",
-        "source": "网易新闻",
-        "pub": "2026-09-22 22:04:22",
-        "heat": 73,
-        "heatRaw": 55,
-        "heatParts": {
-          "cross": 0,
-          "auth": 11,
-          "rank": 23,
-          "fresh": 21,
-          "kw": 0
-        },
-        "crossCount": 1,
-        "reportCount": 1,
-        "sources": [
-          "网易新闻"
-        ]
       }
     ],
     "world": [
       {
-        "title": "观天下丨胡塞武装与沙特冲突升级　美国能置身事外吗",
-        "link": "https://www.news.cn/world/20260921/9372a009583f40b88b3c2284e65d89de/c.html",
-        "summary": "新华社北京9月21日电　美国总统特朗普20日说，美国与也门胡塞武装一直保持沟通，胡塞武装同意不与美国交战。这一表态被外界解读为，美国不会响应沙特阿拉伯的要求，不会打击正与沙特冲突的胡塞武装。",
+        "title": "习近平抵达华盛顿对美国进行国事访问",
+        "link": "https://www.news.cn/world/20260924/3ee4b0dd0cc2480fafce072b3c1e02b0/c.html",
+        "summary": "当地时间9月23日下午，国家主席习近平乘专机抵达华盛顿，应美国总统特朗普邀请，对美国进行国事访问。习近平和夫人彭丽媛抵达华盛顿安德鲁斯空军基地时，特朗普和夫人梅拉尼娅热情迎接。这是习近平和夫人彭丽媛步出舱门。",
         "source": "新华网",
         "pub": "",
-        "heat": 88,
-        "heatRaw": 80,
+        "heat": 94,
+        "heatRaw": 90,
         "heatParts": {
-          "cross": 11,
+          "cross": 22,
           "auth": 14,
           "rank": 23,
-          "fresh": 21,
+          "fresh": 19,
           "kw": 11
         },
-        "crossCount": 2,
-        "reportCount": 2,
+        "crossCount": 3,
+        "reportCount": 8,
         "sources": [
           "新华网",
+          "海外网",
           "国际在线"
         ]
       },
       {
-        "title": "写在习近平主席对美国进行国事访问之际",
-        "link": "https://www.news.cn/world/20260922/3572b60a05bc435abfe74e3c71eaef2f/c.html",
-        "summary": "应美利坚合众国总统特朗普邀请，国家主席习近平将于9月23日至25日对美国进行国事访问。",
+        "title": "国纪平：锚定新定位，推动中美建设性战略稳定关系行稳致远",
+        "link": "https://news.haiwainet.cn/n/2026/0922/c3543307-32984878.html",
+        "summary": "历史长河浩荡奔涌，大国关系的航船，总在时代大潮中不断校准前行航向。应美利坚合众国总统特朗普邀请，习近平主席将于9月23日至25日对美国进行国事访问。两国元首在半...",
+        "source": "海外网",
+        "pub": "",
+        "heat": 85,
+        "heatRaw": 75,
+        "heatParts": {
+          "cross": 11,
+          "auth": 13,
+          "rank": 20,
+          "fresh": 19,
+          "kw": 11
+        },
+        "crossCount": 2,
+        "reportCount": 4,
+        "sources": [
+          "海外网",
+          "国际在线"
+        ]
+      },
+      {
+        "title": "UN General Assembly begins general debate",
+        "link": "https://www.chinadaily.com.cn/a/202609/23/WS6ab3327fe4b06d4aa055fb17.html",
+        "summary": "UNITED NATIONS -- The General Debate of the 81st session of the UN General Assembly opened at the UN headquarters in New…",
+        "source": "中国日报网",
+        "pub": "",
+        "heat": 84,
+        "heatRaw": 73,
+        "heatParts": {
+          "cross": 22,
+          "auth": 13,
+          "rank": 19,
+          "fresh": 19,
+          "kw": 0
+        },
+        "crossCount": 3,
+        "reportCount": 4,
+        "sources": [
+          "中国日报网",
+          "CGTN",
+          "NPR"
+        ]
+      },
+      {
+        "title": "观天下｜联大辩论首日　多国领导人呼吁直面巴以冲突",
+        "link": "https://www.news.cn/world/20260923/fc66c68a1d2f4b17af27e4e607e14b64/c.html",
+        "summary": "新华社北京9月23日电　第81届联合国大会一般性辩论22日在纽约联合国总部开幕。多国领导人在发言中呼吁国际社会直面巴勒斯坦问题，并谴责以色列在加沙地带、约旦河西岸的行为以及侵犯叙利亚、黎巴嫩主权。联合国秘书长古特雷斯说，留给“两国方案”的时…",
         "source": "新华网",
         "pub": "",
         "heat": 83,
-        "heatRaw": 71,
+        "heatRaw": 72,
         "heatParts": {
           "cross": 11,
           "auth": 14,
-          "rank": 22,
+          "rank": 23,
           "fresh": 13,
           "kw": 11
         },
@@ -625,13 +685,13 @@
         "reportCount": 2,
         "sources": [
           "新华网",
-          "国际在线"
+          "海外网"
         ]
       },
       {
-        "title": "丹麦及格陵兰岛将和美国签署安全协议",
-        "link": "https://www.news.cn/world/20260922/ebe7503e6c02488a8c1e8e5660aa37e7/c.html",
-        "summary": "新华社奥斯陆9月21日电（记者张玉亮）哥本哈根消息：丹麦首相府21日宣布，丹麦及其自治领地格陵兰岛和美国将于22日在纽约签署一项安全协议，“以加强北极及北大西洋地区安全”。",
+        "title": "伊朗总统联大演讲誓言“永不屈膝投降”",
+        "link": "https://www.news.cn/world/20260924/611b791880f34a3b805b8e72968db69f/c.html",
+        "summary": "9月23日，在位于纽约的联合国总部，伊朗总统佩泽希齐扬在第81届联合国大会一般性辩论上发言。新华社记者 吴晓凌 摄",
         "source": "新华网",
         "pub": "",
         "heat": 82,
@@ -651,193 +711,129 @@
         ]
       },
       {
-        "title": "伊朗外长与美特使在纽约会晤",
-        "link": "https://www.chinanews.com.cn/gj/2026/09-23/10701923.shtml",
-        "summary": "当地时间22日，伊朗外长阿拉格齐与美国总统特使威特科夫在第81届联合国大会会议期间于纽约举行会晤。",
-        "source": "中国新闻网",
-        "pub": "Wed, 23 Sep 2026 06:28:55 +0800",
-        "heat": 80,
-        "heatRaw": 67,
-        "heatParts": {
-          "cross": 0,
-          "auth": 13,
-          "rank": 22,
-          "fresh": 23,
-          "kw": 9
-        },
-        "crossCount": 1,
-        "reportCount": 1,
-        "sources": [
-          "中国新闻网"
-        ]
-      },
-      {
-        "title": "习近平向第48届世界技能大赛致贺信",
-        "link": "https://news.haiwainet.cn/n/2026/0922/c3543307-32985114.html",
-        "summary": "北京9月22日电9月22日，国家主席习近平向第48届世界技能大赛致贺信。习近平指出，当前，新一轮科技革命和产业变革加速突破，给全球技能发展带来深刻影响。...",
-        "source": "海外网",
+        "title": "Global economic growth projected at 2.9% in 2026: OECD",
+        "link": "https://www.chinadaily.com.cn/a/202609/23/WS6ab38b96e4b06d4aa055fc8d.html",
+        "summary": "PARIS - Global economic growth is projected to be 2.9 percent in 2026 and 3.0 percent in 2027, according to the Economic…",
+        "source": "中国日报网",
         "pub": "",
-        "heat": 80,
-        "heatRaw": 67,
+        "heat": 82,
+        "heatRaw": 70,
         "heatParts": {
-          "cross": 11,
+          "cross": 22,
           "auth": 13,
-          "rank": 20,
-          "fresh": 13,
-          "kw": 9
-        },
-        "crossCount": 2,
-        "reportCount": 2,
-        "sources": [
-          "海外网",
-          "国际在线"
-        ]
-      },
-      {
-        "title": "Iran's president departs for New York ahead of UN General Assembly",
-        "link": "https://news.cgtn.com/news/2026-09-22/Iran-s-president-departs-for-New-York-ahead-of-UN-General-Assembly-1QEgyGLNR3a/p.html",
-        "summary": "Our Privacy Statement & Cookie Policy",
-        "source": "CGTN",
-        "pub": "",
-        "heat": 79,
-        "heatRaw": 65,
-        "heatParts": {
-          "cross": 11,
-          "auth": 13,
-          "rank": 23,
+          "rank": 16,
           "fresh": 19,
           "kw": 0
         },
-        "crossCount": 2,
-        "reportCount": 2,
+        "crossCount": 3,
+        "reportCount": 4,
         "sources": [
-          "CGTN",
-          "NPR"
+          "中国日报网",
+          "海外网",
+          "中国新闻网"
         ]
       },
       {
-        "title": "特朗普：美国官员与伊朗代表举行了一场“非常好的”会谈",
-        "link": "https://www.chinanews.com.cn/gj/2026/09-23/10701925.shtml",
-        "summary": "中新网9月23日电 综合外媒报道，美国总统特朗普22日透露，伊朗官员在联合国大会期间与美国总统特使威特科夫举行了一场“非常好的”会谈，长达三小时。他表示，双方将在不久的将来再次会晤。",
-        "source": "中国新闻网",
-        "pub": "Wed, 23 Sep 2026 06:53:21 +0800",
+        "title": "Cooperation crucial to global AI governance",
+        "link": "https://www.chinadaily.com.cn/a/202609/23/WS6ab3221be4b06d4aa055fa28.html",
+        "summary": "Thomas Friedman, a renowned columnist for the New York Times, put forward a compelling argument: the United States and C…",
+        "source": "中国日报网",
+        "pub": "",
         "heat": 78,
         "heatRaw": 64,
         "heatParts": {
-          "cross": 0,
-          "auth": 13,
-          "rank": 23,
-          "fresh": 23,
-          "kw": 5
-        },
-        "crossCount": 1,
-        "reportCount": 1,
-        "sources": [
-          "中国新闻网"
-        ]
-      },
-      {
-        "title": "第81届联大一般性辩论开幕",
-        "link": "https://www.chinanews.com.cn/gj/2026/09-23/10701917.shtml",
-        "summary": "中新社联合国9月22日电 (记者 王帆)第81届联合国大会一般性辩论22日在纽约联合国总部开幕。",
-        "source": "中国新闻网",
-        "pub": "Wed, 23 Sep 2026 06:07:16 +0800",
-        "heat": 76,
-        "heatRaw": 61,
-        "heatParts": {
-          "cross": 0,
-          "auth": 13,
-          "rank": 20,
-          "fresh": 23,
-          "kw": 5
-        },
-        "crossCount": 1,
-        "reportCount": 1,
-        "sources": [
-          "中国新闻网"
-        ]
-      },
-      {
-        "title": "3 US media outlets file lawsuit after being barred from entering White House",
-        "link": "https://www.chinadaily.com.cn/a/202609/22/WS6ab1a150e4b06d4aa055f573.html",
-        "summary": "WASHINGTON -- Three US news organizations -- CNN, MSNOW and Politico -- said Monday that they are suing US President Don…",
-        "source": "中国日报网",
-        "pub": "",
-        "heat": 75,
-        "heatRaw": 58,
-        "heatParts": {
           "cross": 11,
           "auth": 13,
-          "rank": 17,
-          "fresh": 13,
-          "kw": 3
+          "rank": 12,
+          "fresh": 19,
+          "kw": 9
         },
         "crossCount": 2,
         "reportCount": 2,
         "sources": [
           "中国日报网",
-          "NPR"
+          "CGTN"
         ]
       },
       {
-        "title": "习近平向全国广大农民和工作在“三农”战线上的同志们致以节日祝贺和诚挚问候",
-        "link": "https://news.haiwainet.cn/n/2026/0922/c3543307-32985026.html",
-        "summary": "在第九个“中国农民丰收节”到来之际习近平向全国广大农民和工作在“三农”战线上的同志们致以节日祝贺和诚挚问候强调扎实推进乡村全面振兴努力让广大农民生活更加幸福美好...",
-        "source": "海外网",
-        "pub": "",
-        "heat": 73,
-        "heatRaw": 55,
+        "title": "OpenAI's breach of Australian health department website prompts rebuke",
+        "link": "https://www.npr.org/2026/09/24/g-s1-144835/openai-breach-australia",
+        "summary": "Prime Minister Anthony Albanese said he was extremely concerned about OpenAI 's breach of an Australian health departmen…",
+        "source": "NPR",
+        "pub": "Thu, 24 Sep 2026 01:14:11 -0400",
+        "heat": 76,
+        "heatRaw": 61,
         "heatParts": {
           "cross": 0,
-          "auth": 13,
-          "rank": 23,
-          "fresh": 13,
-          "kw": 6
+          "auth": 12,
+          "rank": 22,
+          "fresh": 19,
+          "kw": 8
         },
         "crossCount": 1,
         "reportCount": 1,
         "sources": [
-          "海外网"
+          "NPR"
+        ]
+      },
+      {
+        "title": "南非夸纳省枪击事件致11人死亡 警方启动72小时追捕行动",
+        "link": "https://www.chinanews.com.cn/gj/2026/09-24/10702841.shtml",
+        "summary": "中新网约翰内斯堡9月24日电(记者 孙翔)南非代理国家警察总监普伦·迪姆帕内(Puleng Dimpane)23日指示夸祖卢-纳塔尔省(简称夸纳省)警察总监立即启动为期72小时的追捕行动，搜捕涉嫌枪杀11人的3名男子。",
+        "source": "中国新闻网",
+        "pub": "Thu, 24 Sep 2026 10:56:17 +0800",
+        "heat": 75,
+        "heatRaw": 59,
+        "heatParts": {
+          "cross": 0,
+          "auth": 13,
+          "rank": 23,
+          "fresh": 23,
+          "kw": 0
+        },
+        "crossCount": 1,
+        "reportCount": 1,
+        "sources": [
+          "中国新闻网"
+        ]
+      },
+      {
+        "title": "伊朗总统：愿意谈判合作 不接受强权威胁",
+        "link": "https://www.chinanews.com.cn/gj/2026/09-24/10702671.shtml",
+        "summary": "当地时间9月23日，伊朗总统佩泽希齐扬在第81届联合国大会一般性辩论上发表讲话。他表示，伊朗愿意谈判与合作，但不会接受以强权、制裁或军事威胁迫使其让步，和平必须建立在公平、正义、尊严和各国平等权利的基础上。",
+        "source": "中国新闻网",
+        "pub": "Thu, 24 Sep 2026 00:19:19 +0800",
+        "heat": 75,
+        "heatRaw": 58,
+        "heatParts": {
+          "cross": 0,
+          "auth": 13,
+          "rank": 16,
+          "fresh": 19,
+          "kw": 11
+        },
+        "crossCount": 1,
+        "reportCount": 1,
+        "sources": [
+          "中国新闻网"
         ]
       }
     ],
     "medical": [
       {
-        "title": "《医药工业发展“十五五”规划》发布",
-        "link": "https://jiankang.cctv.com/2026/09/22/ARTI7744NfAs5S3Tg17GYXRx260922.shtml",
-        "summary": "本报北京9月21日电 （记者刘温馨）工业和信息化部等部门近日联合发布《医药工业发展“十五五”规划》，提出10项预期性指标，包括到2030年，规上医药工业企业营业收入不少于3.5万亿元、首创新药占全球比例不少于25%、创新药上市数量位居世界前…",
-        "source": "央视网·健康",
-        "pub": "",
-        "heat": 83,
-        "heatRaw": 71,
-        "heatParts": {
-          "cross": 11,
-          "auth": 13,
-          "rank": 23,
-          "fresh": 13,
-          "kw": 10
-        },
-        "crossCount": 2,
-        "reportCount": 2,
-        "sources": [
-          "新华网·健康",
-          "央视网·健康"
-        ]
-      },
-      {
-        "title": "阿斯利康全球执行副总裁、国际业务负责人尹思睿（Iskra Reic）：罕见病创新需兑现患者价值，政策与创新要同步发力",
-        "link": "https://www.news.cn/health/20260922/9038082da928468c83e5282dad74dd66/c.html",
-        "summary": "全球目前有超过4亿人受到罕见病影响，中国约有2000万患者。罕见病疾病负担沉重，未满足需求依然巨大：在已知的罕见病中，拥有有效治疗手段的还不到一成，不少患者仍要经历漫长而复杂的确诊过程。",
+        "title": "从“治好病”到“过好人生”，探寻淋巴瘤长生存的实践",
+        "link": "https://www.news.cn/health/20260924/6abef77bbc754d0fa2a2ca22457f03fd/c.html",
+        "summary": "从“治好病”到“过好人生”，探寻淋巴瘤长生存的实践-\"而这场旅程的最终方向，是让患者通过规范的治疗管理，实现“高质量长生存”——不仅活得更久，还要活得更好，重新被世界温柔以待。\"",
         "source": "新华网·健康",
         "pub": "",
-        "heat": 70,
-        "heatRaw": 51,
+        "heat": 76,
+        "heatRaw": 60,
         "heatParts": {
           "cross": 0,
           "auth": 13,
-          "rank": 10,
-          "fresh": 13,
-          "kw": 14
+          "rank": 23,
+          "fresh": 19,
+          "kw": 5
         },
         "crossCount": 1,
         "reportCount": 1,
@@ -846,24 +842,87 @@
         ]
       },
       {
-        "title": "“打破壁垒与推动创新：全球卫生转型中的消除热带病...",
-        "link": "https://www.chinacdc.cn/zxyw/202609/t20260922_1841759.html",
-        "summary": "2026-09-21 2026年慢性病防控大会成功召开 2026-09-20",
+        "title": "勇担疾控使命 赋能人才成长中国疾病预防控制中心（中国预防医学科学院）举...",
+        "link": "https://www.chinacdc.cn/zxyw/202609/t20260924_1841794.html",
+        "summary": "王健伟主任（院长）在开班仪式上的讲话中指出，青年人才是公共卫生科技创新的生力军，是疾控事业接续发展的中坚力量，要厚植家国情怀、筑牢信仰根基，坚持学用结合、知行合一，在疾病预防控制事业高质量发展中勇担使命、建功立业。张国新书记勉励青年人才要坚…",
         "source": "中国疾控中心",
         "pub": "",
-        "heat": 70,
-        "heatRaw": 50,
+        "heat": 76,
+        "heatRaw": 59,
+        "heatParts": {
+          "cross": 0,
+          "auth": 13,
+          "rank": 16,
+          "fresh": 19,
+          "kw": 11
+        },
+        "crossCount": 1,
+        "reportCount": 2,
+        "sources": [
+          "中国疾控中心"
+        ]
+      },
+      {
+        "title": "创新驱动生物医药走出“跟风仿创”",
+        "link": "https://jiankang.cctv.com/2026/09/23/ARTINqhop0Mku6HYKfkeW3Ly260923.shtml",
+        "summary": "医药“十五五”规划剑指“跟风仿创”，目标2030年全球首创新药占比超25%，AI已让候选分子发现周期缩短40%。",
+        "source": "央视网·健康",
+        "pub": "",
+        "heat": 76,
+        "heatRaw": 60,
         "heatParts": {
           "cross": 0,
           "auth": 13,
           "rank": 23,
           "fresh": 13,
-          "kw": 0
+          "kw": 10
         },
         "crossCount": 1,
         "reportCount": 1,
         "sources": [
-          "中国疾控中心"
+          "央视网·健康"
+        ]
+      },
+      {
+        "title": "创新赋能免疫 全球疫苗供应迈向多极",
+        "link": "https://www.news.cn/health/20260923/635a257806474bb29ffc6cb197840627/c.html",
+        "summary": "创新赋能免疫 全球疫苗供应迈向多极-苏里对中国疫苗产业的创新能力给予高度评价： 中国已经成为疫苗创新的重要中心。",
+        "source": "新华网·健康",
+        "pub": "",
+        "heat": 73,
+        "heatRaw": 54,
+        "heatParts": {
+          "cross": 0,
+          "auth": 13,
+          "rank": 22,
+          "fresh": 13,
+          "kw": 6
+        },
+        "crossCount": 1,
+        "reportCount": 1,
+        "sources": [
+          "新华网·健康"
+        ]
+      },
+      {
+        "title": "《医药工业发展“十五五”规划》发布",
+        "link": "https://jiankang.cctv.com/2026/09/22/ARTI7744NfAs5S3Tg17GYXRx260922.shtml",
+        "summary": "本报北京9月21日电 （记者刘温馨）工业和信息化部等部门近日联合发布《医药工业发展“十五五”规划》，提出10项预期性指标，包括到2030年，规上医药工业企业营业收入不少于3.5万亿元、首创新药占全球比例不少于25%、创新药上市数量位居世界前…",
+        "source": "央视网·健康",
+        "pub": "",
+        "heat": 72,
+        "heatRaw": 53,
+        "heatParts": {
+          "cross": 0,
+          "auth": 13,
+          "rank": 22,
+          "fresh": 7,
+          "kw": 10
+        },
+        "crossCount": 1,
+        "reportCount": 1,
+        "sources": [
+          "央视网·健康"
         ]
       },
       {
@@ -888,59 +947,17 @@
         ]
       },
       {
-        "title": "开海季，别让一口“鲜”变身健康“刺客”",
-        "link": "https://jiankang.cctv.com/2026/09/17/ARTItMi5pZzlksgrJ4cQj1kH260917.shtml?spm=C88180.PGOAD39Q4iGU.ENdZKV0GjGYJ.19",
-        "summary": "海鲜是天然营养宝库，却也藏着食用误区与安全风险。金秋时节，吃海鲜要避坑，健康营养最重要。",
-        "source": "央视网·健康",
-        "pub": "",
-        "heat": 66,
-        "heatRaw": 44,
-        "heatParts": {
-          "cross": 0,
-          "auth": 13,
-          "rank": 19,
-          "fresh": 7,
-          "kw": 4
-        },
-        "crossCount": 1,
-        "reportCount": 1,
-        "sources": [
-          "央视网·健康"
-        ]
-      },
-      {
-        "title": "创新药出海再提速 对外授权获新突破",
-        "link": "https://jiankang.cctv.com/2026/09/17/ARTIJeSIJRxrCMTPS0LeCfGh260917.shtml",
-        "summary": "今年以来，我国创新药出海步伐再提速，对外授权交易总额突破1200亿美元，同比增长36%。其中首付款规模超百亿美元，市场同时呈现单笔平均交易金额稳步增长、首付款金额与占比双双提升、大额交易频频落地的特点，彰显出本土创新药的含金量不断提高。",
-        "source": "央视网·健康",
-        "pub": "",
-        "heat": 66,
-        "heatRaw": 44,
-        "heatParts": {
-          "cross": 0,
-          "auth": 13,
-          "rank": 17,
-          "fresh": 7,
-          "kw": 6
-        },
-        "crossCount": 1,
-        "reportCount": 1,
-        "sources": [
-          "央视网·健康"
-        ]
-      },
-      {
-        "title": "2026年慢性病防控大会成功召开",
-        "link": "https://www.chinacdc.cn/zxyw/202609/t20260921_1840354.html",
-        "summary": "2026-09-20 亚太地区卫生应急领导者研讨会在京召开 2026-09-20",
+        "title": "“打破壁垒与推动创新：全球卫生转型中的消除热带病...",
+        "link": "https://www.chinacdc.cn/zxyw/202609/t20260922_1841759.html",
+        "summary": "2026-09-21 2026年慢性病防控大会成功召开 2026-09-20",
         "source": "中国疾控中心",
         "pub": "",
-        "heat": 65,
-        "heatRaw": 42,
+        "heat": 66,
+        "heatRaw": 44,
         "heatParts": {
           "cross": 0,
           "auth": 13,
-          "rank": 22,
+          "rank": 23,
           "fresh": 7,
           "kw": 0
         },
@@ -951,17 +968,59 @@
         ]
       },
       {
-        "title": "秋季防跌倒 稳住每一步",
-        "link": "https://jiankang.cctv.com/2026/09/20/ARTIykcBXLMU9RXhumGzwKXN260920.shtml?spm=C88180.PGOAD39Q4iGU.ENdZKV0GjGYJ.25",
-        "summary": "（该来源未提供摘要，点击右侧「查看原链接」阅读全文）",
-        "source": "央视网·健康",
+        "title": "中国疾控中心辐射安全所召开网络安全和信息化工作领导小组会议",
+        "link": "https://www.chinacdc.cn/gzdt/zsdw/202609/t20260924_1841792.html",
+        "summary": "2026-09-21 “核卫-2026”国家核和辐射突发事件卫生应急队伍联合演练成功举办 2026-09-21",
+        "source": "中国疾控中心",
+        "pub": "",
+        "heat": 66,
+        "heatRaw": 43,
+        "heatParts": {
+          "cross": 0,
+          "auth": 13,
+          "rank": 0,
+          "fresh": 19,
+          "kw": 10
+        },
+        "crossCount": 1,
+        "reportCount": 1,
+        "sources": [
+          "中国疾控中心"
+        ]
+      },
+      {
+        "title": "从一朵棉花到一片卫生巾，需要过几道关？",
+        "link": "https://www.news.cn/health/20260924/eb26ee89b08449649d334dd9db117210/c.html",
+        "summary": "从一朵棉花到一片卫生巾，需要过几道关？-对选择奈丝公主的女性来说，经期贴身相伴的那片卫生巾，起点恰恰就是这样一朵棉花。",
+        "source": "新华网·健康",
         "pub": "",
         "heat": 65,
         "heatRaw": 42,
         "heatParts": {
           "cross": 0,
           "auth": 13,
-          "rank": 22,
+          "rank": 10,
+          "fresh": 19,
+          "kw": 0
+        },
+        "crossCount": 1,
+        "reportCount": 1,
+        "sources": [
+          "新华网·健康"
+        ]
+      },
+      {
+        "title": "秋季防跌倒 稳住每一步",
+        "link": "https://jiankang.cctv.com/2026/09/20/ARTIykcBXLMU9RXhumGzwKXN260920.shtml?spm=C88180.PGOAD39Q4iGU.ENdZKV0GjGYJ.25",
+        "summary": "（该来源未提供摘要，点击右侧「查看原链接」阅读全文）",
+        "source": "央视网·健康",
+        "pub": "",
+        "heat": 64,
+        "heatRaw": 41,
+        "heatParts": {
+          "cross": 0,
+          "auth": 13,
+          "rank": 20,
           "fresh": 7,
           "kw": 0
         },
@@ -970,120 +1029,78 @@
         "sources": [
           "央视网·健康"
         ]
-      },
-      {
-        "title": "看牙别等疼，这几个信号出现就该去检查",
-        "link": "https://www.news.cn/health/20260922/206aab2c2dc94e89b00df7bb58c71052/c.html",
-        "summary": "看牙别等疼，这几个信号出现就该去检查-\"医生可以检查牙齿、牙周组织和口腔黏膜，判断是否需要进一步检查、采取预防措施或进行治疗。\"",
-        "source": "新华网·健康",
-        "pub": "",
-        "heat": 64,
-        "heatRaw": 40,
-        "heatParts": {
-          "cross": 0,
-          "auth": 13,
-          "rank": 9,
-          "fresh": 13,
-          "kw": 5
-        },
-        "crossCount": 1,
-        "reportCount": 1,
-        "sources": [
-          "新华网·健康"
-        ]
-      },
-      {
-        "title": "中国民族医药协会儿童药物与临床应用专委会成立",
-        "link": "https://www.news.cn/health/20260922/2a44d86f64504ba7bf876cbad546a5d7/c.html",
-        "summary": "中国民族医药协会儿童药物与临床应用专委会成立-\"本次大会由中国民族医药协会主办，上海交通大学医学院附属上海儿童医学中心、中国民族医药协会儿童药物与临床应用专业委员会承办。\"",
-        "source": "新华网·健康",
-        "pub": "",
-        "heat": 62,
-        "heatRaw": 37,
-        "heatParts": {
-          "cross": 0,
-          "auth": 13,
-          "rank": 4,
-          "fresh": 13,
-          "kw": 6
-        },
-        "crossCount": 1,
-        "reportCount": 1,
-        "sources": [
-          "新华网·健康"
-        ]
       }
     ],
     "ai": [
       {
-        "title": "陆川手搓历史现场，王珞丹熬夜抽卡，阿里全模态开始兜底生产",
-        "link": "https://www.qbitai.com/2026/09/494429.html",
-        "summary": "阿里：三年之内会出现一个原生的全模态统一生成模型，未来体验将不再受限于模态边界。",
+        "title": "Stripe Tour 中国首秀：构建 AI 经济基础设施，赋能全球商业增长",
+        "link": "https://www.qbitai.com/2026/09/496779.html",
+        "summary": "Stripe Managed Payments (SMP) 现已全面上线",
         "source": "量子位",
-        "pub": "Tue, 22 Sep 2026 15:59:35 +0000"
+        "pub": "Thu, 24 Sep 2026 05:46:10 +0000"
       },
       {
-        "title": "Agent时代，CPU的价值该重估了",
-        "link": "https://www.qbitai.com/2026/09/494430.html",
-        "summary": "CPU与GPU趋近1∶1",
+        "title": "教机器人干活，光“刷课时”可不够！灵初这次较真数据质量",
+        "link": "https://www.qbitai.com/2026/09/496778.html",
+        "summary": "专治人机动作对不齐",
         "source": "量子位",
-        "pub": "Tue, 22 Sep 2026 15:46:54 +0000"
+        "pub": "Thu, 24 Sep 2026 05:45:20 +0000"
       },
       {
-        "title": "直播预告：未来两三年，哪些工业AI场景会率先爆发？",
-        "link": "https://www.qbitai.com/2026/09/494420.html",
-        "summary": "从真实工厂到产品复制，再到生态和下一批机会，两位嘉宾会把工业AI从「能用」走向「规模化」的关键问题一层层拆开。",
+        "title": "5分钟完成机器人纳管、10秒启动跨集群任务，清华大学联合无问芯穹开源具身智能云原生平台RLark",
+        "link": "https://www.qbitai.com/2026/09/496767.html",
+        "summary": "开源一座具身智能的新“塔台”",
         "source": "量子位",
-        "pub": "Tue, 22 Sep 2026 14:28:59 +0000"
+        "pub": "Thu, 24 Sep 2026 05:19:55 +0000"
       },
       {
-        "title": "讲真，我没看出这图是AI做的，更没想到是国产AI做的",
-        "link": "https://www.qbitai.com/2026/09/494263.html",
-        "summary": "商汤U1 Pro，正式发布",
+        "title": "出海Agent“小元AI”入驻腾讯WorkBuddy：找买家写开发信谈生意",
+        "link": "https://www.qbitai.com/2026/09/496740.html",
+        "summary": "懂出海，能记忆，自进化",
         "source": "量子位",
-        "pub": "Tue, 22 Sep 2026 13:57:10 +0000"
+        "pub": "Thu, 24 Sep 2026 04:11:51 +0000"
       },
       {
-        "title": "WebArena作者Shuyan Zhou入职Meta超级智能实验室",
-        "link": "https://www.qbitai.com/2026/09/493653.html",
-        "summary": "梦想是做能帮妈妈订机票的AI浏览器。",
+        "title": "海信新一代性能旗舰E7S Pro+正式发布，原生真彩再进阶",
+        "link": "https://www.qbitai.com/2026/09/496658.html",
+        "summary": "9月23日，2026海信电视秋季新品发布会上，定位“原生真彩，性能旗舰”的RGB-Mini LED新品E7S Pro+正式发布",
         "source": "量子位",
-        "pub": "Tue, 22 Sep 2026 11:58:53 +0000"
+        "pub": "Thu, 24 Sep 2026 02:51:18 +0000"
       },
       {
-        "title": "6天烧光2000多万，拿下开源第一！小米史无前例「炼丹直播」收官",
-        "link": "https://www.qbitai.com/2026/09/494179.html",
-        "summary": "Hugging Face CEO：「太棒了」",
+        "title": "Meta靠自研Manus翻身！股价一夜暴涨11%，登顶苹果商店，增速反超ChatGPT",
+        "link": "https://www.qbitai.com/2026/09/496647.html",
+        "summary": "美国也开启了全民养虾狂潮",
         "source": "量子位",
-        "pub": "Tue, 22 Sep 2026 11:50:28 +0000"
+        "pub": "Thu, 24 Sep 2026 02:23:12 +0000"
       },
       {
-        "title": "基元律动韩凯：从多模型调度到反馈闭环，探索Agent持续进化",
-        "link": "https://www.qbitai.com/2026/09/494120.html",
-        "summary": "9月22日，在2026杭州云栖大会企业级Agent实践峰会上，基元律动联合创始人兼CTO韩凯发表演讲《从Harness到RSI飞轮》。",
+        "title": "成立九年，中科类脑把积累装进Token工厂",
+        "link": "https://www.qbitai.com/2026/09/496615.html",
+        "summary": "（暂无摘要）",
         "source": "量子位",
-        "pub": "Tue, 22 Sep 2026 10:06:34 +0000"
+        "pub": "Thu, 24 Sep 2026 00:48:02 +0000"
       },
       {
-        "title": "别让一部片子倒在交付前：SkyProduction 抢先首发短剧质检",
-        "link": "https://www.qbitai.com/2026/09/494043.html",
-        "summary": "上传成片和字幕，系统自动从字幕、音画、内容底线三个维度逐集跑一遍，输出可下载、可回填的质检报告。",
+        "title": "联想亮相阿里云栖大会：联想天禧AI把超级组织落地到端侧",
+        "link": "https://www.qbitai.com/2026/09/496609.html",
+        "summary": "联想天禧AI携全场景多端产品矩阵亮相阿里云栖大会",
         "source": "量子位",
-        "pub": "Tue, 22 Sep 2026 10:01:53 +0000"
+        "pub": "Wed, 23 Sep 2026 10:35:16 +0000"
       },
       {
-        "title": "可定制、更出彩，头戴式耳机新选择：Beats 360 首发体验",
-        "link": "https://sspai.com/post/114878",
-        "summary": "在BeatsStudioPro发布3年之后，Beats终于想起来要更新一下自家头戴式耳机的旗舰款了，推出了全新的Beats360。值得一提的是，Beats不久前刚刚度过了成立后的2…",
+        "title": "微软在游戏行业的早期试水：一段与梦工厂的「梦幻联动」",
+        "link": "https://sspai.com/post/113823",
+        "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。…",
         "source": "少数派",
-        "pub": "Tue, 22 Sep 2026 22:00:00 +0800"
+        "pub": "Thu, 24 Sep 2026 15:06:19 +0800"
       },
       {
-        "title": "怀旧手记｜25 年前的笔记本，如何兼顾轻薄、时尚与性能？",
-        "link": "https://sspai.com/post/114551",
-        "summary": "黄金时代「时尚与科技结合」的浪漫。 查看全文",
+        "title": "古董电脑室十周年记：为什么我不再是收藏家（上）",
+        "link": "https://sspai.com/post/114395",
+        "summary": "站在十年的时间节点回望，2016 年知乎专栏「古董电脑室」的起点，其实并非一个怀旧的「博物馆」，而是一个试图在商业上寻找切口的「最小可行产品」（MVP）。然而，这场始于「市场验证」…",
         "source": "少数派",
-        "pub": "Tue, 22 Sep 2026 16:11:03 +0800"
+        "pub": "Thu, 24 Sep 2026 12:15:24 +0800"
       }
     ]
   },
