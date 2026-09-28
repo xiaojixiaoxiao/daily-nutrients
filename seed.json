@@ -1,31 +1,31 @@
 {
-  "generatedAt": "2026-09-28T00:29:17.179Z",
-  "date": "2026-09-28",
+  "generatedAt": "2026-09-28T23:01:48.475Z",
+  "date": "2026-09-29",
   "books": {
     "date": "2026-09-28",
     "books": [
       {
-        "title": "远山回忆",
-        "author": "[土] 奥尔罕·帕慕克",
-        "cover": "https://img3.doubanio.com/view/subject/s/public/s35587442.jpg",
+        "title": "深渊大饭店",
+        "author": "[英] 斯图尔特·杰弗里斯",
+        "cover": "https://img9.doubanio.com/view/subject/s/public/s35590374.jpg",
         "rating": 0,
-        "ratingCount": 51,
-        "summary": "诺贝尔文学奖得主是怎样创作的？帕慕克的“灵感笔记本”首度公开，完整再现14年创作旅程 图文并茂，全彩印刷，190余张手绘原稿高清呈现，展现帕慕克作为画家的艺术侧面 通往帕慕克其他作品的窗口，《我脑袋里的怪东西》《瘟疫之夜》等巨著创作过程大揭秘，揭示小说的内在 运作机制 深入当代伟大小说家的内心世界：他的艺术理念、写作的苦恼、梦境和恐惧、如何从中国山水",
-        "authorBio": "《远山回忆》由[土] 奥尔罕·帕慕克撰写，于2026-7出版。",
-        "link": "https://book.douban.com/subject/38549105/",
-        "pubDate": "2026-7",
+        "ratingCount": 87,
+        "summary": "早在一百年前，法兰克福学派便预见了我们今天的生活：文化工业让我们陷入了“娱乐至死”的泥潭，社交媒体取消了我们本真的存在，消费社会将我们变成了单向度的螺丝钉。 《深渊大饭店》是一部兼具学术深度与叙事张力的群体传记，描述了法兰克福学派主要人物如何相互影响、他们之间的学术争论，以及他们的成长经历如何塑造了他们的思想理念。法兰克福学派提出的“威权人格”“机械复制”“",
+        "authorBio": "《深渊大饭店》由[英] 斯图尔特·杰弗里斯撰写，于2026-8出版。",
+        "link": "https://book.douban.com/subject/38552885/",
+        "pubDate": "2026-8",
         "tag": "new"
       },
       {
-        "title": "即使不会游泳，也要浮出水面",
-        "author": "[美] 薇薇安·戈尔尼克",
-        "cover": "https://img3.doubanio.com/view/subject/s/public/s35585927.jpg",
+        "title": "乘客",
+        "author": "[美] 科马克·麦卡锡",
+        "cover": "https://img9.doubanio.com/view/subject/s/public/s35561596.jpg",
         "rating": 0,
-        "ratingCount": 65,
-        "summary": "来自非虚构文学大师的“人间清醒”之书 一个独立生活的女性，一段精神蜕变史 在孤独中淬炼纯粹的自我，在流动中创造生命的联结 平装双封镂空设计，随行小开本，极简静帧，冷调抒情 ———— 六十年前的纽约，性别平等运动推开了一扇门，这样一类人开始出现：独自生活， 且并不为此心怀愧疚。 他们以空前庞大的数量涌入，游荡在城市中。 薇薇安·戈尔尼克是其中一员，一个牙尖嘴利",
-        "authorBio": "《即使不会游泳，也要浮出水面》由[美] 薇薇安·戈尔尼克撰写，于2026-8出版。",
-        "link": "https://book.douban.com/subject/38568443/",
-        "pubDate": "2026-8",
+        "ratingCount": 41,
+        "summary": "科马克·麦卡锡（Cormac McCarthy，1933—2023） 美国当代小说家，剧作家，著有十余部长篇小说及其他短篇作品和剧作。代表作有《血色子午线》《老无所依》《长路》《天下骏马》等，先后斩获普利策奖、美国国家图书奖、全美书评人协会奖等美国文学界主流奖项，多部作品被改编为影视剧。 科恩兄弟根据麦卡锡小说改编的同名电影《老无所依》，获得包括最佳影片、最",
+        "authorBio": "《乘客》由[美] 科马克·麦卡锡撰写，于2026-7出版。",
+        "link": "https://book.douban.com/subject/38513201/",
+        "pubDate": "2026-7",
         "tag": "new"
       }
     ],
@@ -340,36 +340,13 @@
   "news": {
     "domestic": [
       {
-        "title": "《中国科学院“十五五”发展规划》发布",
-        "link": "https://www.news.cn/politics/20260928/db1b8d4998784dc895a496c867c0ad61/c.html",
-        "summary": "记者9月28日从中国科学院获悉，《中国科学院“十五五”发展规划》近日正式发布。规划聚焦抢占科技制高点核心任务，明确了“十五五”时期中国科学院科技事业发展的战略重点，围绕基础研究、战略高技术和可持续发展三大领域体系化部署科技攻关重点方向，着力…",
+        "title": "习近平主席对美国进行国事 访问 纪实",
+        "link": "https://www.news.cn/politics/leaders/20260928/331c059be6da4b2e9acc83191cca9a85/c.html",
+        "summary": "大国正确相处的新路，就在脚下——习近平主席对美国进行国事访问纪实-",
         "source": "新华网",
         "pub": "",
-        "heat": 92,
-        "heatRaw": 86,
-        "heatParts": {
-          "cross": 22,
-          "auth": 14,
-          "rank": 23,
-          "fresh": 23,
-          "kw": 4
-        },
-        "crossCount": 3,
-        "reportCount": 3,
-        "sources": [
-          "新华网",
-          "中国新闻网",
-          "中国经济网"
-        ]
-      },
-      {
-        "title": "习近平结束对美国的国事访问回到北京",
-        "link": "http://politics.people.com.cn/n1/2026/0926/c1024-40806006.html",
-        "summary": "新华社北京9月26日电9月26日下午，国家主席习近平圆满结束对美国的国事访问回到北京。习近平主席夫人彭丽媛，中共中央政治局常委、中央办公厅主任蔡奇，中共中央政治局委员、外交部部长王毅，中共中央政治局委",
-        "source": "人民网",
-        "pub": "",
         "heat": 85,
-        "heatRaw": 75,
+        "heatRaw": 76,
         "heatParts": {
           "cross": 11,
           "auth": 14,
@@ -378,115 +355,25 @@
           "kw": 6
         },
         "crossCount": 2,
-        "reportCount": 2,
+        "reportCount": 3,
         "sources": [
           "人民网",
           "新华网"
         ]
       },
       {
-        "title": "9月28日新闻早报",
-        "link": "https://www.chinanews.com.cn/iframe/2026/09-28/10704642.shtml",
-        "summary": "记者手记：月圆时，他们上赛场 欢迎习近平到访白宫，特朗普专门提到一个中文词语",
-        "source": "中国新闻网",
-        "pub": "Mon, 28 Sep 2026 06:55:16 +0800",
-        "heat": 84,
-        "heatRaw": 74,
-        "heatParts": {
-          "cross": 11,
-          "auth": 13,
-          "rank": 22,
-          "fresh": 23,
-          "kw": 6
-        },
-        "crossCount": 2,
-        "reportCount": 2,
-        "sources": [
-          "中国新闻网",
-          "澎湃新闻"
-        ]
-      },
-      {
-        "title": "第48届世界技能大赛闭幕",
-        "link": "https://www.news.cn/photo/20260927/50750d7299964380997b074c04f0ff81/c.html",
-        "summary": "第48届世界技能大赛闭幕-9月27日，第48届世界技能大赛在上海闭幕。",
+        "title": "习近平就建设更高水平平安中国作出重要指示",
+        "link": "https://www.news.cn/politics/leaders/20260928/553a16f104d646afae52c55173871c12/c.html",
+        "summary": "新华社北京9月28日电　中共中央总书记、国家主席、中央军委主席习近平近日就建设更高水平平安中国作出重要指示指出，党的十八大以来，平安中国建设取得显著成效，人民安居乐业、社会安定有序的良好局面更加巩固，我国成为世界上最安全的国家之一。",
         "source": "新华网",
         "pub": "",
-        "heat": 82,
-        "heatRaw": 70,
-        "heatParts": {
-          "cross": 22,
-          "auth": 14,
-          "rank": 10,
-          "fresh": 23,
-          "kw": 0
-        },
-        "crossCount": 3,
-        "reportCount": 4,
-        "sources": [
-          "新华网",
-          "中国新闻网",
-          "中国经济网"
-        ]
-      },
-      {
-        "title": "（爱知·名古屋亚运会）陈圆将摘田径男子110米栏金牌",
-        "link": "http://www.chinanews.com.cn/tp/hd2011/2026/09-28/1206194.shtml",
-        "summary": "当地时间9月27日，在2026爱知·名古屋亚运会田径男子110米栏决赛中，中国选手陈圆将以13秒15摘得金牌。",
-        "source": "中国新闻网",
-        "pub": "Mon, 28 Sep 2026 08:22:32 +0800",
-        "heat": 82,
+        "heat": 83,
         "heatRaw": 71,
         "heatParts": {
           "cross": 11,
-          "auth": 13,
-          "rank": 23,
-          "fresh": 23,
-          "kw": 0
-        },
-        "crossCount": 2,
-        "reportCount": 5,
-        "sources": [
-          "中国新闻网",
-          "网易新闻"
-        ]
-      },
-      {
-        "title": "高铁集中上新！四条新线今日开通",
-        "link": "https://www.chinanews.com.cn/sh/2026/09-28/10704644.shtml",
-        "summary": "国庆假期即将到来，我国高铁网络将再次扩容。今天(9月28日)，京港高铁雄商段、西渝高铁西安至安康段、宜兴高铁、哈伊高铁等四条高铁线路集中开通运营，新开线路覆盖华北、东北、西北、华中四大区域，多地正式迈入高铁时代。",
-        "source": "中国新闻网",
-        "pub": "Mon, 28 Sep 2026 07:21:48 +0800",
-        "heat": 82,
-        "heatRaw": 70,
-        "heatParts": {
-          "cross": 22,
-          "auth": 13,
-          "rank": 12,
-          "fresh": 23,
-          "kw": 0
-        },
-        "crossCount": 3,
-        "reportCount": 4,
-        "sources": [
-          "中国新闻网",
-          "中国经济网",
-          "澎湃新闻"
-        ]
-      },
-      {
-        "title": "习近平主席美国之行",
-        "link": "https://www.news.cn/politics/leaders/20260926/4d528236f00a4cce8b5f57059e2af245/c.html",
-        "summary": "（该来源未提供摘要，点击右侧「查看原链接」阅读全文）",
-        "source": "新华网",
-        "pub": "",
-        "heat": 80,
-        "heatRaw": 66,
-        "heatParts": {
-          "cross": 11,
           "auth": 14,
-          "rank": 22,
-          "fresh": 13,
+          "rank": 19,
+          "fresh": 21,
           "kw": 6
         },
         "crossCount": 2,
@@ -497,32 +384,74 @@
         ]
       },
       {
-        "title": "央行：综合运用并适时调整货币政策工具",
-        "link": "https://www.ce.cn/xwzx/gnsz/gdxw/202609/t20260928_3239013.shtml",
-        "summary": "● 本报记者 彭扬 中国人民银行9月24日消息，中国人民银行货币政策委员会近日召开的2026年第三季度（总第114次）例会提出，发挥增量政策和存量政策集成效应，增强政策前瞻性灵活性针对性；综合运用并适时调整货币政策工具，保持流动性充裕，使社…",
-        "source": "中国经济网",
-        "pub": "",
-        "heat": 76,
-        "heatRaw": 61,
+        "title": "日本突发4.9级地震",
+        "link": "https://www.chinanews.com.cn/gj/2026/09-29/10705191.shtml",
+        "summary": "中新网9月29日电 综合报道，据日本气象厅消息，日本茨城县南部29日凌晨发生4.9级地震。",
+        "source": "中国新闻网",
+        "pub": "Tue, 29 Sep 2026 06:58:13 +0800",
+        "heat": 78,
+        "heatRaw": 63,
         "heatParts": {
           "cross": 0,
-          "auth": 12,
-          "rank": 20,
-          "fresh": 21,
-          "kw": 8
+          "auth": 13,
+          "rank": 22,
+          "fresh": 23,
+          "kw": 6
         },
         "crossCount": 1,
         "reportCount": 1,
         "sources": [
-          "中国经济网"
+          "中国新闻网"
         ]
       },
       {
-        "title": "符文迪保研人大后首度发长文 曾因高考誓师演讲遭网暴",
-        "link": "https://www.163.com/dy/article/L7S8OC9D053469LG.html",
-        "summary": "高考前被网暴的“百日誓师演讲”女孩保研人大后首度发长文，感谢每一个照亮她的人：被世界温柔以待从来不是出厂设置，而是意外之喜,保研,高考,高三,百日誓师演讲",
+        "title": "飞得高、飞行速度快 无侦-7亮相黄岩岛海空联演引关注",
+        "link": "https://www.163.com/dy/article/L7UORAFP0514R9OJ.html",
+        "summary": "无侦-7亮相黄岩岛海空联演，优势何在？,海警,黄岩岛,预警机,无人机,战斗机,海空联演,无侦-7,无人侦察机",
         "source": "网易新闻",
-        "pub": "2026-09-27 22:30:10",
+        "pub": "2026-09-28 22:28:39",
+        "heat": 76,
+        "heatRaw": 60,
+        "heatParts": {
+          "cross": 0,
+          "auth": 11,
+          "rank": 23,
+          "fresh": 21,
+          "kw": 6
+        },
+        "crossCount": 1,
+        "reportCount": 1,
+        "sources": [
+          "网易新闻"
+        ]
+      },
+      {
+        "title": "9月29日新闻早报",
+        "link": "https://www.chinanews.com.cn/iframe/2026/09-29/10705192.shtml",
+        "summary": "余俊武：新时代的“侨批”如何推动中外文明交流互鉴？ 短评：从“中国说”到“世界说”，“Confucius says”折射中国软实力",
+        "source": "中国新闻网",
+        "pub": "Tue, 29 Sep 2026 06:58:55 +0800",
+        "heat": 75,
+        "heatRaw": 59,
+        "heatParts": {
+          "cross": 0,
+          "auth": 13,
+          "rank": 23,
+          "fresh": 23,
+          "kw": 0
+        },
+        "crossCount": 1,
+        "reportCount": 1,
+        "sources": [
+          "中国新闻网"
+        ]
+      },
+      {
+        "title": "卸任教育部副部长十年后 71岁鲁昕被查",
+        "link": "https://www.163.com/dy/article/L7UE3JK80514BE2Q.html",
+        "summary": "教育“虎”被查，任学会会长多年,鲁昕,厅长,学会,教育部,副部长,工作委员会,职业技术教育",
+        "source": "网易新闻",
+        "pub": "2026-09-28 22:08:10",
         "heat": 75,
         "heatRaw": 58,
         "heatParts": {
@@ -539,17 +468,38 @@
         ]
       },
       {
-        "title": "商业不动产REITs开启多层次发展新格局",
-        "link": "https://www.ce.cn/xwzx/gnsz/gdxw/202609/t20260928_3239014.shtml",
-        "summary": "● 本报记者 昝秀丽 汇添富顺联商业REIT、华夏凯华商业REIT、华夏世纪金源商业REIT9月24日同日获受理，商业不动产公募REITs又迎新成员。一系列项目集中推进，释放出有关部门稳慎推进商业不动产REITs发展的明确信号。",
+        "title": "一粒玉米的价值跃迁路",
+        "link": "https://www.ce.cn/xwzx/gnsz/gdxw/202609/t20260929_3239992.shtml",
+        "summary": "走进位于河北宁晋经济开发区的玉锋实业集团有限公司智能工厂，生产车间内全自动化生产设备平稳运行，中控大屏上数千组生产数据实时跳动，精准控制每道生产工序。",
         "source": "中国经济网",
         "pub": "",
-        "heat": 73,
-        "heatRaw": 55,
+        "heat": 75,
+        "heatRaw": 58,
         "heatParts": {
           "cross": 0,
           "auth": 12,
           "rank": 22,
+          "fresh": 21,
+          "kw": 3
+        },
+        "crossCount": 1,
+        "reportCount": 1,
+        "sources": [
+          "中国经济网"
+        ]
+      },
+      {
+        "title": "为科技企业注入“长跑”力量",
+        "link": "https://www.ce.cn/xwzx/gnsz/gdxw/202609/t20260929_3239994.shtml",
+        "summary": "在山东威海新佳电子有限公司无尘车间内，全自动化车规级碳化硅模块专用生产线满负荷运转，一块块精密碳化硅功率半导体模块走下产线，顺利进入国内头部车企供应链。作为国内最早深耕功率半导体器件封装的企业之一，新佳电子将功率半导体比作工业设备的“心脏”…",
+        "source": "中国经济网",
+        "pub": "",
+        "heat": 74,
+        "heatRaw": 56,
+        "heatParts": {
+          "cross": 0,
+          "auth": 12,
+          "rank": 23,
           "fresh": 21,
           "kw": 0
         },
@@ -558,22 +508,87 @@
         "sources": [
           "中国经济网"
         ]
+      },
+      {
+        "title": "世界经济韧性超预期不靠运气",
+        "link": "https://www.ce.cn/xwzx/gnsz/gdxw/202609/t20260929_3239940.shtml",
+        "summary": "2026年即将进入第四季度，在这个时间节点回望，世界经济今年在诸多不利条件下实现了超预期增长，比许多机构的预想更具韧性。一些西方媒体和机构在年中时，曾把世界经济的这种表现归因于运气，这经不起推敲。世界经济之所以能够克服不利因素实现超预期增长…",
+        "source": "中国经济网",
+        "pub": "",
+        "heat": 74,
+        "heatRaw": 57,
+        "heatParts": {
+          "cross": 11,
+          "auth": 12,
+          "rank": 10,
+          "fresh": 21,
+          "kw": 3
+        },
+        "crossCount": 2,
+        "reportCount": 2,
+        "sources": [
+          "中国经济网",
+          "澎湃新闻"
+        ]
+      },
+      {
+        "title": "美总统称美官员已于28日同美伊间的调解方进行对话",
+        "link": "https://www.chinanews.com.cn/gj/2026/09-29/10705190.shtml",
+        "summary": "当地时间9月28日，美国总统特朗普表示，美国官员当日与旨在结束美伊战事的调解方进行了交谈。被问及美伊谈判进展时，特朗普没有透露谈判具体细节，只是称“我们会赢”，“事态很快就会有分晓”。",
+        "source": "中国新闻网",
+        "pub": "Tue, 29 Sep 2026 06:50:39 +0800",
+        "heat": 73,
+        "heatRaw": 56,
+        "heatParts": {
+          "cross": 0,
+          "auth": 13,
+          "rank": 20,
+          "fresh": 23,
+          "kw": 0
+        },
+        "crossCount": 1,
+        "reportCount": 1,
+        "sources": [
+          "中国新闻网"
+        ]
       }
     ],
     "world": [
       {
-        "title": "习近平主席对美国进行国事访问纪实",
-        "link": "https://www.news.cn/world/20260928/da7a396f7ad04f4b96ac54aafea172b3/c.html",
-        "summary": "大国正确相处的新路，就在脚下——习近平主席对美国进行国事访问纪实-",
+        "title": "泰国多地洪灾已致8人死亡 180万人受灾",
+        "link": "https://www.news.cn/world/20260928/6d2d7e0044c5468bbd0d12bf308d9226/c.html",
+        "summary": "新华社曼谷9月28日电（记者常天童）泰国防灾减灾厅28日发布报告说，16日以来，泰国全国范围的洪水灾害已造成8人死亡，40多个府、180万人受灾。",
         "source": "新华网",
         "pub": "",
-        "heat": 95,
-        "heatRaw": 91,
+        "heat": 85,
+        "heatRaw": 75,
+        "heatParts": {
+          "cross": 11,
+          "auth": 14,
+          "rank": 19,
+          "fresh": 21,
+          "kw": 10
+        },
+        "crossCount": 2,
+        "reportCount": 2,
+        "sources": [
+          "新华网",
+          "中国新闻网"
+        ]
+      },
+      {
+        "title": "多家媒体曝内塔尼亚胡秘密访问阿联酋",
+        "link": "https://www.news.cn/world/20260928/70a870ccc06d43d2a5009be4f6c4ad83/c.html",
+        "summary": "新华社北京9月28日电　据多家媒体报道，以色列总理内塔尼亚胡27日秘密访问了阿联酋。按照以媒的说法，虽然两国官方均未证实这次访问，但在中东战事的背景下，两国越走越近是不争的事实。",
+        "source": "新华网",
+        "pub": "",
+        "heat": 85,
+        "heatRaw": 75,
         "heatParts": {
           "cross": 22,
           "auth": 14,
-          "rank": 23,
-          "fresh": 21,
+          "rank": 14,
+          "fresh": 13,
           "kw": 11
         },
         "crossCount": 3,
@@ -585,65 +600,86 @@
         ]
       },
       {
-        "title": "武契奇辞去塞尔维亚总统职务 准备竞选下届政府总理",
-        "link": "https://news.cri.cn/20260928/d8bb6b19-ec33-2379-767b-ccb71c29b95f.html",
-        "summary": "新华社贝尔格莱德9月27日电（记者张璇石中玉）塞尔维亚总统武契奇27日提交辞呈，辞去总统职务。根据此前宣布，他将竞选下届政府总理。 根据塞尔维亚宪法及《总统法》，总统向国民议会议长提交书面辞呈，辞呈送达国民议会后，其任期于当日终止，无",
-        "source": "国际在线",
+        "title": "烈士纪念日向人民英雄敬献花篮仪式9月30日上午举行 习近平等党和国家领导人将出席",
+        "link": "https://news.haiwainet.cn/n/2026/0928/c3543307-32986592.html",
+        "summary": "北京9月28日电今年是中国共产党成立105周年、红军长征胜利90周年。9月30日是国家设立的烈士纪念日，当天上午，习近平等党和国家领导人将同各界代表一起...",
+        "source": "海外网",
         "pub": "",
-        "heat": 92,
-        "heatRaw": 87,
+        "heat": 80,
+        "heatRaw": 66,
         "heatParts": {
-          "cross": 22,
+          "cross": 11,
           "auth": 13,
-          "rank": 14,
-          "fresh": 23,
-          "kw": 14
+          "rank": 23,
+          "fresh": 13,
+          "kw": 6
         },
-        "crossCount": 3,
-        "reportCount": 4,
+        "crossCount": 2,
+        "reportCount": 2,
         "sources": [
           "海外网",
-          "国际在线",
-          "中国新闻网"
+          "国际在线"
         ]
       },
       {
-        "title": "沙特称霍尔木兹海峡须恢复至“战前状态”",
-        "link": "https://www.news.cn/world/20260927/5dff1c3eedb94e9f8af6ebceb9946beb/c.html",
-        "summary": "新华社联合国9月26日电（记者高山）沙特阿拉伯外交大臣费萨尔26日在第81届联合国大会一般性辩论发言中表示，霍尔木兹海峡必须恢复到2月28日之前的状态，不得收取任何费用或设置限制。",
+        "title": "习近平就建设更高水平平安中国作出重要指示",
+        "link": "https://news.cri.cn/20260928/2bc8f450-3c94-718a-d4da-2398474df50f.html",
+        "summary": "央视网消息（新闻联播）：中共中央总书记、国家主席、中央军委主席习近平近日就建设更高水平平安中国作出重要指示指出，党的十八大以来，平安中国建设取得显著成效，人民安居乐业、社会安定有序的良好局面更加巩固，我国成为世界上最安全的国家之一。",
+        "source": "国际在线",
+        "pub": "",
+        "heat": 80,
+        "heatRaw": 67,
+        "heatParts": {
+          "cross": 11,
+          "auth": 13,
+          "rank": 23,
+          "fresh": 13,
+          "kw": 6
+        },
+        "crossCount": 2,
+        "reportCount": 4,
+        "sources": [
+          "海外网",
+          "国际在线"
+        ]
+      },
+      {
+        "title": "中国的发展与美国的繁荣可以共存——访美国中国问题专家丹尼斯·西蒙",
+        "link": "https://www.news.cn/world/20260928/9c7f6a8c9cba473082e6531a1fc8dfe8/c.html",
+        "summary": "新华社纽约9月27日电 专访｜中国的发展与美国的繁荣可以共存——访美国中国问题专家丹尼斯·西蒙",
         "source": "新华网",
         "pub": "",
-        "heat": 81,
-        "heatRaw": 68,
+        "heat": 79,
+        "heatRaw": 65,
         "heatParts": {
           "cross": 22,
           "auth": 14,
-          "rank": 6,
-          "fresh": 21,
-          "kw": 5
+          "rank": 16,
+          "fresh": 13,
+          "kw": 0
         },
         "crossCount": 3,
         "reportCount": 3,
         "sources": [
           "新华网",
           "海外网",
-          "中国新闻网"
+          "国际在线"
         ]
       },
       {
-        "title": "武契奇辞职，承认在执政期间“犯过很多错误”",
-        "link": "https://www.chinanews.com.cn/gj/2026/09-28/10704663.shtml",
-        "summary": "原标题：武契奇辞职，承认在执政期间“犯过很多错误”，“但战争才刚刚开始！没有那把交椅，我们也能打败他们”",
+        "title": "美总统称美官员已于28日同美伊间的调解方进行对话",
+        "link": "https://www.chinanews.com.cn/gj/2026/09-29/10705190.shtml",
+        "summary": "当地时间9月28日，美国总统特朗普表示，美国官员当日与旨在结束美伊战事的调解方进行了交谈。被问及美伊谈判进展时，特朗普没有透露谈判具体细节，只是称“我们会赢”，“事态很快就会有分晓”。",
         "source": "中国新闻网",
-        "pub": "Mon, 28 Sep 2026 08:25:06 +0800",
-        "heat": 79,
-        "heatRaw": 65,
+        "pub": "Tue, 29 Sep 2026 06:50:39 +0800",
+        "heat": 78,
+        "heatRaw": 64,
         "heatParts": {
           "cross": 0,
           "auth": 13,
           "rank": 23,
           "fresh": 23,
-          "kw": 6
+          "kw": 5
         },
         "crossCount": 1,
         "reportCount": 1,
@@ -652,40 +688,61 @@
         ]
       },
       {
-        "title": "美伊对峙7个月 美称本周将继续与伊谈判 伊称尚未放弃外交途径",
-        "link": "https://www.chinanews.com.cn/gj/2026/09-28/10704645.shtml",
-        "summary": "自2月28日美以伊冲突爆发至今，美伊对峙已持续七个月。 冲突爆发后，霍尔木兹海峡通航持续受阻。美伊6月中旬曾达成一份谅解备忘录，但备忘录生效不久便遭破坏。",
+        "title": "普京签令 俄罗斯武装部队总人数增至244万余人",
+        "link": "https://www.chinanews.com.cn/gj/2026/09-29/10705188.shtml",
+        "summary": "中新网9月29日电 综合俄罗斯媒体报道，俄罗斯总统普京28日签署总统令，将俄武装力量编制人数增至2441630人，其中现役军人数量为1550500人。",
         "source": "中国新闻网",
-        "pub": "Mon, 28 Sep 2026 07:23:36 +0800",
+        "pub": "Tue, 29 Sep 2026 06:47:48 +0800",
         "heat": 78,
         "heatRaw": 63,
         "heatParts": {
           "cross": 0,
           "auth": 13,
-          "rank": 20,
+          "rank": 22,
           "fresh": 23,
-          "kw": 6
+          "kw": 5
         },
         "crossCount": 1,
-        "reportCount": 4,
+        "reportCount": 2,
         "sources": [
           "中国新闻网"
         ]
       },
       {
-        "title": "Five arrested near UK air base used by U.S. bombers in Iran war",
-        "link": "https://www.npr.org/2026/09/27/nx-s1-5982718/five-arrested-near-uk-air-base-used-by-u-s-bombers-in-iran-war",
-        "summary": "U.K. police say five men were arrested on suspicion of preparation of a terrorist act after three vehicles were spotted …",
+        "title": "联合国粮农组织报告：全球生态退化每年损失最高达6.3万亿美元",
+        "link": "https://www.chinanews.com.cn/gj/2026/09-28/10705081.shtml",
+        "summary": "中新网9月28日电 据联合国粮食及农业组织(FAO)官网消息，当地时间9月28日，联合国粮农组织在罗马发布《2026年世界森林状况》报告。",
+        "source": "中国新闻网",
+        "pub": "Mon, 28 Sep 2026 19:57:49 +0800",
+        "heat": 74,
+        "heatRaw": 56,
+        "heatParts": {
+          "cross": 0,
+          "auth": 13,
+          "rank": 13,
+          "fresh": 21,
+          "kw": 9
+        },
+        "crossCount": 1,
+        "reportCount": 1,
+        "sources": [
+          "中国新闻网"
+        ]
+      },
+      {
+        "title": "British men released on bail after suspected terror plot",
+        "link": "https://www.npr.org/2026/09/28/nx-s1-5983550/british-men-released-on-bail-after-suspected-terror-plot",
+        "summary": "Five British men have been released on bail after being detained near a military base for alleged terror offenses. The B…",
         "source": "NPR",
-        "pub": "Sun, 27 Sep 2026 17:14:44 -0400",
-        "heat": 78,
-        "heatRaw": 63,
+        "pub": "Mon, 28 Sep 2026 18:10:02 -0400",
+        "heat": 74,
+        "heatRaw": 57,
         "heatParts": {
           "cross": 0,
           "auth": 12,
           "rank": 23,
           "fresh": 19,
-          "kw": 9
+          "kw": 3
         },
         "crossCount": 1,
         "reportCount": 2,
@@ -694,112 +751,68 @@
         ]
       },
       {
-        "title": "伊朗外长：等待调解方转达重开海峡计划美方最终意见",
-        "link": "https://www.news.cn/world/20260927/2c26a7c0711147c0bcb034c3c39a81c9/c.html",
-        "summary": "新华社纽约9月26日电　伊朗外长阿拉格齐26日在社交媒体说，伊朗方面在联合国大会期间已通过调解方向美方充分、详细转达了由伊朗最高国家安全委员会确定的、旨在重开霍尔木兹海峡和推进谈判的各项条件，目前正等待调解方转达美方最终意见。",
-        "source": "新华网",
-        "pub": "",
-        "heat": 77,
-        "heatRaw": 61,
-        "heatParts": {
-          "cross": 11,
-          "auth": 14,
-          "rank": 7,
-          "fresh": 19,
-          "kw": 9
-        },
-        "crossCount": 2,
-        "reportCount": 3,
-        "sources": [
-          "新华网",
-          "中国新闻网"
-        ]
-      },
-      {
-        "title": "特朗普：预计美伊将在几天内重启谈判",
-        "link": "https://www.chinanews.com.cn/gj/2026/09-28/10704640.shtml",
-        "summary": "中新网9月28日电 据美国阿克西奥斯新闻网站报道，美国总统特朗普27日在接受该媒体电话采访时表示，他预计美国和伊朗将在接下来一周内重启谈判。",
-        "source": "中国新闻网",
-        "pub": "Mon, 28 Sep 2026 06:51:54 +0800",
-        "heat": 75,
-        "heatRaw": 58,
-        "heatParts": {
-          "cross": 0,
-          "auth": 13,
-          "rank": 17,
-          "fresh": 23,
-          "kw": 5
-        },
-        "crossCount": 1,
-        "reportCount": 1,
-        "sources": [
-          "中国新闻网"
-        ]
-      },
-      {
-        "title": "Xi's US visit fuels European discussions over prospects for China-US stability",
-        "link": "https://www.chinadaily.com.cn/a/202609/26/WS6ab7b865e4b06d4aa05605b5.html",
-        "summary": "President Xi Jinping's state visit to the United States and his remarks at a welcome ceremony at the White House have sp…",
+        "title": "China Daily documentary wins film award in Europe",
+        "link": "https://www.chinadaily.com.cn/a/202609/28/WS6ab9c514e4b06d4aa056079e.html",
+        "summary": "A China Daily documentary featuring life in Shenyang, Liaoning province, won an international communication award at the…",
         "source": "中国日报网",
         "pub": "",
-        "heat": 74,
-        "heatRaw": 56,
-        "heatParts": {
-          "cross": 11,
-          "auth": 13,
-          "rank": 17,
-          "fresh": 13,
-          "kw": 0
-        },
-        "crossCount": 2,
-        "reportCount": 4,
-        "sources": [
-          "中国日报网",
-          "CGTN"
-        ]
-      },
-      {
-        "title": "锐财经 | 未来五年，自然资源更好支撑高质量发展",
-        "link": "https://news.haiwainet.cn/n/2026/0928/c3541093-32986336.html",
-        "summary": "湖北省十堰市竹溪县中峰镇的稻田。帅昀摄（人民视觉）全国探矿权出让成交金额同比增长133.5%，石油新增可采储量近7000万吨，天然气新增可采储量6100亿立方米...",
-        "source": "海外网",
-        "pub": "",
-        "heat": 71,
-        "heatRaw": 51,
+        "heat": 73,
+        "heatRaw": 55,
         "heatParts": {
           "cross": 0,
           "auth": 13,
-          "rank": 17,
-          "fresh": 21,
-          "kw": 0
+          "rank": 19,
+          "fresh": 13,
+          "kw": 9
         },
         "crossCount": 1,
         "reportCount": 1,
         "sources": [
-          "海外网"
+          "中国日报网"
         ]
       }
     ],
     "medical": [
       {
-        "title": "2026年全国疾控系统青年马克思主义者培养工程培训班...",
-        "link": "https://www.chinacdc.cn/zxyw/202609/t20260924_1841807.html",
-        "summary": "2026年9月23-24日，全国疾控系统青年马克思主义者培养工程培训班在湖南长沙举办。中国疾控中心（中国预科院）党委副书记周宇辉，湖南省疾控中心党委书记朱丽辉，湖南省卫生健康委直属机关党委副书记、机关纪委书记、机关团委书记杨彪出席培训班并讲…",
+        "title": "中国疾控中心（中国预科院）召开前置软件应用与监测...",
+        "link": "https://www.chinacdc.cn/zxyw/202609/t20260928_1841856.html",
+        "summary": "2026年9月18日，为落实《疾病预防控制“十五五”规划》及国家疾控局杭州现场会议部署要求，总结智慧化多点触发传染病监测预警体系建设和前置软件应用进展，中国疾控中心（中国预科院）召开前置软件应用与监测预警“团山”研讨会。来自国内科研机构、高…",
         "source": "中国疾控中心",
         "pub": "",
-        "heat": 72,
-        "heatRaw": 54,
+        "heat": 79,
+        "heatRaw": 65,
         "heatParts": {
           "cross": 0,
           "auth": 13,
-          "rank": 22,
-          "fresh": 7,
-          "kw": 10
+          "rank": 23,
+          "fresh": 13,
+          "kw": 14
         },
         "crossCount": 1,
-        "reportCount": 3,
+        "reportCount": 5,
         "sources": [
           "中国疾控中心"
+        ]
+      },
+      {
+        "title": "十年预警超4万例，安顿如何发现“未病”？",
+        "link": "https://www.news.cn/health/20260928/93990e0f9ba64875892b4eac342a39f2/c.html",
+        "summary": "新华网北京9月28日电（杨玉云） 当AI学会号脉与风险预警，能不能为每个人配一位24小时待命的“家庭医生”？9月22日，安顿健康科技创始人白伟民做客新华网演播室，讲述十年累计预警超4万例背后，中医治未病与人工智能融合开辟的主动健康之路。",
+        "source": "新华网·健康",
+        "pub": "",
+        "heat": 78,
+        "heatRaw": 64,
+        "heatParts": {
+          "cross": 0,
+          "auth": 13,
+          "rank": 23,
+          "fresh": 13,
+          "kw": 14
+        },
+        "crossCount": 1,
+        "reportCount": 1,
+        "sources": [
+          "新华网·健康"
         ]
       },
       {
@@ -830,11 +843,11 @@
         "source": "中国疾控中心",
         "pub": "",
         "heat": 72,
-        "heatRaw": 54,
+        "heatRaw": 53,
         "heatParts": {
           "cross": 0,
           "auth": 13,
-          "rank": 23,
+          "rank": 22,
           "fresh": 7,
           "kw": 10
         },
@@ -842,27 +855,6 @@
         "reportCount": 1,
         "sources": [
           "中国疾控中心"
-        ]
-      },
-      {
-        "title": "让生机再次绽放：一位aHUS患者的闯关与坚守",
-        "link": "https://www.news.cn/health/20260924/cf6ca44089094bedb916ec0dfbcc2aae/c.html",
-        "summary": "让生机再次绽放：一位aHUS患者的闯关与坚守-\" 契机：让规范诊疗抵达更多患者兰姐的幸运，并非偶然。\"",
-        "source": "新华网·健康",
-        "pub": "",
-        "heat": 72,
-        "heatRaw": 53,
-        "heatParts": {
-          "cross": 0,
-          "auth": 13,
-          "rank": 22,
-          "fresh": 7,
-          "kw": 11
-        },
-        "crossCount": 1,
-        "reportCount": 1,
-        "sources": [
-          "新华网·健康"
         ]
       },
       {
@@ -887,10 +879,10 @@
         ]
       },
       {
-        "title": "《医药工业发展“十五五”规划》发布",
-        "link": "https://jiankang.cctv.com/2026/09/22/ARTI7744NfAs5S3Tg17GYXRx260922.shtml",
-        "summary": "本报北京9月21日电 （记者刘温馨）工业和信息化部等部门近日联合发布《医药工业发展“十五五”规划》，提出10项预期性指标，包括到2030年，规上医药工业企业营业收入不少于3.5万亿元、首创新药占全球比例不少于25%、创新药上市数量位居世界前…",
-        "source": "央视网·健康",
+        "title": "2026年全国疾控系统青年马克思主义者培养工程培训班...",
+        "link": "https://www.chinacdc.cn/zxyw/202609/t20260924_1841807.html",
+        "summary": "2026年9月23-24日，全国疾控系统青年马克思主义者培养工程培训班在湖南长沙举办。中国疾控中心（中国预科院）党委副书记周宇辉，湖南省疾控中心党委书记朱丽辉，湖南省卫生健康委直属机关党委副书记、机关纪委书记、机关团委书记杨彪出席培训班并讲…",
+        "source": "中国疾控中心",
         "pub": "",
         "heat": 71,
         "heatRaw": 51,
@@ -904,23 +896,23 @@
         "crossCount": 1,
         "reportCount": 1,
         "sources": [
-          "央视网·健康"
+          "中国疾控中心"
         ]
       },
       {
-        "title": "从“治好病”到“过好人生”，探寻淋巴瘤长生存的实践",
-        "link": "https://www.news.cn/health/20260924/6abef77bbc754d0fa2a2ca22457f03fd/c.html",
-        "summary": "从“治好病”到“过好人生”，探寻淋巴瘤长生存的实践-\"而这场旅程的最终方向，是让患者通过规范的治疗管理，实现“高质量长生存”——不仅活得更久，还要活得更好，重新被世界温柔以待。\"",
+        "title": "让生机再次绽放：一位aHUS患者的闯关与坚守",
+        "link": "https://www.news.cn/health/20260924/cf6ca44089094bedb916ec0dfbcc2aae/c.html",
+        "summary": "让生机再次绽放：一位aHUS患者的闯关与坚守-\" 契机：让规范诊疗抵达更多患者兰姐的幸运，并非偶然。\"",
         "source": "新华网·健康",
         "pub": "",
-        "heat": 67,
-        "heatRaw": 44,
+        "heat": 71,
+        "heatRaw": 52,
         "heatParts": {
           "cross": 0,
           "auth": 13,
-          "rank": 19,
+          "rank": 20,
           "fresh": 7,
-          "kw": 5
+          "kw": 11
         },
         "crossCount": 1,
         "reportCount": 1,
@@ -934,12 +926,12 @@
         "summary": "从一朵棉花到一片卫生巾，需要过几道关？-对选择奈丝公主的女性来说，经期贴身相伴的那片卫生巾，起点恰恰就是这样一朵棉花。",
         "source": "新华网·健康",
         "pub": "",
-        "heat": 66,
-        "heatRaw": 44,
+        "heat": 65,
+        "heatRaw": 42,
         "heatParts": {
           "cross": 0,
           "auth": 13,
-          "rank": 23,
+          "rank": 22,
           "fresh": 7,
           "kw": 0
         },
@@ -955,12 +947,12 @@
         "summary": "创新赋能免疫 全球疫苗供应迈向多极-苏里对中国疫苗产业的创新能力给予高度评价： 中国已经成为疫苗创新的重要中心。",
         "source": "新华网·健康",
         "pub": "",
-        "heat": 66,
-        "heatRaw": 44,
+        "heat": 65,
+        "heatRaw": 42,
         "heatParts": {
           "cross": 0,
           "auth": 13,
-          "rank": 17,
+          "rank": 16,
           "fresh": 7,
           "kw": 6
         },
@@ -971,28 +963,42 @@
         ]
       },
       {
-        "title": "“打破壁垒与推动创新：全球卫生转型中的消除热带病...",
-        "link": "https://www.chinacdc.cn/zxyw/202609/t20260922_1841759.html",
-        "summary": "2026-09-21 2026年慢性病防控大会成功召开 2026-09-20",
-        "source": "中国疾控中心",
+        "title": "乳腺检查并非越多越好！专家教你理性解读乳腺体检报告",
+        "link": "https://jiankang.cctv.com/2026/09/24/ARTIwjvNm8yn9GHznmTTH2KE260924.shtml",
+        "summary": "北京大学人民医院刘淼主任医师在国家卫生健康委员会9月23日的新闻发布会中就此解读乳腺筛查的科学原则，教大家理性读懂乳腺体检报告。",
+        "source": "央视网·健康",
         "pub": "",
-        "heat": 64,
-        "heatRaw": 41,
+        "heat": 58,
+        "heatRaw": 30,
         "heatParts": {
           "cross": 0,
           "auth": 13,
-          "rank": 20,
+          "rank": 0,
           "fresh": 7,
-          "kw": 0
+          "kw": 9
         },
         "crossCount": 1,
         "reportCount": 1,
         "sources": [
-          "中国疾控中心"
+          "央视网·健康"
         ]
       }
     ],
     "ai": [
+      {
+        "title": "工业创新进入“组队局”，拆解西门子Xcelerator开放生态的赋能链路",
+        "link": "https://www.qbitai.com/2026/09/498877.html",
+        "summary": "工业平台已经卷到帮伙伴拿线索、做Agent、出海了",
+        "source": "量子位",
+        "pub": "Mon, 28 Sep 2026 12:43:53 +0000"
+      },
+      {
+        "title": "HC归来，华为正重新定义AIDC基础设施",
+        "link": "https://www.qbitai.com/2026/09/498787.html",
+        "summary": "AI基础设施下一站：算电协同",
+        "source": "量子位",
+        "pub": "Mon, 28 Sep 2026 11:18:27 +0000"
+      },
       {
         "title": "量子AI创业来了一支“清华梦之队”：10亿估值，用量子改造大模型底层",
         "link": "https://www.qbitai.com/2026/09/498633.html",
@@ -1036,32 +1042,18 @@
         "pub": "Sat, 26 Sep 2026 09:07:41 +0000"
       },
       {
-        "title": "笔记本跑7000亿参数GLM！无GPU也行? SSD当显存用火爆GitHub",
-        "link": "https://www.qbitai.com/2026/09/497624.html",
-        "summary": "GitHub现在最火热的大模型开源小蜂鸟Colibrì是个啥？",
-        "source": "量子位",
-        "pub": "Sat, 26 Sep 2026 09:01:00 +0000"
-      },
-      {
-        "title": "在云栖大会，我终于看懂了米哈游千亿AI野心",
-        "link": "https://www.qbitai.com/2026/09/497613.html",
-        "summary": "大伟哥：如果做不到，一年两年之后过来打我脸",
-        "source": "量子位",
-        "pub": "Sat, 26 Sep 2026 07:18:05 +0000"
-      },
-      {
-        "title": "本月玩什么｜鬼武者 剑之道、火焰纹章 万缕千丝、轨道双子星等",
-        "link": "https://sspai.com/post/115056",
-        "summary": "《鬼武者》系列的惊艳复活，《风花雪月》的世界观延续，赛璐珞动画风格的双人历险…… 查看全文",
+        "title": "派评 | 近期值得关注的 App",
+        "link": "https://sspai.com/post/115094",
+        "summary": ">下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀 查看全文",
         "source": "少数派",
-        "pub": "Sun, 27 Sep 2026 17:50:09 +0800"
+        "pub": "Mon, 28 Sep 2026 17:45:02 +0800"
       },
       {
-        "title": "宜家 Matter 智能家居终于要来了？在中国市场它将如何破局",
-        "link": "https://sspai.com/post/114958",
-        "summary": "距离宜家首批Matter智能家居产品在海外上市已有大半年的时间，而中国市场则是许久未有消息。直到今年年中，多款宜家智能新品陆续出现在国家CCC认证数据库中，我们才得知：这批主打高性…",
+        "title": "基于 Termux 的 Android 手机开发服务器实操",
+        "link": "https://sspai.com/prime/story/dev-env-on-android-with-termux",
+        "summary": "不 root、不刷机，在随身设备上跑通 AI Agent 与微型 Linux 环境。 查看全文 本文为会员文章，出自 《单篇文章》 ，订阅后可阅读全文。",
         "source": "少数派",
-        "pub": "Sat, 26 Sep 2026 14:00:00 +0800"
+        "pub": "Mon, 28 Sep 2026 17:33:03 +0800"
       }
     ]
   },
@@ -1099,7 +1091,7 @@
         "新华网": 24,
         "中国新闻网": 24,
         "中国经济网": 24,
-        "澎湃新闻": 14,
+        "澎湃新闻": 19,
         "网易新闻": 24
       }
     },
