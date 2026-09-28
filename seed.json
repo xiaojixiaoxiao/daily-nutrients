@@ -1,52 +1,52 @@
 {
-  "generatedAt": "2026-09-24T08:23:48.982Z",
-  "date": "2026-09-24",
+  "generatedAt": "2026-09-28T00:29:17.179Z",
+  "date": "2026-09-28",
   "books": {
-    "date": "2026-09-24",
+    "date": "2026-09-28",
     "books": [
       {
-        "title": "雪田故事集",
-        "author": "徐畅",
-        "cover": "https://img3.doubanio.com/view/subject/s/public/s35623498.jpg",
+        "title": "远山回忆",
+        "author": "[土] 奥尔罕·帕慕克",
+        "cover": "https://img3.doubanio.com/view/subject/s/public/s35587442.jpg",
         "rating": 0,
-        "ratingCount": 0,
-        "summary": "《雪田故事集》以“雪田”为精神原点，将童年往事、乡土故园、城市漂泊以及人生行旅串联起来，用克制、洁净而富有生活质感的语言，勾勒出一代青年从故乡出发、走向城市的成长轨迹。全书共收录《雪田》《早班车》《冰河》《干货店》《空白》《灯火如萤》《原野先生》《出租屋》《小黑猫》《米 谷》等十篇作品。 童年时期寄养在亲人身边的孩子，在干货店里学着叫卖和记账，慢慢学着认识生",
-        "authorBio": "《雪田故事集》由徐畅撰写，于2026-9出版。",
-        "link": "https://book.douban.com/subject/38656230/",
-        "pubDate": "2026-9",
+        "ratingCount": 51,
+        "summary": "诺贝尔文学奖得主是怎样创作的？帕慕克的“灵感笔记本”首度公开，完整再现14年创作旅程 图文并茂，全彩印刷，190余张手绘原稿高清呈现，展现帕慕克作为画家的艺术侧面 通往帕慕克其他作品的窗口，《我脑袋里的怪东西》《瘟疫之夜》等巨著创作过程大揭秘，揭示小说的内在 运作机制 深入当代伟大小说家的内心世界：他的艺术理念、写作的苦恼、梦境和恐惧、如何从中国山水",
+        "authorBio": "《远山回忆》由[土] 奥尔罕·帕慕克撰写，于2026-7出版。",
+        "link": "https://book.douban.com/subject/38549105/",
+        "pubDate": "2026-7",
         "tag": "new"
       },
       {
-        "title": "怪奇物语：不归之路",
-        "author": "[美] 凯特琳·施奈德汉",
-        "cover": "https://img3.doubanio.com/view/subject/s/public/s35601378.jpg",
+        "title": "即使不会游泳，也要浮出水面",
+        "author": "[美] 薇薇安·戈尔尼克",
+        "cover": "https://img3.doubanio.com/view/subject/s/public/s35585927.jpg",
         "rating": 0,
-        "ratingCount": 0,
-        "summary": "Netflix全球现象级IP，正版授权官方小说 剧集全五季累计播放超12亿次，单季首播观看达2.87亿小时；57次艾美奖提名，12座艾美奖杯；豆瓣44万人打分，季均评分9.1，全网短视频总播放超31.5亿。正版授权官方小说Shou次引进 实力作者+正剧编剧亲自执笔，原汁原味“怪奇”式惊险浪漫 Netflix指定实力作者，剧集主创编剧亲自撰写，官方认证的正",
-        "authorBio": "《怪奇物语：不归之路》由[美] 凯特琳·施奈德汉撰写，于2026-9出版。",
-        "link": "https://book.douban.com/subject/38593432/",
-        "pubDate": "2026-9",
+        "ratingCount": 65,
+        "summary": "来自非虚构文学大师的“人间清醒”之书 一个独立生活的女性，一段精神蜕变史 在孤独中淬炼纯粹的自我，在流动中创造生命的联结 平装双封镂空设计，随行小开本，极简静帧，冷调抒情 ———— 六十年前的纽约，性别平等运动推开了一扇门，这样一类人开始出现：独自生活， 且并不为此心怀愧疚。 他们以空前庞大的数量涌入，游荡在城市中。 薇薇安·戈尔尼克是其中一员，一个牙尖嘴利",
+        "authorBio": "《即使不会游泳，也要浮出水面》由[美] 薇薇安·戈尔尼克撰写，于2026-8出版。",
+        "link": "https://book.douban.com/subject/38568443/",
+        "pubDate": "2026-8",
         "tag": "new"
       }
     ],
     "quotes": [
       {
-        "text": "自由不是随心所欲，而是自我主宰。",
-        "author": "康德",
-        "bio": "德国哲学家，启蒙思想巨擘。",
-        "bg": "体现康德对理性的尊重：真正的自由是服从自己立下的法则，而非被欲望驱使。"
+        "text": "要么孤独，要么庸俗。",
+        "author": "叔本华",
+        "bio": "德国哲学家，悲观主义代表。",
+        "bg": "出自《附录与补遗》，认为精神丰盈者宁守孤独，也不愿随俗沉沦。"
       },
       {
-        "text": "没有什么比时间更具有说服力了，因为时间无需通知我们就可以改变一切。",
-        "author": "余华",
-        "bio": "当代作家，《活着》作者。",
-        "bg": "出自《活着》式苍凉叙述，写尽命运在无言流逝中的改写。"
+        "text": "知者不惑，仁者不忧，勇者不惧。",
+        "author": "孔子",
+        "bio": "春秋时期思想家，儒家创始人。",
+        "bg": "出自《论语·子罕》，定义智、仁、勇三种从容心境。"
       },
       {
-        "text": "生活不止眼前的苟且，还有诗和远方的田野。",
-        "author": "高晓松",
-        "bio": "音乐人、词作者。",
-        "bg": "出自歌曲《生活不止眼前的苟且》，劝人在日常之外保留远方想象。"
+        "text": "我们都在阴沟里，但仍有人仰望星空。",
+        "author": "王尔德",
+        "bio": "爱尔兰作家、唯美主义代表。",
+        "bg": "出自戏剧《温德米尔夫人的扇子》，意在说明纵处困顿，人仍可向美与理想抬望。"
       }
     ],
     "source": "douban",
@@ -279,68 +279,30 @@
     }
   ],
   "english": {
-    "date": "2026-09-24",
+    "date": "2026-09-28",
     "news": {
       "type": "speech",
-      "title": "The power of introverts",
-      "summary": "In a culture where being social and outgoing are prized above all else, it can be difficult, even shameful, to be an introvert. But, as Susan Cain argues in this passionate talk, introverts bring extraordinary talents and abilities to the world, and should be encouraged and celebrated.",
-      "link": "https://www.ted.com/talks/susan_cain_the_power_of_introverts",
-      "videoLink": "https://www.ted.com/talks/susan_cain_the_power_of_introverts",
-      "cover": "https://pe.tedcdn.com/images/ted/b542b1ddd2e40cfcf9db3430598bc37cebfec8c1_1600x1200.jpg",
+      "title": "Grit: The power of passion and perseverance",
+      "summary": "Leaving a high-flying job in consulting, Angela Lee Duckworth took a job teaching math to seventh graders in a New York public school. She quickly realized that IQ wasn't the only thing separating the successful students from those who struggled. Here, she explains her theory of \"grit\" as a predictor of success.",
+      "link": "https://www.ted.com/talks/angela_lee_duckworth_grit_the_power_of_passion_and_perseverance",
+      "videoLink": "https://www.ted.com/talks/angela_lee_duckworth_grit_the_power_of_passion_and_perseverance",
+      "cover": "https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/173cdf14-9c61-454a-8408-116bc41f6977/AngelaDuckworth_2013S-stageshot.jpg",
       "source": "TED",
-      "duration": 1127,
+      "duration": 359,
       "content": [
-        "When I was nine years old, I went off to summer camp for the first time. And my mother packed me a suitcase full of books, which to me seemed like a perfectly natural thing to do. Because in my family, reading was the primary group activity. And this might sound antisocial to you, but for us it was really just a different way of being social. You have the animal warmth of your family sitting right next to you, but you are also free to go roaming around the adventureland inside your own mind. And I had this idea that camp was going to be just like this, but better.",
+        "When I was 27 years old, I left a very demanding job in management consulting for a job that was even more demanding: teaching. I went to teach seventh graders math in the New York City public schools. And like any teacher, I made quizzes and tests. I gave out homework assignments. When the work came back, I calculated grades.",
+        "What struck me was that IQ was not the only difference between my best and my worst students. Some of my strongest performers did not have stratospheric IQ scores. Some of my smartest kids weren't doing so well. And that got me thinking. The kinds of things you need to learn in seventh grade math, sure, they're hard: ratios, decimals, the area of a parallelogram. But these concepts are not impossible, and I was firmly convinced that every one of my students could learn the material if they worked hard and long enough.",
+        "After several more years of teaching, I came to the conclusion that what we need in education is a much better understanding of students and learning from a motivational perspective, from a psychological perspective. In education, the one thing we know how to measure best is IQ. But what if doing well in school and in life depends on much more than your ability to learn quickly and easily?",
+        "So I left the classroom, and I went to graduate school to become a psychologist. I started studying kids and adults in all kinds of super challenging settings, and in every study my question was, who is successful here and why? My research team and I went to West Point Military Academy. We tried to predict which cadets would stay in military training and which would drop out. We went to the National Spelling Bee and tried to predict which children would advance farthest in competition. We studied rookie teachers working in really tough neighborhoods, asking which teachers are still going to be here in teaching by the end of the school year, and of those, who will be the most effective at improving learning outcomes for their students? We partnered with private companies, asking, which of these salespeople is going to keep their jobs? And who's going to earn the most money? In all those very different contexts, one characteristic emerged as a significant predictor of success. And it wasn't social intelligence. It wasn't good looks, physical health, and it wasn't IQ. It was grit.",
+        "Grit is passion and perseverance for very long-term goals. Grit is having stamina. Grit is sticking with your future, day in, day out, not just for the week, not just for the month, but for years, and working really hard to make that future a reality. Grit is living life like it's a marathon, not a sprint.",
+        "A few years ago, I started studying grit in the Chicago public schools. I asked thousands of high school juniors to take grit questionnaires, and then waited around more than a year to see who would graduate. Turns out that grittier kids were significantly more likely to graduate, even when I matched them on every characteristic I could measure, things like family income, standardized achievement test scores, even how safe kids felt when they were at school. So it's not just at West Point or the National Spelling Bee that grit matters. It's also in school, especially for kids at risk for dropping out.",
+        "To me, the most shocking thing about grit is how little we know, how little science knows, about building it. Every day, parents and teachers ask me, \"How do I build grit in kids? What do I do to teach kids a solid work ethic? How do I keep them motivated for the long run?\" The honest answer is, I don't know.",
         "(Laughter)",
-        "I had a vision of 10 girls sitting in a cabin cozily reading books in their matching nightgowns.",
-        "(Laughter)",
-        "Camp was more like a keg party without any alcohol. And on the very first day, our counselor gathered us all together and she taught us a cheer that she said we would be doing every day for the rest of the summer to instill camp spirit. And it went like this: \"R-O-W-D-I-E, that's the way we spell rowdie. Rowdie, rowdie, let's get rowdie.\"",
-        "(Laughter)",
-        "Yeah. So I couldn't figure out for the life of me why we were supposed to be so rowdy, or why we had to spell this word incorrectly.",
-        "(Laughter)",
-        "But I recited a cheer. I recited a cheer along with everybody else. I did my best. And I just waited for the time that I could go off and read my books.",
-        "But the first time that I took my book out of my suitcase, the coolest girl in the bunk came up to me and she asked me, \"Why are you being so mellow?\" -- mellow, of course, being the exact opposite of R-O-W-D-I-E. And then the second time I tried it, the counselor came up to me with a concerned expression on her face and she repeated the point about camp spirit and said we should all work very hard to be outgoing.",
-        "And so I put my books away, back in their suitcase, and I put them under my bed, and there they stayed for the rest of the summer. And I felt kind of guilty about this. I felt as if the books needed me somehow, and they were calling out to me and I was forsaking them. But I did forsake them and I didn't open that suitcase again until I was back home with my family at the end of the summer.",
-        "Now, I tell you this story about summer camp. I could have told you 50 others just like it -- all the times that I got the message that somehow my quiet and introverted style of being was not necessarily the right way to go, that I should be trying to pass as more of an extrovert. And I always sensed deep down that this was wrong and that introverts were pretty excellent just as they were. But for years I denied this intuition, and so I became a Wall Street lawyer, of all things, instead of the writer that I had always longed to be -- partly because I needed to prove to myself that I could be bold and assertive too. And I was always going off to crowded bars when I really would have preferred to just have a nice dinner with friends. And I made these self-negating choices so reflexively, that I wasn't even aware that I was making them.",
-        "Now this is what many introverts do, and it's our loss for sure, but it is also our colleagues' loss and our communities' loss. And at the risk of sounding grandiose, it is the world's loss. Because when it comes to creativity and to leadership, we need introverts doing what they do best. A third to a half of the population are introverts -- a third to a half. So that's one out of every two or three people you know. So even if you're an extrovert yourself, I'm talking about your coworkers and your spouses and your children and the person sitting next to you right now -- all of them subject to this bias that is pretty deep and real in our society. We all internalize it from a very early age without even having a language for what we're doing.",
-        "Now, to see the bias clearly, you need to understand what introversion is. It's different from being shy. Shyness is about fear of social judgment. Introversion is more about, how do you respond to stimulation, including social stimulation. So extroverts really crave large amounts of stimulation, whereas introverts feel at their most alive and their most switched-on and their most capable when they're in quieter, more low-key environments. Not all the time -- these things aren't absolute -- but a lot of the time. So the key then to maximizing our talents is for us all to put ourselves in the zone of stimulation that is right for us.",
-        "But now here's where the bias comes in. Our most important institutions, our schools and our workplaces, they are designed mostly for extroverts and for extroverts' need for lots of stimulation. And also we have this belief system right now that I call the new groupthink, which holds that all creativity and all productivity comes from a very oddly gregarious place.",
-        "So if you picture the typical classroom nowadays: When I was going to school, we sat in rows. We sat in rows of desks like this, and we did most of our work pretty autonomously. But nowadays, your typical classroom has pods of desks -- four or five or six or seven kids all facing each other. And kids are working in countless group assignments. Even in subjects like math and creative writing, which you think would depend on solo flights of thought, kids are now expected to act as committee members. And for the kids who prefer to go off by themselves or just to work alone, those kids are seen as outliers often or, worse, as problem cases. And the vast majority of teachers reports believing that the ideal student is an extrovert as opposed to an introvert, even though introverts actually get better grades and are more knowledgeable, according to research.",
-        "(Laughter)",
-        "Okay, same thing is true in our workplaces. Now, most of us work in open plan offices, without walls, where we are subject to the constant noise and gaze of our coworkers. And when it comes to leadership, introverts are routinely passed over for leadership positions, even though introverts tend to be very careful, much less likely to take outsize risks -- which is something we might all favor nowadays. And interesting research by Adam Grant at the Wharton School has found that introverted leaders often deliver better outcomes than extroverts do, because when they are managing proactive employees, they're much more likely to let those employees run with their ideas, whereas an extrovert can, quite unwittingly, get so excited about things that they're putting their own stamp on things, and other people's ideas might not as easily then bubble up to the surface.",
-        "Now in fact, some of our transformative leaders in history have been introverts. I'll give you some examples. Eleanor Roosevelt, Rosa Parks, Gandhi -- all these people described themselves as quiet and soft-spoken and even shy. And they all took the spotlight, even though every bone in their bodies was telling them not to. And this turns out to have a special power all its own, because people could feel that these leaders were at the helm not because they enjoyed directing others and not out of the pleasure of being looked at; they were there because they had no choice, because they were driven to do what they thought was right.",
-        "Now I think at this point it's important for me to say that I actually love extroverts. I always like to say some of my best friends are extroverts, including my beloved husband. And we all fall at different points, of course, along the introvert/extrovert spectrum. Even Carl Jung, the psychologist who first popularized these terms, said that there's no such thing as a pure introvert or a pure extrovert. He said that such a man would be in a lunatic asylum, if he existed at all. And some people fall smack in the middle of the introvert/extrovert spectrum, and we call these people ambiverts. And I often think that they have the best of all worlds. But many of us do recognize ourselves as one type or the other.",
-        "And what I'm saying is that culturally, we need a much better balance. We need more of a yin and yang between these two types. This is especially important when it comes to creativity and to productivity, because when psychologists look at the lives of the most creative people, what they find are people who are very good at exchanging ideas and advancing ideas, but who also have a serious streak of introversion in them.",
-        "And this is because solitude is a crucial ingredient often to creativity. So Darwin, he took long walks alone in the woods and emphatically turned down dinner-party invitations. Theodor Geisel, better known as Dr. Seuss, he dreamed up many of his amazing creations in a lonely bell tower office that he had in the back of his house in La Jolla, California. And he was actually afraid to meet the young children who read his books for fear that they were expecting him this kind of jolly Santa Claus-like figure and would be disappointed with his more reserved persona. Steve Wozniak invented the first Apple computer sitting alone in his cubicle in Hewlett-Packard where he was working at the time. And he says that he never would have become such an expert in the first place had he not been too introverted to leave the house when he was growing up.",
-        "Now, of course, this does not mean that we should all stop collaborating -- and case in point, is Steve Wozniak famously coming together with Steve Jobs to start Apple Computer -- but it does mean that solitude matters and that for some people it is the air that they breathe. And in fact, we have known for centuries about the transcendent power of solitude. It's only recently that we've strangely begun to forget it. If you look at most of the world's major religions, you will find seekers -- Moses, Jesus, Buddha, Muhammad -- seekers who are going off by themselves alone to the wilderness, where they then have profound epiphanies and revelations that they then bring back to the rest of the community. So, no wilderness, no revelations.",
-        "This is no surprise, though, if you look at the insights of contemporary psychology. It turns out that we can't even be in a group of people without instinctively mirroring, mimicking their opinions. Even about seemingly personal and visceral things like who you're attracted to, you will start aping the beliefs of the people around you without even realizing that that's what you're doing.",
-        "And groups famously follow the opinions of the most dominant or charismatic person in the room, even though there's zero correlation between being the best talker and having the best ideas -- I mean zero. So --",
-        "(Laughter)",
-        "You might be following the person with the best ideas, but you might not. And do you really want to leave it up to chance? Much better for everybody to go off by themselves, generate their own ideas freed from the distortions of group dynamics, and then come together as a team to talk them through in a well-managed environment and take it from there.",
-        "Now if all this is true, then why are we getting it so wrong? Why are we setting up our schools this way, and our workplaces? And why are we making these introverts feel so guilty about wanting to just go off by themselves some of the time? One answer lies deep in our cultural history. Western societies, and in particular the U.S., have always favored the man of action over the \"man\" of contemplation. But in America's early days, we lived in what historians call a culture of character, where we still, at that point, valued people for their inner selves and their moral rectitude. And if you look at the self-help books from this era, they all had titles with things like \"Character, the Grandest Thing in the World.\" And they featured role models like Abraham Lincoln, who was praised for being modest and unassuming. Ralph Waldo Emerson called him \"A man who does not offend by superiority.\"",
-        "But then we hit the 20th century, and we entered a new culture that historians call the culture of personality. What happened is we had evolved an agricultural economy to a world of big business. And so suddenly people are moving from small towns to the cities. And instead of working alongside people they've known all their lives, now they are having to prove themselves in a crowd of strangers. So, quite understandably, qualities like magnetism and charisma suddenly come to seem really important. And sure enough, the self-help books change to meet these new needs and they start to have names like \"How to Win Friends and Influence People.\" And they feature as their role models really great salesmen. So that's the world we're living in today. That's our cultural inheritance.",
-        "Now none of this is to say that social skills are unimportant, and I'm also not calling for the abolishing of teamwork at all. The same religions who send their sages off to lonely mountain tops also teach us love and trust. And the problems that we are facing today in fields like science and in economics are so vast and so complex that we are going to need armies of people coming together to solve them working together. But I am saying that the more freedom that we give introverts to be themselves, the more likely that they are to come up with their own unique solutions to these problems.",
-        "So now I'd like to share with you what's in my suitcase today. Guess what? Books. I have a suitcase full of books. Here's Margaret Atwood, \"Cat's Eye.\" Here's a novel by Milan Kundera. And here's \"The Guide for the Perplexed\" by Maimonides. But these are not exactly my books. I brought these books with me because they were written by my grandfather's favorite authors.",
-        "My grandfather was a rabbi and he was a widower who lived alone in a small apartment in Brooklyn that was my favorite place in the world when I was growing up, partly because it was filled with his very gentle, very courtly presence and partly because it was filled with books. I mean literally every table, every chair in this apartment had yielded its original function to now serve as a surface for swaying stacks of books. Just like the rest of my family, my grandfather's favorite thing to do in the whole world was to read.",
-        "But he also loved his congregation, and you could feel this love in the sermons that he gave every week for the 62 years that he was a rabbi. He would takes the fruits of each week's reading and he would weave these intricate tapestries of ancient and humanist thought. And people would come from all over to hear him speak.",
-        "But here's the thing about my grandfather. Underneath this ceremonial role, he was really modest and really introverted -- so much so that when he delivered these sermons, he had trouble making eye contact with the very same congregation that he had been speaking to for 62 years. And even away from the podium, when you called him to say hello, he would often end the conversation prematurely for fear that he was taking up too much of your time. But when he died at the age of 94, the police had to close down the streets of his neighborhood to accommodate the crowd of people who came out to mourn him. And so these days I try to learn from my grandfather's example in my own way.",
-        "So I just published a book about introversion, and it took me about seven years to write. And for me, that seven years was like total bliss, because I was reading, I was writing, I was thinking, I was researching. It was my version of my grandfather's hours of the day alone in his library. But now all of a sudden my job is very different, and my job is to be out here talking about it, talking about introversion.",
-        "(Laughter)",
-        "And that's a lot harder for me, because as honored as I am to be here with all of you right now, this is not my natural milieu.",
-        "So I prepared for moments like these as best I could. I spent the last year practicing public speaking every chance I could get. And I call this my \"year of speaking dangerously.\"",
-        "(Laughter)",
-        "And that actually helped a lot. But I'll tell you, what helps even more is my sense, my belief, my hope that when it comes to our attitudes to introversion and to quiet and to solitude, we truly are poised on the brink on dramatic change. I mean, we are. And so I am going to leave you now with three calls for action for those who share this vision.",
-        "Number one: Stop the madness for constant group work. Just stop it.",
-        "(Laughter)",
+        "What I do know is that talent doesn't make you gritty. Our data show very clearly that there are many talented individuals who simply do not follow through on their commitments. In fact, in our data, grit is usually unrelated or even inversely related to measures of talent.",
+        "So far, the best idea I've heard about building grit in kids is something called \"growth mindset.\" This is an idea developed at Stanford University by Carol Dweck, and it is the belief that the ability to learn is not fixed, that it can change with your effort. Dr. Dweck has shown that when kids read and learn about the brain and how it changes and grows in response to challenge, they're much more likely to persevere when they fail, because they don't believe that failure is a permanent condition.",
+        "So growth mindset is a great idea for building grit. But we need more. And that's where I'm going to end my remarks, because that's where we are. That's the work that stands before us. We need to take our best ideas, our strongest intuitions, and we need to test them. We need to measure whether we've been successful, and we have to be willing to fail, to be wrong, to start over again with lessons learned.",
+        "In other words, we need to be gritty about getting our kids grittier.",
         "Thank you.",
-        "(Applause)",
-        "And I want to be clear about what I'm saying, because I deeply believe our offices should be encouraging casual, chatty cafe-style types of interactions -- you know, the kind where people come together and serendipitously have an exchange of ideas. That is great. It's great for introverts and it's great for extroverts. But we need much more privacy and much more freedom and much more autonomy at work. School, same thing. We need to be teaching kids to work together, for sure, but we also need to be teaching them how to work on their own. This is especially important for extroverted children too. They need to work on their own because that is where deep thought comes from in part.",
-        "Okay, number two: Go to the wilderness. Be like Buddha, have your own revelations. I'm not saying that we all have to now go off and build our own cabins in the woods and never talk to each other again, but I am saying that we could all stand to unplug and get inside our own heads a little more often.",
-        "Number three: Take a good look at what's inside your own suitcase and why you put it there. So extroverts, maybe your suitcases are also full of books. Or maybe they're full of champagne glasses or skydiving equipment. Whatever it is, I hope you take these things out every chance you get and grace us with your energy and your joy. But introverts, you being you, you probably have the impulse to guard very carefully what's inside your own suitcase. And that's okay. But occasionally, just occasionally, I hope you will open up your suitcases for other people to see, because the world needs you and it needs the things you carry.",
-        "So I wish you the best of all possible journeys and the courage to speak softly.",
-        "Thank you very much.",
-        "(Applause)",
-        "Thank you. Thank you.",
         "(Applause)"
       ],
       "dataSources": [
@@ -378,87 +340,176 @@
   "news": {
     "domestic": [
       {
-        "title": "今年国庆假期小客车上高速继续免收通行费",
-        "link": "https://www.news.cn/fortune/20260924/1feff9caf8d3460794dae56736ed77d5/c.html",
-        "summary": "新华社权威快报丨2026年国庆假期小客车上高速继续免收通行费-",
+        "title": "《中国科学院“十五五”发展规划》发布",
+        "link": "https://www.news.cn/politics/20260928/db1b8d4998784dc895a496c867c0ad61/c.html",
+        "summary": "记者9月28日从中国科学院获悉，《中国科学院“十五五”发展规划》近日正式发布。规划聚焦抢占科技制高点核心任务，明确了“十五五”时期中国科学院科技事业发展的战略重点，围绕基础研究、战略高技术和可持续发展三大领域体系化部署科技攻关重点方向，着力…",
         "source": "新华网",
         "pub": "",
-        "heat": 90,
-        "heatRaw": 83,
+        "heat": 92,
+        "heatRaw": 86,
         "heatParts": {
           "cross": 22,
           "auth": 14,
           "rank": 23,
           "fresh": 23,
-          "kw": 0
+          "kw": 4
         },
-        "crossCount": 4,
-        "reportCount": 5,
+        "crossCount": 3,
+        "reportCount": 3,
         "sources": [
           "新华网",
           "中国新闻网",
-          "中国经济网",
-          "澎湃新闻"
+          "中国经济网"
         ]
       },
       {
-        "title": "习近平抵达华盛顿对美国进行国事访问",
-        "link": "https://www.news.cn/politics/leaders/20260924/ac8d5ae9674b406abc946d13c7d3204d/c.html",
-        "summary": "当地时间9月23日下午，国家主席习近平乘专机抵达华盛顿，应美国总统特朗普邀请，对美国进行国事访问。习近平和夫人彭丽媛抵达华盛顿安德鲁斯空军基地时，特朗普和夫人梅拉尼娅热情迎接。这是习近平和夫人彭丽媛步出舱门。 新华社记者 刘彬 摄",
-        "source": "新华网",
+        "title": "习近平结束对美国的国事访问回到北京",
+        "link": "http://politics.people.com.cn/n1/2026/0926/c1024-40806006.html",
+        "summary": "新华社北京9月26日电9月26日下午，国家主席习近平圆满结束对美国的国事访问回到北京。习近平主席夫人彭丽媛，中共中央政治局常委、中央办公厅主任蔡奇，中共中央政治局委员、外交部部长王毅，中共中央政治局委",
+        "source": "人民网",
         "pub": "",
-        "heat": 82,
-        "heatRaw": 70,
+        "heat": 85,
+        "heatRaw": 75,
         "heatParts": {
           "cross": 11,
           "auth": 14,
-          "rank": 19,
-          "fresh": 19,
+          "rank": 23,
+          "fresh": 21,
           "kw": 6
         },
         "crossCount": 2,
-        "reportCount": 4,
+        "reportCount": 2,
         "sources": [
           "人民网",
           "新华网"
         ]
       },
       {
-        "title": "国新办发布会聚焦“十五五”时期民政事业高质量发展",
-        "link": "https://www.ce.cn/xwzx/gnsz/gdxw/202609/t20260924_3234633.shtml",
-        "summary": "新华社北京9月23日电 题：以满足人民美好生活需要为目标——国新办发布会聚焦“十五五”时期民政事业高质量发展",
-        "source": "中国经济网",
-        "pub": "",
-        "heat": 81,
-        "heatRaw": 68,
+        "title": "9月28日新闻早报",
+        "link": "https://www.chinanews.com.cn/iframe/2026/09-28/10704642.shtml",
+        "summary": "记者手记：月圆时，他们上赛场 欢迎习近平到访白宫，特朗普专门提到一个中文词语",
+        "source": "中国新闻网",
+        "pub": "Mon, 28 Sep 2026 06:55:16 +0800",
+        "heat": 84,
+        "heatRaw": 74,
         "heatParts": {
           "cross": 11,
-          "auth": 12,
+          "auth": 13,
           "rank": 22,
-          "fresh": 19,
-          "kw": 4
+          "fresh": 23,
+          "kw": 6
         },
         "crossCount": 2,
         "reportCount": 2,
         "sources": [
+          "中国新闻网",
+          "澎湃新闻"
+        ]
+      },
+      {
+        "title": "第48届世界技能大赛闭幕",
+        "link": "https://www.news.cn/photo/20260927/50750d7299964380997b074c04f0ff81/c.html",
+        "summary": "第48届世界技能大赛闭幕-9月27日，第48届世界技能大赛在上海闭幕。",
+        "source": "新华网",
+        "pub": "",
+        "heat": 82,
+        "heatRaw": 70,
+        "heatParts": {
+          "cross": 22,
+          "auth": 14,
+          "rank": 10,
+          "fresh": 23,
+          "kw": 0
+        },
+        "crossCount": 3,
+        "reportCount": 4,
+        "sources": [
+          "新华网",
+          "中国新闻网",
+          "中国经济网"
+        ]
+      },
+      {
+        "title": "（爱知·名古屋亚运会）陈圆将摘田径男子110米栏金牌",
+        "link": "http://www.chinanews.com.cn/tp/hd2011/2026/09-28/1206194.shtml",
+        "summary": "当地时间9月27日，在2026爱知·名古屋亚运会田径男子110米栏决赛中，中国选手陈圆将以13秒15摘得金牌。",
+        "source": "中国新闻网",
+        "pub": "Mon, 28 Sep 2026 08:22:32 +0800",
+        "heat": 82,
+        "heatRaw": 71,
+        "heatParts": {
+          "cross": 11,
+          "auth": 13,
+          "rank": 23,
+          "fresh": 23,
+          "kw": 0
+        },
+        "crossCount": 2,
+        "reportCount": 5,
+        "sources": [
+          "中国新闻网",
+          "网易新闻"
+        ]
+      },
+      {
+        "title": "高铁集中上新！四条新线今日开通",
+        "link": "https://www.chinanews.com.cn/sh/2026/09-28/10704644.shtml",
+        "summary": "国庆假期即将到来，我国高铁网络将再次扩容。今天(9月28日)，京港高铁雄商段、西渝高铁西安至安康段、宜兴高铁、哈伊高铁等四条高铁线路集中开通运营，新开线路覆盖华北、东北、西北、华中四大区域，多地正式迈入高铁时代。",
+        "source": "中国新闻网",
+        "pub": "Mon, 28 Sep 2026 07:21:48 +0800",
+        "heat": 82,
+        "heatRaw": 70,
+        "heatParts": {
+          "cross": 22,
+          "auth": 13,
+          "rank": 12,
+          "fresh": 23,
+          "kw": 0
+        },
+        "crossCount": 3,
+        "reportCount": 4,
+        "sources": [
+          "中国新闻网",
           "中国经济网",
           "澎湃新闻"
         ]
       },
       {
-        "title": "【“十五五”开好局起好步】锚定蓝图 加快建设教育强国",
-        "link": "https://www.ce.cn/xwzx/gnsz/gdxw/202609/t20260924_3234736.shtml",
-        "summary": "央视网消息（新闻联播）：国务院新闻办9月23日举行“开局起步‘十五五’”系列主题新闻发布会，教育部相关负责人介绍贯彻落实“十五五”规划，加快推进教育强国建设有关情况。",
+        "title": "习近平主席美国之行",
+        "link": "https://www.news.cn/politics/leaders/20260926/4d528236f00a4cce8b5f57059e2af245/c.html",
+        "summary": "（该来源未提供摘要，点击右侧「查看原链接」阅读全文）",
+        "source": "新华网",
+        "pub": "",
+        "heat": 80,
+        "heatRaw": 66,
+        "heatParts": {
+          "cross": 11,
+          "auth": 14,
+          "rank": 22,
+          "fresh": 13,
+          "kw": 6
+        },
+        "crossCount": 2,
+        "reportCount": 3,
+        "sources": [
+          "人民网",
+          "新华网"
+        ]
+      },
+      {
+        "title": "央行：综合运用并适时调整货币政策工具",
+        "link": "https://www.ce.cn/xwzx/gnsz/gdxw/202609/t20260928_3239013.shtml",
+        "summary": "● 本报记者 彭扬 中国人民银行9月24日消息，中国人民银行货币政策委员会近日召开的2026年第三季度（总第114次）例会提出，发挥增量政策和存量政策集成效应，增强政策前瞻性灵活性针对性；综合运用并适时调整货币政策工具，保持流动性充裕，使社…",
         "source": "中国经济网",
         "pub": "",
-        "heat": 81,
-        "heatRaw": 68,
+        "heat": 76,
+        "heatRaw": 61,
         "heatParts": {
           "cross": 0,
           "auth": 12,
-          "rank": 23,
-          "fresh": 19,
-          "kw": 14
+          "rank": 20,
+          "fresh": 21,
+          "kw": 8
         },
         "crossCount": 1,
         "reportCount": 1,
@@ -467,241 +518,195 @@
         ]
       },
       {
-        "title": "“北大仓”迎来丰收季",
-        "link": "https://www.news.cn/local/20260923/6b2c798d3d6f48b49f62e266dd01a408/c.html",
-        "summary": "这是9月21日在黑龙江佳木斯市汤原县拍摄的一处水稻收获现场（无人机照片）。新华社发（朱宗强摄）",
-        "source": "新华网",
-        "pub": "",
-        "heat": 79,
-        "heatRaw": 65,
-        "heatParts": {
-          "cross": 11,
-          "auth": 14,
-          "rank": 22,
-          "fresh": 19,
-          "kw": 0
-        },
-        "crossCount": 2,
-        "reportCount": 2,
-        "sources": [
-          "新华网",
-          "中国经济网"
-        ]
-      },
-      {
-        "title": "超低排放改造、提高产业集中度 我国钢铁产业提质转型",
-        "link": "https://www.chinanews.com.cn/cj/2026/09-24/10703052.shtml",
-        "summary": "近日，中钢协发布8月钢铁行业运行情况，钢铁产量持续收缩，行业运行贴合高质量发展调控导向。",
-        "source": "中国新闻网",
-        "pub": "Thu, 24 Sep 2026 15:58:42 +0800",
-        "heat": 79,
-        "heatRaw": 65,
-        "heatParts": {
-          "cross": 11,
-          "auth": 13,
-          "rank": 14,
-          "fresh": 23,
-          "kw": 4
-        },
-        "crossCount": 2,
-        "reportCount": 2,
-        "sources": [
-          "中国新闻网",
-          "中国经济网"
-        ]
-      },
-      {
-        "title": "商务部：中美第八轮经贸磋商达成多项共识",
-        "link": "https://www.chinanews.com.cn/cj/2026/09-24/10703050.shtml",
-        "summary": "中新网9月24日电 商务部24日举行例行新闻发布会。会上，新闻发言人何亚东就中美经贸团队在美国纽约举行的第八轮经贸磋商相关情况进行回应。",
-        "source": "中国新闻网",
-        "pub": "Thu, 24 Sep 2026 16:01:28 +0800",
-        "heat": 78,
-        "heatRaw": 63,
-        "heatParts": {
-          "cross": 11,
-          "auth": 13,
-          "rank": 12,
-          "fresh": 23,
-          "kw": 4
-        },
-        "crossCount": 2,
-        "reportCount": 2,
-        "sources": [
-          "中国新闻网",
-          "中国经济网"
-        ]
-      },
-      {
-        "title": "一见丨“推动中美关系这艘巨轮沿着正确航道平稳前行”",
-        "link": "https://world.people.com.cn/n1/2026/0924/c1002-40804599.html",
-        "summary": "开栏的话 时代浪潮奔涌，复兴步履坚实。领袖足迹所至，是国情民意所向；时政新闻现场，是观察中国的第一窗口。 “一见”由此出发。第一时间抵达现场，定格历史瞬间；第一视角聚焦观察，捕捉动人细节；第一",
-        "source": "人民网",
-        "pub": "",
-        "heat": 74,
-        "heatRaw": 56,
+        "title": "符文迪保研人大后首度发长文 曾因高考誓师演讲遭网暴",
+        "link": "https://www.163.com/dy/article/L7S8OC9D053469LG.html",
+        "summary": "高考前被网暴的“百日誓师演讲”女孩保研人大后首度发长文，感谢每一个照亮她的人：被世界温柔以待从来不是出厂设置，而是意外之喜,保研,高考,高三,百日誓师演讲",
+        "source": "网易新闻",
+        "pub": "2026-09-27 22:30:10",
+        "heat": 75,
+        "heatRaw": 58,
         "heatParts": {
           "cross": 0,
-          "auth": 14,
-          "rank": 23,
-          "fresh": 19,
+          "auth": 11,
+          "rank": 22,
+          "fresh": 21,
+          "kw": 5
+        },
+        "crossCount": 1,
+        "reportCount": 1,
+        "sources": [
+          "网易新闻"
+        ]
+      },
+      {
+        "title": "商业不动产REITs开启多层次发展新格局",
+        "link": "https://www.ce.cn/xwzx/gnsz/gdxw/202609/t20260928_3239014.shtml",
+        "summary": "● 本报记者 昝秀丽 汇添富顺联商业REIT、华夏凯华商业REIT、华夏世纪金源商业REIT9月24日同日获受理，商业不动产公募REITs又迎新成员。一系列项目集中推进，释放出有关部门稳慎推进商业不动产REITs发展的明确信号。",
+        "source": "中国经济网",
+        "pub": "",
+        "heat": 73,
+        "heatRaw": 55,
+        "heatParts": {
+          "cross": 0,
+          "auth": 12,
+          "rank": 22,
+          "fresh": 21,
           "kw": 0
         },
         "crossCount": 1,
-        "reportCount": 2,
+        "reportCount": 1,
         "sources": [
-          "人民网"
-        ]
-      },
-      {
-        "title": "中美关系的根基由人民浇筑,未来靠青年创造",
-        "link": "http://world.people.com.cn/n1/2026/0924/c1002-40804618.html",
-        "summary": "4月19日，2026年“汉语桥”美国青年学生来华团组研学暨“儒风齐鲁水城有约”文化交流活动在山东聊城举行。图为美国青年学生在体验划龙舟。 马红坤摄（人民视觉） 4月16日，中美青年乒乓球友谊赛",
-        "source": "人民网",
-        "pub": "",
-        "heat": 74,
-        "heatRaw": 57,
-        "heatParts": {
-          "cross": 11,
-          "auth": 14,
-          "rank": 13,
-          "fresh": 19,
-          "kw": 0
-        },
-        "crossCount": 2,
-        "reportCount": 2,
-        "sources": [
-          "人民网",
           "中国经济网"
         ]
+      }
+    ],
+    "world": [
+      {
+        "title": "习近平主席对美国进行国事访问纪实",
+        "link": "https://www.news.cn/world/20260928/da7a396f7ad04f4b96ac54aafea172b3/c.html",
+        "summary": "大国正确相处的新路，就在脚下——习近平主席对美国进行国事访问纪实-",
+        "source": "新华网",
+        "pub": "",
+        "heat": 95,
+        "heatRaw": 91,
+        "heatParts": {
+          "cross": 22,
+          "auth": 14,
+          "rank": 23,
+          "fresh": 21,
+          "kw": 11
+        },
+        "crossCount": 3,
+        "reportCount": 3,
+        "sources": [
+          "新华网",
+          "海外网",
+          "国际在线"
+        ]
       },
       {
-        "title": "中国研发竞赛系统护航亚运会电竞赛事",
-        "link": "https://www.chinanews.com.cn/cj/2026/09-24/10703073.shtml",
-        "summary": "中国日报9月22日电 (记者 李映雪) 第20届亚运会电子竞技项目将于9月22日至10月2日举行，这是电子竞技第二次作为正式奖牌项目列入亚运会竞赛日程，共设11个小项，规模为历届之最。9月20日，腾讯电竞宣布成为第20届亚运会电竞解决方案提…",
+        "title": "武契奇辞去塞尔维亚总统职务 准备竞选下届政府总理",
+        "link": "https://news.cri.cn/20260928/d8bb6b19-ec33-2379-767b-ccb71c29b95f.html",
+        "summary": "新华社贝尔格莱德9月27日电（记者张璇石中玉）塞尔维亚总统武契奇27日提交辞呈，辞去总统职务。根据此前宣布，他将竞选下届政府总理。 根据塞尔维亚宪法及《总统法》，总统向国民议会议长提交书面辞呈，辞呈送达国民议会后，其任期于当日终止，无",
+        "source": "国际在线",
+        "pub": "",
+        "heat": 92,
+        "heatRaw": 87,
+        "heatParts": {
+          "cross": 22,
+          "auth": 13,
+          "rank": 14,
+          "fresh": 23,
+          "kw": 14
+        },
+        "crossCount": 3,
+        "reportCount": 4,
+        "sources": [
+          "海外网",
+          "国际在线",
+          "中国新闻网"
+        ]
+      },
+      {
+        "title": "沙特称霍尔木兹海峡须恢复至“战前状态”",
+        "link": "https://www.news.cn/world/20260927/5dff1c3eedb94e9f8af6ebceb9946beb/c.html",
+        "summary": "新华社联合国9月26日电（记者高山）沙特阿拉伯外交大臣费萨尔26日在第81届联合国大会一般性辩论发言中表示，霍尔木兹海峡必须恢复到2月28日之前的状态，不得收取任何费用或设置限制。",
+        "source": "新华网",
+        "pub": "",
+        "heat": 81,
+        "heatRaw": 68,
+        "heatParts": {
+          "cross": 22,
+          "auth": 14,
+          "rank": 6,
+          "fresh": 21,
+          "kw": 5
+        },
+        "crossCount": 3,
+        "reportCount": 3,
+        "sources": [
+          "新华网",
+          "海外网",
+          "中国新闻网"
+        ]
+      },
+      {
+        "title": "武契奇辞职，承认在执政期间“犯过很多错误”",
+        "link": "https://www.chinanews.com.cn/gj/2026/09-28/10704663.shtml",
+        "summary": "原标题：武契奇辞职，承认在执政期间“犯过很多错误”，“但战争才刚刚开始！没有那把交椅，我们也能打败他们”",
         "source": "中国新闻网",
-        "pub": "Thu, 24 Sep 2026 16:17:13 +0800",
-        "heat": 74,
-        "heatRaw": 57,
+        "pub": "Mon, 28 Sep 2026 08:25:06 +0800",
+        "heat": 79,
+        "heatRaw": 65,
         "heatParts": {
           "cross": 0,
           "auth": 13,
-          "rank": 22,
+          "rank": 23,
           "fresh": 23,
-          "kw": 0
+          "kw": 6
         },
         "crossCount": 1,
         "reportCount": 1,
         "sources": [
           "中国新闻网"
         ]
-      }
-    ],
-    "world": [
-      {
-        "title": "习近平抵达华盛顿对美国进行国事访问",
-        "link": "https://www.news.cn/world/20260924/3ee4b0dd0cc2480fafce072b3c1e02b0/c.html",
-        "summary": "当地时间9月23日下午，国家主席习近平乘专机抵达华盛顿，应美国总统特朗普邀请，对美国进行国事访问。习近平和夫人彭丽媛抵达华盛顿安德鲁斯空军基地时，特朗普和夫人梅拉尼娅热情迎接。这是习近平和夫人彭丽媛步出舱门。",
-        "source": "新华网",
-        "pub": "",
-        "heat": 94,
-        "heatRaw": 90,
-        "heatParts": {
-          "cross": 22,
-          "auth": 14,
-          "rank": 23,
-          "fresh": 19,
-          "kw": 11
-        },
-        "crossCount": 3,
-        "reportCount": 8,
-        "sources": [
-          "新华网",
-          "海外网",
-          "国际在线"
-        ]
       },
       {
-        "title": "国纪平：锚定新定位，推动中美建设性战略稳定关系行稳致远",
-        "link": "https://news.haiwainet.cn/n/2026/0922/c3543307-32984878.html",
-        "summary": "历史长河浩荡奔涌，大国关系的航船，总在时代大潮中不断校准前行航向。应美利坚合众国总统特朗普邀请，习近平主席将于9月23日至25日对美国进行国事访问。两国元首在半...",
-        "source": "海外网",
-        "pub": "",
-        "heat": 85,
-        "heatRaw": 75,
+        "title": "美伊对峙7个月 美称本周将继续与伊谈判 伊称尚未放弃外交途径",
+        "link": "https://www.chinanews.com.cn/gj/2026/09-28/10704645.shtml",
+        "summary": "自2月28日美以伊冲突爆发至今，美伊对峙已持续七个月。 冲突爆发后，霍尔木兹海峡通航持续受阻。美伊6月中旬曾达成一份谅解备忘录，但备忘录生效不久便遭破坏。",
+        "source": "中国新闻网",
+        "pub": "Mon, 28 Sep 2026 07:23:36 +0800",
+        "heat": 78,
+        "heatRaw": 63,
         "heatParts": {
-          "cross": 11,
+          "cross": 0,
           "auth": 13,
           "rank": 20,
-          "fresh": 19,
-          "kw": 11
+          "fresh": 23,
+          "kw": 6
         },
-        "crossCount": 2,
+        "crossCount": 1,
         "reportCount": 4,
         "sources": [
-          "海外网",
-          "国际在线"
+          "中国新闻网"
         ]
       },
       {
-        "title": "UN General Assembly begins general debate",
-        "link": "https://www.chinadaily.com.cn/a/202609/23/WS6ab3327fe4b06d4aa055fb17.html",
-        "summary": "UNITED NATIONS -- The General Debate of the 81st session of the UN General Assembly opened at the UN headquarters in New…",
-        "source": "中国日报网",
-        "pub": "",
-        "heat": 84,
-        "heatRaw": 73,
+        "title": "Five arrested near UK air base used by U.S. bombers in Iran war",
+        "link": "https://www.npr.org/2026/09/27/nx-s1-5982718/five-arrested-near-uk-air-base-used-by-u-s-bombers-in-iran-war",
+        "summary": "U.K. police say five men were arrested on suspicion of preparation of a terrorist act after three vehicles were spotted …",
+        "source": "NPR",
+        "pub": "Sun, 27 Sep 2026 17:14:44 -0400",
+        "heat": 78,
+        "heatRaw": 63,
         "heatParts": {
-          "cross": 22,
-          "auth": 13,
-          "rank": 19,
+          "cross": 0,
+          "auth": 12,
+          "rank": 23,
           "fresh": 19,
-          "kw": 0
+          "kw": 9
         },
-        "crossCount": 3,
-        "reportCount": 4,
+        "crossCount": 1,
+        "reportCount": 2,
         "sources": [
-          "中国日报网",
-          "CGTN",
           "NPR"
         ]
       },
       {
-        "title": "观天下｜联大辩论首日　多国领导人呼吁直面巴以冲突",
-        "link": "https://www.news.cn/world/20260923/fc66c68a1d2f4b17af27e4e607e14b64/c.html",
-        "summary": "新华社北京9月23日电　第81届联合国大会一般性辩论22日在纽约联合国总部开幕。多国领导人在发言中呼吁国际社会直面巴勒斯坦问题，并谴责以色列在加沙地带、约旦河西岸的行为以及侵犯叙利亚、黎巴嫩主权。联合国秘书长古特雷斯说，留给“两国方案”的时…",
+        "title": "伊朗外长：等待调解方转达重开海峡计划美方最终意见",
+        "link": "https://www.news.cn/world/20260927/2c26a7c0711147c0bcb034c3c39a81c9/c.html",
+        "summary": "新华社纽约9月26日电　伊朗外长阿拉格齐26日在社交媒体说，伊朗方面在联合国大会期间已通过调解方向美方充分、详细转达了由伊朗最高国家安全委员会确定的、旨在重开霍尔木兹海峡和推进谈判的各项条件，目前正等待调解方转达美方最终意见。",
         "source": "新华网",
         "pub": "",
-        "heat": 83,
-        "heatRaw": 72,
+        "heat": 77,
+        "heatRaw": 61,
         "heatParts": {
           "cross": 11,
           "auth": 14,
-          "rank": 23,
-          "fresh": 13,
-          "kw": 11
-        },
-        "crossCount": 2,
-        "reportCount": 2,
-        "sources": [
-          "新华网",
-          "海外网"
-        ]
-      },
-      {
-        "title": "伊朗总统联大演讲誓言“永不屈膝投降”",
-        "link": "https://www.news.cn/world/20260924/611b791880f34a3b805b8e72968db69f/c.html",
-        "summary": "9月23日，在位于纽约的联合国总部，伊朗总统佩泽希齐扬在第81届联合国大会一般性辩论上发言。新华社记者 吴晓凌 摄",
-        "source": "新华网",
-        "pub": "",
-        "heat": 82,
-        "heatRaw": 70,
-        "heatParts": {
-          "cross": 11,
-          "auth": 14,
-          "rank": 19,
-          "fresh": 21,
-          "kw": 5
+          "rank": 7,
+          "fresh": 19,
+          "kw": 9
         },
         "crossCount": 2,
         "reportCount": 3,
@@ -711,171 +716,106 @@
         ]
       },
       {
-        "title": "Global economic growth projected at 2.9% in 2026: OECD",
-        "link": "https://www.chinadaily.com.cn/a/202609/23/WS6ab38b96e4b06d4aa055fc8d.html",
-        "summary": "PARIS - Global economic growth is projected to be 2.9 percent in 2026 and 3.0 percent in 2027, according to the Economic…",
-        "source": "中国日报网",
-        "pub": "",
-        "heat": 82,
-        "heatRaw": 70,
+        "title": "特朗普：预计美伊将在几天内重启谈判",
+        "link": "https://www.chinanews.com.cn/gj/2026/09-28/10704640.shtml",
+        "summary": "中新网9月28日电 据美国阿克西奥斯新闻网站报道，美国总统特朗普27日在接受该媒体电话采访时表示，他预计美国和伊朗将在接下来一周内重启谈判。",
+        "source": "中国新闻网",
+        "pub": "Mon, 28 Sep 2026 06:51:54 +0800",
+        "heat": 75,
+        "heatRaw": 58,
         "heatParts": {
-          "cross": 22,
+          "cross": 0,
           "auth": 13,
-          "rank": 16,
-          "fresh": 19,
-          "kw": 0
+          "rank": 17,
+          "fresh": 23,
+          "kw": 5
         },
-        "crossCount": 3,
-        "reportCount": 4,
+        "crossCount": 1,
+        "reportCount": 1,
         "sources": [
-          "中国日报网",
-          "海外网",
           "中国新闻网"
         ]
       },
       {
-        "title": "Cooperation crucial to global AI governance",
-        "link": "https://www.chinadaily.com.cn/a/202609/23/WS6ab3221be4b06d4aa055fa28.html",
-        "summary": "Thomas Friedman, a renowned columnist for the New York Times, put forward a compelling argument: the United States and C…",
+        "title": "Xi's US visit fuels European discussions over prospects for China-US stability",
+        "link": "https://www.chinadaily.com.cn/a/202609/26/WS6ab7b865e4b06d4aa05605b5.html",
+        "summary": "President Xi Jinping's state visit to the United States and his remarks at a welcome ceremony at the White House have sp…",
         "source": "中国日报网",
         "pub": "",
-        "heat": 78,
-        "heatRaw": 64,
+        "heat": 74,
+        "heatRaw": 56,
         "heatParts": {
           "cross": 11,
           "auth": 13,
-          "rank": 12,
-          "fresh": 19,
-          "kw": 9
+          "rank": 17,
+          "fresh": 13,
+          "kw": 0
         },
         "crossCount": 2,
-        "reportCount": 2,
+        "reportCount": 4,
         "sources": [
           "中国日报网",
           "CGTN"
         ]
       },
       {
-        "title": "OpenAI's breach of Australian health department website prompts rebuke",
-        "link": "https://www.npr.org/2026/09/24/g-s1-144835/openai-breach-australia",
-        "summary": "Prime Minister Anthony Albanese said he was extremely concerned about OpenAI 's breach of an Australian health departmen…",
-        "source": "NPR",
-        "pub": "Thu, 24 Sep 2026 01:14:11 -0400",
-        "heat": 76,
-        "heatRaw": 61,
-        "heatParts": {
-          "cross": 0,
-          "auth": 12,
-          "rank": 22,
-          "fresh": 19,
-          "kw": 8
-        },
-        "crossCount": 1,
-        "reportCount": 1,
-        "sources": [
-          "NPR"
-        ]
-      },
-      {
-        "title": "南非夸纳省枪击事件致11人死亡 警方启动72小时追捕行动",
-        "link": "https://www.chinanews.com.cn/gj/2026/09-24/10702841.shtml",
-        "summary": "中新网约翰内斯堡9月24日电(记者 孙翔)南非代理国家警察总监普伦·迪姆帕内(Puleng Dimpane)23日指示夸祖卢-纳塔尔省(简称夸纳省)警察总监立即启动为期72小时的追捕行动，搜捕涉嫌枪杀11人的3名男子。",
-        "source": "中国新闻网",
-        "pub": "Thu, 24 Sep 2026 10:56:17 +0800",
-        "heat": 75,
-        "heatRaw": 59,
+        "title": "锐财经 | 未来五年，自然资源更好支撑高质量发展",
+        "link": "https://news.haiwainet.cn/n/2026/0928/c3541093-32986336.html",
+        "summary": "湖北省十堰市竹溪县中峰镇的稻田。帅昀摄（人民视觉）全国探矿权出让成交金额同比增长133.5%，石油新增可采储量近7000万吨，天然气新增可采储量6100亿立方米...",
+        "source": "海外网",
+        "pub": "",
+        "heat": 71,
+        "heatRaw": 51,
         "heatParts": {
           "cross": 0,
           "auth": 13,
-          "rank": 23,
-          "fresh": 23,
+          "rank": 17,
+          "fresh": 21,
           "kw": 0
         },
         "crossCount": 1,
         "reportCount": 1,
         "sources": [
-          "中国新闻网"
-        ]
-      },
-      {
-        "title": "伊朗总统：愿意谈判合作 不接受强权威胁",
-        "link": "https://www.chinanews.com.cn/gj/2026/09-24/10702671.shtml",
-        "summary": "当地时间9月23日，伊朗总统佩泽希齐扬在第81届联合国大会一般性辩论上发表讲话。他表示，伊朗愿意谈判与合作，但不会接受以强权、制裁或军事威胁迫使其让步，和平必须建立在公平、正义、尊严和各国平等权利的基础上。",
-        "source": "中国新闻网",
-        "pub": "Thu, 24 Sep 2026 00:19:19 +0800",
-        "heat": 75,
-        "heatRaw": 58,
-        "heatParts": {
-          "cross": 0,
-          "auth": 13,
-          "rank": 16,
-          "fresh": 19,
-          "kw": 11
-        },
-        "crossCount": 1,
-        "reportCount": 1,
-        "sources": [
-          "中国新闻网"
+          "海外网"
         ]
       }
     ],
     "medical": [
       {
-        "title": "从“治好病”到“过好人生”，探寻淋巴瘤长生存的实践",
-        "link": "https://www.news.cn/health/20260924/6abef77bbc754d0fa2a2ca22457f03fd/c.html",
-        "summary": "从“治好病”到“过好人生”，探寻淋巴瘤长生存的实践-\"而这场旅程的最终方向，是让患者通过规范的治疗管理，实现“高质量长生存”——不仅活得更久，还要活得更好，重新被世界温柔以待。\"",
-        "source": "新华网·健康",
-        "pub": "",
-        "heat": 76,
-        "heatRaw": 60,
-        "heatParts": {
-          "cross": 0,
-          "auth": 13,
-          "rank": 23,
-          "fresh": 19,
-          "kw": 5
-        },
-        "crossCount": 1,
-        "reportCount": 1,
-        "sources": [
-          "新华网·健康"
-        ]
-      },
-      {
-        "title": "勇担疾控使命 赋能人才成长中国疾病预防控制中心（中国预防医学科学院）举...",
-        "link": "https://www.chinacdc.cn/zxyw/202609/t20260924_1841794.html",
-        "summary": "王健伟主任（院长）在开班仪式上的讲话中指出，青年人才是公共卫生科技创新的生力军，是疾控事业接续发展的中坚力量，要厚植家国情怀、筑牢信仰根基，坚持学用结合、知行合一，在疾病预防控制事业高质量发展中勇担使命、建功立业。张国新书记勉励青年人才要坚…",
+        "title": "2026年全国疾控系统青年马克思主义者培养工程培训班...",
+        "link": "https://www.chinacdc.cn/zxyw/202609/t20260924_1841807.html",
+        "summary": "2026年9月23-24日，全国疾控系统青年马克思主义者培养工程培训班在湖南长沙举办。中国疾控中心（中国预科院）党委副书记周宇辉，湖南省疾控中心党委书记朱丽辉，湖南省卫生健康委直属机关党委副书记、机关纪委书记、机关团委书记杨彪出席培训班并讲…",
         "source": "中国疾控中心",
         "pub": "",
-        "heat": 76,
-        "heatRaw": 59,
+        "heat": 72,
+        "heatRaw": 54,
         "heatParts": {
           "cross": 0,
           "auth": 13,
-          "rank": 16,
-          "fresh": 19,
-          "kw": 11
+          "rank": 22,
+          "fresh": 7,
+          "kw": 10
         },
         "crossCount": 1,
-        "reportCount": 2,
+        "reportCount": 3,
         "sources": [
           "中国疾控中心"
         ]
       },
       {
-        "title": "创新驱动生物医药走出“跟风仿创”",
-        "link": "https://jiankang.cctv.com/2026/09/23/ARTINqhop0Mku6HYKfkeW3Ly260923.shtml",
-        "summary": "医药“十五五”规划剑指“跟风仿创”，目标2030年全球首创新药占比超25%，AI已让候选分子发现周期缩短40%。",
+        "title": "中秋国庆出行 健康防护别“掉队”",
+        "link": "https://jiankang.cctv.com/2026/09/24/ARTI1xgdBwgIdShsy1QqxpU8260924.shtml",
+        "summary": "秋分已至，昼夜温差拉大。中秋国庆假期临近，出行人员增多。换季叠加人流，假期出行健康需要关注。今日，国家卫健委召开“时令节气与健康”发布会，提醒大家假期出行做好健康防护。",
         "source": "央视网·健康",
         "pub": "",
-        "heat": 76,
-        "heatRaw": 60,
+        "heat": 72,
+        "heatRaw": 53,
         "heatParts": {
           "cross": 0,
           "auth": 13,
           "rank": 23,
-          "fresh": 13,
-          "kw": 10
+          "fresh": 7,
+          "kw": 9
         },
         "crossCount": 1,
         "reportCount": 1,
@@ -884,19 +824,40 @@
         ]
       },
       {
-        "title": "创新赋能免疫 全球疫苗供应迈向多极",
-        "link": "https://www.news.cn/health/20260923/635a257806474bb29ffc6cb197840627/c.html",
-        "summary": "创新赋能免疫 全球疫苗供应迈向多极-苏里对中国疫苗产业的创新能力给予高度评价： 中国已经成为疫苗创新的重要中心。",
-        "source": "新华网·健康",
+        "title": "《生物医学与环境科学》期刊2026年编委会会议暨第一...",
+        "link": "https://www.chinacdc.cn/zxyw/202609/t20260924_1841808.html",
+        "summary": "9月23日，《生物医学与环境科学（英文）》期刊2026年编委会会议暨第一届青年编委会成立大会在北京召开。中心（院）王健伟主任（院长），期刊主编施小明副主任（副院长），以及来自全国疾控机构、科研院所、高等院校的编委120余人参加会议。",
+        "source": "中国疾控中心",
         "pub": "",
-        "heat": 73,
+        "heat": 72,
         "heatRaw": 54,
         "heatParts": {
           "cross": 0,
           "auth": 13,
+          "rank": 23,
+          "fresh": 7,
+          "kw": 10
+        },
+        "crossCount": 1,
+        "reportCount": 1,
+        "sources": [
+          "中国疾控中心"
+        ]
+      },
+      {
+        "title": "让生机再次绽放：一位aHUS患者的闯关与坚守",
+        "link": "https://www.news.cn/health/20260924/cf6ca44089094bedb916ec0dfbcc2aae/c.html",
+        "summary": "让生机再次绽放：一位aHUS患者的闯关与坚守-\" 契机：让规范诊疗抵达更多患者兰姐的幸运，并非偶然。\"",
+        "source": "新华网·健康",
+        "pub": "",
+        "heat": 72,
+        "heatRaw": 53,
+        "heatParts": {
+          "cross": 0,
+          "auth": 13,
           "rank": 22,
-          "fresh": 13,
-          "kw": 6
+          "fresh": 7,
+          "kw": 11
         },
         "crossCount": 1,
         "reportCount": 1,
@@ -905,9 +866,9 @@
         ]
       },
       {
-        "title": "《医药工业发展“十五五”规划》发布",
-        "link": "https://jiankang.cctv.com/2026/09/22/ARTI7744NfAs5S3Tg17GYXRx260922.shtml",
-        "summary": "本报北京9月21日电 （记者刘温馨）工业和信息化部等部门近日联合发布《医药工业发展“十五五”规划》，提出10项预期性指标，包括到2030年，规上医药工业企业营业收入不少于3.5万亿元、首创新药占全球比例不少于25%、创新药上市数量位居世界前…",
+        "title": "创新驱动生物医药走出“跟风仿创”",
+        "link": "https://jiankang.cctv.com/2026/09/23/ARTINqhop0Mku6HYKfkeW3Ly260923.shtml",
+        "summary": "医药“十五五”规划剑指“跟风仿创”，目标2030年全球首创新药占比超25%，AI已让候选分子发现周期缩短40%。",
         "source": "央视网·健康",
         "pub": "",
         "heat": 72,
@@ -926,31 +887,52 @@
         ]
       },
       {
-        "title": "王健伟主任（院长）会见沙特公共卫生署代理首席执行...",
-        "link": "https://www.chinacdc.cn/zxyw/202609/t20260918_1840336.html",
-        "summary": "2026-09-15 中国疾控中心（中国预科院）党委召开理论学习中心组集体（扩大）学习会 2026-09-15",
-        "source": "中国疾控中心",
+        "title": "《医药工业发展“十五五”规划》发布",
+        "link": "https://jiankang.cctv.com/2026/09/22/ARTI7744NfAs5S3Tg17GYXRx260922.shtml",
+        "summary": "本报北京9月21日电 （记者刘温馨）工业和信息化部等部门近日联合发布《医药工业发展“十五五”规划》，提出10项预期性指标，包括到2030年，规上医药工业企业营业收入不少于3.5万亿元、首创新药占全球比例不少于25%、创新药上市数量位居世界前…",
+        "source": "央视网·健康",
         "pub": "",
-        "heat": 69,
-        "heatRaw": 49,
+        "heat": 71,
+        "heatRaw": 51,
         "heatParts": {
           "cross": 0,
           "auth": 13,
-          "rank": 17,
+          "rank": 20,
           "fresh": 7,
-          "kw": 11
+          "kw": 10
         },
         "crossCount": 1,
         "reportCount": 1,
         "sources": [
-          "中国疾控中心"
+          "央视网·健康"
         ]
       },
       {
-        "title": "“打破壁垒与推动创新：全球卫生转型中的消除热带病...",
-        "link": "https://www.chinacdc.cn/zxyw/202609/t20260922_1841759.html",
-        "summary": "2026-09-21 2026年慢性病防控大会成功召开 2026-09-20",
-        "source": "中国疾控中心",
+        "title": "从“治好病”到“过好人生”，探寻淋巴瘤长生存的实践",
+        "link": "https://www.news.cn/health/20260924/6abef77bbc754d0fa2a2ca22457f03fd/c.html",
+        "summary": "从“治好病”到“过好人生”，探寻淋巴瘤长生存的实践-\"而这场旅程的最终方向，是让患者通过规范的治疗管理，实现“高质量长生存”——不仅活得更久，还要活得更好，重新被世界温柔以待。\"",
+        "source": "新华网·健康",
+        "pub": "",
+        "heat": 67,
+        "heatRaw": 44,
+        "heatParts": {
+          "cross": 0,
+          "auth": 13,
+          "rank": 19,
+          "fresh": 7,
+          "kw": 5
+        },
+        "crossCount": 1,
+        "reportCount": 1,
+        "sources": [
+          "新华网·健康"
+        ]
+      },
+      {
+        "title": "从一朵棉花到一片卫生巾，需要过几道关？",
+        "link": "https://www.news.cn/health/20260924/eb26ee89b08449649d334dd9db117210/c.html",
+        "summary": "从一朵棉花到一片卫生巾，需要过几道关？-对选择奈丝公主的女性来说，经期贴身相伴的那片卫生巾，起点恰恰就是这样一朵棉花。",
+        "source": "新华网·健康",
         "pub": "",
         "heat": 66,
         "heatRaw": 44,
@@ -964,44 +946,23 @@
         "crossCount": 1,
         "reportCount": 1,
         "sources": [
-          "中国疾控中心"
+          "新华网·健康"
         ]
       },
       {
-        "title": "中国疾控中心辐射安全所召开网络安全和信息化工作领导小组会议",
-        "link": "https://www.chinacdc.cn/gzdt/zsdw/202609/t20260924_1841792.html",
-        "summary": "2026-09-21 “核卫-2026”国家核和辐射突发事件卫生应急队伍联合演练成功举办 2026-09-21",
-        "source": "中国疾控中心",
-        "pub": "",
-        "heat": 66,
-        "heatRaw": 43,
-        "heatParts": {
-          "cross": 0,
-          "auth": 13,
-          "rank": 0,
-          "fresh": 19,
-          "kw": 10
-        },
-        "crossCount": 1,
-        "reportCount": 1,
-        "sources": [
-          "中国疾控中心"
-        ]
-      },
-      {
-        "title": "从一朵棉花到一片卫生巾，需要过几道关？",
-        "link": "https://www.news.cn/health/20260924/eb26ee89b08449649d334dd9db117210/c.html",
-        "summary": "从一朵棉花到一片卫生巾，需要过几道关？-对选择奈丝公主的女性来说，经期贴身相伴的那片卫生巾，起点恰恰就是这样一朵棉花。",
+        "title": "创新赋能免疫 全球疫苗供应迈向多极",
+        "link": "https://www.news.cn/health/20260923/635a257806474bb29ffc6cb197840627/c.html",
+        "summary": "创新赋能免疫 全球疫苗供应迈向多极-苏里对中国疫苗产业的创新能力给予高度评价： 中国已经成为疫苗创新的重要中心。",
         "source": "新华网·健康",
         "pub": "",
-        "heat": 65,
-        "heatRaw": 42,
+        "heat": 66,
+        "heatRaw": 44,
         "heatParts": {
           "cross": 0,
           "auth": 13,
-          "rank": 10,
-          "fresh": 19,
-          "kw": 0
+          "rank": 17,
+          "fresh": 7,
+          "kw": 6
         },
         "crossCount": 1,
         "reportCount": 1,
@@ -1010,10 +971,10 @@
         ]
       },
       {
-        "title": "秋季防跌倒 稳住每一步",
-        "link": "https://jiankang.cctv.com/2026/09/20/ARTIykcBXLMU9RXhumGzwKXN260920.shtml?spm=C88180.PGOAD39Q4iGU.ENdZKV0GjGYJ.25",
-        "summary": "（该来源未提供摘要，点击右侧「查看原链接」阅读全文）",
-        "source": "央视网·健康",
+        "title": "“打破壁垒与推动创新：全球卫生转型中的消除热带病...",
+        "link": "https://www.chinacdc.cn/zxyw/202609/t20260922_1841759.html",
+        "summary": "2026-09-21 2026年慢性病防控大会成功召开 2026-09-20",
+        "source": "中国疾控中心",
         "pub": "",
         "heat": 64,
         "heatRaw": 41,
@@ -1027,80 +988,80 @@
         "crossCount": 1,
         "reportCount": 1,
         "sources": [
-          "央视网·健康"
+          "中国疾控中心"
         ]
       }
     ],
     "ai": [
       {
-        "title": "Stripe Tour 中国首秀：构建 AI 经济基础设施，赋能全球商业增长",
-        "link": "https://www.qbitai.com/2026/09/496779.html",
-        "summary": "Stripe Managed Payments (SMP) 现已全面上线",
-        "source": "量子位",
-        "pub": "Thu, 24 Sep 2026 05:46:10 +0000"
-      },
-      {
-        "title": "教机器人干活，光“刷课时”可不够！灵初这次较真数据质量",
-        "link": "https://www.qbitai.com/2026/09/496778.html",
-        "summary": "专治人机动作对不齐",
-        "source": "量子位",
-        "pub": "Thu, 24 Sep 2026 05:45:20 +0000"
-      },
-      {
-        "title": "5分钟完成机器人纳管、10秒启动跨集群任务，清华大学联合无问芯穹开源具身智能云原生平台RLark",
-        "link": "https://www.qbitai.com/2026/09/496767.html",
-        "summary": "开源一座具身智能的新“塔台”",
-        "source": "量子位",
-        "pub": "Thu, 24 Sep 2026 05:19:55 +0000"
-      },
-      {
-        "title": "出海Agent“小元AI”入驻腾讯WorkBuddy：找买家写开发信谈生意",
-        "link": "https://www.qbitai.com/2026/09/496740.html",
-        "summary": "懂出海，能记忆，自进化",
-        "source": "量子位",
-        "pub": "Thu, 24 Sep 2026 04:11:51 +0000"
-      },
-      {
-        "title": "海信新一代性能旗舰E7S Pro+正式发布，原生真彩再进阶",
-        "link": "https://www.qbitai.com/2026/09/496658.html",
-        "summary": "9月23日，2026海信电视秋季新品发布会上，定位“原生真彩，性能旗舰”的RGB-Mini LED新品E7S Pro+正式发布",
-        "source": "量子位",
-        "pub": "Thu, 24 Sep 2026 02:51:18 +0000"
-      },
-      {
-        "title": "Meta靠自研Manus翻身！股价一夜暴涨11%，登顶苹果商店，增速反超ChatGPT",
-        "link": "https://www.qbitai.com/2026/09/496647.html",
-        "summary": "美国也开启了全民养虾狂潮",
-        "source": "量子位",
-        "pub": "Thu, 24 Sep 2026 02:23:12 +0000"
-      },
-      {
-        "title": "成立九年，中科类脑把积累装进Token工厂",
-        "link": "https://www.qbitai.com/2026/09/496615.html",
+        "title": "量子AI创业来了一支“清华梦之队”：10亿估值，用量子改造大模型底层",
+        "link": "https://www.qbitai.com/2026/09/498633.html",
         "summary": "（暂无摘要）",
         "source": "量子位",
-        "pub": "Thu, 24 Sep 2026 00:48:02 +0000"
+        "pub": "Sun, 27 Sep 2026 14:20:35 +0000"
       },
       {
-        "title": "联想亮相阿里云栖大会：联想天禧AI把超级组织落地到端侧",
-        "link": "https://www.qbitai.com/2026/09/496609.html",
-        "summary": "联想天禧AI携全场景多端产品矩阵亮相阿里云栖大会",
+        "title": "量子计算走上桌面！“小盒子”跑通端到端，数据全程不出门",
+        "link": "https://www.qbitai.com/2026/09/498605.html",
+        "summary": "想让开发者“说句话就能跑量子计算”",
         "source": "量子位",
-        "pub": "Wed, 23 Sep 2026 10:35:16 +0000"
+        "pub": "Sun, 27 Sep 2026 13:57:57 +0000"
       },
       {
-        "title": "微软在游戏行业的早期试水：一段与梦工厂的「梦幻联动」",
-        "link": "https://sspai.com/post/113823",
-        "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。…",
-        "source": "少数派",
-        "pub": "Thu, 24 Sep 2026 15:06:19 +0800"
+        "title": "又快又能打！匿名模型玉兔模型杀上双榜第一，Coding实测全记录",
+        "link": "https://www.qbitai.com/2026/09/498584.html",
+        "summary": "中秋假期文具OpenRouter调用日榜榜首",
+        "source": "量子位",
+        "pub": "Sun, 27 Sep 2026 13:40:02 +0000"
       },
       {
-        "title": "古董电脑室十周年记：为什么我不再是收藏家（上）",
-        "link": "https://sspai.com/post/114395",
-        "summary": "站在十年的时间节点回望，2016 年知乎专栏「古董电脑室」的起点，其实并非一个怀旧的「博物馆」，而是一个试图在商业上寻找切口的「最小可行产品」（MVP）。然而，这场始于「市场验证」…",
+        "title": "啥题啊能干崩OpenAI最强模型训练…",
+        "link": "https://www.qbitai.com/2026/09/498546.html",
+        "summary": "（暂无摘要）",
+        "source": "量子位",
+        "pub": "Sun, 27 Sep 2026 09:44:16 +0000"
+      },
+      {
+        "title": "索辰科技加码世界模型，与战略投资企业美梦空间联合发布具身模型与物理测评标准",
+        "link": "https://www.qbitai.com/2026/09/498478.html",
+        "summary": "“世界模型”开始成为具身智能跨越商业化“奇点”的新叙事。",
+        "source": "量子位",
+        "pub": "Sat, 26 Sep 2026 11:49:43 +0000"
+      },
+      {
+        "title": "AI开始研究Physical AI：FSD级团队亮出首版模型Simate-beta，空降RoboDojo",
+        "link": "https://www.qbitai.com/2026/09/498271.html",
+        "summary": "Simate将训练、推理与评测全流程接入自研Infra，通过极致的任务编排与资源调度，同时并行推进数十条相互独立的研究路线。",
+        "source": "量子位",
+        "pub": "Sat, 26 Sep 2026 09:07:41 +0000"
+      },
+      {
+        "title": "笔记本跑7000亿参数GLM！无GPU也行? SSD当显存用火爆GitHub",
+        "link": "https://www.qbitai.com/2026/09/497624.html",
+        "summary": "GitHub现在最火热的大模型开源小蜂鸟Colibrì是个啥？",
+        "source": "量子位",
+        "pub": "Sat, 26 Sep 2026 09:01:00 +0000"
+      },
+      {
+        "title": "在云栖大会，我终于看懂了米哈游千亿AI野心",
+        "link": "https://www.qbitai.com/2026/09/497613.html",
+        "summary": "大伟哥：如果做不到，一年两年之后过来打我脸",
+        "source": "量子位",
+        "pub": "Sat, 26 Sep 2026 07:18:05 +0000"
+      },
+      {
+        "title": "本月玩什么｜鬼武者 剑之道、火焰纹章 万缕千丝、轨道双子星等",
+        "link": "https://sspai.com/post/115056",
+        "summary": "《鬼武者》系列的惊艳复活，《风花雪月》的世界观延续，赛璐珞动画风格的双人历险…… 查看全文",
         "source": "少数派",
-        "pub": "Thu, 24 Sep 2026 12:15:24 +0800"
+        "pub": "Sun, 27 Sep 2026 17:50:09 +0800"
+      },
+      {
+        "title": "宜家 Matter 智能家居终于要来了？在中国市场它将如何破局",
+        "link": "https://sspai.com/post/114958",
+        "summary": "距离宜家首批Matter智能家居产品在海外上市已有大半年的时间，而中国市场则是许久未有消息。直到今年年中，多款宜家智能新品陆续出现在国家CCC认证数据库中，我们才得知：这批主打高性…",
+        "source": "少数派",
+        "pub": "Sat, 26 Sep 2026 14:00:00 +0800"
       }
     ]
   },
@@ -1138,7 +1099,7 @@
         "新华网": 24,
         "中国新闻网": 24,
         "中国经济网": 24,
-        "澎湃新闻": 19,
+        "澎湃新闻": 14,
         "网易新闻": 24
       }
     },
@@ -1205,7 +1166,7 @@
         "美联社": 0,
         "BBC新闻": 0,
         "经济学人": 0,
-        "NPR": 10,
+        "NPR": 9,
         "今日美国": 0
       }
     },
