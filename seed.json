@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T23:01:48.475Z",
+  "generatedAt": "2026-09-28T23:09:14.656Z",
   "date": "2026-09-29",
   "books": {
     "date": "2026-09-28",
@@ -667,17 +667,38 @@
         ]
       },
       {
-        "title": "美总统称美官员已于28日同美伊间的调解方进行对话",
-        "link": "https://www.chinanews.com.cn/gj/2026/09-29/10705190.shtml",
-        "summary": "当地时间9月28日，美国总统特朗普表示，美国官员当日与旨在结束美伊战事的调解方进行了交谈。被问及美伊谈判进展时，特朗普没有透露谈判具体细节，只是称“我们会赢”，“事态很快就会有分晓”。",
+        "title": "日本突发4.9级地震",
+        "link": "https://www.chinanews.com.cn/gj/2026/09-29/10705191.shtml",
+        "summary": "中新网9月29日电 综合报道，据日本气象厅消息，日本茨城县南部29日凌晨发生4.9级地震。",
         "source": "中国新闻网",
-        "pub": "Tue, 29 Sep 2026 06:50:39 +0800",
-        "heat": 78,
+        "pub": "Tue, 29 Sep 2026 06:58:13 +0800",
+        "heat": 79,
         "heatRaw": 64,
         "heatParts": {
           "cross": 0,
           "auth": 13,
           "rank": 23,
+          "fresh": 23,
+          "kw": 6
+        },
+        "crossCount": 1,
+        "reportCount": 1,
+        "sources": [
+          "中国新闻网"
+        ]
+      },
+      {
+        "title": "美总统称美官员已于28日同美伊间的调解方进行对话",
+        "link": "https://www.chinanews.com.cn/gj/2026/09-29/10705190.shtml",
+        "summary": "当地时间9月28日，美国总统特朗普表示，美国官员当日与旨在结束美伊战事的调解方进行了交谈。被问及美伊谈判进展时，特朗普没有透露谈判具体细节，只是称“我们会赢”，“事态很快就会有分晓”。",
+        "source": "中国新闻网",
+        "pub": "Tue, 29 Sep 2026 06:50:39 +0800",
+        "heat": 77,
+        "heatRaw": 62,
+        "heatParts": {
+          "cross": 0,
+          "auth": 13,
+          "rank": 22,
           "fresh": 23,
           "kw": 5
         },
@@ -693,38 +714,17 @@
         "summary": "中新网9月29日电 综合俄罗斯媒体报道，俄罗斯总统普京28日签署总统令，将俄武装力量编制人数增至2441630人，其中现役军人数量为1550500人。",
         "source": "中国新闻网",
         "pub": "Tue, 29 Sep 2026 06:47:48 +0800",
-        "heat": 78,
-        "heatRaw": 63,
+        "heat": 77,
+        "heatRaw": 61,
         "heatParts": {
           "cross": 0,
           "auth": 13,
-          "rank": 22,
+          "rank": 20,
           "fresh": 23,
           "kw": 5
         },
         "crossCount": 1,
         "reportCount": 2,
-        "sources": [
-          "中国新闻网"
-        ]
-      },
-      {
-        "title": "联合国粮农组织报告：全球生态退化每年损失最高达6.3万亿美元",
-        "link": "https://www.chinanews.com.cn/gj/2026/09-28/10705081.shtml",
-        "summary": "中新网9月28日电 据联合国粮食及农业组织(FAO)官网消息，当地时间9月28日，联合国粮农组织在罗马发布《2026年世界森林状况》报告。",
-        "source": "中国新闻网",
-        "pub": "Mon, 28 Sep 2026 19:57:49 +0800",
-        "heat": 74,
-        "heatRaw": 56,
-        "heatParts": {
-          "cross": 0,
-          "auth": 13,
-          "rank": 13,
-          "fresh": 21,
-          "kw": 9
-        },
-        "crossCount": 1,
-        "reportCount": 1,
         "sources": [
           "中国新闻网"
         ]
