@@ -1,52 +1,52 @@
 {
-  "generatedAt": "2026-09-28T23:09:14.656Z",
-  "date": "2026-09-29",
+  "generatedAt": "2026-09-29T23:04:51.015Z",
+  "date": "2026-09-30",
   "books": {
-    "date": "2026-09-28",
+    "date": "2026-09-29",
     "books": [
       {
-        "title": "深渊大饭店",
-        "author": "[英] 斯图尔特·杰弗里斯",
-        "cover": "https://img9.doubanio.com/view/subject/s/public/s35590374.jpg",
+        "title": "失语的皇后：南齐权力嬗变中的个体生命",
+        "author": "郭硕",
+        "cover": "https://img2.doubanio.com/view/subject/s/public/s35609081.jpg",
         "rating": 0,
-        "ratingCount": 87,
-        "summary": "早在一百年前，法兰克福学派便预见了我们今天的生活：文化工业让我们陷入了“娱乐至死”的泥潭，社交媒体取消了我们本真的存在，消费社会将我们变成了单向度的螺丝钉。 《深渊大饭店》是一部兼具学术深度与叙事张力的群体传记，描述了法兰克福学派主要人物如何相互影响、他们之间的学术争论，以及他们的成长经历如何塑造了他们的思想理念。法兰克福学派提出的“威权人格”“机械复制”“",
-        "authorBio": "《深渊大饭店》由[英] 斯图尔特·杰弗里斯撰写，于2026-8出版。",
-        "link": "https://book.douban.com/subject/38552885/",
-        "pubDate": "2026-8",
+        "ratingCount": 74,
+        "summary": "本书以南齐文安皇后（宣德皇后、宣德太后）王宝明的生平经历为线索，勾勒出南朝宋、齐、梁政权嬗代的历程以及其中许多人物的命运，揭示出南朝皇权更迭背后的权力运作机制和复杂人性。王宝明作为一名出身高门的宫廷女性，被动参与了南齐中后期以及齐梁嬗代的权力更迭，是见证历史进程的重要人物，然而其生平却被传统的历史书写所遮蔽并污名化，成了无法为自己辩白的“失语者”。本书深入发",
+        "authorBio": "《失语的皇后：南齐权力嬗变中的个体生命》由郭硕撰写，于2026-9出版。",
+        "link": "https://book.douban.com/subject/38613586/",
+        "pubDate": "2026-9",
         "tag": "new"
       },
       {
-        "title": "乘客",
-        "author": "[美] 科马克·麦卡锡",
-        "cover": "https://img9.doubanio.com/view/subject/s/public/s35561596.jpg",
+        "title": "法槌轻落：温情法官弗兰克·卡普里奥的人性实录",
+        "author": "[美] 弗兰克·卡普里奥",
+        "cover": "https://img3.doubanio.com/view/subject/s/public/s35576103.jpg",
         "rating": 0,
-        "ratingCount": 41,
-        "summary": "科马克·麦卡锡（Cormac McCarthy，1933—2023） 美国当代小说家，剧作家，著有十余部长篇小说及其他短篇作品和剧作。代表作有《血色子午线》《老无所依》《长路》《天下骏马》等，先后斩获普利策奖、美国国家图书奖、全美书评人协会奖等美国文学界主流奖项，多部作品被改编为影视剧。 科恩兄弟根据麦卡锡小说改编的同名电影《老无所依》，获得包括最佳影片、最",
-        "authorBio": "《乘客》由[美] 科马克·麦卡锡撰写，于2026-7出版。",
-        "link": "https://book.douban.com/subject/38513201/",
-        "pubDate": "2026-7",
+        "ratingCount": 113,
+        "summary": "这是“世界上最善良的法官”弗兰克·卡普里奥（Frank Caprio）的自传图书。在弗兰克·卡普里奥法官五次获得日间艾美奖提名的电视节目《普罗维登斯法庭实录》中，他的法庭成为世界范围内富有同情心的正义灯塔，也是数百万粉丝难忘的记忆。在他的法庭里，被告得到了有尊严的对待，身陷困境的人得到了喘息的机会——不是一张通行证，也不是一张免罪卡，而是一个改过自新、照顾家",
+        "authorBio": "《法槌轻落：温情法官弗兰克·卡普里奥的人性实录》由[美] 弗兰克·卡普里奥撰写，于2026-8-1出版。",
+        "link": "https://book.douban.com/subject/38572590/",
+        "pubDate": "2026-8-1",
         "tag": "new"
       }
     ],
     "quotes": [
       {
-        "text": "要么孤独，要么庸俗。",
-        "author": "叔本华",
-        "bio": "德国哲学家，悲观主义代表。",
-        "bg": "出自《附录与补遗》，认为精神丰盈者宁守孤独，也不愿随俗沉沦。"
+        "text": "懂得生命真谛的人，可以使短促的生命延长。",
+        "author": "西塞罗",
+        "bio": "古罗马演说家、哲学家。",
+        "bg": "强调生命价值不在长度而在深度与意义。"
       },
       {
-        "text": "知者不惑，仁者不忧，勇者不惧。",
-        "author": "孔子",
-        "bio": "春秋时期思想家，儒家创始人。",
-        "bg": "出自《论语·子罕》，定义智、仁、勇三种从容心境。"
+        "text": "路漫漫其修远兮，吾将上下而求索。",
+        "author": "屈原",
+        "bio": "战国诗人，《离骚》作者。",
+        "bg": "出自《离骚》，写求索真理与理想之路虽远不辍。"
       },
       {
-        "text": "我们都在阴沟里，但仍有人仰望星空。",
-        "author": "王尔德",
-        "bio": "爱尔兰作家、唯美主义代表。",
-        "bg": "出自戏剧《温德米尔夫人的扇子》，意在说明纵处困顿，人仍可向美与理想抬望。"
+        "text": "世上只有一种英雄主义，就是在认清生活真相之后依然热爱生活。",
+        "author": "罗曼·罗兰",
+        "bio": "法国作家、诺贝尔文学奖得主。",
+        "bg": "出自《米开朗基罗传》序言， defining 真正的英雄是看清苦难仍选择热爱。"
       }
     ],
     "source": "douban",
@@ -279,31 +279,38 @@
     }
   ],
   "english": {
-    "date": "2026-09-28",
+    "date": "2026-09-29",
     "news": {
-      "type": "speech",
-      "title": "Grit: The power of passion and perseverance",
-      "summary": "Leaving a high-flying job in consulting, Angela Lee Duckworth took a job teaching math to seventh graders in a New York public school. She quickly realized that IQ wasn't the only thing separating the successful students from those who struggled. Here, she explains her theory of \"grit\" as a predictor of success.",
-      "link": "https://www.ted.com/talks/angela_lee_duckworth_grit_the_power_of_passion_and_perseverance",
-      "videoLink": "https://www.ted.com/talks/angela_lee_duckworth_grit_the_power_of_passion_and_perseverance",
-      "cover": "https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/173cdf14-9c61-454a-8408-116bc41f6977/AngelaDuckworth_2013S-stageshot.jpg",
-      "source": "TED",
-      "duration": 359,
+      "type": "news",
+      "title": "Potential Taiwan tension sparked 'last minute' change in Trump-Xi National Archives visit",
+      "summary": "The sudden change was precipitated because of Chinese displeasure over one document that t…",
+      "link": "https://www.npr.org/2026/09/29/nx-s1-5984989/digital-archives-trump-xi",
+      "source": "NPR",
       "content": [
-        "When I was 27 years old, I left a very demanding job in management consulting for a job that was even more demanding: teaching. I went to teach seventh graders math in the New York City public schools. And like any teacher, I made quizzes and tests. I gave out homework assignments. When the work came back, I calculated grades.",
-        "What struck me was that IQ was not the only difference between my best and my worst students. Some of my strongest performers did not have stratospheric IQ scores. Some of my smartest kids weren't doing so well. And that got me thinking. The kinds of things you need to learn in seventh grade math, sure, they're hard: ratios, decimals, the area of a parallelogram. But these concepts are not impossible, and I was firmly convinced that every one of my students could learn the material if they worked hard and long enough.",
-        "After several more years of teaching, I came to the conclusion that what we need in education is a much better understanding of students and learning from a motivational perspective, from a psychological perspective. In education, the one thing we know how to measure best is IQ. But what if doing well in school and in life depends on much more than your ability to learn quickly and easily?",
-        "So I left the classroom, and I went to graduate school to become a psychologist. I started studying kids and adults in all kinds of super challenging settings, and in every study my question was, who is successful here and why? My research team and I went to West Point Military Academy. We tried to predict which cadets would stay in military training and which would drop out. We went to the National Spelling Bee and tried to predict which children would advance farthest in competition. We studied rookie teachers working in really tough neighborhoods, asking which teachers are still going to be here in teaching by the end of the school year, and of those, who will be the most effective at improving learning outcomes for their students? We partnered with private companies, asking, which of these salespeople is going to keep their jobs? And who's going to earn the most money? In all those very different contexts, one characteristic emerged as a significant predictor of success. And it wasn't social intelligence. It wasn't good looks, physical health, and it wasn't IQ. It was grit.",
-        "Grit is passion and perseverance for very long-term goals. Grit is having stamina. Grit is sticking with your future, day in, day out, not just for the week, not just for the month, but for years, and working really hard to make that future a reality. Grit is living life like it's a marathon, not a sprint.",
-        "A few years ago, I started studying grit in the Chicago public schools. I asked thousands of high school juniors to take grit questionnaires, and then waited around more than a year to see who would graduate. Turns out that grittier kids were significantly more likely to graduate, even when I matched them on every characteristic I could measure, things like family income, standardized achievement test scores, even how safe kids felt when they were at school. So it's not just at West Point or the National Spelling Bee that grit matters. It's also in school, especially for kids at risk for dropping out.",
-        "To me, the most shocking thing about grit is how little we know, how little science knows, about building it. Every day, parents and teachers ask me, \"How do I build grit in kids? What do I do to teach kids a solid work ethic? How do I keep them motivated for the long run?\" The honest answer is, I don't know.",
-        "(Laughter)",
-        "What I do know is that talent doesn't make you gritty. Our data show very clearly that there are many talented individuals who simply do not follow through on their commitments. In fact, in our data, grit is usually unrelated or even inversely related to measures of talent.",
-        "So far, the best idea I've heard about building grit in kids is something called \"growth mindset.\" This is an idea developed at Stanford University by Carol Dweck, and it is the belief that the ability to learn is not fixed, that it can change with your effort. Dr. Dweck has shown that when kids read and learn about the brain and how it changes and grows in response to challenge, they're much more likely to persevere when they fail, because they don't believe that failure is a permanent condition.",
-        "So growth mindset is a great idea for building grit. But we need more. And that's where I'm going to end my remarks, because that's where we are. That's the work that stands before us. We need to take our best ideas, our strongest intuitions, and we need to test them. We need to measure whether we've been successful, and we have to be willing to fail, to be wrong, to start over again with lessons learned.",
-        "In other words, we need to be gritty about getting our kids grittier.",
-        "Thank you.",
-        "(Applause)"
+        "U.S. President Donald Trump (2nd-L) speaks to Archivist of the United States Bradford Wilson (L) as he views the U.S. Constitution during a tour of the National Archives Museum alongside first lady Melania Trump, President of China Xi Jinping and first lady of China Peng Liyuan on September 25, 2026 in Washington, DC. Kevin Dietsch/Getty Images hide caption",
+        "On Friday, the National Archives Museum prepared to welcome President Trump and the Chinese leader Xi Jinping.",
+        "Inside the museum's main foyer, a long table had been set up in the center of the room that morning, with a temporary display resting on the black tablecloth showcasing a brick from the Great Wall of China and an elaborate 19th century scroll sent by a Qing emperor.",
+        "But the entire display was removed, due to a \"last minute\" change in the event, according to a Chinese diplomat granted anonymity because they were not authorized to speak publicly.",
+        "The sudden change was precipitated because of Chinese displeasure over one document that the U.S. had planned to show: the Treaty of San Francisco of 1951, according to the diplomat and two other people familiar with the matter granted anonymity because they were not authorized to speak publicly.",
+        "Beijing was irate over the Treaty of San Francisco \"because the U.S. and Japan signed it, but not China,\" according to one of the Chinese diplomats.",
+        "The treaty, which ended World War II hostilities between Japan and the Allied Powers, including the U.S. Both Trump and Xi referenced last week how the two countries fought together on the same side during the conflict. But the treaty also leaves the status of Taiwan undetermined and does not state that the island belongs to Beijing.",
+        "\"It is a point of contention for the Chinese because they were not signatories to the Treaty of San Francisco, and they do not like the fact that the treaty of SF leaves undetermined Taiwan's political status,\" said Ryan Hass , a Taiwan and China expert at the think tank Brookings Institution in Washington.",
+        "An administration official speaking on anonymity because they are not authorized to speak on the record told NPR the group at the archives viewed \"important, historic documents that set the foundation for 250 years of American greatness.\"",
+        "\"The visit offered an opportunity for both leaders to discuss the United States and China's history and concluded a very productive state visit between the two leaders,\" the official said.",
+        "The Chinese embassy in Washington did not respond to a request for comment.",
+        "Other documents key to defining the U.S.' relationship to Taiwan were also discussed for possible display, according to U.S. officials involved in the visit planning, namely the Six Assurances and the Three Communiques , but those documents were ultimately not included.",
+        "The incident shows how sensitive Taiwan remains in the U.S.-China relationship and how minute differences in historical interpretation continue to have foreign policy consequences.",
+        "The discussion to include Taiwan-related documents, which would almost certainly anger Beijing, are also an indication of pushback from within the U.S. government against President Trump's warm reception of Xi, and sparked in part by concerns that Xi would try to change the U.S.' official stance towards Taiwan.",
+        "Taiwan, a democratic island which China hopes to control one day, has its own government and military, but Beijing is opposed to the island declaring formal independence. The U.S. does not have formal relations with Taiwan nor does it have any commitment to defend Taiwan should China ever attack the island. However, through a web of American legislation and diplomatic statements, including the Six Assurances and Three Communiques, the U.S. remains the island's main security guarantor.",
+        "\"I think the trip to the National Archives was intended to reciprocate Xi Jinping's hospitality in Beijing when he took Donald Trump to the Temple of Heaven and the private tour of the gardens in Zhongnanhai [the central leadership compound in Beijing]. And the symbolism of Xi Jinping showing the Temple of Heaven and what that stood for and President Trump showing America's foundational documents and how they inform America's approach to China, I think it sends a signal of the parameters of limits in which President Trump operates,\" said Hass.",
+        "The Chinese embassy found out about the list of documents shown on Thursday, during Xi's state visit to Washington, according to two Chinese diplomats.",
+        "Ninety minutes before the two leaders arrived at the National Archives, Chinese diplomats said it was unclear if the Treaty of San Francisco would be on display.",
+        "The Treaty of San Francisco explicitly leaves Taiwan's sovereign status as undetermined, and Taiwanese leaders often cite the treaty to argue that Taiwan should have the right to self-determination over its sovereignty.",
+        "Beijing has intensified its criticism of the Treaty of San Francisco since late last year, which it does not recognize , and in private, has requested other countries to consider the document illegal, according to U.S. diplomats, because neither the governments of China nor Taiwan signed it.",
+        "On Taiwan, China prefers instead to reference the Cairo Declaration and Potsdam Declaration in which U.S. leaders supported the cessation of Japanese territories, and \"restore\" them to Chinese sovereignty under the \"Republic of China,\" though that moniker now refers to the government which presides over Taiwan.",
+        "When President Trump and Chinese leader Xi walked up red-carpeted stairs into the Archives in Washington D.C., the building's foyer had been cleared, and the two men browsed original copies of the Declaration of Independence, the Constitution, and the Bill of Rights.",
+        "Xi praised the \"founding spirit\" of 250 years of U.S. history in the archives. \"Ours goes 250 years, which is great,\" Trump said, \"and we're proud of it, but theirs goes 6,000 years.\"",
+        "NPR does not offer or accept money for coverage or interviews. Anyone who makes such an offer or request is not an NPR employee and does not represent NPR."
       ],
       "dataSources": [
         {
@@ -340,228 +347,37 @@
   "news": {
     "domestic": [
       {
-        "title": "习近平主席对美国进行国事 访问 纪实",
-        "link": "https://www.news.cn/politics/leaders/20260928/331c059be6da4b2e9acc83191cca9a85/c.html",
-        "summary": "大国正确相处的新路，就在脚下——习近平主席对美国进行国事访问纪实-",
+        "title": "公安部公布8起新型涉黑恶犯罪典型案例",
+        "link": "https://www.chinanews.com.cn/gn/2026/09-29/10705933.shtml",
+        "summary": "为深入贯彻落实党中央关于开展深化扫黑除恶专项斗争的决策部署，公安部组织指挥全国公安机关开展集中收网行动，打掉一批犯罪团伙，侦破一批涉黑恶案件。为有力震慑犯罪，今日，公安部公布其中8起新型涉黑恶犯罪典型案例。",
+        "source": "中国新闻网",
+        "pub": "Tue, 29 Sep 2026 22:41:55 +0800",
+        "heat": 93,
+        "heatRaw": 89,
+        "heatParts": {
+          "cross": 22,
+          "auth": 13,
+          "rank": 23,
+          "fresh": 21,
+          "kw": 10
+        },
+        "crossCount": 4,
+        "reportCount": 4,
+        "sources": [
+          "中国新闻网",
+          "中国经济网",
+          "澎湃新闻",
+          "网易新闻"
+        ]
+      },
+      {
+        "title": "中共中央办公厅 国务院办公厅印发《文化遗产保护传承“十五五”规划》",
+        "link": "https://www.news.cn/politics/20260929/0dfa19a8472344dcb929ace64cf54b27/c.html",
+        "summary": "新华社北京9月29日电　近日，中共中央办公厅、国务院办公厅印发了《文化遗产保护传承“十五五”规划》，并发出通知，要求各地区各部门结合实际认真贯彻落实。",
         "source": "新华网",
         "pub": "",
         "heat": 85,
         "heatRaw": 76,
-        "heatParts": {
-          "cross": 11,
-          "auth": 14,
-          "rank": 23,
-          "fresh": 21,
-          "kw": 6
-        },
-        "crossCount": 2,
-        "reportCount": 3,
-        "sources": [
-          "人民网",
-          "新华网"
-        ]
-      },
-      {
-        "title": "习近平就建设更高水平平安中国作出重要指示",
-        "link": "https://www.news.cn/politics/leaders/20260928/553a16f104d646afae52c55173871c12/c.html",
-        "summary": "新华社北京9月28日电　中共中央总书记、国家主席、中央军委主席习近平近日就建设更高水平平安中国作出重要指示指出，党的十八大以来，平安中国建设取得显著成效，人民安居乐业、社会安定有序的良好局面更加巩固，我国成为世界上最安全的国家之一。",
-        "source": "新华网",
-        "pub": "",
-        "heat": 83,
-        "heatRaw": 71,
-        "heatParts": {
-          "cross": 11,
-          "auth": 14,
-          "rank": 19,
-          "fresh": 21,
-          "kw": 6
-        },
-        "crossCount": 2,
-        "reportCount": 3,
-        "sources": [
-          "人民网",
-          "新华网"
-        ]
-      },
-      {
-        "title": "日本突发4.9级地震",
-        "link": "https://www.chinanews.com.cn/gj/2026/09-29/10705191.shtml",
-        "summary": "中新网9月29日电 综合报道，据日本气象厅消息，日本茨城县南部29日凌晨发生4.9级地震。",
-        "source": "中国新闻网",
-        "pub": "Tue, 29 Sep 2026 06:58:13 +0800",
-        "heat": 78,
-        "heatRaw": 63,
-        "heatParts": {
-          "cross": 0,
-          "auth": 13,
-          "rank": 22,
-          "fresh": 23,
-          "kw": 6
-        },
-        "crossCount": 1,
-        "reportCount": 1,
-        "sources": [
-          "中国新闻网"
-        ]
-      },
-      {
-        "title": "飞得高、飞行速度快 无侦-7亮相黄岩岛海空联演引关注",
-        "link": "https://www.163.com/dy/article/L7UORAFP0514R9OJ.html",
-        "summary": "无侦-7亮相黄岩岛海空联演，优势何在？,海警,黄岩岛,预警机,无人机,战斗机,海空联演,无侦-7,无人侦察机",
-        "source": "网易新闻",
-        "pub": "2026-09-28 22:28:39",
-        "heat": 76,
-        "heatRaw": 60,
-        "heatParts": {
-          "cross": 0,
-          "auth": 11,
-          "rank": 23,
-          "fresh": 21,
-          "kw": 6
-        },
-        "crossCount": 1,
-        "reportCount": 1,
-        "sources": [
-          "网易新闻"
-        ]
-      },
-      {
-        "title": "9月29日新闻早报",
-        "link": "https://www.chinanews.com.cn/iframe/2026/09-29/10705192.shtml",
-        "summary": "余俊武：新时代的“侨批”如何推动中外文明交流互鉴？ 短评：从“中国说”到“世界说”，“Confucius says”折射中国软实力",
-        "source": "中国新闻网",
-        "pub": "Tue, 29 Sep 2026 06:58:55 +0800",
-        "heat": 75,
-        "heatRaw": 59,
-        "heatParts": {
-          "cross": 0,
-          "auth": 13,
-          "rank": 23,
-          "fresh": 23,
-          "kw": 0
-        },
-        "crossCount": 1,
-        "reportCount": 1,
-        "sources": [
-          "中国新闻网"
-        ]
-      },
-      {
-        "title": "卸任教育部副部长十年后 71岁鲁昕被查",
-        "link": "https://www.163.com/dy/article/L7UE3JK80514BE2Q.html",
-        "summary": "教育“虎”被查，任学会会长多年,鲁昕,厅长,学会,教育部,副部长,工作委员会,职业技术教育",
-        "source": "网易新闻",
-        "pub": "2026-09-28 22:08:10",
-        "heat": 75,
-        "heatRaw": 58,
-        "heatParts": {
-          "cross": 0,
-          "auth": 11,
-          "rank": 22,
-          "fresh": 21,
-          "kw": 5
-        },
-        "crossCount": 1,
-        "reportCount": 1,
-        "sources": [
-          "网易新闻"
-        ]
-      },
-      {
-        "title": "一粒玉米的价值跃迁路",
-        "link": "https://www.ce.cn/xwzx/gnsz/gdxw/202609/t20260929_3239992.shtml",
-        "summary": "走进位于河北宁晋经济开发区的玉锋实业集团有限公司智能工厂，生产车间内全自动化生产设备平稳运行，中控大屏上数千组生产数据实时跳动，精准控制每道生产工序。",
-        "source": "中国经济网",
-        "pub": "",
-        "heat": 75,
-        "heatRaw": 58,
-        "heatParts": {
-          "cross": 0,
-          "auth": 12,
-          "rank": 22,
-          "fresh": 21,
-          "kw": 3
-        },
-        "crossCount": 1,
-        "reportCount": 1,
-        "sources": [
-          "中国经济网"
-        ]
-      },
-      {
-        "title": "为科技企业注入“长跑”力量",
-        "link": "https://www.ce.cn/xwzx/gnsz/gdxw/202609/t20260929_3239994.shtml",
-        "summary": "在山东威海新佳电子有限公司无尘车间内，全自动化车规级碳化硅模块专用生产线满负荷运转，一块块精密碳化硅功率半导体模块走下产线，顺利进入国内头部车企供应链。作为国内最早深耕功率半导体器件封装的企业之一，新佳电子将功率半导体比作工业设备的“心脏”…",
-        "source": "中国经济网",
-        "pub": "",
-        "heat": 74,
-        "heatRaw": 56,
-        "heatParts": {
-          "cross": 0,
-          "auth": 12,
-          "rank": 23,
-          "fresh": 21,
-          "kw": 0
-        },
-        "crossCount": 1,
-        "reportCount": 1,
-        "sources": [
-          "中国经济网"
-        ]
-      },
-      {
-        "title": "世界经济韧性超预期不靠运气",
-        "link": "https://www.ce.cn/xwzx/gnsz/gdxw/202609/t20260929_3239940.shtml",
-        "summary": "2026年即将进入第四季度，在这个时间节点回望，世界经济今年在诸多不利条件下实现了超预期增长，比许多机构的预想更具韧性。一些西方媒体和机构在年中时，曾把世界经济的这种表现归因于运气，这经不起推敲。世界经济之所以能够克服不利因素实现超预期增长…",
-        "source": "中国经济网",
-        "pub": "",
-        "heat": 74,
-        "heatRaw": 57,
-        "heatParts": {
-          "cross": 11,
-          "auth": 12,
-          "rank": 10,
-          "fresh": 21,
-          "kw": 3
-        },
-        "crossCount": 2,
-        "reportCount": 2,
-        "sources": [
-          "中国经济网",
-          "澎湃新闻"
-        ]
-      },
-      {
-        "title": "美总统称美官员已于28日同美伊间的调解方进行对话",
-        "link": "https://www.chinanews.com.cn/gj/2026/09-29/10705190.shtml",
-        "summary": "当地时间9月28日，美国总统特朗普表示，美国官员当日与旨在结束美伊战事的调解方进行了交谈。被问及美伊谈判进展时，特朗普没有透露谈判具体细节，只是称“我们会赢”，“事态很快就会有分晓”。",
-        "source": "中国新闻网",
-        "pub": "Tue, 29 Sep 2026 06:50:39 +0800",
-        "heat": 73,
-        "heatRaw": 56,
-        "heatParts": {
-          "cross": 0,
-          "auth": 13,
-          "rank": 20,
-          "fresh": 23,
-          "kw": 0
-        },
-        "crossCount": 1,
-        "reportCount": 1,
-        "sources": [
-          "中国新闻网"
-        ]
-      }
-    ],
-    "world": [
-      {
-        "title": "泰国多地洪灾已致8人死亡 180万人受灾",
-        "link": "https://www.news.cn/world/20260928/6d2d7e0044c5468bbd0d12bf308d9226/c.html",
-        "summary": "新华社曼谷9月28日电（记者常天童）泰国防灾减灾厅28日发布报告说，16日以来，泰国全国范围的洪水灾害已造成8人死亡，40多个府、180万人受灾。",
-        "source": "新华网",
-        "pub": "",
-        "heat": 85,
-        "heatRaw": 75,
         "heatParts": {
           "cross": 11,
           "auth": 14,
@@ -570,49 +386,198 @@
           "kw": 10
         },
         "crossCount": 2,
+        "reportCount": 3,
+        "sources": [
+          "人民网",
+          "新华网"
+        ]
+      },
+      {
+        "title": "和总书记一起缅怀英烈致敬忠魂",
+        "link": "https://www.news.cn/politics/leaders/20260930/9b246f99dd7d470dbb97ff6baf853f5e/c.html",
+        "summary": "学习新语｜和总书记一起缅怀英烈致敬忠魂-\" 对千千万万为国牺牲的烈士、浴血奋战的英雄，习近平总书记始终牵挂于心。\"",
+        "source": "新华网",
+        "pub": "",
+        "heat": 78,
+        "heatRaw": 64,
+        "heatParts": {
+          "cross": 0,
+          "auth": 14,
+          "rank": 23,
+          "fresh": 21,
+          "kw": 6
+        },
+        "crossCount": 1,
+        "reportCount": 1,
+        "sources": [
+          "新华网"
+        ]
+      },
+      {
+        "title": "2026年世界互联网大会乌镇峰会将于11月2日至5日举行",
+        "link": "https://www.chinanews.com.cn/gn/2026/09-29/10705927.shtml",
+        "summary": "世界互联网大会今天(29日)召开新闻发布会，记者从发布会上了解到，2026年世界互联网大会乌镇峰会将于11月2日至5日在浙江省乌镇举行。本次乌镇峰会以“开源开放 共建共享——携手构建网络空间命运共同体”为主题，将邀请来自全球的政府、国际组织…",
+        "source": "中国新闻网",
+        "pub": "Tue, 29 Sep 2026 22:00:32 +0800",
+        "heat": 77,
+        "heatRaw": 62,
+        "heatParts": {
+          "cross": 11,
+          "auth": 13,
+          "rank": 13,
+          "fresh": 21,
+          "kw": 4
+        },
+        "crossCount": 2,
         "reportCount": 2,
         "sources": [
-          "新华网",
+          "中国新闻网",
+          "中国经济网"
+        ]
+      },
+      {
+        "title": "美国计划通过“互换”释放4000万桶战略石油储备",
+        "link": "https://www.chinanews.com.cn/gj/2026/09-30/10705952.shtml",
+        "summary": "中新网9月30日电 综合外媒报道，当地时间29日，美国能源部战略石油储备项目管理办公室发布邀约公告，计划以“互换”方式向市场释放4000万桶原油。",
+        "source": "中国新闻网",
+        "pub": "Wed, 30 Sep 2026 06:40:11 +0800",
+        "heat": 76,
+        "heatRaw": 61,
+        "heatParts": {
+          "cross": 0,
+          "auth": 13,
+          "rank": 20,
+          "fresh": 23,
+          "kw": 4
+        },
+        "crossCount": 1,
+        "reportCount": 2,
+        "sources": [
           "中国新闻网"
         ]
       },
       {
-        "title": "多家媒体曝内塔尼亚胡秘密访问阿联酋",
-        "link": "https://www.news.cn/world/20260928/70a870ccc06d43d2a5009be4f6c4ad83/c.html",
-        "summary": "新华社北京9月28日电　据多家媒体报道，以色列总理内塔尼亚胡27日秘密访问了阿联酋。按照以媒的说法，虽然两国官方均未证实这次访问，但在中东战事的背景下，两国越走越近是不争的事实。",
-        "source": "新华网",
+        "title": "习近平给四川大学全体师生回信",
+        "link": "http://politics.people.com.cn/n1/2026/0930/c1024-40807779.html",
+        "summary": "回信四川大学全体师生： 你们好！来信收悉。值此四川大学建校130周年之际，向全体师生员工、广大校友表示祝贺！ 胸怀家国、扎根西部、兴学育才，是川大的好传统。新起点上，希望你们赓续红色血脉，发挥",
+        "source": "人民网",
         "pub": "",
-        "heat": 85,
-        "heatRaw": 75,
+        "heat": 74,
+        "heatRaw": 56,
         "heatParts": {
-          "cross": 22,
+          "cross": 11,
           "auth": 14,
-          "rank": 14,
-          "fresh": 13,
-          "kw": 11
+          "rank": 4,
+          "fresh": 21,
+          "kw": 6
         },
-        "crossCount": 3,
-        "reportCount": 3,
+        "crossCount": 2,
+        "reportCount": 2,
         "sources": [
-          "新华网",
-          "海外网",
-          "国际在线"
+          "人民网",
+          "新华网"
         ]
       },
       {
-        "title": "烈士纪念日向人民英雄敬献花篮仪式9月30日上午举行 习近平等党和国家领导人将出席",
-        "link": "https://news.haiwainet.cn/n/2026/0928/c3543307-32986592.html",
-        "summary": "北京9月28日电今年是中国共产党成立105周年、红军长征胜利90周年。9月30日是国家设立的烈士纪念日，当天上午，习近平等党和国家领导人将同各界代表一起...",
-        "source": "海外网",
+        "title": "多地高校发布＂过紧日子＂实施细则 北大禁止在景区开会",
+        "link": "https://www.163.com/dy/article/L817I3N305561G0D.html",
+        "summary": "禁止在景区开会、不得报销扑克牌......多地高校发布“过紧日子”实施细则，从“靠觉悟省钱”到“靠制度管钱”,财政,日子,高校,教育,扑克牌",
+        "source": "网易新闻",
+        "pub": "2026-09-29 20:45:28",
+        "heat": 74,
+        "heatRaw": 57,
+        "heatParts": {
+          "cross": 0,
+          "auth": 11,
+          "rank": 16,
+          "fresh": 21,
+          "kw": 9
+        },
+        "crossCount": 1,
+        "reportCount": 1,
+        "sources": [
+          "网易新闻"
+        ]
+      },
+      {
+        "title": "稻城亚丁国庆假期一票难求 免费门票被炒到200元一张",
+        "link": "https://www.163.com/dy/article/L81B8LA7053469LG.html",
+        "summary": "稻城亚丁国庆一票难求，免费门票被炒到200元一张，有人叫价500元代抢门票，文旅部门回应,国庆,抢票,游玩,稻城亚丁,一票难求,文旅部门",
+        "source": "网易新闻",
+        "pub": "2026-09-29 21:50:13",
+        "heat": 72,
+        "heatRaw": 53,
+        "heatParts": {
+          "cross": 0,
+          "auth": 11,
+          "rank": 22,
+          "fresh": 21,
+          "kw": 0
+        },
+        "crossCount": 1,
+        "reportCount": 1,
+        "sources": [
+          "网易新闻"
+        ]
+      },
+      {
+        "title": "写在第十三个烈士纪念日到来之际",
+        "link": "https://www.news.cn/politics/20260930/d422309fca5948af8ed2766ebff52af6/c.html",
+        "summary": "天地英雄气，千秋尚凛然。 2026年是中国共产党成立105周年、红军长征胜利90周年。在这样一个有着特殊意义的年份，9月30日，我们即将迎来第十三个烈士纪念日。",
+        "source": "新华网",
         "pub": "",
-        "heat": 80,
-        "heatRaw": 66,
+        "heat": 71,
+        "heatRaw": 51,
+        "heatParts": {
+          "cross": 0,
+          "auth": 14,
+          "rank": 16,
+          "fresh": 21,
+          "kw": 0
+        },
+        "crossCount": 1,
+        "reportCount": 1,
+        "sources": [
+          "新华网"
+        ]
+      },
+      {
+        "title": "4大1小买票孩子被分到单独车厢 12306回应",
+        "link": "https://www.163.com/dy/article/L80JCT6A0530WJIN.html",
+        "summary": "近日，有网友在社交平台分享购票经历：一行5人，含4名大人、1名儿童，在12306平台以同一订单购买高铁票后，座位被分配至3个不同车厢。其中3名成年人安排在5号车厢，1名成年人在8号车厢，同行的儿童被单独分配到3号车厢。",
+        "source": "网易新闻",
+        "pub": "2026-09-29 21:26:44",
+        "heat": 71,
+        "heatRaw": 52,
+        "heatParts": {
+          "cross": 0,
+          "auth": 11,
+          "rank": 20,
+          "fresh": 21,
+          "kw": 0
+        },
+        "crossCount": 1,
+        "reportCount": 1,
+        "sources": [
+          "网易新闻"
+        ]
+      }
+    ],
+    "world": [
+      {
+        "title": "中美关系新定位内涵进一步拓展",
+        "link": "https://news.cri.cn/20260929/8991415b-6c4d-73b6-6d53-49b3477d5742.html",
+        "summary": "9月23日至25日，国家主席习近平对美国进行国事访问。访问期间，习近平主席同美国总统特朗普同意共同构建\"基于尊重、公平、对等的建设性战略稳定关系\"。 今年5月，习近平主席",
+        "source": "国际在线",
+        "pub": "",
+        "heat": 83,
+        "heatRaw": 71,
         "heatParts": {
           "cross": 11,
           "auth": 13,
           "rank": 23,
           "fresh": 13,
-          "kw": 6
+          "kw": 11
         },
         "crossCount": 2,
         "reportCount": 2,
@@ -622,58 +587,35 @@
         ]
       },
       {
-        "title": "习近平就建设更高水平平安中国作出重要指示",
-        "link": "https://news.cri.cn/20260928/2bc8f450-3c94-718a-d4da-2398474df50f.html",
-        "summary": "央视网消息（新闻联播）：中共中央总书记、国家主席、中央军委主席习近平近日就建设更高水平平安中国作出重要指示指出，党的十八大以来，平安中国建设取得显著成效，人民安居乐业、社会安定有序的良好局面更加巩固，我国成为世界上最安全的国家之一。",
-        "source": "国际在线",
+        "title": "三张照片，见证中美关系的刻度",
+        "link": "https://news.haiwainet.cn/n/2026/0929/c3543307-32986732.html",
+        "summary": "时代风云的变迁、大国外交的经纬，常常浓缩在一张张照片里。金秋的华盛顿白宫，定格一个“伟大的时刻”：9月24日，椭圆形办公室，对美进行国事访问的习近平主席，与美国...",
+        "source": "海外网",
         "pub": "",
-        "heat": 80,
-        "heatRaw": 67,
+        "heat": 81,
+        "heatRaw": 68,
         "heatParts": {
           "cross": 11,
           "auth": 13,
-          "rank": 23,
+          "rank": 20,
           "fresh": 13,
-          "kw": 6
+          "kw": 11
         },
         "crossCount": 2,
-        "reportCount": 4,
+        "reportCount": 2,
         "sources": [
           "海外网",
           "国际在线"
         ]
       },
       {
-        "title": "中国的发展与美国的繁荣可以共存——访美国中国问题专家丹尼斯·西蒙",
-        "link": "https://www.news.cn/world/20260928/9c7f6a8c9cba473082e6531a1fc8dfe8/c.html",
-        "summary": "新华社纽约9月27日电 专访｜中国的发展与美国的繁荣可以共存——访美国中国问题专家丹尼斯·西蒙",
-        "source": "新华网",
-        "pub": "",
+        "title": "以色列防长威胁：哈马斯海外领导人也在打击之列",
+        "link": "https://www.chinanews.com.cn/gj/2026/09-30/10705954.shtml",
+        "summary": "中新网9月30日电 据《以色列时报》报道，以色列国防部长卡茨当地时间29日表示，身处海外的巴勒斯坦伊斯兰抵抗运动(哈马斯)领导人也在以色列打击之列，并威胁将追击2023年10月7日袭击以色列的所有参与者。",
+        "source": "中国新闻网",
+        "pub": "Wed, 30 Sep 2026 06:56:43 +0800",
         "heat": 79,
         "heatRaw": 65,
-        "heatParts": {
-          "cross": 22,
-          "auth": 14,
-          "rank": 16,
-          "fresh": 13,
-          "kw": 0
-        },
-        "crossCount": 3,
-        "reportCount": 3,
-        "sources": [
-          "新华网",
-          "海外网",
-          "国际在线"
-        ]
-      },
-      {
-        "title": "日本突发4.9级地震",
-        "link": "https://www.chinanews.com.cn/gj/2026/09-29/10705191.shtml",
-        "summary": "中新网9月29日电 综合报道，据日本气象厅消息，日本茨城县南部29日凌晨发生4.9级地震。",
-        "source": "中国新闻网",
-        "pub": "Tue, 29 Sep 2026 06:58:13 +0800",
-        "heat": 79,
-        "heatRaw": 64,
         "heatParts": {
           "cross": 0,
           "auth": 13,
@@ -688,11 +630,11 @@
         ]
       },
       {
-        "title": "美总统称美官员已于28日同美伊间的调解方进行对话",
-        "link": "https://www.chinanews.com.cn/gj/2026/09-29/10705190.shtml",
-        "summary": "当地时间9月28日，美国总统特朗普表示，美国官员当日与旨在结束美伊战事的调解方进行了交谈。被问及美伊谈判进展时，特朗普没有透露谈判具体细节，只是称“我们会赢”，“事态很快就会有分晓”。",
+        "title": "美国计划通过“互换”释放4000万桶战略石油储备",
+        "link": "https://www.chinanews.com.cn/gj/2026/09-30/10705952.shtml",
+        "summary": "中新网9月30日电 综合外媒报道，当地时间29日，美国能源部战略石油储备项目管理办公室发布邀约公告，计划以“互换”方式向市场释放4000万桶原油。",
         "source": "中国新闻网",
-        "pub": "Tue, 29 Sep 2026 06:50:39 +0800",
+        "pub": "Wed, 30 Sep 2026 06:40:11 +0800",
         "heat": 77,
         "heatRaw": 62,
         "heatParts": {
@@ -700,28 +642,7 @@
           "auth": 13,
           "rank": 22,
           "fresh": 23,
-          "kw": 5
-        },
-        "crossCount": 1,
-        "reportCount": 1,
-        "sources": [
-          "中国新闻网"
-        ]
-      },
-      {
-        "title": "普京签令 俄罗斯武装部队总人数增至244万余人",
-        "link": "https://www.chinanews.com.cn/gj/2026/09-29/10705188.shtml",
-        "summary": "中新网9月29日电 综合俄罗斯媒体报道，俄罗斯总统普京28日签署总统令，将俄武装力量编制人数增至2441630人，其中现役军人数量为1550500人。",
-        "source": "中国新闻网",
-        "pub": "Tue, 29 Sep 2026 06:47:48 +0800",
-        "heat": 77,
-        "heatRaw": 61,
-        "heatParts": {
-          "cross": 0,
-          "auth": 13,
-          "rank": 20,
-          "fresh": 23,
-          "kw": 5
+          "kw": 4
         },
         "crossCount": 1,
         "reportCount": 2,
@@ -730,11 +651,118 @@
         ]
       },
       {
-        "title": "British men released on bail after suspected terror plot",
-        "link": "https://www.npr.org/2026/09/28/nx-s1-5983550/british-men-released-on-bail-after-suspected-terror-plot",
-        "summary": "Five British men have been released on bail after being detained near a military base for alleged terror offenses. The B…",
+        "title": "Nishan Forum 2026: Experts on Confucianism and its relevance today",
+        "link": "https://news.cgtn.com/news/2026-09-29/Nishan-Forum-2026-Experts-on-Confucianism-and-its-relevance-today-1QPqfajwapq/p.html",
+        "summary": "Over 2,500 years after the birth of Confucius in Nishan, the ancient wisdom of the land is still inspiring new conversat…",
+        "source": "CGTN",
+        "pub": "",
+        "heat": 77,
+        "heatRaw": 62,
+        "heatParts": {
+          "cross": 11,
+          "auth": 13,
+          "rank": 19,
+          "fresh": 19,
+          "kw": 0
+        },
+        "crossCount": 2,
+        "reportCount": 3,
+        "sources": [
+          "中国新闻网",
+          "CGTN"
+        ]
+      },
+      {
+        "title": "时习之丨从中美元首外交看习近平的全球治理理念",
+        "link": "https://news.haiwainet.cn/n/2026/0929/c3543307-32986862.html",
+        "summary": "应美国总统特朗普邀请，习近平主席于9月23日至25日对美国进行国事访问。这是习近平主席时隔3年再次到访美国、时隔11年再次对美国进行国事访问，也是中美元首半年...",
+        "source": "海外网",
+        "pub": "",
+        "heat": 76,
+        "heatRaw": 60,
+        "heatParts": {
+          "cross": 0,
+          "auth": 13,
+          "rank": 23,
+          "fresh": 13,
+          "kw": 11
+        },
+        "crossCount": 1,
+        "reportCount": 1,
+        "sources": [
+          "海外网"
+        ]
+      },
+      {
+        "title": "美国9月消费者信心指数降至12年来最低值",
+        "link": "https://www.chinanews.com.cn/gj/2026/09-30/10705951.shtml",
+        "summary": "中新社华盛顿9月29日电 (记者 沙晗汀)世界大型企业联合会当地时间29日公布数据显示，美国9月消费者信心指数降至81.9，创造自2014年4月以来的最低值，低于市场预期。",
+        "source": "中国新闻网",
+        "pub": "Wed, 30 Sep 2026 06:37:55 +0800",
+        "heat": 75,
+        "heatRaw": 59,
+        "heatParts": {
+          "cross": 0,
+          "auth": 13,
+          "rank": 20,
+          "fresh": 23,
+          "kw": 3
+        },
+        "crossCount": 1,
+        "reportCount": 1,
+        "sources": [
+          "中国新闻网"
+        ]
+      },
+      {
+        "title": "从习近平主席这三句话，感悟“大国正确相处的新路”",
+        "link": "https://news.haiwainet.cn/n/2026/0929/c3543307-32986743.html",
+        "summary": "从北京到华盛顿，不到半年，中美两国元首实现互访，创造了两国交往的历史。此行间，习近平主席开宗明义：“我这次应特朗普总统邀请访美，是为传承友谊而来，为拓展合作而来...",
+        "source": "海外网",
+        "pub": "",
+        "heat": 75,
+        "heatRaw": 59,
+        "heatParts": {
+          "cross": 0,
+          "auth": 13,
+          "rank": 22,
+          "fresh": 13,
+          "kw": 11
+        },
+        "crossCount": 1,
+        "reportCount": 1,
+        "sources": [
+          "海外网"
+        ]
+      },
+      {
+        "title": "5 Britons bailed after arrests near RAF base",
+        "link": "https://www.chinadaily.com.cn/a/202609/29/WS6abab654e4b06d4aa0560a2c.html",
+        "summary": "Five British nationals have been released on police bail after being arrested near a Royal Air Force base in England in …",
+        "source": "中国日报网",
+        "pub": "",
+        "heat": 74,
+        "heatRaw": 57,
+        "heatParts": {
+          "cross": 11,
+          "auth": 13,
+          "rank": 16,
+          "fresh": 13,
+          "kw": 3
+        },
+        "crossCount": 2,
+        "reportCount": 3,
+        "sources": [
+          "中国日报网",
+          "NPR"
+        ]
+      },
+      {
+        "title": "Potential Taiwan tension sparked 'last minute' change in Trump-Xi National Archives visit",
+        "link": "https://www.npr.org/2026/09/29/nx-s1-5984989/digital-archives-trump-xi",
+        "summary": "The sudden change was precipitated because of Chinese displeasure over one document that the U.S. had planned to show.",
         "source": "NPR",
-        "pub": "Mon, 28 Sep 2026 18:10:02 -0400",
+        "pub": "Tue, 29 Sep 2026 13:17:04 -0400",
         "heat": 74,
         "heatRaw": 57,
         "heatParts": {
@@ -745,51 +773,30 @@
           "kw": 3
         },
         "crossCount": 1,
-        "reportCount": 2,
-        "sources": [
-          "NPR"
-        ]
-      },
-      {
-        "title": "China Daily documentary wins film award in Europe",
-        "link": "https://www.chinadaily.com.cn/a/202609/28/WS6ab9c514e4b06d4aa056079e.html",
-        "summary": "A China Daily documentary featuring life in Shenyang, Liaoning province, won an international communication award at the…",
-        "source": "中国日报网",
-        "pub": "",
-        "heat": 73,
-        "heatRaw": 55,
-        "heatParts": {
-          "cross": 0,
-          "auth": 13,
-          "rank": 19,
-          "fresh": 13,
-          "kw": 9
-        },
-        "crossCount": 1,
         "reportCount": 1,
         "sources": [
-          "中国日报网"
+          "NPR"
         ]
       }
     ],
     "medical": [
       {
-        "title": "中国疾控中心（中国预科院）召开前置软件应用与监测...",
-        "link": "https://www.chinacdc.cn/zxyw/202609/t20260928_1841856.html",
-        "summary": "2026年9月18日，为落实《疾病预防控制“十五五”规划》及国家疾控局杭州现场会议部署要求，总结智慧化多点触发传染病监测预警体系建设和前置软件应用进展，中国疾控中心（中国预科院）召开前置软件应用与监测预警“团山”研讨会。来自国内科研机构、高…",
+        "title": "中国疾控中心（中国预科院）召开2027年度国家自然科...",
+        "link": "https://www.chinacdc.cn/zxyw/202609/t20260929_1842008.html",
+        "summary": "会议传达了2026年9月4日国家自然科学基金委2025年度北京、天津、山西、内蒙古四省（区、市）国自然项目资金监督检查总结会精神，以及贯彻落实的工作安排；听取了中心（院）2026年度国自然项目申报获批情况和2027年度申报工作安排。病毒病所…",
         "source": "中国疾控中心",
         "pub": "",
-        "heat": 79,
-        "heatRaw": 65,
+        "heat": 77,
+        "heatRaw": 61,
         "heatParts": {
           "cross": 0,
           "auth": 13,
           "rank": 23,
           "fresh": 13,
-          "kw": 14
+          "kw": 10
         },
         "crossCount": 1,
-        "reportCount": 5,
+        "reportCount": 3,
         "sources": [
           "中国疾控中心"
         ]
@@ -800,17 +807,38 @@
         "summary": "新华网北京9月28日电（杨玉云） 当AI学会号脉与风险预警，能不能为每个人配一位24小时待命的“家庭医生”？9月22日，安顿健康科技创始人白伟民做客新华网演播室，讲述十年累计预警超4万例背后，中医治未病与人工智能融合开辟的主动健康之路。",
         "source": "新华网·健康",
         "pub": "",
-        "heat": 78,
-        "heatRaw": 64,
+        "heat": 74,
+        "heatRaw": 56,
+        "heatParts": {
+          "cross": 0,
+          "auth": 13,
+          "rank": 22,
+          "fresh": 7,
+          "kw": 14
+        },
+        "crossCount": 1,
+        "reportCount": 1,
+        "sources": [
+          "新华网·健康"
+        ]
+      },
+      {
+        "title": "联防“三高一疹” 健康出行有“方”——《2026年秋季出行健康手册》发布，守护50岁以上人群健康出行",
+        "link": "https://www.news.cn/health/20260929/b6bf4f48713e435598db6f088a97dfe5/c.html",
+        "summary": "联防“三高一疹” 健康出行有“方”——《2026年秋季出行健康手册》发布，守护50岁以上人群健康出行-创新提出联防理念 破解慢病叠加出行风险结合秋季出行特点与中老年慢病发病规律，本次发布的《手册》创新提出“联防三高一疹”科学理念，打破以往单…",
+        "source": "新华网·健康",
+        "pub": "",
+        "heat": 73,
+        "heatRaw": 55,
         "heatParts": {
           "cross": 0,
           "auth": 13,
           "rank": 23,
           "fresh": 13,
-          "kw": 14
+          "kw": 4
         },
         "crossCount": 1,
-        "reportCount": 1,
+        "reportCount": 2,
         "sources": [
           "新华网·健康"
         ]
@@ -842,48 +870,6 @@
         "summary": "9月23日，《生物医学与环境科学（英文）》期刊2026年编委会会议暨第一届青年编委会成立大会在北京召开。中心（院）王健伟主任（院长），期刊主编施小明副主任（副院长），以及来自全国疾控机构、科研院所、高等院校的编委120余人参加会议。",
         "source": "中国疾控中心",
         "pub": "",
-        "heat": 72,
-        "heatRaw": 53,
-        "heatParts": {
-          "cross": 0,
-          "auth": 13,
-          "rank": 22,
-          "fresh": 7,
-          "kw": 10
-        },
-        "crossCount": 1,
-        "reportCount": 1,
-        "sources": [
-          "中国疾控中心"
-        ]
-      },
-      {
-        "title": "创新驱动生物医药走出“跟风仿创”",
-        "link": "https://jiankang.cctv.com/2026/09/23/ARTINqhop0Mku6HYKfkeW3Ly260923.shtml",
-        "summary": "医药“十五五”规划剑指“跟风仿创”，目标2030年全球首创新药占比超25%，AI已让候选分子发现周期缩短40%。",
-        "source": "央视网·健康",
-        "pub": "",
-        "heat": 72,
-        "heatRaw": 53,
-        "heatParts": {
-          "cross": 0,
-          "auth": 13,
-          "rank": 22,
-          "fresh": 7,
-          "kw": 10
-        },
-        "crossCount": 1,
-        "reportCount": 1,
-        "sources": [
-          "央视网·健康"
-        ]
-      },
-      {
-        "title": "2026年全国疾控系统青年马克思主义者培养工程培训班...",
-        "link": "https://www.chinacdc.cn/zxyw/202609/t20260924_1841807.html",
-        "summary": "2026年9月23-24日，全国疾控系统青年马克思主义者培养工程培训班在湖南长沙举办。中国疾控中心（中国预科院）党委副书记周宇辉，湖南省疾控中心党委书记朱丽辉，湖南省卫生健康委直属机关党委副书记、机关纪委书记、机关团委书记杨彪出席培训班并讲…",
-        "source": "中国疾控中心",
-        "pub": "",
         "heat": 71,
         "heatRaw": 51,
         "heatParts": {
@@ -905,12 +891,12 @@
         "summary": "让生机再次绽放：一位aHUS患者的闯关与坚守-\" 契机：让规范诊疗抵达更多患者兰姐的幸运，并非偶然。\"",
         "source": "新华网·健康",
         "pub": "",
-        "heat": 71,
-        "heatRaw": 52,
+        "heat": 70,
+        "heatRaw": 50,
         "heatParts": {
           "cross": 0,
           "auth": 13,
-          "rank": 20,
+          "rank": 19,
           "fresh": 7,
           "kw": 11
         },
@@ -921,19 +907,40 @@
         ]
       },
       {
-        "title": "从一朵棉花到一片卫生巾，需要过几道关？",
-        "link": "https://www.news.cn/health/20260924/eb26ee89b08449649d334dd9db117210/c.html",
-        "summary": "从一朵棉花到一片卫生巾，需要过几道关？-对选择奈丝公主的女性来说，经期贴身相伴的那片卫生巾，起点恰恰就是这样一朵棉花。",
-        "source": "新华网·健康",
+        "title": "2026年全国疾控系统青年马克思主义者培养工程培训班...",
+        "link": "https://www.chinacdc.cn/zxyw/202609/t20260924_1841807.html",
+        "summary": "2026年9月23-24日，全国疾控系统青年马克思主义者培养工程培训班在湖南长沙举办。中国疾控中心（中国预科院）党委副书记周宇辉，湖南省疾控中心党委书记朱丽辉，湖南省卫生健康委直属机关党委副书记、机关纪委书记、机关团委书记杨彪出席培训班并讲…",
+        "source": "中国疾控中心",
         "pub": "",
-        "heat": 65,
-        "heatRaw": 42,
+        "heat": 70,
+        "heatRaw": 50,
         "heatParts": {
           "cross": 0,
           "auth": 13,
-          "rank": 22,
+          "rank": 19,
           "fresh": 7,
-          "kw": 0
+          "kw": 10
+        },
+        "crossCount": 1,
+        "reportCount": 1,
+        "sources": [
+          "中国疾控中心"
+        ]
+      },
+      {
+        "title": "多方协同共同守护 上海探索罕见病保障事业与创新产业协同发展路径",
+        "link": "https://www.news.cn/health/20260929/16449443314946a88043c02caa3a2691/c.html",
+        "summary": "多方协同共同守护 上海探索罕见病保障事业与创新产业协同发展路径-联盟坚持“患者为本、创新驱动、生态共建”的理念，汇聚全球智慧与本土创新，联动政府、研发、临床、学术、产业、公益等多方力量，助力中国罕见病诊疗与保障体系建设，携手共筑罕见病行业新…",
+        "source": "新华网·健康",
+        "pub": "",
+        "heat": 69,
+        "heatRaw": 48,
+        "heatParts": {
+          "cross": 0,
+          "auth": 13,
+          "rank": 10,
+          "fresh": 13,
+          "kw": 11
         },
         "crossCount": 1,
         "reportCount": 1,
@@ -942,18 +949,18 @@
         ]
       },
       {
-        "title": "创新赋能免疫 全球疫苗供应迈向多极",
-        "link": "https://www.news.cn/health/20260923/635a257806474bb29ffc6cb197840627/c.html",
-        "summary": "创新赋能免疫 全球疫苗供应迈向多极-苏里对中国疫苗产业的创新能力给予高度评价： 中国已经成为疫苗创新的重要中心。",
+        "title": "阿斯利康杜迈科：罕见病需要更具针对性的支持机制 上海有望率先探索",
+        "link": "https://www.news.cn/health/20260929/e051da4611844ac58d251e3b41d38aef/c.html",
+        "summary": "阿斯利康杜迈科：罕见病需要更具针对性的支持机制 上海有望率先探索-\"谈及上海，杜迈科认为这座城市具备科研实力与创新优势，有望在罕见病领域发挥引领作用，将自身创新能力应用于罕见病研发，推动中国乃至全球罕见病诊疗与创新进一步发展。\"",
         "source": "新华网·健康",
         "pub": "",
         "heat": 65,
-        "heatRaw": 42,
+        "heatRaw": 41,
         "heatParts": {
           "cross": 0,
           "auth": 13,
-          "rank": 16,
-          "fresh": 7,
+          "rank": 9,
+          "fresh": 13,
           "kw": 6
         },
         "crossCount": 1,
@@ -986,6 +993,41 @@
     ],
     "ai": [
       {
+        "title": "正行创新联合创始人杨宇欣正式亮相：出任总裁，负责全球业务拓展",
+        "link": "https://www.qbitai.com/2026/09/499239.html",
+        "summary": "推动公司具身模型、本体、软件等全栈能力进入更多真实场景",
+        "source": "量子位",
+        "pub": "Tue, 29 Sep 2026 10:56:33 +0000"
+      },
+      {
+        "title": "精准揪出RL训练数据Bug，Prompt直出小游戏，IQuest-Q1夯爆了！",
+        "link": "https://www.qbitai.com/2026/09/499188.html",
+        "summary": "（暂无摘要）",
+        "source": "量子位",
+        "pub": "Tue, 29 Sep 2026 07:59:46 +0000"
+      },
+      {
+        "title": "OpenAI因新模型太强叫停发布",
+        "link": "https://www.qbitai.com/2026/09/499140.html",
+        "summary": "AGI计划暂停。",
+        "source": "量子位",
+        "pub": "Tue, 29 Sep 2026 07:49:20 +0000"
+      },
+      {
+        "title": "成立一年完成5轮融资，诺因智能再获数亿元，累计超10亿元",
+        "link": "https://www.qbitai.com/2026/09/499135.html",
+        "summary": "诺因从Demo走向家庭",
+        "source": "量子位",
+        "pub": "Tue, 29 Sep 2026 07:10:59 +0000"
+      },
+      {
+        "title": "李飞飞创业公司被苏姿丰550亿收购！世界模型最大交易落地",
+        "link": "https://www.qbitai.com/2026/09/499098.html",
+        "summary": "李飞飞将入职AMD首席科学家",
+        "source": "量子位",
+        "pub": "Tue, 29 Sep 2026 00:49:30 +0000"
+      },
+      {
         "title": "工业创新进入“组队局”，拆解西门子Xcelerator开放生态的赋能链路",
         "link": "https://www.qbitai.com/2026/09/498877.html",
         "summary": "工业平台已经卷到帮伙伴拿线索、做Agent、出海了",
@@ -1007,53 +1049,18 @@
         "pub": "Sun, 27 Sep 2026 14:20:35 +0000"
       },
       {
-        "title": "量子计算走上桌面！“小盒子”跑通端到端，数据全程不出门",
-        "link": "https://www.qbitai.com/2026/09/498605.html",
-        "summary": "想让开发者“说句话就能跑量子计算”",
-        "source": "量子位",
-        "pub": "Sun, 27 Sep 2026 13:57:57 +0000"
-      },
-      {
-        "title": "又快又能打！匿名模型玉兔模型杀上双榜第一，Coding实测全记录",
-        "link": "https://www.qbitai.com/2026/09/498584.html",
-        "summary": "中秋假期文具OpenRouter调用日榜榜首",
-        "source": "量子位",
-        "pub": "Sun, 27 Sep 2026 13:40:02 +0000"
-      },
-      {
-        "title": "啥题啊能干崩OpenAI最强模型训练…",
-        "link": "https://www.qbitai.com/2026/09/498546.html",
-        "summary": "（暂无摘要）",
-        "source": "量子位",
-        "pub": "Sun, 27 Sep 2026 09:44:16 +0000"
-      },
-      {
-        "title": "索辰科技加码世界模型，与战略投资企业美梦空间联合发布具身模型与物理测评标准",
-        "link": "https://www.qbitai.com/2026/09/498478.html",
-        "summary": "“世界模型”开始成为具身智能跨越商业化“奇点”的新叙事。",
-        "source": "量子位",
-        "pub": "Sat, 26 Sep 2026 11:49:43 +0000"
-      },
-      {
-        "title": "AI开始研究Physical AI：FSD级团队亮出首版模型Simate-beta，空降RoboDojo",
-        "link": "https://www.qbitai.com/2026/09/498271.html",
-        "summary": "Simate将训练、推理与评测全流程接入自研Infra，通过极致的任务编排与资源调度，同时并行推进数十条相互独立的研究路线。",
-        "source": "量子位",
-        "pub": "Sat, 26 Sep 2026 09:07:41 +0000"
-      },
-      {
-        "title": "派评 | 近期值得关注的 App",
-        "link": "https://sspai.com/post/115094",
-        "summary": ">下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀 查看全文",
+        "title": "社区速递 160 | 水月雨首款游戏耳机与八月派友剁手清单",
+        "link": "https://sspai.com/post/115153",
+        "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现…",
         "source": "少数派",
-        "pub": "Mon, 28 Sep 2026 17:45:02 +0800"
+        "pub": "Tue, 29 Sep 2026 17:03:00 +0800"
       },
       {
-        "title": "基于 Termux 的 Android 手机开发服务器实操",
-        "link": "https://sspai.com/prime/story/dev-env-on-android-with-termux",
-        "summary": "不 root、不刷机，在随身设备上跑通 AI Agent 与微型 Linux 环境。 查看全文 本文为会员文章，出自 《单篇文章》 ，订阅后可阅读全文。",
+        "title": "更懂你的心，也更懂你：Apple Watch Series 12 体验",
+        "link": "https://sspai.com/post/115061",
+        "summary": "全新 Apple Watch Series 12，有哪些可感知的升级？ 查看全文",
         "source": "少数派",
-        "pub": "Mon, 28 Sep 2026 17:33:03 +0800"
+        "pub": "Tue, 29 Sep 2026 15:44:46 +0800"
       }
     ]
   },
@@ -1158,7 +1165,7 @@
         "美联社": 0,
         "BBC新闻": 0,
         "经济学人": 0,
-        "NPR": 9,
+        "NPR": 10,
         "今日美国": 0
       }
     },
