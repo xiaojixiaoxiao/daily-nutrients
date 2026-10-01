@@ -1,52 +1,52 @@
 {
-  "generatedAt": "2026-09-30T23:03:50.786Z",
-  "date": "2026-10-01",
+  "generatedAt": "2026-10-01T23:02:45.785Z",
+  "date": "2026-10-02",
   "books": {
-    "date": "2026-09-30",
+    "date": "2026-10-01",
     "books": [
       {
-        "title": "艺术与对象",
-        "author": "[美]格拉汉姆·哈曼",
-        "cover": "https://img3.doubanio.com/view/subject/s/public/s35562637.jpg",
+        "title": "我曾这样寂寞生活",
+        "author": "[波] 维斯拉瓦·辛波斯卡",
+        "cover": "https://img3.doubanio.com/view/subject/s/public/s35587788.jpg",
         "rating": 0,
-        "ratingCount": 26,
-        "summary": "●编辑推荐● “艺术之所以重要，是因为它揭示了事物永远无法被任何关系和任何知识所穷尽的那份沉默的深度。” ——汪民安 面向对象的本体论代表作; “美学作为第一哲学”核心命题的系统阐述; 从康德、海德格尔、格林伯格、弗雷德到达达主义、超现实主义、当代艺术, 重新思考： 艺术作品究竟是什么？ 艺术与哲学都有指向“第三张桌子”的使命 艺术作品究竟是什么？它既不",
-        "authorBio": "《艺术与对象》由[美]格拉汉姆·哈曼撰写，于2026-8出版。",
-        "link": "https://book.douban.com/subject/38449856/",
+        "ratingCount": 55,
+        "summary": "⭐️我从未使用过绝望，尽管它的确为我所有。诺贝尔文学奖得主辛波斯卡经典作品 ⭐️她的诗集被存入北极“末日图书馆”，跟随波兰宇航员进入太空，挽救了瑞典一家濒临倒闭的出版社。意大利读者心目中“诗歌界的摇滚明星”，瑞典文学院称她为“诗界莫扎特”。 ⭐️《万物静默如谜》姐妹篇，著名诗人、学者胡桑译本，收录《告别风景》《写自旅馆》《从无馈赠》《我致力于创造一个世界》等",
+        "authorBio": "《我曾这样寂寞生活》由[波] 维斯拉瓦·辛波斯卡撰写，于2026-8出版。",
+        "link": "https://book.douban.com/subject/38420884/",
         "pubDate": "2026-8",
         "tag": "new"
       },
       {
-        "title": "加沙之眼：一位记者的45天加沙现场日记",
-        "author": "[巴勒] 普莱斯蒂亚·阿拉卡德",
-        "cover": "https://img3.doubanio.com/view/subject/s/public/s35609092.jpg",
+        "title": "南方",
+        "author": "[英] 欧大旭",
+        "cover": "https://img3.doubanio.com/view/subject/s/public/s35604908.jpg",
         "rating": 0,
         "ratingCount": 0,
-        "summary": "2023年9月，普莱斯蒂亚只是一名普通的大学毕业生。但在10月7日后，她成了“加沙之眼”，数百万人为她在社交媒体上展现加沙战争期间平民日常生活的帖子深深触动。 本书是普莱斯蒂亚的日记集，详细记录了她在2023年10月7日新一轮巴以冲突爆发后以记者身份经历的45天，以及她离开加沙后的所见、所思、所想。她用她的眼睛和笔带我们回到战火中的加沙现场，亲历普通人充满创",
-        "authorBio": "《加沙之眼：一位记者的45天加沙现场日记》由[巴勒] 普莱斯蒂亚·阿拉卡德撰写，于2026-9出版。",
-        "link": "https://book.douban.com/subject/38179930/",
+        "summary": "那一刻，“永远”听起来像是一种令人心安的承诺。 可在那个年纪，谁又懂得什么是“时间”呢？ 那一年的旱季，仿佛点根火柴，整个国家都能烧起来。 假期来临，杰伊随家人南下，前往祖父留给母亲的农场。杰伊由此结识了农场经理阿峰的儿子阿泉。两人一起在果园劳作，在湖里嬉戏，去夜市闲逛，他们的人生还未开启，还有无尽的青春暂时可以挥洒。 屋里的成人却要被迫直面各自深藏的秘密与",
+        "authorBio": "《南方》由[英] 欧大旭撰写，于2026-9出版。",
+        "link": "https://book.douban.com/subject/38541647/",
         "pubDate": "2026-9",
         "tag": "new"
       }
     ],
     "quotes": [
       {
-        "text": "命运赠送的礼物，早已在暗中标好了价格。",
-        "author": "茨威格",
-        "bio": "奥地利作家，《人类群星闪耀时》作者。",
-        "bg": "出自《断头王后》评玛丽·安托瓦内特，警示轻易所得终须偿还。"
+        "text": "勇气是压力下的优雅。",
+        "author": "海明威",
+        "bio": "美国作家，硬汉文风。",
+        "bg": "海明威式箴言，定义从容是危境中仍保持体面与镇定。"
       },
       {
-        "text": "不积跬步，无以至千里；不积小流，无以成江海。",
-        "author": "荀子",
-        "bio": "战国儒家学者。",
-        "bg": "出自《劝学》，以积累说明恒心成就远大。"
+        "text": "一切伟大的行动和思想，都有一个微不足道的开始。",
+        "author": "加缪",
+        "bio": "法国哲学家、作家。",
+        "bg": "出自《西西弗神话》，鼓励人从当下微小处启程。"
       },
       {
-        "text": "当你凝视深渊时，深渊也在凝视着你。",
-        "author": "尼采",
-        "bio": "德国哲学家，提出「超人」「权力意志」。",
-        "bg": "出自《善恶的彼岸》，警示人与恶对抗时谨防被其同化。"
+        "text": "一个人不是生来要给打败的，你尽可把他消灭掉，可就是打不败他。",
+        "author": "海明威",
+        "bio": "美国作家，诺贝尔文学奖得主，硬汉文风。",
+        "bg": "出自《老人与海》，老渔夫与大鱼搏斗，诠释「人可以被毁灭，不能被打败」。"
       }
     ],
     "source": "douban",
@@ -279,15 +279,44 @@
     }
   ],
   "english": {
-    "date": "2026-09-30",
+    "date": "2026-10-01",
     "news": {
       "type": "news",
-      "title": "Flu shot recommendation for kids dropped just as the illness rages",
-      "summary": "The Centers for Disease Control and Prevention dropped its advice that kids get an annual …",
-      "link": "https://www.npr.org/sections/shots-health-news/2026/01/12/nx-s1-5668378/flu-vaccine-children-cdc",
-      "source": "NPR · Health Shots",
+      "title": "A new California law bans child marriage. What's the global outlook on the practice?",
+      "summary": "The governor of California has signed into law a ban on child marriage. What is the status…",
+      "link": "https://www.npr.org/2026/10/01/g-s1-145998/child-marriage-ban-law-california-newsom",
+      "source": "NPR",
       "content": [
-        "The Centers for Disease Control and Prevention dropped its advice that kids get an annual …"
+        "A demonstrator in Massachusetts wearing a bridal gown takes part in a protest urging legislators to end child marriage. David L. Ryan/The Boston Globe/via Getty Images hide caption",
+        "It's been a landmark year for activists seeking bans against child marriage in the U.S. On Sept. 30, California Governor Gavin Newsom signed Bill AB 1267 , setting 18 as the minimum age for marriage in the state, with no exceptions.",
+        "The bill, sponsored by Unchained at Last and the California Commission on the Status of Women and Girls, was authored by Assemblymember Gail Pellerin. It repealed provisions that had allowed minors to marry with parental consent and judicial approval, a system that meant California had no statutory minimum marriage age. The law also removes the parallel exception that allowed minors to enter domestic partnerships.",
+        "Its passage marks the culmination of a nearly decade-long campaign by survivors and advocacy groups to outlaw marriage before 18 in the state. California is now the 18th state to prohibit child marriage without exception; such marriages remain legal under varying restrictions in 32 other states.",
+        "The signing also brought survivor voices to the forefront. Newsom signed the measure alongside advocate Courtney Stodden, who was 16 when her parents permitted her to marry 50-year-old actor Doug Hutchison and has since become an outspoken campaigner against child marriage.",
+        "\"The heart of this effort has always been the survivors,\" Pellerin said after the bill was signed. \"They told us what it means to be a child in a marriage you did not freely choose.\"",
+        "She pointed to the difficulties minors can face in seeking legal help, leaving home or escaping adults who may be enabling the marriage. \"Because of them, California children are safer.\"",
+        "The issue of child marriage — when one partner is under age 18 — is a global concern. The United Nations calls it a \"human rights violation,\" citing a litany of concerns for child brides: \"early pregnancy and social isolation, interrupting her schooling, limiting her opportunities for career and vocational advancement and placing her at risk of domestic violence.\" Yet every year, the U.N. estimates that 12 million girls become child brides.",
+        "Child grooms, the U.N. further notes, may be forced into \"an adult role for which they are unprepared,\" with pressure to drop out of school and support a family.",
+        "The U.N. has set the goal of ending child marriage by the year 2030.",
+        "Since 2021, countries as diverse as Sierra Leone, England, the Philippines and the Dominican Republic have been passing legislation to set the marriage age at 18, with no exceptions.",
+        "In the United States, the current push for a national law is controversial — some have criticized provisions in the proposed legislation, and others oppose it altogether.",
+        "And legislation is not necessarily the solution. In India, marriage under age 18 is illegal, yet the latest National Family Health Survey conducted in country found that one in five women ages 20 to 24 married before turning 18. UNICEF estimates that at least 1.5 million girls under the age of 18 are married in India each year.",
+        "Even as states like California create new laws regarding child marriage, the United States as a whole is debating the issue — and raising the possibility of a nationwide ban.",
+        "On July 16, U.S. Rep. Gwen Moore of Wisconsin and Sens. Dick Durbin, Brian Schatz and Kirsten Gillibrand introduced the Child Marriage Prevention Act, a federal bill aimed at combating child marriage.",
+        "Goats and Soda Children Get Married In The U.S., Too: #15Girls This legislation would push states toward a nationwide minimum marriage age of 18. \"In 34 states, including Wisconsin, child marriage is legal. Many of these marriages are between young girls and adult men. It's time we end this predatory practice,\" Moore said in a statement emailed to NPR. \"I know that advocates have pushed for reform at the state level, which has led some states to change their laws. This federal legislation would help bolster and support those efforts, including helping states get the data to understand its prevalence in their jurisdictions and then take action to address it.\"",
+        "In announcing the bill, its four congressional cosponsors cited data showing that more than 314,000 minors were legally married in the United States between 2000 and 2021, including girls as young as 10. The figures, compiled by child-marriage advocacy groups from state marriage records, indicate that most of the underage girls were married to adult men.",
+        "Unchained At Last, a nonprofit worked to end forced and child marriage in the U.S., estimates that at least 66,415 of these marriages — about one in five — occurred when the bride was at an age when sexual relations would be considered a crime (the age varies from 14 to 18 depending on the state). In roughly 90% of that subset, according to the organization's founder, Fraidy Reiss, marital exemptions in state statutory-rape laws shielded the adult spouse from prosecution . Married minors may also face legal barriers to hiring an attorney, filing for divorce or obtaining protection from abuse.",
+        "The Tahirih Justice Center, an organization with a long history of advocating for survivors of forced and child marriage, has been a key partner in developing and supporting this legislation.",
+        "\"The one thing we hear all the time from places — Cameroon, Guatemala, you name it — is: 'It makes my work harder when a politician can say to my face, the United States allows child marriage, so why should I do anything?' The best thing that we can do to help the global movement is to get our house in order,\" says Casey Carter Swegman, director of public policy at Tahirih.",
+        "Swegman says that a child's apparent consent does not necessarily mean that the decision to marry was made freely. \"A 15-, 16- or 17-year-old who has been pressured and coached by family members may tell a judge that she consents because refusing could expose her to punishment or violence at home,\" she says. This is especially troubling, Swegman says, when pregnancy, potential evidence of sexual abuse, is treated as justification for allowing the marriage to proceed.",
+        "\"A child is coming before your court pregnant by an adult person — that should be a red flag for statutory rape, not a green light for marriage,\" she says.",
+        "Although the proposed bill has won support from many child-marriage advocates, others have questioned whether its provisions go far enough and warn of possible unintended consequences that it has overlooked.",
+        "\"If I could heart a provision of this bill, it would be [the proposal] to provide financial incentive to states that have banned child marriage — that I can get behind,\" says Reiss. \"While I applaud Congress for introducing and considering legislation to combat child marriage at the federal level, I am appalled that two sections of the Child Marriage Prevention Act would make a mockery of the bill's title.\"",
+        "Section 6, she says, would provide federal grants to states to \"study\" child marriage instead of banning it. \"If states are given money to examine something that's a human rights violation instead of banning it outright, it would be devastating,\" says Reiss, who says she was forced to marry at age 19.",
+        "Section 10 would allow some minors as young as 16, whether in the United States or abroad, to qualify for a U.S. spousal visa under certain circumstances. This would actually encourage a particularly heinous form of child marriage, says Reiss: the trafficking of minors to the U.S. under the guise of marriage, and it would discourage U.S. states from setting their marriage age at 18, no exceptions. \"If the bill were amended to set the spousal visa age at 18, it would be a 'game-changer' by sending a clear message to states and halting legal trafficking,\" she says.",
+        "There has been opposition to the idea in some states. For instance, some Republican lawmakers in Missouri have opposed state bans on child marriage, arguing that such restrictions constitute government overreach and interfere with parental authority.",
+        "In 2024, in an interview with the Missouri Independent, Republican state Rep. Dean Van Schoiack called a proposed ban \"government intrusion in people's lives.\" Asked what would be lost if 16- and 17-year-olds could no longer marry, he replied, \"Liberties that people currently have.\"",
+        "As Congress prepares to debate the U.S. bill, other countries have already adopted more sweeping national restrictions. The Prohibition of Child Marriage Act 2024 in Sierra Leone sets 18 as the minimum age of marriage without any exceptions for parental consent, religious marriage or pregnancy. Section 15 declares that any child marriage contracted after the Act took effect to be void. The legislation even penalizes people who facilitate or attend a child marriage.",
+        "In November 2024, Colombia, where 23% of girls are married before they're 18, passed a law banning such marriages outright. In a similar move, on Sept. 25, 2025, Bolivia banned child marriage without exceptions, removing provisions allowing 16- and 17-year-olds to marry with parental consent or judicial approval."
       ],
       "dataSources": [
         {
@@ -329,52 +358,74 @@
         "summary": "9月30日晚，庆祝中华人民共和国成立77周年招待会在北京人民大会堂举行。中共中央总书记、国家主席、中央军委主席习近平出席招待会并发表重要讲话。 新华社记者 谢环驰 摄",
         "source": "新华网",
         "pub": "",
-        "heat": 91,
-        "heatRaw": 84,
+        "heat": 89,
+        "heatRaw": 81,
         "heatParts": {
           "cross": 22,
           "auth": 14,
-          "rank": 20,
+          "rank": 17,
           "fresh": 21,
           "kw": 6
         },
-        "crossCount": 5,
-        "reportCount": 10,
+        "crossCount": 3,
+        "reportCount": 5,
         "sources": [
           "人民网",
           "新华网",
-          "中国新闻网",
-          "中国经济网",
-          "澎湃新闻"
-        ]
-      },
-      {
-        "title": "先行开挖区项目顺利完成 三峡水运新通道工程即将迈入全面施工阶段",
-        "link": "https://www.news.cn/fortune/20260930/334443ef665d4e80bb3fb97709fa1ed8/c.html",
-        "summary": "9月30日拍摄的三峡枢纽新通道先行开挖区项目施工现场（无人机照片）。新华社记者 肖艺九 摄",
-        "source": "新华网",
-        "pub": "",
-        "heat": 77,
-        "heatRaw": 61,
-        "heatParts": {
-          "cross": 22,
-          "auth": 14,
-          "rank": 4,
-          "fresh": 21,
-          "kw": 0
-        },
-        "crossCount": 3,
-        "reportCount": 3,
-        "sources": [
-          "新华网",
-          "中国新闻网",
           "中国经济网"
         ]
       },
       {
-        "title": "从存量焕新到增量澎湃——来自湖南、福建、山东的消费调查",
-        "link": "https://www.ce.cn/xwzx/gnsz/gdxw/202610/t20261001_3245644.shtml",
-        "summary": "消费，一头连着百姓民生，一头连着经济发展。如何推动消费转型升级，让沉睡资源重聚人气？如何培育多元消费新增长点？记者赴湖南、福建、山东等地走访调研，从老城街区到产业园区，从乡村海岛到繁华城市，消费活力的脉动清晰可感。",
+        "title": "新华社评论员：坚定信心启新程 锚定目标谱新篇",
+        "link": "https://www.news.cn/politics/leaders/20261001/48f6fe68d585416d9c2d19bcb22163f8/c.html",
+        "summary": "新华社评论员：坚定信心启新程 锚定目标谱新篇——学习贯彻习近平总书记在庆祝中华人民共和国成立77周年招待会上重要讲话精神-",
+        "source": "新华网",
+        "pub": "",
+        "heat": 87,
+        "heatRaw": 78,
+        "heatParts": {
+          "cross": 22,
+          "auth": 14,
+          "rank": 14,
+          "fresh": 21,
+          "kw": 6
+        },
+        "crossCount": 3,
+        "reportCount": 4,
+        "sources": [
+          "人民网",
+          "新华网",
+          "澎湃新闻"
+        ]
+      },
+      {
+        "title": "各地迎来国庆假期出行高峰",
+        "link": "https://www.news.cn/photo/20261001/03c1afca544f4afdb3537e6ffcc42a60/c.html",
+        "summary": "各地迎来国庆假期出行高峰-10月1日，旅客在哈尔滨站候车室有序候车。",
+        "source": "新华网",
+        "pub": "",
+        "heat": 85,
+        "heatRaw": 75,
+        "heatParts": {
+          "cross": 22,
+          "auth": 14,
+          "rank": 17,
+          "fresh": 21,
+          "kw": 0
+        },
+        "crossCount": 4,
+        "reportCount": 6,
+        "sources": [
+          "人民网",
+          "新华网",
+          "中国新闻网",
+          "澎湃新闻"
+        ]
+      },
+      {
+        "title": "“村超村集”带动活力乡村",
+        "link": "https://www.ce.cn/xwzx/gnsz/gdxw/202610/t20261002_3246890.shtml",
+        "summary": "贵州榕江生态资源富集、民族文化多元，构成了得天独厚的乡村发展底蕴。受限于深山地理条件，优质的生态、文化资源长期藏在深山，难以变现。产业布局分散、村寨空心化、增收渠道单一等问题，长期制约着乡村发展步伐，资源优势始终未能彻底转化为经济发展优势。",
         "source": "中国经济网",
         "pub": "",
         "heat": 76,
@@ -393,54 +444,11 @@
         ]
       },
       {
-        "title": "权威发布|现代化水网建设加快推进",
-        "link": "http://politics.people.com.cn/n1/2026/1001/c461001-40808502.html",
-        "summary": "9月30日国务院新闻办举行“开局起步‘十五五’”系列主题新闻发布会，介绍加快建设现代化水网有关情况。 今年前9月完成水利建设投资7950亿元 国家水网是以自然河湖为基础、引调排水工程为通道、调",
-        "source": "人民网",
-        "pub": "",
-        "heat": 76,
-        "heatRaw": 59,
-        "heatParts": {
-          "cross": 11,
-          "auth": 14,
-          "rank": 3,
-          "fresh": 21,
-          "kw": 10
-        },
-        "crossCount": 2,
-        "reportCount": 2,
-        "sources": [
-          "人民网",
-          "中国经济网"
-        ]
-      },
-      {
-        "title": "把个人小我融入国家大我",
-        "link": "https://www.news.cn/politics/leaders/20261001/c7d4d5ec9fbe48f6aa0db274650f7bea/c.html",
-        "summary": "学习新语·家国同心｜把个人小我融入国家大我-",
-        "source": "新华网",
-        "pub": "",
-        "heat": 75,
-        "heatRaw": 58,
-        "heatParts": {
-          "cross": 0,
-          "auth": 14,
-          "rank": 23,
-          "fresh": 21,
-          "kw": 0
-        },
-        "crossCount": 1,
-        "reportCount": 1,
-        "sources": [
-          "新华网"
-        ]
-      },
-      {
-        "title": "以防长：迪拜航空客机事件是一起“未遂恐怖袭击”",
-        "link": "https://www.chinanews.com.cn/gj/2026/10-01/10706581.shtml",
-        "summary": "当地时间9月30日，以色列国防部长卡茨发表声明称，当天发生的迪拜航空客机事件是一起“恐怖袭击未遂事件”。",
+        "title": "21.3亿、268%！数说流动中国的假日新活力",
+        "link": "https://www.chinanews.com.cn/cj/2026/10-02/10706989.shtml",
+        "summary": "国庆假期，全社会跨区域人员流动量预计达到21.3亿人次。有人奔向远方，有人回到故乡，而让每一次出发都能顺利抵达的，是一条条正在变得更便捷、更有温度的路。流动的中国，因此始终向前。",
         "source": "中国新闻网",
-        "pub": "Thu, 1 Oct 2026 06:50:58 +0800",
+        "pub": "Fri, 2 Oct 2026 06:58:17 +0800",
         "heat": 75,
         "heatRaw": 59,
         "heatParts": {
@@ -457,11 +465,32 @@
         ]
       },
       {
-        "title": "买房“国补”上线！最高节省利息近5万元",
-        "link": "https://www.chinanews.com.cn/cj/2026/10-01/10706580.shtml",
-        "summary": "今日起，居民使用新发放商业性个人住房贷款买房，符合条件的可以享受贷款贴息。这是国家层面首次为个人房贷贴息。",
+        "title": "美妆出海考验品牌成色",
+        "link": "https://www.ce.cn/xwzx/gnsz/gdxw/202610/t20261002_3246889.shtml",
+        "summary": "今年上半年，中国美容化妆品及洗护用品出口额45.77亿美元，同比增长28.4%；在韩国、日本，中国化妆品进口额也都有两成多的增长；今年1月至5月，中国反超韩国成为泰国彩妆及基础化妆品第一大进口来源。",
+        "source": "中国经济网",
+        "pub": "",
+        "heat": 75,
+        "heatRaw": 58,
+        "heatParts": {
+          "cross": 0,
+          "auth": 12,
+          "rank": 22,
+          "fresh": 21,
+          "kw": 3
+        },
+        "crossCount": 1,
+        "reportCount": 1,
+        "sources": [
+          "中国经济网"
+        ]
+      },
+      {
+        "title": "中方代表28国呼吁国际社会遏止单边强制措施",
+        "link": "https://www.chinanews.com.cn/gn/2026/10-02/10706982.shtml",
+        "summary": "中新社联合国10月1日电 当地时间10月1日，中国常驻联合国代表傅聪代表28个观点相近国家在联大第三委员会就单边强制措施作共同发言，呼吁国际社会坚决遏止这一非法行径。",
         "source": "中国新闻网",
-        "pub": "Thu, 1 Oct 2026 06:40:57 +0800",
+        "pub": "Fri, 2 Oct 2026 06:53:10 +0800",
         "heat": 74,
         "heatRaw": 57,
         "heatParts": {
@@ -478,11 +507,11 @@
         ]
       },
       {
-        "title": "英国首相伯纳姆：将重返欧盟纳入未来可选路径",
-        "link": "https://www.chinanews.com.cn/gj/2026/10-01/10706579.shtml",
-        "summary": "中新社伦敦9月30日电 (记者 欧阳开宇)英国首相伯纳姆近期公开释放重磅信号，重新开启“脱欧”后英国与欧盟未来关系的讨论。9月30日接受媒体采访时，伯纳姆明确将重返欧盟纳入未来可选路径，直言“脱欧”对英国造成的负面影响远超收益。",
+        "title": "从“空中浩劫”到“航空奇迹” 迪拜航空安全事件疑点重重",
+        "link": "https://www.chinanews.com.cn/gj/2026/10-02/10706988.shtml",
+        "summary": "当地时间10月1日，此前一天发生的迪拜航空安全事件的更多细节得以披露，在使其更具戏剧性的同时显得疑点重重。",
         "source": "中国新闻网",
-        "pub": "Thu, 1 Oct 2026 06:33:59 +0800",
+        "pub": "Fri, 2 Oct 2026 06:50:48 +0800",
         "heat": 73,
         "heatRaw": 56,
         "heatParts": {
@@ -499,11 +528,11 @@
         ]
       },
       {
-        "title": "婆媳遭同村男子持刀杀害儿媳怀7个月身孕 男子获死刑",
-        "link": "https://www.163.com/dy/article/L81NN1UN051494GR.html",
-        "summary": "河南开封一对婆媳遭同村男子持刀杀害，遇害儿媳案发时怀有7个月身孕；案件一审宣判：被告人马某某死刑,婆媳,开封市,持刀杀害,遇害儿媳,故意杀人罪",
+        "title": "足够先进可以展示 191式自动步枪硬核开箱视频首次披露",
+        "link": "https://www.163.com/dy/article/L863LAQ4051492LM.html",
+        "summary": "“足够先进，可以展示”,弹匣,手枪,刺刀,自动步枪,狙击步枪",
         "source": "网易新闻",
-        "pub": "2026-09-30 23:02:06",
+        "pub": "2026-10-01 23:09:50",
         "heat": 73,
         "heatRaw": 55,
         "heatParts": {
@@ -520,86 +549,63 @@
         ]
       },
       {
-        "title": "深圳大鹏新区出台政策允许对违法登山者进行救援追偿，10月12日起施行",
-        "link": "https://www.thepaper.cn/newsDetail_forward_34180993",
-        "summary": "据深圳市大鹏新区应急管理局微信公众号消息，9月30日，大鹏新区正式出台华南片区首个区级山地救援追偿规范性文件——《深圳市大鹏新区户外登山涉险救援及追偿管理办法（",
-        "source": "澎湃新闻",
+        "title": "逛地坛书市看图书零售新趋势",
+        "link": "https://www.ce.cn/xwzx/gnsz/gdxw/202610/t20261002_3246888.shtml",
+        "summary": "9月25日，中秋小长假第一天，记者走进北京地坛公园时，“阅满中秋”的道旗正挂在古柏之间；再往里走，成都坝坝茶第一次摆进北方书市，盖碗茶与旧书摊之间，老年人拉着露营车、提着行李箱，弯腰翻拣的身影一排接一排。这一天，超12万人次读者走进地坛，创…",
+        "source": "中国经济网",
         "pub": "",
         "heat": 72,
         "heatRaw": 53,
         "heatParts": {
           "cross": 0,
-          "auth": 11,
-          "rank": 17,
-          "fresh": 14,
-          "kw": 10
+          "auth": 12,
+          "rank": 20,
+          "fresh": 21,
+          "kw": 0
         },
         "crossCount": 1,
         "reportCount": 1,
         "sources": [
-          "澎湃新闻"
+          "中国经济网"
         ]
       }
     ],
     "world": [
       {
-        "title": "庆祝中华人民共和国成立77周年招待会在京举行 习近平发表重要讲话",
-        "link": "https://news.haiwainet.cn/n/2026/0930/c3543307-32987179.html",
-        "summary": "原标题：庆祝中华人民共和国成立77周年招待会在京举行习近平发表重要讲话李强主持 赵乐际王沪宁蔡奇丁薛祥李希韩正出席北京9月30日电 庆祝中华人民共和国成立...",
-        "source": "海外网",
+        "title": "伊拉克宣布美国主导的国际联盟部队结束在伊任务",
+        "link": "https://www.news.cn/world/20261001/ef7def4dd6854e82ba3a7db7c6efc7f4/c.html",
+        "summary": "伊拉克宣布美国主导的国际联盟部队结束在伊任务-伊拉克总理新闻办公室9月30日发表声明说，伊拉克总理兼武装部队总司令扎伊迪当天宣布，美国主导的打击“伊斯兰国”国际联盟部队正式结束在伊拉克的任务。美国国防部也于9月30日发表声明称，该国际联盟部…",
+        "source": "新华网",
         "pub": "",
-        "heat": 92,
-        "heatRaw": 86,
+        "heat": 87,
+        "heatRaw": 79,
         "heatParts": {
           "cross": 22,
-          "auth": 13,
-          "rank": 23,
-          "fresh": 21,
-          "kw": 6
-        },
-        "crossCount": 3,
-        "reportCount": 8,
-        "sources": [
-          "海外网",
-          "国际在线",
-          "中国新闻网"
-        ]
-      },
-      {
-        "title": "Trump denies report of offering Iran sanctions relief",
-        "link": "https://www.chinadaily.com.cn/a/202609/29/WS6abb1828e4b06d4aa0560bb1.html",
-        "summary": "NEW YORK - US President Donald Trump on Monday denied a media report that his administration had offered Iran sanctions …",
-        "source": "中国日报网",
-        "pub": "",
-        "heat": 86,
-        "heatRaw": 77,
-        "heatParts": {
-          "cross": 22,
-          "auth": 13,
-          "rank": 19,
+          "auth": 14,
+          "rank": 13,
           "fresh": 19,
-          "kw": 4
+          "kw": 11
         },
         "crossCount": 3,
         "reportCount": 3,
         "sources": [
-          "中国日报网",
-          "CGTN",
-          "NPR"
+          "新华网",
+          "海外网",
+          "中国新闻网"
         ]
       },
       {
-        "title": "外交部：国际社会应敦促日本恪守“无核三原则”",
-        "link": "https://www.news.cn/world/20260930/e761237013bb4f1487744fd8989df06c/c.html",
-        "summary": "新华社北京9月30日电（记者吴梦桐、冯歆然）外交部发言人郭嘉昆30日在例行记者会上答问时表示，日本现职防卫部门负责人近日放出“不设禁忌讨论核武器与核潜艇”的狂言，是对《不扩散核武器条约》、二战后国际秩序的严重挑衅和公然践踏，严重背离日本声称…",
+        "title": "综合消息丨祝贺新中国成立77周年 多国人士盛赞中国发展成就",
+        "link": "https://www.news.cn/world/20261001/a1d7049e6a4c4146bd2b2f0573ae2fa4/c.html",
+        "summary": "9月28日，在意大利罗马，意大利副总理兼基础设施与交通部部长马泰奥·萨尔维尼在庆祝中华人民共和国成立77周年国庆招待会上致辞。新华社记者 李京 摄",
         "source": "新华网",
         "pub": "",
-        "heat": 80,
-        "heatRaw": 66,
+        "heat": 87,
+        "heatRaw": 78,
         "heatParts": {
           "cross": 22,
           "auth": 14,
-          "rank": 6,
+          "rank": 17,
           "fresh": 13,
           "kw": 11
         },
@@ -612,75 +618,56 @@
         ]
       },
       {
-        "title": "以防长：迪拜航空客机事件是一起“未遂恐怖袭击”",
-        "link": "https://www.chinanews.com.cn/gj/2026/10-01/10706581.shtml",
-        "summary": "当地时间9月30日，以色列国防部长卡茨发表声明称，当天发生的迪拜航空客机事件是一起“恐怖袭击未遂事件”。",
-        "source": "中国新闻网",
-        "pub": "Thu, 1 Oct 2026 06:50:58 +0800",
-        "heat": 79,
-        "heatRaw": 65,
-        "heatParts": {
-          "cross": 0,
-          "auth": 13,
-          "rank": 23,
-          "fresh": 23,
-          "kw": 6
-        },
-        "crossCount": 1,
-        "reportCount": 1,
-        "sources": [
-          "中国新闻网"
-        ]
-      },
-      {
-        "title": "习近平同文莱苏丹哈桑纳尔就中文建交35周年互致贺电",
-        "link": "https://news.haiwainet.cn/n/2026/0930/c3543307-32987136.html",
-        "summary": "北京9月30日电9月30日，国家主席习近平同文莱苏丹哈桑纳尔互致贺电，庆祝两国建交35周年。习近平指出，中文传统友谊源远流长、历久弥坚，两国在携手现代化...",
+        "title": "庆祝中华人民共和国成立77周年招待会在京举行 习近平发表重要讲话",
+        "link": "https://news.haiwainet.cn/n/2026/0930/c3543307-32987179.html",
+        "summary": "原标题：庆祝中华人民共和国成立77周年招待会在京举行习近平发表重要讲话李强主持 赵乐际王沪宁蔡奇丁薛祥李希韩正出席北京9月30日电 庆祝中华人民共和国成立...",
         "source": "海外网",
         "pub": "",
-        "heat": 78,
-        "heatRaw": 63,
+        "heat": 80,
+        "heatRaw": 67,
         "heatParts": {
           "cross": 11,
           "auth": 13,
-          "rank": 20,
+          "rank": 23,
           "fresh": 13,
           "kw": 6
         },
         "crossCount": 2,
-        "reportCount": 2,
+        "reportCount": 5,
         "sources": [
           "海外网",
           "国际在线"
         ]
       },
       {
-        "title": "沃洛金当选连任俄国家杜马主席 普京出席首次全会并讲话",
-        "link": "https://www.chinanews.com.cn/gj/2026/09-30/10706577.shtml",
-        "summary": "中新社莫斯科9月30日电 (记者 田冰)俄罗斯总统普京9月30日在第九届国家杜马(议会下院)第一次全体会议上发表讲话时表示，新一届国家杜马议员肩负着优先处理国家重大议题的使命，必须竭尽全力确保胜利。",
-        "source": "中国新闻网",
-        "pub": "Wed, 30 Sep 2026 23:56:27 +0800",
-        "heat": 78,
-        "heatRaw": 63,
+        "title": "2026全球南方现代化论坛在埃及开罗举行",
+        "link": "https://www.news.cn/world/20261001/a14bddd6c74346d7ac9d06be44192fbd/c.html",
+        "summary": "2026全球南方现代化论坛在埃及开罗举行-这是9月30日在埃及开罗拍摄的2026全球南方现代化论坛现场。",
+        "source": "新华网",
+        "pub": "",
+        "heat": 79,
+        "heatRaw": 65,
         "heatParts": {
-          "cross": 0,
-          "auth": 13,
-          "rank": 20,
-          "fresh": 21,
-          "kw": 9
+          "cross": 22,
+          "auth": 14,
+          "rank": 10,
+          "fresh": 19,
+          "kw": 0
         },
-        "crossCount": 1,
-        "reportCount": 1,
+        "crossCount": 3,
+        "reportCount": 4,
         "sources": [
-          "中国新闻网"
+          "新华网",
+          "中国新闻网",
+          "CGTN"
         ]
       },
       {
-        "title": "英国首相伯纳姆：将重返欧盟纳入未来可选路径",
-        "link": "https://www.chinanews.com.cn/gj/2026/10-01/10706579.shtml",
-        "summary": "中新社伦敦9月30日电 (记者 欧阳开宇)英国首相伯纳姆近期公开释放重磅信号，重新开启“脱欧”后英国与欧盟未来关系的讨论。9月30日接受媒体采访时，伯纳姆明确将重返欧盟纳入未来可选路径，直言“脱欧”对英国造成的负面影响远超收益。",
+        "title": "特朗普：中期选举后可能加大力度打击伊朗",
+        "link": "https://www.chinanews.com.cn/gj/2026/10-02/10706987.shtml",
+        "summary": "据美国方面10月1日消息，美国总统特朗普表示，美国或将在中期选举后加大对伊朗的打击力度。",
         "source": "中国新闻网",
-        "pub": "Thu, 1 Oct 2026 06:33:59 +0800",
+        "pub": "Fri, 2 Oct 2026 06:46:46 +0800",
         "heat": 77,
         "heatRaw": 62,
         "heatParts": {
@@ -697,19 +684,82 @@
         ]
       },
       {
-        "title": "Greetings from Syria, where time seems to melt as a glassmaker braves scorching temps",
-        "link": "https://www.npr.org/2026/09/30/nx-s1-5983516/damascus-syria-glass",
-        "summary": "As a Syrian glassmaker created his wares in Damascus, watching his craft reminded this reporter to slow down and enjoy t…",
+        "title": "从“空中浩劫”到“航空奇迹” 迪拜航空安全事件疑点重重",
+        "link": "https://www.chinanews.com.cn/gj/2026/10-02/10706988.shtml",
+        "summary": "当地时间10月1日，此前一天发生的迪拜航空安全事件的更多细节得以披露，在使其更具戏剧性的同时显得疑点重重。",
+        "source": "中国新闻网",
+        "pub": "Fri, 2 Oct 2026 06:50:48 +0800",
+        "heat": 75,
+        "heatRaw": 59,
+        "heatParts": {
+          "cross": 0,
+          "auth": 13,
+          "rank": 23,
+          "fresh": 23,
+          "kw": 0
+        },
+        "crossCount": 1,
+        "reportCount": 1,
+        "sources": [
+          "中国新闻网"
+        ]
+      },
+      {
+        "title": "首届亚信媒体论坛在巴库举行 聚焦加强媒体合作",
+        "link": "https://www.chinanews.com.cn/gj/2026/10-02/10706981.shtml",
+        "summary": "中新社阿斯塔纳10月1日电 巴库消息：首届亚洲相互协作与信任措施会议(亚信)媒体论坛1日在阿塞拜疆首都巴库举行。与会代表围绕媒体在增进互信、促进跨文化交流中的作用展开讨论，呼吁加强媒体合作，共同应对虚假信息传播等挑战。",
+        "source": "中国新闻网",
+        "pub": "Fri, 2 Oct 2026 06:42:44 +0800",
+        "heat": 75,
+        "heatRaw": 59,
+        "heatParts": {
+          "cross": 0,
+          "auth": 13,
+          "rank": 19,
+          "fresh": 23,
+          "kw": 4
+        },
+        "crossCount": 1,
+        "reportCount": 1,
+        "sources": [
+          "中国新闻网"
+        ]
+      },
+      {
+        "title": "国庆前夕两场活动，习近平总书记指引我们鉴往知来",
+        "link": "https://news.cri.cn/20261001/f102827b-a83e-4622-bba4-0b4abef7e518.html",
+        "summary": "9月30日，国庆前一天，习近平总书记先后出席两场重要活动。上午，出席烈士纪念日向人民英雄敬献花篮仪式。晚上，出席庆祝中华人民共和国成立77周年招待会并发表重要讲话。回望历史、昭示未来，两场活动贯穿着一条清晰的主线。《时政新闻眼》为你解读",
+        "source": "国际在线",
+        "pub": "",
+        "heat": 73,
+        "heatRaw": 55,
+        "heatParts": {
+          "cross": 0,
+          "auth": 13,
+          "rank": 23,
+          "fresh": 13,
+          "kw": 6
+        },
+        "crossCount": 1,
+        "reportCount": 1,
+        "sources": [
+          "国际在线"
+        ]
+      },
+      {
+        "title": "What a Pearly King taught me about Cockney rhyming slang and East London history",
+        "link": "https://www.npr.org/2026/10/01/nx-s1-5928148/pearly-king-peckham-george-major-london-cockney",
+        "summary": "In mother-of-pearl suits, the Pearly Kings used to canvass East London for charity. The most famous one, George Major, d…",
         "source": "NPR",
-        "pub": "Wed, 30 Sep 2026 13:51:42 -0400",
-        "heat": 76,
-        "heatRaw": 60,
+        "pub": "Thu, 01 Oct 2026 10:13:38 -0400",
+        "heat": 72,
+        "heatRaw": 54,
         "heatParts": {
           "cross": 0,
           "auth": 12,
           "rank": 23,
           "fresh": 19,
-          "kw": 6
+          "kw": 0
         },
         "crossCount": 1,
         "reportCount": 1,
@@ -718,47 +768,24 @@
         ]
       },
       {
-        "title": "曼苏里成为摩洛哥首位女首相",
-        "link": "https://www.news.cn/world/20260930/fe3320b9bebf4135b806eb13a0c5e39e/c.html",
-        "summary": "新华社拉巴特9月29日电（记者赵一宁）摩洛哥国王穆罕默德六世29日任命法蒂玛·宰赫拉·曼苏里为新首相，并授权其组建新内阁。曼苏里成为摩洛哥历史上首位女性政府首脑。",
-        "source": "新华网",
-        "pub": "",
-        "heat": 74,
-        "heatRaw": 57,
+        "title": "Picanha, prices and politics: What Brazil's favorite steak says about the election",
+        "link": "https://www.npr.org/2026/10/01/nx-s1-5986079/picanha-election-brazil-economy",
+        "summary": "President Lula promised Brazilians four years ago they'd be able to afford picanha again. Now, as he seeks another term,…",
+        "source": "NPR",
+        "pub": "Thu, 01 Oct 2026 06:00:00 -0400",
+        "heat": 72,
+        "heatRaw": 54,
         "heatParts": {
-          "cross": 11,
-          "auth": 14,
-          "rank": 13,
-          "fresh": 19,
-          "kw": 0
-        },
-        "crossCount": 2,
-        "reportCount": 2,
-        "sources": [
-          "新华网",
-          "中国新闻网"
-        ]
-      },
-      {
-        "title": "Beijing urges Japan to honor joint political commitments",
-        "link": "https://www.chinadaily.com.cn/a/202609/30/WS6abc49ade4b06d4aa0560e86.html",
-        "summary": "Foreign Ministry spokesman Guo Jiakun urged the Japanese authorities to seriously reflect on and correct their wrongdoin…",
-        "source": "中国日报网",
-        "pub": "",
-        "heat": 73,
-        "heatRaw": 55,
-        "heatParts": {
-          "cross": 11,
-          "auth": 13,
-          "rank": 17,
+          "cross": 0,
+          "auth": 12,
+          "rank": 20,
           "fresh": 13,
-          "kw": 0
+          "kw": 8
         },
-        "crossCount": 2,
-        "reportCount": 2,
+        "crossCount": 1,
+        "reportCount": 1,
         "sources": [
-          "中国日报网",
-          "CGTN"
+          "NPR"
         ]
       }
     ],
@@ -848,45 +875,45 @@
         ]
       },
       {
+        "title": "王健伟主任（院长）检查指导二期工程建设",
+        "link": "https://www.chinacdc.cn/zxyw/202610/t20261001_1842067.html",
+        "summary": "2026年10月1日，正值中华人民共和国第77个国庆佳节之际，王健伟主任（院长）一行到中心二期工程建设工地检查指导工作，慰问节日期间仍坚守岗位的施工、监理及项目管理人员，并向全体一线建设者致以节日的问候。",
+        "source": "中国疾控中心",
+        "pub": "",
+        "heat": 65,
+        "heatRaw": 42,
+        "heatParts": {
+          "cross": 0,
+          "auth": 13,
+          "rank": 16,
+          "fresh": 13,
+          "kw": 0
+        },
+        "crossCount": 1,
+        "reportCount": 1,
+        "sources": [
+          "中国疾控中心"
+        ]
+      },
+      {
         "title": "健康日历丨卵巢癌为何常被当成“胃病”？蓝春燕：沉默的杀手可防可治",
         "link": "https://www.news.cn/health/20260930/bd6f7330ae8b4aae8c386205cc26c753/c.html",
         "summary": "健康日历丨卵巢癌为何常被当成“胃病”？蓝春燕：沉默的杀手可防可治- 蓝春燕说，即使已停药，出现新不适也要主动告知医生曾接受过免疫治疗。",
         "source": "新华网·健康",
         "pub": "",
-        "heat": 68,
-        "heatRaw": 46,
+        "heat": 64,
+        "heatRaw": 40,
         "heatParts": {
           "cross": 0,
           "auth": 13,
           "rank": 10,
-          "fresh": 13,
+          "fresh": 7,
           "kw": 9
         },
         "crossCount": 1,
         "reportCount": 1,
         "sources": [
           "新华网·健康"
-        ]
-      },
-      {
-        "title": "国庆重阳双节将至 警惕保健食品营销套路",
-        "link": "https://jiankang.cctv.com/2026/09/30/ARTIzj9iVGRHO4xAV2L46nZs260930.shtml",
-        "summary": "市场监管总局与中消协联合发布保健食品消费提示，指出保健食品非药品，不能替代治疗，须认准“蓝帽子”和批准文号。警惕免费陷阱、会销洗脑、私域骗局等营销套路，选择正规渠道，大额消费多与家人沟通。牢记“一查、二选、三投诉”，遇虚假宣传可投诉举报。国…",
-        "source": "央视网·健康",
-        "pub": "",
-        "heat": 67,
-        "heatRaw": 45,
-        "heatParts": {
-          "cross": 0,
-          "auth": 13,
-          "rank": 4,
-          "fresh": 13,
-          "kw": 14
-        },
-        "crossCount": 1,
-        "reportCount": 1,
-        "sources": [
-          "央视网·健康"
         ]
       },
       {
@@ -911,27 +938,6 @@
         ]
       },
       {
-        "title": "国务院防艾委办公室赴山东省开展政策宣讲",
-        "link": "https://www.chinacdc.cn/gzdt/zsdw/202609/t20260930_1842036.html",
-        "summary": "山东省委党校2026年秋季学期市厅班、县处班、中青班、处级任职班、理论研修班共计470余人参加了本次宣讲。",
-        "source": "中国疾控中心",
-        "pub": "",
-        "heat": 62,
-        "heatRaw": 37,
-        "heatParts": {
-          "cross": 0,
-          "auth": 13,
-          "rank": 0,
-          "fresh": 13,
-          "kw": 10
-        },
-        "crossCount": 1,
-        "reportCount": 1,
-        "sources": [
-          "中国疾控中心"
-        ]
-      },
-      {
         "title": "2026年健康中国控烟领航者能力建设培训班在无锡市成功举办",
         "link": "https://www.chinacdc.cn/gzdt/zxzb/202609/t20260928_1841857.html",
         "summary": "为推动各地控烟工作，受国家卫生健康委规划司委托，中国疾控中心控烟办公室于2026年9月21-22日在江苏省无锡市举办“2026年健康中国控烟领航者能力建设培训班”，来自全国31个省、自治区、直辖市以及新疆生产建设兵团省级和地市级卫生健康行政…",
@@ -953,18 +959,39 @@
         ]
       },
       {
+        "title": "维A酸乳膏并非万能护肤好物",
+        "link": "https://jiankang.cctv.com/2026/09/29/ARTIom5T2NqSOMHHVV7sySVL260929.shtml",
+        "summary": "维A酸乳膏是处方药不是护肤品，自行长期、大面积滥用，将给皮肤带来损伤。",
+        "source": "央视网·健康",
+        "pub": "",
+        "heat": 60,
+        "heatRaw": 33,
+        "heatParts": {
+          "cross": 0,
+          "auth": 13,
+          "rank": 7,
+          "fresh": 7,
+          "kw": 5
+        },
+        "crossCount": 1,
+        "reportCount": 1,
+        "sources": [
+          "央视网·健康"
+        ]
+      },
+      {
         "title": "旅途久坐僵又乏 四个动作给身体解绑",
         "link": "https://jiankang.cctv.com/2026/09/30/ARTISubwb1b52MBRvqv6okTs260930.shtml",
         "summary": "国庆出行久坐易腰酸腿肿，四个专为旅途设计的小动作——脚踝泵、坐姿脊柱旋转、颈部对抗拉伸、腹式呼吸，无需站起即可解乏。",
         "source": "央视网·健康",
         "pub": "",
-        "heat": 61,
-        "heatRaw": 35,
+        "heat": 58,
+        "heatRaw": 29,
         "heatParts": {
           "cross": 0,
           "auth": 13,
           "rank": 9,
-          "fresh": 13,
+          "fresh": 7,
           "kw": 0
         },
         "crossCount": 1,
@@ -975,6 +1002,20 @@
       }
     ],
     "ai": [
+      {
+        "title": "何恺明团队新作：看猫片就能学会ARC挑战",
+        "link": "https://www.qbitai.com/2026/10/499812.html",
+        "summary": "用ImageNet训练encoder",
+        "source": "量子位",
+        "pub": "Thu, 01 Oct 2026 15:06:30 +0000"
+      },
+      {
+        "title": "谷歌Gemini 4突然发布！RSI加持，GPT和Opus都让让",
+        "link": "https://www.qbitai.com/2026/10/499663.html",
+        "summary": "价格只有Astra一半",
+        "source": "量子位",
+        "pub": "Thu, 01 Oct 2026 15:02:14 +0000"
+      },
       {
         "title": "OpenAI推理之父最新访谈！数学只是多智能体时代的开胃菜",
         "link": "https://www.qbitai.com/2026/09/499654.html",
@@ -1016,20 +1057,6 @@
         "summary": "机器人上市，风向有变",
         "source": "量子位",
         "pub": "Wed, 30 Sep 2026 04:42:22 +0000"
-      },
-      {
-        "title": "DeepSeek官方开源昇腾基础组件，与昇腾共建高效易用的AI芯片软件生态",
-        "link": "https://www.qbitai.com/2026/09/499263.html",
-        "summary": "（暂无摘要）",
-        "source": "量子位",
-        "pub": "Wed, 30 Sep 2026 02:53:17 +0000"
-      },
-      {
-        "title": "OpenAI光速上新GPT-6.1 Sol！一晚上25项更新，都在这里了",
-        "link": "https://www.qbitai.com/2026/09/499246.html",
-        "summary": "今年devday牙膏挤爆",
-        "source": "量子位",
-        "pub": "Tue, 29 Sep 2026 23:01:05 +0000"
       },
       {
         "title": "从玩家的世界掠过：Bungie 的「列车」如何驶向终焉",
@@ -1081,7 +1108,7 @@
         "新华网": 24,
         "中国新闻网": 24,
         "中国经济网": 24,
-        "澎湃新闻": 18,
+        "澎湃新闻": 15,
         "网易新闻": 24
       }
     },
