@@ -1,52 +1,52 @@
 {
-  "generatedAt": "2026-10-01T23:02:45.785Z",
-  "date": "2026-10-02",
+  "generatedAt": "2026-10-02T23:01:33.042Z",
+  "date": "2026-10-03",
   "books": {
-    "date": "2026-10-01",
+    "date": "2026-10-02",
     "books": [
       {
-        "title": "我曾这样寂寞生活",
-        "author": "[波] 维斯拉瓦·辛波斯卡",
-        "cover": "https://img3.doubanio.com/view/subject/s/public/s35587788.jpg",
+        "title": "她独自生活",
+        "author": "戴显婧",
+        "cover": "https://img9.doubanio.com/view/subject/s/public/s35620174.jpg",
         "rating": 0,
-        "ratingCount": 55,
-        "summary": "⭐️我从未使用过绝望，尽管它的确为我所有。诺贝尔文学奖得主辛波斯卡经典作品 ⭐️她的诗集被存入北极“末日图书馆”，跟随波兰宇航员进入太空，挽救了瑞典一家濒临倒闭的出版社。意大利读者心目中“诗歌界的摇滚明星”，瑞典文学院称她为“诗界莫扎特”。 ⭐️《万物静默如谜》姐妹篇，著名诗人、学者胡桑译本，收录《告别风景》《写自旅馆》《从无馈赠》《我致力于创造一个世界》等",
-        "authorBio": "《我曾这样寂寞生活》由[波] 维斯拉瓦·辛波斯卡撰写，于2026-8出版。",
-        "link": "https://book.douban.com/subject/38420884/",
-        "pubDate": "2026-8",
+        "ratingCount": 0,
+        "summary": "·“三十岁之后，我开始了一次向内的迁徙。” ·高分女性纪录片《她在家》完整版，导演戴显婧非虚构代表作！ ·聚焦14位女性的独居生活痕迹，探讨你我在不同年龄阶段的成长脉络。 ·在所有关系里，我只是我自己。重启，生长，做一棵枝繁叶茂的树。 ·独居不是与世隔绝，而是允许自己拥有更大的空间去接纳异同。我们聊孤独、自由、欲望和畏惧，我们聊近处的日常和远处的想象。 ·到",
+        "authorBio": "《她独自生活》由戴显婧撰写，于2026-9-30出版。",
+        "link": "https://book.douban.com/subject/38649979/",
+        "pubDate": "2026-9-30",
         "tag": "new"
       },
       {
-        "title": "南方",
-        "author": "[英] 欧大旭",
-        "cover": "https://img3.doubanio.com/view/subject/s/public/s35604908.jpg",
+        "title": "写意张爱玲",
+        "author": "石若轩",
+        "cover": "https://img9.doubanio.com/view/subject/s/public/s35579686.jpg",
         "rating": 0,
-        "ratingCount": 0,
-        "summary": "那一刻，“永远”听起来像是一种令人心安的承诺。 可在那个年纪，谁又懂得什么是“时间”呢？ 那一年的旱季，仿佛点根火柴，整个国家都能烧起来。 假期来临，杰伊随家人南下，前往祖父留给母亲的农场。杰伊由此结识了农场经理阿峰的儿子阿泉。两人一起在果园劳作，在湖里嬉戏，去夜市闲逛，他们的人生还未开启，还有无尽的青春暂时可以挥洒。 屋里的成人却要被迫直面各自深藏的秘密与",
-        "authorBio": "《南方》由[英] 欧大旭撰写，于2026-9出版。",
-        "link": "https://book.douban.com/subject/38541647/",
-        "pubDate": "2026-9",
+        "ratingCount": 29,
+        "summary": "一本“非资深张迷”的张爱玲阅读笔记，作者自19岁起开始书写张爱玲，这是她的第三部张爱玲评析作品。以写意化的创作风致，融合接受美学理论基础，描摹出的女作家张爱玲自画像式的文艺性学者散文。试图融合心理在场、文本细读与历史考据，突破传统研究的单一视角，首次采用“情绪观测”的创意写作技法，以诗意语言平衡学术性与文艺性，有意淡化“论文式”的书写特征，体验沉浸式文艺评论",
+        "authorBio": "《写意张爱玲》由石若轩撰写，于2026-8-7出版。",
+        "link": "https://book.douban.com/subject/38578210/",
+        "pubDate": "2026-8-7",
         "tag": "new"
       }
     ],
     "quotes": [
       {
-        "text": "勇气是压力下的优雅。",
-        "author": "海明威",
-        "bio": "美国作家，硬汉文风。",
-        "bg": "海明威式箴言，定义从容是危境中仍保持体面与镇定。"
+        "text": "我们读诗写诗，并不是因为它好玩，而是因为我们是人类的一分子。",
+        "author": "基廷",
+        "bio": "电影《死亡诗社》中的文学教师。",
+        "bg": "出自《死亡诗社》，借诗歌守护感知力与对生活的热情。"
       },
       {
-        "text": "一切伟大的行动和思想，都有一个微不足道的开始。",
-        "author": "加缪",
-        "bio": "法国哲学家、作家。",
-        "bg": "出自《西西弗神话》，鼓励人从当下微小处启程。"
+        "text": "假如生活欺骗了你，不要悲伤，不要心急。",
+        "author": "普希金",
+        "bio": "俄国诗人。",
+        "bg": "出自《假如生活欺骗了你》，以温柔劝慰面对困境的耐心。"
       },
       {
-        "text": "一个人不是生来要给打败的，你尽可把他消灭掉，可就是打不败他。",
-        "author": "海明威",
-        "bio": "美国作家，诺贝尔文学奖得主，硬汉文风。",
-        "bg": "出自《老人与海》，老渔夫与大鱼搏斗，诠释「人可以被毁灭，不能被打败」。"
+        "text": "生活就像骑自行车，要保持平衡，就得不断前进。",
+        "author": "爱因斯坦",
+        "bio": "物理学家，相对论的提出者。",
+        "bg": "爱因斯坦以日常比喻劝人保持动态平衡，常用于勉励逆境中不懈前行。"
       }
     ],
     "source": "douban",
@@ -279,44 +279,28 @@
     }
   ],
   "english": {
-    "date": "2026-10-01",
+    "date": "2026-10-02",
     "news": {
-      "type": "news",
-      "title": "A new California law bans child marriage. What's the global outlook on the practice?",
-      "summary": "The governor of California has signed into law a ban on child marriage. What is the status…",
-      "link": "https://www.npr.org/2026/10/01/g-s1-145998/child-marriage-ban-law-california-newsom",
-      "source": "NPR",
+      "type": "speech",
+      "title": "Build a tower, build a team",
+      "summary": "Tom Wujec presents some surprisingly deep research into the \"marshmallow problem\" -- a simple team-building exercise that involves dry spaghetti, one yard of tape and a marshmallow. Who can build the tallest tower with these ingredients? And why does a surprising group always beat the average?",
+      "link": "https://www.ted.com/talks/tom_wujec_build_a_tower_build_a_team",
+      "videoLink": "https://www.ted.com/talks/tom_wujec_build_a_tower_build_a_team",
+      "cover": "https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/acda85c0-8e5f-4c78-8338-224e7ecf216c/TomWujec_2010U-stageshot.jpg",
+      "source": "TED",
+      "duration": 394,
       "content": [
-        "A demonstrator in Massachusetts wearing a bridal gown takes part in a protest urging legislators to end child marriage. David L. Ryan/The Boston Globe/via Getty Images hide caption",
-        "It's been a landmark year for activists seeking bans against child marriage in the U.S. On Sept. 30, California Governor Gavin Newsom signed Bill AB 1267 , setting 18 as the minimum age for marriage in the state, with no exceptions.",
-        "The bill, sponsored by Unchained at Last and the California Commission on the Status of Women and Girls, was authored by Assemblymember Gail Pellerin. It repealed provisions that had allowed minors to marry with parental consent and judicial approval, a system that meant California had no statutory minimum marriage age. The law also removes the parallel exception that allowed minors to enter domestic partnerships.",
-        "Its passage marks the culmination of a nearly decade-long campaign by survivors and advocacy groups to outlaw marriage before 18 in the state. California is now the 18th state to prohibit child marriage without exception; such marriages remain legal under varying restrictions in 32 other states.",
-        "The signing also brought survivor voices to the forefront. Newsom signed the measure alongside advocate Courtney Stodden, who was 16 when her parents permitted her to marry 50-year-old actor Doug Hutchison and has since become an outspoken campaigner against child marriage.",
-        "\"The heart of this effort has always been the survivors,\" Pellerin said after the bill was signed. \"They told us what it means to be a child in a marriage you did not freely choose.\"",
-        "She pointed to the difficulties minors can face in seeking legal help, leaving home or escaping adults who may be enabling the marriage. \"Because of them, California children are safer.\"",
-        "The issue of child marriage — when one partner is under age 18 — is a global concern. The United Nations calls it a \"human rights violation,\" citing a litany of concerns for child brides: \"early pregnancy and social isolation, interrupting her schooling, limiting her opportunities for career and vocational advancement and placing her at risk of domestic violence.\" Yet every year, the U.N. estimates that 12 million girls become child brides.",
-        "Child grooms, the U.N. further notes, may be forced into \"an adult role for which they are unprepared,\" with pressure to drop out of school and support a family.",
-        "The U.N. has set the goal of ending child marriage by the year 2030.",
-        "Since 2021, countries as diverse as Sierra Leone, England, the Philippines and the Dominican Republic have been passing legislation to set the marriage age at 18, with no exceptions.",
-        "In the United States, the current push for a national law is controversial — some have criticized provisions in the proposed legislation, and others oppose it altogether.",
-        "And legislation is not necessarily the solution. In India, marriage under age 18 is illegal, yet the latest National Family Health Survey conducted in country found that one in five women ages 20 to 24 married before turning 18. UNICEF estimates that at least 1.5 million girls under the age of 18 are married in India each year.",
-        "Even as states like California create new laws regarding child marriage, the United States as a whole is debating the issue — and raising the possibility of a nationwide ban.",
-        "On July 16, U.S. Rep. Gwen Moore of Wisconsin and Sens. Dick Durbin, Brian Schatz and Kirsten Gillibrand introduced the Child Marriage Prevention Act, a federal bill aimed at combating child marriage.",
-        "Goats and Soda Children Get Married In The U.S., Too: #15Girls This legislation would push states toward a nationwide minimum marriage age of 18. \"In 34 states, including Wisconsin, child marriage is legal. Many of these marriages are between young girls and adult men. It's time we end this predatory practice,\" Moore said in a statement emailed to NPR. \"I know that advocates have pushed for reform at the state level, which has led some states to change their laws. This federal legislation would help bolster and support those efforts, including helping states get the data to understand its prevalence in their jurisdictions and then take action to address it.\"",
-        "In announcing the bill, its four congressional cosponsors cited data showing that more than 314,000 minors were legally married in the United States between 2000 and 2021, including girls as young as 10. The figures, compiled by child-marriage advocacy groups from state marriage records, indicate that most of the underage girls were married to adult men.",
-        "Unchained At Last, a nonprofit worked to end forced and child marriage in the U.S., estimates that at least 66,415 of these marriages — about one in five — occurred when the bride was at an age when sexual relations would be considered a crime (the age varies from 14 to 18 depending on the state). In roughly 90% of that subset, according to the organization's founder, Fraidy Reiss, marital exemptions in state statutory-rape laws shielded the adult spouse from prosecution . Married minors may also face legal barriers to hiring an attorney, filing for divorce or obtaining protection from abuse.",
-        "The Tahirih Justice Center, an organization with a long history of advocating for survivors of forced and child marriage, has been a key partner in developing and supporting this legislation.",
-        "\"The one thing we hear all the time from places — Cameroon, Guatemala, you name it — is: 'It makes my work harder when a politician can say to my face, the United States allows child marriage, so why should I do anything?' The best thing that we can do to help the global movement is to get our house in order,\" says Casey Carter Swegman, director of public policy at Tahirih.",
-        "Swegman says that a child's apparent consent does not necessarily mean that the decision to marry was made freely. \"A 15-, 16- or 17-year-old who has been pressured and coached by family members may tell a judge that she consents because refusing could expose her to punishment or violence at home,\" she says. This is especially troubling, Swegman says, when pregnancy, potential evidence of sexual abuse, is treated as justification for allowing the marriage to proceed.",
-        "\"A child is coming before your court pregnant by an adult person — that should be a red flag for statutory rape, not a green light for marriage,\" she says.",
-        "Although the proposed bill has won support from many child-marriage advocates, others have questioned whether its provisions go far enough and warn of possible unintended consequences that it has overlooked.",
-        "\"If I could heart a provision of this bill, it would be [the proposal] to provide financial incentive to states that have banned child marriage — that I can get behind,\" says Reiss. \"While I applaud Congress for introducing and considering legislation to combat child marriage at the federal level, I am appalled that two sections of the Child Marriage Prevention Act would make a mockery of the bill's title.\"",
-        "Section 6, she says, would provide federal grants to states to \"study\" child marriage instead of banning it. \"If states are given money to examine something that's a human rights violation instead of banning it outright, it would be devastating,\" says Reiss, who says she was forced to marry at age 19.",
-        "Section 10 would allow some minors as young as 16, whether in the United States or abroad, to qualify for a U.S. spousal visa under certain circumstances. This would actually encourage a particularly heinous form of child marriage, says Reiss: the trafficking of minors to the U.S. under the guise of marriage, and it would discourage U.S. states from setting their marriage age at 18, no exceptions. \"If the bill were amended to set the spousal visa age at 18, it would be a 'game-changer' by sending a clear message to states and halting legal trafficking,\" she says.",
-        "There has been opposition to the idea in some states. For instance, some Republican lawmakers in Missouri have opposed state bans on child marriage, arguing that such restrictions constitute government overreach and interfere with parental authority.",
-        "In 2024, in an interview with the Missouri Independent, Republican state Rep. Dean Van Schoiack called a proposed ban \"government intrusion in people's lives.\" Asked what would be lost if 16- and 17-year-olds could no longer marry, he replied, \"Liberties that people currently have.\"",
-        "As Congress prepares to debate the U.S. bill, other countries have already adopted more sweeping national restrictions. The Prohibition of Child Marriage Act 2024 in Sierra Leone sets 18 as the minimum age of marriage without any exceptions for parental consent, religious marriage or pregnancy. Section 15 declares that any child marriage contracted after the Act took effect to be void. The legislation even penalizes people who facilitate or attend a child marriage.",
-        "In November 2024, Colombia, where 23% of girls are married before they're 18, passed a law banning such marriages outright. In a similar move, on Sept. 25, 2025, Bolivia banned child marriage without exceptions, removing provisions allowing 16- and 17-year-olds to marry with parental consent or judicial approval."
+        "Several years ago here at TED, Peter Skillman introduced a design challenge called the marshmallow challenge. And the idea's pretty simple: Teams of four have to build the tallest free-standing structure out of 20 sticks of spaghetti, one yard of tape, one yard of string and a marshmallow. The marshmallow has to be on top. And, though it seems really simple, it's actually pretty hard because it forces people to collaborate very quickly. And so, I thought this was an interesting idea, and I incorporated it into a design workshop. And it was a huge success. And since then, I've conducted about 70 design workshops across the world with students and designers and architects, even the CTOs of the Fortune 50, and there's something about this exercise that reveals very deep lessons about the nature of collaboration, and I'd like to share some of them with you.",
+        "So, normally, most people begin by orienting themselves to the task. They talk about it, they figure out what it's going to look like, they jockey for power. Then they spend some time planning, organizing, they sketch and they lay out spaghetti. They spend the majority of their time assembling the sticks into ever-growing structures. And then finally, just as they're running out of time, someone takes out the marshmallow, and then they gingerly put it on top, and then they stand back, and -- ta-da! -- they admire their work. But what really happens, most of the time, is that the \"ta-da\" turns into an \"uh-oh,\" because the weight of the marshmallow causes the entire structure to buckle and to collapse.",
+        "So there are a number of people who have a lot more \"uh-oh\" moments than others, and among the worst are recent graduates of business school. (Laughter) They lie, they cheat, they get distracted and they produce really lame structures. And of course there are teams that have a lot more \"ta-da\" structures, and among the best are recent graduates of kindergarten. (Laughter) And it's pretty amazing. As Peter tells us, not only do they produce the tallest structures, but they're the most interesting structures of them all.",
+        "So the question you want to ask is: How come? Why? What is it about them? And Peter likes to say that none of the kids spend any time trying to be CEO of Spaghetti, Inc. Right? They don't spend time jockeying for power. But there's another reason as well. And the reason is that business students are trained to find the single right plan, right? And then they execute on it. And then what happens is, when they put the marshmallow on the top, they run out of time and what happens? It's a crisis. Sound familiar? Right. What kindergarteners do differently is that they start with the marshmallow, and they build prototypes, successive prototypes, always keeping the marshmallow on top, so they have multiple times to fix when they build prototypes along the way. Designers recognize this type of collaboration as the essence of the iterative process. And with each version, kids get instant feedback about what works and what doesn't work.",
+        "So the capacity to play in prototype is really essential, but let's look at how different teams perform. So the average for most people is around 20 inches; business schools students, about half of that; lawyers, a little better, but not much better than that, kindergarteners, better than most adults. Who does the very best? Architects and engineers, thankfully. (Laughter) Thirty-nine inches is the tallest structure I've seen. And why is it? Because they understand triangles and self-reinforcing geometrical patterns are the key to building stable structures. So CEOs, a little bit better than average, but here's where it gets interesting. If you put you put an executive admin. on the team, they get significantly better. (Laughter) It's incredible. You know, you look around, you go, \"Oh, that team's going to win.\" You can just tell beforehand. And why is that? Because they have special skills of facilitation. They manage the process, they understand the process. And any team who manages and pays close attention to work will significantly improve the team's performance. Specialized skills and facilitation skills are the combination that leads to strong success. If you have 10 teams that typically perform, you'll get maybe six or so that have standing structures.",
+        "And I tried something interesting. I thought, let's up the ante, once. So I offered a 10,000 dollar prize of software to the winning team. So what do you think happened to these design students? What was the result? Here's what happened: Not one team had a standing structure. If anyone had built, say, a one inch structure, they would have taken home the prize. So, isn't that interesting? That high stakes have a strong impact. We did the exercise again with the same students. What do you think happened then? So now they understand the value of prototyping. So the same team went from being the very worst to being among the very best. They produced the tallest structures in the least amount of time. So there's deep lessons for us about the nature of incentives and success.",
+        "So, you might ask: Why would anyone actually spend time writing a marshmallow challenge? And the reason is, I help create digital tools and processes to help teams build cars and video games and visual effects. And what the marshmallow challenge does is it helps them identify the hidden assumptions. Because, frankly, every project has its own marshmallow, doesn't it? The challenge provides a shared experience, a common language, a common stance to build the right prototype. And so, this is the value of the experience, of this so simple exercise.",
+        "And those of you who are interested may want to go to MarshmallowChallenge.com. It's a blog that you can look at how to build the marshmallows. There's step-by-step instructions on this. There are crazy examples from around the world of how people tweak and adjust the system. There's world records that are on this as well.",
+        "And the fundamental lesson, I believe, is that design truly is a contact sport. It demands that we bring all of our senses to the task, and that we apply the very best of our thinking, our feeling and our doing to the challenge that we have at hand. And sometimes, a little prototype of this experience is all that it takes to turn us from an \"uh-oh\" moment to a \"ta-da\" moment. And that can make a big difference.",
+        "Thank you very much.",
+        "(Applause)"
       ],
       "dataSources": [
         {
@@ -353,79 +337,52 @@
   "news": {
     "domestic": [
       {
-        "title": "庆祝中华人民共和国成立77周年招待会在京举行 习近平发表重要讲话",
-        "link": "https://www.news.cn/politics/leaders/20260930/ec72199373a4403c914db52deeb0f4d8/c.html",
-        "summary": "9月30日晚，庆祝中华人民共和国成立77周年招待会在北京人民大会堂举行。中共中央总书记、国家主席、中央军委主席习近平出席招待会并发表重要讲话。 新华社记者 谢环驰 摄",
-        "source": "新华网",
-        "pub": "",
-        "heat": 89,
-        "heatRaw": 81,
+        "title": "国庆假期第二天全社会跨区域人员流动量超3亿人次",
+        "link": "https://www.chinanews.com.cn/cj/2026/10-03/10707347.shtml",
+        "summary": "今天(3日)是国庆假期第三天，各地出行需求旺盛。而在昨天，也就是国庆假期第二天，全社会跨区域人员流动量预计超3亿人次，中短途出行增长明显。",
+        "source": "中国新闻网",
+        "pub": "Sat, 3 Oct 2026 06:49:45 +0800",
+        "heat": 81,
+        "heatRaw": 69,
         "heatParts": {
-          "cross": 22,
-          "auth": 14,
-          "rank": 17,
-          "fresh": 21,
-          "kw": 6
+          "cross": 11,
+          "auth": 13,
+          "rank": 22,
+          "fresh": 23,
+          "kw": 0
         },
-        "crossCount": 3,
-        "reportCount": 5,
+        "crossCount": 2,
+        "reportCount": 3,
         "sources": [
-          "人民网",
-          "新华网",
+          "中国新闻网",
           "中国经济网"
         ]
       },
       {
-        "title": "新华社评论员：坚定信心启新程 锚定目标谱新篇",
-        "link": "https://www.news.cn/politics/leaders/20261001/48f6fe68d585416d9c2d19bcb22163f8/c.html",
-        "summary": "新华社评论员：坚定信心启新程 锚定目标谱新篇——学习贯彻习近平总书记在庆祝中华人民共和国成立77周年招待会上重要讲话精神-",
-        "source": "新华网",
-        "pub": "",
-        "heat": 87,
-        "heatRaw": 78,
+        "title": "美国9月非农就业增加2.9万 失业率4.2%",
+        "link": "https://www.chinanews.com.cn/gj/2026/10-03/10707344.shtml",
+        "summary": "中新社华盛顿10月2日电 (记者 陈孟统)美国劳工部2日发布数据显示，美国9月非农就业岗位增加2.9万个，失业率为4.2%，较8月上升0.1个百分点。",
+        "source": "中国新闻网",
+        "pub": "Sat, 3 Oct 2026 06:42:06 +0800",
+        "heat": 76,
+        "heatRaw": 59,
         "heatParts": {
-          "cross": 22,
-          "auth": 14,
+          "cross": 0,
+          "auth": 13,
           "rank": 14,
-          "fresh": 21,
-          "kw": 6
+          "fresh": 23,
+          "kw": 9
         },
-        "crossCount": 3,
-        "reportCount": 4,
+        "crossCount": 1,
+        "reportCount": 1,
         "sources": [
-          "人民网",
-          "新华网",
-          "澎湃新闻"
+          "中国新闻网"
         ]
       },
       {
-        "title": "各地迎来国庆假期出行高峰",
-        "link": "https://www.news.cn/photo/20261001/03c1afca544f4afdb3537e6ffcc42a60/c.html",
-        "summary": "各地迎来国庆假期出行高峰-10月1日，旅客在哈尔滨站候车室有序候车。",
-        "source": "新华网",
-        "pub": "",
-        "heat": 85,
-        "heatRaw": 75,
-        "heatParts": {
-          "cross": 22,
-          "auth": 14,
-          "rank": 17,
-          "fresh": 21,
-          "kw": 0
-        },
-        "crossCount": 4,
-        "reportCount": 6,
-        "sources": [
-          "人民网",
-          "新华网",
-          "中国新闻网",
-          "澎湃新闻"
-        ]
-      },
-      {
-        "title": "“村超村集”带动活力乡村",
-        "link": "https://www.ce.cn/xwzx/gnsz/gdxw/202610/t20261002_3246890.shtml",
-        "summary": "贵州榕江生态资源富集、民族文化多元，构成了得天独厚的乡村发展底蕴。受限于深山地理条件，优质的生态、文化资源长期藏在深山，难以变现。产业布局分散、村寨空心化、增收渠道单一等问题，长期制约着乡村发展步伐，资源优势始终未能彻底转化为经济发展优势。",
+        "title": "源头治理保护金融消费者权益",
+        "link": "https://www.ce.cn/xwzx/gnsz/gdxw/202610/t20261003_3247193.shtml",
+        "summary": "近日，金融监管总局联合中国人民银行、中国证监会召开第五次金融消费者和投资者保护监管联络员会议，最高人民法院、司法部应邀出席。会议围绕金融纠纷多元化解工作进行会商交流，提出强化跨部门协同联动，推动金融纠纷多元化解工作提质增效。",
         "source": "中国经济网",
         "pub": "",
         "heat": 76,
@@ -433,9 +390,9 @@
         "heatParts": {
           "cross": 0,
           "auth": 12,
-          "rank": 23,
+          "rank": 19,
           "fresh": 21,
-          "kw": 3
+          "kw": 8
         },
         "crossCount": 1,
         "reportCount": 1,
@@ -444,11 +401,11 @@
         ]
       },
       {
-        "title": "21.3亿、268%！数说流动中国的假日新活力",
-        "link": "https://www.chinanews.com.cn/cj/2026/10-02/10706989.shtml",
-        "summary": "国庆假期，全社会跨区域人员流动量预计达到21.3亿人次。有人奔向远方，有人回到故乡，而让每一次出发都能顺利抵达的，是一条条正在变得更便捷、更有温度的路。流动的中国，因此始终向前。",
+        "title": "“99元租豪车”靠谱吗？假期租车自驾避坑指南请收",
+        "link": "https://www.chinanews.com.cn/cj/2026/10-03/10707348.shtml",
+        "summary": "真相来了丨“99元租豪车”靠谱吗？假期租车自驾避坑指南请收好",
         "source": "中国新闻网",
-        "pub": "Fri, 2 Oct 2026 06:58:17 +0800",
+        "pub": "Sat, 3 Oct 2026 06:52:07 +0800",
         "heat": 75,
         "heatRaw": 59,
         "heatParts": {
@@ -465,19 +422,41 @@
         ]
       },
       {
-        "title": "美妆出海考验品牌成色",
-        "link": "https://www.ce.cn/xwzx/gnsz/gdxw/202610/t20261002_3246889.shtml",
-        "summary": "今年上半年，中国美容化妆品及洗护用品出口额45.77亿美元，同比增长28.4%；在韩国、日本，中国化妆品进口额也都有两成多的增长；今年1月至5月，中国反超韩国成为泰国彩妆及基础化妆品第一大进口来源。",
+        "title": "亚运会丨网球——王曦雨夺得女单冠军",
+        "link": "https://www.news.cn/sports/20261002/c7d7e201c5cb4f34b951ab3354b81b65/c.html",
+        "summary": "亚运会 | 网球——王曦雨夺得女单冠军-当地时间10月2日，在爱知·名古屋亚运会网球女子单打金牌赛中，中国选手王曦雨2比0战胜中国选手张帅，获得冠军。",
+        "source": "新华网",
+        "pub": "",
+        "heat": 74,
+        "heatRaw": 57,
+        "heatParts": {
+          "cross": 11,
+          "auth": 14,
+          "rank": 10,
+          "fresh": 21,
+          "kw": 0
+        },
+        "crossCount": 2,
+        "reportCount": 3,
+        "sources": [
+          "新华网",
+          "中国新闻网"
+        ]
+      },
+      {
+        "title": "拧紧智能体支付应用“安全阀”",
+        "link": "https://www.ce.cn/xwzx/gnsz/gdxw/202610/t20261003_3247196.shtml",
+        "summary": "对着手机说一句“帮我订一张下午两点的电影票，顺路买一杯冰美式咖啡”，话音落下不过数秒，选座、比价、下单便全部完成。这不是科幻电影里的桥段，而是智能体支付走进现实的日常。当人工智能从“出主意的参谋”变成“能花钱的助手”，一个问题始终悬在用户心…",
         "source": "中国经济网",
         "pub": "",
-        "heat": 75,
-        "heatRaw": 58,
+        "heat": 74,
+        "heatRaw": 56,
         "heatParts": {
           "cross": 0,
           "auth": 12,
-          "rank": 22,
+          "rank": 23,
           "fresh": 21,
-          "kw": 3
+          "kw": 0
         },
         "crossCount": 1,
         "reportCount": 1,
@@ -486,53 +465,32 @@
         ]
       },
       {
-        "title": "中方代表28国呼吁国际社会遏止单边强制措施",
-        "link": "https://www.chinanews.com.cn/gn/2026/10-02/10706982.shtml",
-        "summary": "中新社联合国10月1日电 当地时间10月1日，中国常驻联合国代表傅聪代表28个观点相近国家在联大第三委员会就单边强制措施作共同发言，呼吁国际社会坚决遏止这一非法行径。",
-        "source": "中国新闻网",
-        "pub": "Fri, 2 Oct 2026 06:53:10 +0800",
-        "heat": 74,
-        "heatRaw": 57,
-        "heatParts": {
-          "cross": 0,
-          "auth": 13,
-          "rank": 22,
-          "fresh": 23,
-          "kw": 0
-        },
-        "crossCount": 1,
-        "reportCount": 1,
-        "sources": [
-          "中国新闻网"
-        ]
-      },
-      {
-        "title": "从“空中浩劫”到“航空奇迹” 迪拜航空安全事件疑点重重",
-        "link": "https://www.chinanews.com.cn/gj/2026/10-02/10706988.shtml",
-        "summary": "当地时间10月1日，此前一天发生的迪拜航空安全事件的更多细节得以披露，在使其更具戏剧性的同时显得疑点重重。",
-        "source": "中国新闻网",
-        "pub": "Fri, 2 Oct 2026 06:50:48 +0800",
+        "title": "税收“一盘棋”助力统一大市场",
+        "link": "https://www.ce.cn/xwzx/gnsz/gdxw/202610/t20261003_3247195.shtml",
+        "summary": "国家税务总局最新发票数据显示，全国统一大市场建设稳步推进，省际贸易销售额稳步增长。今年前8个月，全国省际贸易销售额同比增长1.3%，占全部销售额的比重为41.4%，较去年同期提高0.5个百分点。分区域看，前8个月，全国有20个省份的省际销售…",
+        "source": "中国经济网",
+        "pub": "",
         "heat": 73,
-        "heatRaw": 56,
+        "heatRaw": 55,
         "heatParts": {
           "cross": 0,
-          "auth": 13,
-          "rank": 20,
-          "fresh": 23,
+          "auth": 12,
+          "rank": 22,
+          "fresh": 21,
           "kw": 0
         },
         "crossCount": 1,
         "reportCount": 1,
         "sources": [
-          "中国新闻网"
+          "中国经济网"
         ]
       },
       {
-        "title": "足够先进可以展示 191式自动步枪硬核开箱视频首次披露",
-        "link": "https://www.163.com/dy/article/L863LAQ4051492LM.html",
-        "summary": "“足够先进，可以展示”,弹匣,手枪,刺刀,自动步枪,狙击步枪",
+        "title": "3位老人来照顾宝宝接连生病 小伙揭开家中墙纸懵了",
+        "link": "https://www.163.com/news/article/L88SI9CB0001899O.html",
+        "summary": "家里老人来照顾宝宝，接连身体不适，问题出在哪？他看了眼次卧的墙壁,开发商,墙体,外立面,窗帘,维修,卫生间",
         "source": "网易新闻",
-        "pub": "2026-10-01 23:09:50",
+        "pub": "2026-10-02 23:58:02",
         "heat": 73,
         "heatRaw": 55,
         "heatParts": {
@@ -549,108 +507,62 @@
         ]
       },
       {
-        "title": "逛地坛书市看图书零售新趋势",
-        "link": "https://www.ce.cn/xwzx/gnsz/gdxw/202610/t20261002_3246888.shtml",
-        "summary": "9月25日，中秋小长假第一天，记者走进北京地坛公园时，“阅满中秋”的道旗正挂在古柏之间；再往里走，成都坝坝茶第一次摆进北方书市，盖碗茶与旧书摊之间，老年人拉着露营车、提着行李箱，弯腰翻拣的身影一排接一排。这一天，超12万人次读者走进地坛，创…",
-        "source": "中国经济网",
+        "title": "传承弘扬青藏铁路精神谱写高原发展新篇章",
+        "link": "https://www.news.cn/politics/20261002/8f7ee91122a14c6b82d3bea8dcae6a5f/c.html",
+        "summary": "20多年前，10多万名建设者向多年冻土、高寒缺氧、生态脆弱三大世界性工程难题发起挑战，把一个个“不可能”变成“可能”，在世界屋脊建成钢铁天路，也铸就了“挑战极限、勇创一流”的青藏铁路精神。",
+        "source": "新华网",
+        "pub": "",
+        "heat": 72,
+        "heatRaw": 53,
+        "heatParts": {
+          "cross": 11,
+          "auth": 14,
+          "rank": 14,
+          "fresh": 13,
+          "kw": 0
+        },
+        "crossCount": 2,
+        "reportCount": 2,
+        "sources": [
+          "新华网",
+          "中国经济网"
+        ]
+      },
+      {
+        "title": "上海生育医疗费用个人“无自付”新政落地，部分住院分娩孕产妇已获益",
+        "link": "https://www.thepaper.cn/newsDetail_forward_34191974",
+        "summary": "2026年10月1日起，上海生育医疗保障正式升级，合规生育医疗费用实现个人“无自付”。根据新政，本市参保人群“产前检查＋产后42天康复检查”可直接刷医保卡结算，",
+        "source": "澎湃新闻",
         "pub": "",
         "heat": 72,
         "heatRaw": 53,
         "heatParts": {
           "cross": 0,
-          "auth": 12,
-          "rank": 20,
-          "fresh": 21,
-          "kw": 0
+          "auth": 11,
+          "rank": 23,
+          "fresh": 14,
+          "kw": 5
         },
         "crossCount": 1,
         "reportCount": 1,
         "sources": [
-          "中国经济网"
+          "澎湃新闻"
         ]
       }
     ],
     "world": [
       {
-        "title": "伊拉克宣布美国主导的国际联盟部队结束在伊任务",
-        "link": "https://www.news.cn/world/20261001/ef7def4dd6854e82ba3a7db7c6efc7f4/c.html",
-        "summary": "伊拉克宣布美国主导的国际联盟部队结束在伊任务-伊拉克总理新闻办公室9月30日发表声明说，伊拉克总理兼武装部队总司令扎伊迪当天宣布，美国主导的打击“伊斯兰国”国际联盟部队正式结束在伊拉克的任务。美国国防部也于9月30日发表声明称，该国际联盟部…",
+        "title": "综合消息丨多国政要祝贺新中国成立77周年 希望继续深化对华关系",
+        "link": "https://www.news.cn/world/20261002/5eea55071996423688fcb369d52c9ebd/c.html",
+        "summary": "新华社北京10月2日电　综合新华社驻外记者报道：在庆祝中华人民共和国成立77周年之际，多国政要出席我驻外使领馆使团国庆招待会等活动，高度评价中国发展成就以及与中国合作取得的成果，希望继续深化对华关系。",
         "source": "新华网",
         "pub": "",
-        "heat": 87,
-        "heatRaw": 79,
+        "heat": 83,
+        "heatRaw": 71,
         "heatParts": {
           "cross": 22,
           "auth": 14,
-          "rank": 13,
-          "fresh": 19,
-          "kw": 11
-        },
-        "crossCount": 3,
-        "reportCount": 3,
-        "sources": [
-          "新华网",
-          "海外网",
-          "中国新闻网"
-        ]
-      },
-      {
-        "title": "综合消息丨祝贺新中国成立77周年 多国人士盛赞中国发展成就",
-        "link": "https://www.news.cn/world/20261001/a1d7049e6a4c4146bd2b2f0573ae2fa4/c.html",
-        "summary": "9月28日，在意大利罗马，意大利副总理兼基础设施与交通部部长马泰奥·萨尔维尼在庆祝中华人民共和国成立77周年国庆招待会上致辞。新华社记者 李京 摄",
-        "source": "新华网",
-        "pub": "",
-        "heat": 87,
-        "heatRaw": 78,
-        "heatParts": {
-          "cross": 22,
-          "auth": 14,
-          "rank": 17,
-          "fresh": 13,
-          "kw": 11
-        },
-        "crossCount": 3,
-        "reportCount": 3,
-        "sources": [
-          "新华网",
-          "海外网",
-          "国际在线"
-        ]
-      },
-      {
-        "title": "庆祝中华人民共和国成立77周年招待会在京举行 习近平发表重要讲话",
-        "link": "https://news.haiwainet.cn/n/2026/0930/c3543307-32987179.html",
-        "summary": "原标题：庆祝中华人民共和国成立77周年招待会在京举行习近平发表重要讲话李强主持 赵乐际王沪宁蔡奇丁薛祥李希韩正出席北京9月30日电 庆祝中华人民共和国成立...",
-        "source": "海外网",
-        "pub": "",
-        "heat": 80,
-        "heatRaw": 67,
-        "heatParts": {
-          "cross": 11,
-          "auth": 13,
-          "rank": 23,
-          "fresh": 13,
-          "kw": 6
-        },
-        "crossCount": 2,
-        "reportCount": 5,
-        "sources": [
-          "海外网",
-          "国际在线"
-        ]
-      },
-      {
-        "title": "2026全球南方现代化论坛在埃及开罗举行",
-        "link": "https://www.news.cn/world/20261001/a14bddd6c74346d7ac9d06be44192fbd/c.html",
-        "summary": "2026全球南方现代化论坛在埃及开罗举行-这是9月30日在埃及开罗拍摄的2026全球南方现代化论坛现场。",
-        "source": "新华网",
-        "pub": "",
-        "heat": 79,
-        "heatRaw": 65,
-        "heatParts": {
-          "cross": 22,
-          "auth": 14,
-          "rank": 10,
+          "rank": 16,
           "fresh": 19,
           "kw": 0
         },
@@ -658,22 +570,86 @@
         "reportCount": 4,
         "sources": [
           "新华网",
-          "中国新闻网",
-          "CGTN"
+          "海外网",
+          "中国新闻网"
         ]
       },
       {
-        "title": "特朗普：中期选举后可能加大力度打击伊朗",
-        "link": "https://www.chinanews.com.cn/gj/2026/10-02/10706987.shtml",
-        "summary": "据美国方面10月1日消息，美国总统特朗普表示，美国或将在中期选举后加大对伊朗的打击力度。",
+        "title": "金与正：韩方企图把朝鲜半岛局势再次拖入危险境地",
+        "link": "https://news.cri.cn/20261002/1ca087e5-87f0-9771-d9b2-900b67684e4f.html",
+        "summary": "朝鲜劳动党中央委员会部长金与正10月2日发表谈话，就近期朝韩边境地雷爆炸事件，谴责韩方企图把朝鲜半岛局势再次拖入危险境地。 金与正指出，韩国仓促认定该事件系朝方蓄意埋设地雷所致的结论毫无依据。金与正称，朝鲜正在进行的南部边境要塞化工程",
+        "source": "国际在线",
+        "pub": "",
+        "heat": 80,
+        "heatRaw": 67,
+        "heatParts": {
+          "cross": 11,
+          "auth": 13,
+          "rank": 10,
+          "fresh": 21,
+          "kw": 12
+        },
+        "crossCount": 2,
+        "reportCount": 3,
+        "sources": [
+          "国际在线",
+          "中国新闻网"
+        ]
+      },
+      {
+        "title": "美国9月非农就业增加2.9万 失业率4.2%",
+        "link": "https://www.chinanews.com.cn/gj/2026/10-03/10707344.shtml",
+        "summary": "中新社华盛顿10月2日电 (记者 陈孟统)美国劳工部2日发布数据显示，美国9月非农就业岗位增加2.9万个，失业率为4.2%，较8月上升0.1个百分点。",
         "source": "中国新闻网",
-        "pub": "Fri, 2 Oct 2026 06:46:46 +0800",
-        "heat": 77,
-        "heatRaw": 62,
+        "pub": "Sat, 3 Oct 2026 06:42:06 +0800",
+        "heat": 80,
+        "heatRaw": 67,
         "heatParts": {
           "cross": 0,
           "auth": 13,
           "rank": 22,
+          "fresh": 23,
+          "kw": 9
+        },
+        "crossCount": 1,
+        "reportCount": 1,
+        "sources": [
+          "中国新闻网"
+        ]
+      },
+      {
+        "title": "泰国洪灾形势有所缓解 政府要求防范新一轮降雨",
+        "link": "https://www.chinanews.com.cn/gj/2026/10-02/10707338.shtml",
+        "summary": "中新社曼谷10月2日电 (梁峻祥 李映民)泰国总理府公共关系部2日发布消息说，总理阿努廷当天上午在国家防灾减灾指挥部会议后表示，各部门要做好应对10月5日起可能增强降雨的准备，尤其要关注泰国南部地区。",
+        "source": "中国新闻网",
+        "pub": "Fri, 2 Oct 2026 23:29:05 +0800",
+        "heat": 79,
+        "heatRaw": 65,
+        "heatParts": {
+          "cross": 0,
+          "auth": 13,
+          "rank": 17,
+          "fresh": 21,
+          "kw": 14
+        },
+        "crossCount": 1,
+        "reportCount": 1,
+        "sources": [
+          "中国新闻网"
+        ]
+      },
+      {
+        "title": "马克龙：七国集团成员国将释放至多1亿桶战略石油储备",
+        "link": "https://www.chinanews.com.cn/gj/2026/10-03/10707343.shtml",
+        "summary": "中新社巴黎10月2日电 (记者 李洋)法国总统马克龙当地时间2日表示，七国集团成员国及其伙伴将立即启动在4个月内释放至多1亿桶战略石油储备。",
+        "source": "中国新闻网",
+        "pub": "Sat, 3 Oct 2026 06:44:20 +0800",
+        "heat": 78,
+        "heatRaw": 64,
+        "heatParts": {
+          "cross": 0,
+          "auth": 13,
+          "rank": 23,
           "fresh": 23,
           "kw": 5
         },
@@ -684,82 +660,41 @@
         ]
       },
       {
-        "title": "从“空中浩劫”到“航空奇迹” 迪拜航空安全事件疑点重重",
-        "link": "https://www.chinanews.com.cn/gj/2026/10-02/10706988.shtml",
-        "summary": "当地时间10月1日，此前一天发生的迪拜航空安全事件的更多细节得以披露，在使其更具戏剧性的同时显得疑点重重。",
-        "source": "中国新闻网",
-        "pub": "Fri, 2 Oct 2026 06:50:48 +0800",
-        "heat": 75,
-        "heatRaw": 59,
-        "heatParts": {
-          "cross": 0,
-          "auth": 13,
-          "rank": 23,
-          "fresh": 23,
-          "kw": 0
-        },
-        "crossCount": 1,
-        "reportCount": 1,
-        "sources": [
-          "中国新闻网"
-        ]
-      },
-      {
-        "title": "首届亚信媒体论坛在巴库举行 聚焦加强媒体合作",
-        "link": "https://www.chinanews.com.cn/gj/2026/10-02/10706981.shtml",
-        "summary": "中新社阿斯塔纳10月1日电 巴库消息：首届亚洲相互协作与信任措施会议(亚信)媒体论坛1日在阿塞拜疆首都巴库举行。与会代表围绕媒体在增进互信、促进跨文化交流中的作用展开讨论，呼吁加强媒体合作，共同应对虚假信息传播等挑战。",
-        "source": "中国新闻网",
-        "pub": "Fri, 2 Oct 2026 06:42:44 +0800",
-        "heat": 75,
-        "heatRaw": 59,
-        "heatParts": {
-          "cross": 0,
-          "auth": 13,
-          "rank": 19,
-          "fresh": 23,
-          "kw": 4
-        },
-        "crossCount": 1,
-        "reportCount": 1,
-        "sources": [
-          "中国新闻网"
-        ]
-      },
-      {
-        "title": "国庆前夕两场活动，习近平总书记指引我们鉴往知来",
-        "link": "https://news.cri.cn/20261001/f102827b-a83e-4622-bba4-0b4abef7e518.html",
-        "summary": "9月30日，国庆前一天，习近平总书记先后出席两场重要活动。上午，出席烈士纪念日向人民英雄敬献花篮仪式。晚上，出席庆祝中华人民共和国成立77周年招待会并发表重要讲话。回望历史、昭示未来，两场活动贯穿着一条清晰的主线。《时政新闻眼》为你解读",
+        "title": "美国向中东增派第三艘航母？释放怎样的信号？",
+        "link": "https://news.cri.cn/20261002/910d7f50-cde4-405e-64d0-3bcfdd9718de.html",
+        "summary": "据美国方面10月1日消息，美国总统特朗普在接受采访时表示，11月美国中期选举后，他\"有可能\"下令对伊朗发动更大力度的打击。特朗普在采访中还称，他拒绝了伊朗提出的重新开放霍尔木兹海峡的提议，因为该提议\"",
         "source": "国际在线",
         "pub": "",
-        "heat": 73,
-        "heatRaw": 55,
+        "heat": 77,
+        "heatRaw": 62,
         "heatParts": {
-          "cross": 0,
+          "cross": 11,
           "auth": 13,
-          "rank": 23,
-          "fresh": 13,
-          "kw": 6
+          "rank": 14,
+          "fresh": 19,
+          "kw": 5
         },
-        "crossCount": 1,
-        "reportCount": 1,
+        "crossCount": 2,
+        "reportCount": 2,
         "sources": [
-          "国际在线"
+          "国际在线",
+          "中国新闻网"
         ]
       },
       {
-        "title": "What a Pearly King taught me about Cockney rhyming slang and East London history",
-        "link": "https://www.npr.org/2026/10/01/nx-s1-5928148/pearly-king-peckham-george-major-london-cockney",
-        "summary": "In mother-of-pearl suits, the Pearly Kings used to canvass East London for charity. The most famous one, George Major, d…",
+        "title": "How Brazil's two leading presidential candidates are talking about crime",
+        "link": "https://www.npr.org/2026/10/02/nx-s1-5986091/how-brazils-two-leading-presidential-candidates-are-talking-about-crime",
+        "summary": "Crime is at the top of voters' concerns in Brazil ahead of Sunday's national elections. Many are calling for tougher mea…",
         "source": "NPR",
-        "pub": "Thu, 01 Oct 2026 10:13:38 -0400",
-        "heat": 72,
-        "heatRaw": 54,
+        "pub": "Fri, 02 Oct 2026 17:07:41 -0400",
+        "heat": 75,
+        "heatRaw": 59,
         "heatParts": {
           "cross": 0,
           "auth": 12,
           "rank": 23,
           "fresh": 19,
-          "kw": 0
+          "kw": 5
         },
         "crossCount": 1,
         "reportCount": 1,
@@ -768,19 +703,62 @@
         ]
       },
       {
-        "title": "Picanha, prices and politics: What Brazil's favorite steak says about the election",
-        "link": "https://www.npr.org/2026/10/01/nx-s1-5986079/picanha-election-brazil-economy",
-        "summary": "President Lula promised Brazilians four years ago they'd be able to afford picanha again. Now, as he seeks another term,…",
+        "title": "The G7 will release 100 million reserve barrels of diesel fuel over the next 4 months",
+        "link": "https://www.npr.org/2026/10/02/nx-s1-5989397/the-g7-will-release-100-million-reserve-barrels-of-diesel-fuel-over-the-next-4-months",
+        "summary": "After increased pressure from Washington, the G7 held an emergency meeting on energy. The world's wealthiest nations say…",
         "source": "NPR",
-        "pub": "Thu, 01 Oct 2026 06:00:00 -0400",
+        "pub": "Fri, 02 Oct 2026 16:23:49 -0400",
+        "heat": 74,
+        "heatRaw": 57,
+        "heatParts": {
+          "cross": 0,
+          "auth": 12,
+          "rank": 22,
+          "fresh": 19,
+          "kw": 5
+        },
+        "crossCount": 1,
+        "reportCount": 1,
+        "sources": [
+          "NPR"
+        ]
+      },
+      {
+        "title": "欢度国庆假期 感受活力中国",
+        "link": "https://news.cri.cn/20261002/79b6d9e9-e1ee-4a38-7acc-6d8374cc59a7.html",
+        "summary": "央视网消息（新闻联播）：这个国庆假期，神州大地活力涌动，人们乐游山水，体验传统文化，在丰富多彩的活动中欢度假日。 饱览大好河山，祝福伟大祖国。假期首日，北京天安门地区迎来大客流，超30万各地游客齐聚在此，大家手举国旗，游览拍照，祝愿祖",
+        "source": "国际在线",
+        "pub": "",
+        "heat": 72,
+        "heatRaw": 53,
+        "heatParts": {
+          "cross": 11,
+          "auth": 13,
+          "rank": 16,
+          "fresh": 13,
+          "kw": 0
+        },
+        "crossCount": 2,
+        "reportCount": 2,
+        "sources": [
+          "海外网",
+          "国际在线"
+        ]
+      },
+      {
+        "title": "Germany's political center fights for relevance after far-right and far-left gains",
+        "link": "https://www.npr.org/2026/10/02/g-s1-146108/germany-politics-center-afd-die-linke-cdu-merz",
+        "summary": "Centrist politicians are soul-searching after electoral gains by the far right and the far left. Today's weak coalitions…",
+        "source": "NPR",
+        "pub": "Fri, 02 Oct 2026 15:22:57 -0400",
         "heat": 72,
         "heatRaw": 54,
         "heatParts": {
           "cross": 0,
           "auth": 12,
           "rank": 20,
-          "fresh": 13,
-          "kw": 8
+          "fresh": 19,
+          "kw": 3
         },
         "crossCount": 1,
         "reportCount": 1,
@@ -875,27 +853,6 @@
         ]
       },
       {
-        "title": "王健伟主任（院长）检查指导二期工程建设",
-        "link": "https://www.chinacdc.cn/zxyw/202610/t20261001_1842067.html",
-        "summary": "2026年10月1日，正值中华人民共和国第77个国庆佳节之际，王健伟主任（院长）一行到中心二期工程建设工地检查指导工作，慰问节日期间仍坚守岗位的施工、监理及项目管理人员，并向全体一线建设者致以节日的问候。",
-        "source": "中国疾控中心",
-        "pub": "",
-        "heat": 65,
-        "heatRaw": 42,
-        "heatParts": {
-          "cross": 0,
-          "auth": 13,
-          "rank": 16,
-          "fresh": 13,
-          "kw": 0
-        },
-        "crossCount": 1,
-        "reportCount": 1,
-        "sources": [
-          "中国疾控中心"
-        ]
-      },
-      {
         "title": "健康日历丨卵巢癌为何常被当成“胃病”？蓝春燕：沉默的杀手可防可治",
         "link": "https://www.news.cn/health/20260930/bd6f7330ae8b4aae8c386205cc26c753/c.html",
         "summary": "健康日历丨卵巢癌为何常被当成“胃病”？蓝春燕：沉默的杀手可防可治- 蓝春燕说，即使已停药，出现新不适也要主动告知医生曾接受过免疫治疗。",
@@ -935,6 +892,27 @@
         "reportCount": 1,
         "sources": [
           "新华网·健康"
+        ]
+      },
+      {
+        "title": "王健伟主任（院长）检查指导二期工程建设",
+        "link": "https://www.chinacdc.cn/zxyw/202610/t20261001_1842067.html",
+        "summary": "2026年10月1日，正值中华人民共和国第77个国庆佳节之际，王健伟主任（院长）一行到中心二期工程建设工地检查指导工作，慰问节日期间仍坚守岗位的施工、监理及项目管理人员，并向全体一线建设者致以节日的问候。",
+        "source": "中国疾控中心",
+        "pub": "",
+        "heat": 62,
+        "heatRaw": 36,
+        "heatParts": {
+          "cross": 0,
+          "auth": 13,
+          "rank": 16,
+          "fresh": 7,
+          "kw": 0
+        },
+        "crossCount": 1,
+        "reportCount": 1,
+        "sources": [
+          "中国疾控中心"
         ]
       },
       {
@@ -1003,6 +981,27 @@
     ],
     "ai": [
       {
+        "title": "openJiuwen X-Router自演进模型路由技术首发，昇腾亲和，Agent越跑越省，实测减少50+%Token消耗",
+        "link": "https://www.qbitai.com/2026/10/500098.html",
+        "summary": "让每一次请求选对模型，让每一次反馈都成为下一次更优、更省的选择",
+        "source": "量子位",
+        "pub": "Fri, 02 Oct 2026 07:34:15 +0000"
+      },
+      {
+        "title": "丘成桐新论文致谢了GPT和Claude",
+        "link": "https://www.qbitai.com/2026/10/499991.html",
+        "summary": "44年前被亲自列入问题清单",
+        "source": "量子位",
+        "pub": "Fri, 02 Oct 2026 07:27:03 +0000"
+      },
+      {
+        "title": "arXiv最严新规！每人每月最多提交2篇，拒稿不退额度",
+        "link": "https://www.qbitai.com/2026/10/499958.html",
+        "summary": "换区也没用",
+        "source": "量子位",
+        "pub": "Fri, 02 Oct 2026 06:46:32 +0000"
+      },
+      {
         "title": "何恺明团队新作：看猫片就能学会ARC挑战",
         "link": "https://www.qbitai.com/2026/10/499812.html",
         "summary": "用ImageNet训练encoder",
@@ -1038,25 +1037,11 @@
         "pub": "Wed, 30 Sep 2026 07:58:37 +0000"
       },
       {
-        "title": "刚刚，GPT-6 Astra接上宇树G1，把厨房收拾了！",
-        "link": "https://www.qbitai.com/2026/09/499493.html",
-        "summary": "让GPT把机器人技能当工具调用",
-        "source": "量子位",
-        "pub": "Wed, 30 Sep 2026 07:54:54 +0000"
-      },
-      {
-        "title": "DeepSeek知乎独家发文，首次公开V4.1 Agent训练“大本营”DSec",
-        "link": "https://www.qbitai.com/2026/09/499308.html",
-        "summary": "DeepSeek在知乎独家发布技术长文，首次系统阐释了DeepSeek弹性计算（DeepSeek Elastic Compute，DSec）",
-        "source": "量子位",
-        "pub": "Wed, 30 Sep 2026 05:18:05 +0000"
-      },
-      {
-        "title": "36家敲钟的机器人公司：赚钱能力差距巨大，商业化也不玩花架子了",
-        "link": "https://www.qbitai.com/2026/09/499280.html",
-        "summary": "机器人上市，风向有变",
-        "source": "量子位",
-        "pub": "Wed, 30 Sep 2026 04:42:22 +0000"
+        "title": "本周看什么 | 最近值得一看的 8 部作品",
+        "link": "https://sspai.com/post/115211",
+        "summary": "📅本周新预告《泥面人》终极预告9月24日，DC新片《泥面人》发布了终极预告，将于10月23日在北美上映。詹姆斯·瓦特金斯执导，汤姆·里斯·哈里斯主演，隆重介绍哥谭市的新面孔，一位…",
+        "source": "少数派",
+        "pub": "Fri, 02 Oct 2026 17:30:00 +0800"
       },
       {
         "title": "从玩家的世界掠过：Bungie 的「列车」如何驶向终焉",
@@ -1064,13 +1049,6 @@
         "summary": "Bungie 究竟是在和时间赛跑，还是在和自己赛跑？ 查看全文",
         "source": "少数派",
         "pub": "Wed, 30 Sep 2026 22:32:58 +0800"
-      },
-      {
-        "title": "经典任务管理软件的现代重构：新版 2Do 详解",
-        "link": "https://sspai.com/post/115166",
-        "summary": "完全重构的 2Do 是我的心目中最佳的任务管理工具。 查看全文",
-        "source": "少数派",
-        "pub": "Wed, 30 Sep 2026 15:00:00 +0800"
       }
     ]
   },
@@ -1108,7 +1086,7 @@
         "新华网": 24,
         "中国新闻网": 24,
         "中国经济网": 24,
-        "澎湃新闻": 15,
+        "澎湃新闻": 11,
         "网易新闻": 24
       }
     },
