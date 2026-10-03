@@ -1,52 +1,52 @@
 {
-  "generatedAt": "2026-10-02T23:01:33.042Z",
-  "date": "2026-10-03",
+  "generatedAt": "2026-10-03T23:01:00.630Z",
+  "date": "2026-10-04",
   "books": {
-    "date": "2026-10-02",
+    "date": "2026-10-03",
     "books": [
       {
-        "title": "她独自生活",
-        "author": "戴显婧",
-        "cover": "https://img9.doubanio.com/view/subject/s/public/s35620174.jpg",
+        "title": "巴托比",
+        "author": "[美] 赫尔曼·梅尔维尔",
+        "cover": "https://img3.doubanio.com/view/subject/s/public/s35600807.jpg",
         "rating": 0,
-        "ratingCount": 0,
-        "summary": "·“三十岁之后，我开始了一次向内的迁徙。” ·高分女性纪录片《她在家》完整版，导演戴显婧非虚构代表作！ ·聚焦14位女性的独居生活痕迹，探讨你我在不同年龄阶段的成长脉络。 ·在所有关系里，我只是我自己。重启，生长，做一棵枝繁叶茂的树。 ·独居不是与世隔绝，而是允许自己拥有更大的空间去接纳异同。我们聊孤独、自由、欲望和畏惧，我们聊近处的日常和远处的想象。 ·到",
-        "authorBio": "《她独自生活》由戴显婧撰写，于2026-9-30出版。",
-        "link": "https://book.douban.com/subject/38649979/",
-        "pubDate": "2026-9-30",
+        "ratingCount": 57,
+        "summary": "“我宁愿不做。” 一百多年前的一天，华尔街，一位苍白的抄写员走进了律师事务所。起初，他是完美的“人形复印机”，直到某天，面对无休止的催促与规训，他平静地吐出这句话。 从拒绝工作到拒绝这个世界，他不愤怒、不辩解，用绝对静默将所有职场压迫晾在真空里，成为系统无法消化的黑洞。 这部由《白鲸》作者梅尔维尔写于百年前的异色杰作，精准预言了当代打工人的精神困境。当全世界",
+        "authorBio": "《巴托比》由[美] 赫尔曼·梅尔维尔撰写，于2026-9出版。",
+        "link": "https://book.douban.com/subject/38592120/",
+        "pubDate": "2026-9",
         "tag": "new"
       },
       {
-        "title": "写意张爱玲",
-        "author": "石若轩",
-        "cover": "https://img9.doubanio.com/view/subject/s/public/s35579686.jpg",
+        "title": "二十世纪西方文学理论：新译本",
+        "author": "[英]特里·伊格尔顿",
+        "cover": "https://img3.doubanio.com/view/subject/s/public/s35626992.jpg",
         "rating": 0,
-        "ratingCount": 29,
-        "summary": "一本“非资深张迷”的张爱玲阅读笔记，作者自19岁起开始书写张爱玲，这是她的第三部张爱玲评析作品。以写意化的创作风致，融合接受美学理论基础，描摹出的女作家张爱玲自画像式的文艺性学者散文。试图融合心理在场、文本细读与历史考据，突破传统研究的单一视角，首次采用“情绪观测”的创意写作技法，以诗意语言平衡学术性与文艺性，有意淡化“论文式”的书写特征，体验沉浸式文艺评论",
-        "authorBio": "《写意张爱玲》由石若轩撰写，于2026-8-7出版。",
-        "link": "https://book.douban.com/subject/38578210/",
-        "pubDate": "2026-8-7",
+        "ratingCount": 0,
+        "summary": "本书以清晰晓畅的语言，系统梳理了二十世纪以来西方文学理论的发展脉络，对俄国形式主义、现象学、诠释学、接受理论、结构主义、符号学、后结构主义、精神分析、女性主义等重要理论流派做出了深入而富有洞见的阐释，并始终将文学理论置于社会历史与思想文化的广阔背景中加以考察。 本书既是一部西方文学理论导论，也是一部关于现代人文思想的导读。它不仅帮助读者掌握文学理论的基本概念",
+        "authorBio": "《二十世纪西方文学理论：新译本》由[英]特里·伊格尔顿撰写，于2026-10出版。",
+        "link": "https://book.douban.com/subject/38612861/",
+        "pubDate": "2026-10",
         "tag": "new"
       }
     ],
     "quotes": [
       {
-        "text": "我们读诗写诗，并不是因为它好玩，而是因为我们是人类的一分子。",
-        "author": "基廷",
-        "bio": "电影《死亡诗社》中的文学教师。",
-        "bg": "出自《死亡诗社》，借诗歌守护感知力与对生活的热情。"
+        "text": "不要问你的国家能为你做些什么，要问你能为你的国家做些什么。",
+        "author": "肯尼迪",
+        "bio": "美国第35任总统。",
+        "bg": "出自1961年就职演说，呼唤公民责任而非索取。"
       },
       {
-        "text": "假如生活欺骗了你，不要悲伤，不要心急。",
-        "author": "普希金",
-        "bio": "俄国诗人。",
-        "bg": "出自《假如生活欺骗了你》，以温柔劝慰面对困境的耐心。"
+        "text": "心若没有栖息的地方，到哪里都是流浪。",
+        "author": "三毛",
+        "bio": "台湾女作家。",
+        "bg": "三毛文字中对「精神归属」的执念，呼应她洒脱又漂泊的一生。"
       },
       {
-        "text": "生活就像骑自行车，要保持平衡，就得不断前进。",
-        "author": "爱因斯坦",
-        "bio": "物理学家，相对论的提出者。",
-        "bg": "爱因斯坦以日常比喻劝人保持动态平衡，常用于勉励逆境中不懈前行。"
+        "text": "我们终将相遇，在没有黑暗的地方。",
+        "author": "张爱玲",
+        "bio": "现代女作家，文字冷艳透彻。",
+        "bg": "出自《倾城之恋》，乱世中男女的牵绊与相守，于苍凉里见温柔。"
       }
     ],
     "source": "douban",
@@ -279,28 +279,15 @@
     }
   ],
   "english": {
-    "date": "2026-10-02",
+    "date": "2026-10-03",
     "news": {
-      "type": "speech",
-      "title": "Build a tower, build a team",
-      "summary": "Tom Wujec presents some surprisingly deep research into the \"marshmallow problem\" -- a simple team-building exercise that involves dry spaghetti, one yard of tape and a marshmallow. Who can build the tallest tower with these ingredients? And why does a surprising group always beat the average?",
-      "link": "https://www.ted.com/talks/tom_wujec_build_a_tower_build_a_team",
-      "videoLink": "https://www.ted.com/talks/tom_wujec_build_a_tower_build_a_team",
-      "cover": "https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/acda85c0-8e5f-4c78-8338-224e7ecf216c/TomWujec_2010U-stageshot.jpg",
-      "source": "TED",
-      "duration": 394,
+      "type": "news",
+      "title": "Just short of its 200th birthday, a landmark natural history museum shuts down",
+      "summary": "Beloved for its dinosaurs, Philadelphia's storied Academy of Natural Sciences closed down …",
+      "link": "https://www.npr.org/2026/10/03/nx-s1-5989716/philadelphia-academy-natural-sciences-museum-closure",
+      "source": "NPR",
       "content": [
-        "Several years ago here at TED, Peter Skillman introduced a design challenge called the marshmallow challenge. And the idea's pretty simple: Teams of four have to build the tallest free-standing structure out of 20 sticks of spaghetti, one yard of tape, one yard of string and a marshmallow. The marshmallow has to be on top. And, though it seems really simple, it's actually pretty hard because it forces people to collaborate very quickly. And so, I thought this was an interesting idea, and I incorporated it into a design workshop. And it was a huge success. And since then, I've conducted about 70 design workshops across the world with students and designers and architects, even the CTOs of the Fortune 50, and there's something about this exercise that reveals very deep lessons about the nature of collaboration, and I'd like to share some of them with you.",
-        "So, normally, most people begin by orienting themselves to the task. They talk about it, they figure out what it's going to look like, they jockey for power. Then they spend some time planning, organizing, they sketch and they lay out spaghetti. They spend the majority of their time assembling the sticks into ever-growing structures. And then finally, just as they're running out of time, someone takes out the marshmallow, and then they gingerly put it on top, and then they stand back, and -- ta-da! -- they admire their work. But what really happens, most of the time, is that the \"ta-da\" turns into an \"uh-oh,\" because the weight of the marshmallow causes the entire structure to buckle and to collapse.",
-        "So there are a number of people who have a lot more \"uh-oh\" moments than others, and among the worst are recent graduates of business school. (Laughter) They lie, they cheat, they get distracted and they produce really lame structures. And of course there are teams that have a lot more \"ta-da\" structures, and among the best are recent graduates of kindergarten. (Laughter) And it's pretty amazing. As Peter tells us, not only do they produce the tallest structures, but they're the most interesting structures of them all.",
-        "So the question you want to ask is: How come? Why? What is it about them? And Peter likes to say that none of the kids spend any time trying to be CEO of Spaghetti, Inc. Right? They don't spend time jockeying for power. But there's another reason as well. And the reason is that business students are trained to find the single right plan, right? And then they execute on it. And then what happens is, when they put the marshmallow on the top, they run out of time and what happens? It's a crisis. Sound familiar? Right. What kindergarteners do differently is that they start with the marshmallow, and they build prototypes, successive prototypes, always keeping the marshmallow on top, so they have multiple times to fix when they build prototypes along the way. Designers recognize this type of collaboration as the essence of the iterative process. And with each version, kids get instant feedback about what works and what doesn't work.",
-        "So the capacity to play in prototype is really essential, but let's look at how different teams perform. So the average for most people is around 20 inches; business schools students, about half of that; lawyers, a little better, but not much better than that, kindergarteners, better than most adults. Who does the very best? Architects and engineers, thankfully. (Laughter) Thirty-nine inches is the tallest structure I've seen. And why is it? Because they understand triangles and self-reinforcing geometrical patterns are the key to building stable structures. So CEOs, a little bit better than average, but here's where it gets interesting. If you put you put an executive admin. on the team, they get significantly better. (Laughter) It's incredible. You know, you look around, you go, \"Oh, that team's going to win.\" You can just tell beforehand. And why is that? Because they have special skills of facilitation. They manage the process, they understand the process. And any team who manages and pays close attention to work will significantly improve the team's performance. Specialized skills and facilitation skills are the combination that leads to strong success. If you have 10 teams that typically perform, you'll get maybe six or so that have standing structures.",
-        "And I tried something interesting. I thought, let's up the ante, once. So I offered a 10,000 dollar prize of software to the winning team. So what do you think happened to these design students? What was the result? Here's what happened: Not one team had a standing structure. If anyone had built, say, a one inch structure, they would have taken home the prize. So, isn't that interesting? That high stakes have a strong impact. We did the exercise again with the same students. What do you think happened then? So now they understand the value of prototyping. So the same team went from being the very worst to being among the very best. They produced the tallest structures in the least amount of time. So there's deep lessons for us about the nature of incentives and success.",
-        "So, you might ask: Why would anyone actually spend time writing a marshmallow challenge? And the reason is, I help create digital tools and processes to help teams build cars and video games and visual effects. And what the marshmallow challenge does is it helps them identify the hidden assumptions. Because, frankly, every project has its own marshmallow, doesn't it? The challenge provides a shared experience, a common language, a common stance to build the right prototype. And so, this is the value of the experience, of this so simple exercise.",
-        "And those of you who are interested may want to go to MarshmallowChallenge.com. It's a blog that you can look at how to build the marshmallows. There's step-by-step instructions on this. There are crazy examples from around the world of how people tweak and adjust the system. There's world records that are on this as well.",
-        "And the fundamental lesson, I believe, is that design truly is a contact sport. It demands that we bring all of our senses to the task, and that we apply the very best of our thinking, our feeling and our doing to the challenge that we have at hand. And sometimes, a little prototype of this experience is all that it takes to turn us from an \"uh-oh\" moment to a \"ta-da\" moment. And that can make a big difference.",
-        "Thank you very much.",
-        "(Applause)"
+        "NPR Science LISTEN & FOLLOW NPR App Apple Podcasts Spotify Amazon Music iHeart Radio RSS link Sign up for the [TITLE] Newsletter Get perks with [Podcast Title]+ Your support helps make our show possible and unlocks access to our sponsor-free feed."
       ],
       "dataSources": [
         {
@@ -337,52 +324,96 @@
   "news": {
     "domestic": [
       {
-        "title": "国庆假期第二天全社会跨区域人员流动量超3亿人次",
-        "link": "https://www.chinanews.com.cn/cj/2026/10-03/10707347.shtml",
-        "summary": "今天(3日)是国庆假期第三天，各地出行需求旺盛。而在昨天，也就是国庆假期第二天，全社会跨区域人员流动量预计超3亿人次，中短途出行增长明显。",
+        "title": "（爱知·名古屋亚运会）洪可新女子摔跤57公斤级夺冠 中国代表团169金收官创纪录",
+        "link": "https://www.chinanews.com.cn/ty/2026/10-04/10707671.shtml",
+        "summary": "中新社日本名古屋10月4日电 (记者 国璇)当地时间10月3日晚进行的爱知·名古屋亚运会女子摔跤57公斤级决赛中，中国选手洪可新夺得冠军，这是中国摔跤队本届赛事的首枚金牌，也是本届亚运会中国代表团收获的第169金。",
         "source": "中国新闻网",
-        "pub": "Sat, 3 Oct 2026 06:49:45 +0800",
+        "pub": "Sun, 4 Oct 2026 06:36:43 +0800",
         "heat": 81,
-        "heatRaw": 69,
+        "heatRaw": 68,
         "heatParts": {
           "cross": 11,
           "auth": 13,
-          "rank": 22,
+          "rank": 20,
           "fresh": 23,
           "kw": 0
         },
         "crossCount": 2,
-        "reportCount": 3,
+        "reportCount": 5,
         "sources": [
           "中国新闻网",
           "中国经济网"
         ]
       },
       {
-        "title": "美国9月非农就业增加2.9万 失业率4.2%",
-        "link": "https://www.chinanews.com.cn/gj/2026/10-03/10707344.shtml",
-        "summary": "中新社华盛顿10月2日电 (记者 陈孟统)美国劳工部2日发布数据显示，美国9月非农就业岗位增加2.9万个，失业率为4.2%，较8月上升0.1个百分点。",
-        "source": "中国新闻网",
-        "pub": "Sat, 3 Oct 2026 06:42:06 +0800",
-        "heat": 76,
-        "heatRaw": 59,
+        "title": "用好机遇共创共享未来",
+        "link": "https://www.ce.cn/xwzx/gnsz/gdxw/202610/t20261004_3247682.shtml",
+        "summary": "2023年9月，《中共中央 国务院关于支持福建探索海峡两岸融合发展新路 建设两岸融合发展示范区的意见》公布。3年来，福建围绕“以通促融、以惠促融、以情促融”，在产业合作、文化交流、基层治理等领域持续探索，两岸融合发展示范区建设不断走深走实。…",
+        "source": "中国经济网",
+        "pub": "",
+        "heat": 78,
+        "heatRaw": 64,
         "heatParts": {
           "cross": 0,
-          "auth": 13,
-          "rank": 14,
-          "fresh": 23,
-          "kw": 9
+          "auth": 12,
+          "rank": 20,
+          "fresh": 21,
+          "kw": 10
         },
         "crossCount": 1,
         "reportCount": 1,
         "sources": [
+          "中国经济网"
+        ]
+      },
+      {
+        "title": "国庆文旅消费热度攀升",
+        "link": "https://www.news.cn/photo/20261003/1f0e3294fddd4ecaaa3f944ef7d17ad8/c.html",
+        "summary": "国庆文旅消费热度攀升-国庆长假期间，文旅消费市场热力十足。红色场馆游、绿色生态游、县域深度游、文化体验游等多态旅游供给持续激发游客热情。",
+        "source": "新华网",
+        "pub": "",
+        "heat": 77,
+        "heatRaw": 62,
+        "heatParts": {
+          "cross": 11,
+          "auth": 14,
+          "rank": 13,
+          "fresh": 21,
+          "kw": 3
+        },
+        "crossCount": 2,
+        "reportCount": 2,
+        "sources": [
+          "新华网",
           "中国新闻网"
         ]
       },
       {
-        "title": "源头治理保护金融消费者权益",
-        "link": "https://www.ce.cn/xwzx/gnsz/gdxw/202610/t20261003_3247193.shtml",
-        "summary": "近日，金融监管总局联合中国人民银行、中国证监会召开第五次金融消费者和投资者保护监管联络员会议，最高人民法院、司法部应邀出席。会议围绕金融纠纷多元化解工作进行会商交流，提出强化跨部门协同联动，推动金融纠纷多元化解工作提质增效。",
+        "title": "WTT中国大满贯赛：国乒七名选手获得正赛席位",
+        "link": "https://www.chinanews.com.cn/ty/2026/10-03/10707669.shtml",
+        "summary": "中新社北京10月3日电 (记者 周昕)2026年世界乒乓球职业大联盟(WTT)中国大满贯赛3日在北京石景山首钢园区迎来资格赛最后一轮的较量。中国乒乓球队共有七名资格赛选手获得正赛席位，男单占据两席，女单占据五席。",
+        "source": "中国新闻网",
+        "pub": "Sat, 3 Oct 2026 22:46:37 +0800",
+        "heat": 77,
+        "heatRaw": 62,
+        "heatParts": {
+          "cross": 11,
+          "auth": 13,
+          "rank": 17,
+          "fresh": 21,
+          "kw": 0
+        },
+        "crossCount": 2,
+        "reportCount": 2,
+        "sources": [
+          "中国新闻网",
+          "网易新闻"
+        ]
+      },
+      {
+        "title": "买香水，关经济学什么事",
+        "link": "https://www.ce.cn/xwzx/gnsz/gdxw/202610/t20261004_3247684.shtml",
+        "summary": "随着盛夏的远去，又该换香水了——主打清新净爽的柑橘调、海洋调收一收，带着温暖氛围感的木质调、奶香调往外摆一摆。也许该再买一瓶茶香调？要不顺手把上个月看上的那瓶“西普调”（西塞浦路斯香调的简称，一般代指复古风格的香调）一并入手？",
         "source": "中国经济网",
         "pub": "",
         "heat": 76,
@@ -390,9 +421,9 @@
         "heatParts": {
           "cross": 0,
           "auth": 12,
-          "rank": 19,
+          "rank": 23,
           "fresh": 21,
-          "kw": 8
+          "kw": 3
         },
         "crossCount": 1,
         "reportCount": 1,
@@ -401,11 +432,11 @@
         ]
       },
       {
-        "title": "“99元租豪车”靠谱吗？假期租车自驾避坑指南请收",
-        "link": "https://www.chinanews.com.cn/cj/2026/10-03/10707348.shtml",
-        "summary": "真相来了丨“99元租豪车”靠谱吗？假期租车自驾避坑指南请收好",
+        "title": "伊朗革命卫队近日对7艘“违规”油轮采取行动",
+        "link": "https://www.chinanews.com.cn/gj/2026/10-04/10707673.shtml",
+        "summary": "当地时间10月3日，据伊朗方面消息，过去5天内，伊朗伊斯兰革命卫队海军在霍尔木兹海峡针对至少7艘“违规”油轮采取行动。",
         "source": "中国新闻网",
-        "pub": "Sat, 3 Oct 2026 06:52:07 +0800",
+        "pub": "Sun, 4 Oct 2026 06:52:47 +0800",
         "heat": 75,
         "heatRaw": 59,
         "heatParts": {
@@ -422,52 +453,9 @@
         ]
       },
       {
-        "title": "亚运会丨网球——王曦雨夺得女单冠军",
-        "link": "https://www.news.cn/sports/20261002/c7d7e201c5cb4f34b951ab3354b81b65/c.html",
-        "summary": "亚运会 | 网球——王曦雨夺得女单冠军-当地时间10月2日，在爱知·名古屋亚运会网球女子单打金牌赛中，中国选手王曦雨2比0战胜中国选手张帅，获得冠军。",
-        "source": "新华网",
-        "pub": "",
-        "heat": 74,
-        "heatRaw": 57,
-        "heatParts": {
-          "cross": 11,
-          "auth": 14,
-          "rank": 10,
-          "fresh": 21,
-          "kw": 0
-        },
-        "crossCount": 2,
-        "reportCount": 3,
-        "sources": [
-          "新华网",
-          "中国新闻网"
-        ]
-      },
-      {
-        "title": "拧紧智能体支付应用“安全阀”",
-        "link": "https://www.ce.cn/xwzx/gnsz/gdxw/202610/t20261003_3247196.shtml",
-        "summary": "对着手机说一句“帮我订一张下午两点的电影票，顺路买一杯冰美式咖啡”，话音落下不过数秒，选座、比价、下单便全部完成。这不是科幻电影里的桥段，而是智能体支付走进现实的日常。当人工智能从“出主意的参谋”变成“能花钱的助手”，一个问题始终悬在用户心…",
-        "source": "中国经济网",
-        "pub": "",
-        "heat": 74,
-        "heatRaw": 56,
-        "heatParts": {
-          "cross": 0,
-          "auth": 12,
-          "rank": 23,
-          "fresh": 21,
-          "kw": 0
-        },
-        "crossCount": 1,
-        "reportCount": 1,
-        "sources": [
-          "中国经济网"
-        ]
-      },
-      {
-        "title": "税收“一盘棋”助力统一大市场",
-        "link": "https://www.ce.cn/xwzx/gnsz/gdxw/202610/t20261003_3247195.shtml",
-        "summary": "国家税务总局最新发票数据显示，全国统一大市场建设稳步推进，省际贸易销售额稳步增长。今年前8个月，全国省际贸易销售额同比增长1.3%，占全部销售额的比重为41.4%，较去年同期提高0.5个百分点。分区域看，前8个月，全国有20个省份的省际销售…",
+        "title": "港澳青年筑梦广州南沙",
+        "link": "https://www.ce.cn/xwzx/gnsz/gdxw/202610/t20261004_3247683.shtml",
+        "summary": "“南沙的场地条件和产业配套，与我们的发展需求高度契合。”在广州南沙湾区创新港举行的南沙湾区创新港·全球青年人才创新创业基地揭牌活动上，香港青年创业者孙梽博登台签约。说起为什么把企业从香港延伸到南沙，这位香港科技大学博士创业者提到最多的因素，…",
         "source": "中国经济网",
         "pub": "",
         "heat": 73,
@@ -486,11 +474,11 @@
         ]
       },
       {
-        "title": "3位老人来照顾宝宝接连生病 小伙揭开家中墙纸懵了",
-        "link": "https://www.163.com/news/article/L88SI9CB0001899O.html",
-        "summary": "家里老人来照顾宝宝，接连身体不适，问题出在哪？他看了眼次卧的墙壁,开发商,墙体,外立面,窗帘,维修,卫生间",
+        "title": "女子饭店连公共WiFi被扣款850元 没收任何短信验证码",
+        "link": "https://www.163.com/dy/article/L8BGDPTE0530WJIN.html",
+        "summary": "假期出行连接免费Wi-Fi要当心，扣款陷阱可能等着你,手机,客服,出行连接,扣款陷阱,wi-fi",
         "source": "网易新闻",
-        "pub": "2026-10-02 23:58:02",
+        "pub": "2026-10-03 20:32:48",
         "heat": 73,
         "heatRaw": 55,
         "heatParts": {
@@ -507,162 +495,98 @@
         ]
       },
       {
-        "title": "传承弘扬青藏铁路精神谱写高原发展新篇章",
-        "link": "https://www.news.cn/politics/20261002/8f7ee91122a14c6b82d3bea8dcae6a5f/c.html",
-        "summary": "20多年前，10多万名建设者向多年冻土、高寒缺氧、生态脆弱三大世界性工程难题发起挑战，把一个个“不可能”变成“可能”，在世界屋脊建成钢铁天路，也铸就了“挑战极限、勇创一流”的青藏铁路精神。",
-        "source": "新华网",
+        "title": "赓续长征精神 奋进复兴征程|金银滩上的新故事",
+        "link": "http://politics.people.com.cn/n1/2026/1004/c461001-40809204.html",
+        "summary": "二二一厂旧址内陈列的手摇式计算机等文物。 人民网记者甘海琼摄 山势起伏，草原舒展，远处有一座座旧厂房。这里是位于青海省海北藏族自治州海晏县西海镇的原子城纪念馆，我国第一个核武器研制基地——原国",
+        "source": "人民网",
         "pub": "",
         "heat": 72,
         "heatRaw": 53,
         "heatParts": {
           "cross": 11,
           "auth": 14,
-          "rank": 14,
-          "fresh": 13,
+          "rank": 7,
+          "fresh": 21,
           "kw": 0
         },
         "crossCount": 2,
         "reportCount": 2,
         "sources": [
-          "新华网",
+          "人民网",
           "中国经济网"
         ]
       },
       {
-        "title": "上海生育医疗费用个人“无自付”新政落地，部分住院分娩孕产妇已获益",
-        "link": "https://www.thepaper.cn/newsDetail_forward_34191974",
-        "summary": "2026年10月1日起，上海生育医疗保障正式升级，合规生育医疗费用实现个人“无自付”。根据新政，本市参保人群“产前检查＋产后42天康复检查”可直接刷医保卡结算，",
-        "source": "澎湃新闻",
-        "pub": "",
-        "heat": 72,
-        "heatRaw": 53,
+        "title": "面包店免费送隔夜面包 网友怕店主被讹：吃出问题咋办",
+        "link": "https://www.163.com/dy/article/L8B8LVKB051494GR.html",
+        "summary": "江苏南京一面包店将隔夜面包免费送骑手，网友担心店主被讹：“吃出问题就老实了！”店主：想让他们百忙之中吃口饭，我们自己也吃,舒克,外卖,面包店,南京市,江苏省",
+        "source": "网易新闻",
+        "pub": "2026-10-03 18:17:28",
+        "heat": 71,
+        "heatRaw": 51,
         "heatParts": {
           "cross": 0,
           "auth": 11,
-          "rank": 23,
-          "fresh": 14,
-          "kw": 5
+          "rank": 22,
+          "fresh": 19,
+          "kw": 0
         },
         "crossCount": 1,
         "reportCount": 1,
         "sources": [
-          "澎湃新闻"
+          "网易新闻"
         ]
       }
     ],
     "world": [
       {
-        "title": "综合消息丨多国政要祝贺新中国成立77周年 希望继续深化对华关系",
-        "link": "https://www.news.cn/world/20261002/5eea55071996423688fcb369d52c9ebd/c.html",
-        "summary": "新华社北京10月2日电　综合新华社驻外记者报道：在庆祝中华人民共和国成立77周年之际，多国政要出席我驻外使领馆使团国庆招待会等活动，高度评价中国发展成就以及与中国合作取得的成果，希望继续深化对华关系。",
-        "source": "新华网",
-        "pub": "",
-        "heat": 83,
-        "heatRaw": 71,
-        "heatParts": {
-          "cross": 22,
-          "auth": 14,
-          "rank": 16,
-          "fresh": 19,
-          "kw": 0
-        },
-        "crossCount": 3,
-        "reportCount": 4,
-        "sources": [
-          "新华网",
-          "海外网",
-          "中国新闻网"
-        ]
-      },
-      {
-        "title": "金与正：韩方企图把朝鲜半岛局势再次拖入危险境地",
-        "link": "https://news.cri.cn/20261002/1ca087e5-87f0-9771-d9b2-900b67684e4f.html",
-        "summary": "朝鲜劳动党中央委员会部长金与正10月2日发表谈话，就近期朝韩边境地雷爆炸事件，谴责韩方企图把朝鲜半岛局势再次拖入危险境地。 金与正指出，韩国仓促认定该事件系朝方蓄意埋设地雷所致的结论毫无依据。金与正称，朝鲜正在进行的南部边境要塞化工程",
-        "source": "国际在线",
+        "title": "第一观察｜学习国庆招待会重要讲话 读懂开局之年的奋进中国",
+        "link": "https://news.haiwainet.cn/n/2026/1003/c3543307-32987693.html",
+        "summary": "9月30日晚，庆祝中华人民共和国成立77周年招待会在人民大会堂举行，习近平总书记出席招待会并发表重要讲话，回望77年极不平凡的征程，总结今年以来党和国家事业取得...",
+        "source": "海外网",
         "pub": "",
         "heat": 80,
-        "heatRaw": 67,
+        "heatRaw": 66,
         "heatParts": {
           "cross": 11,
           "auth": 13,
-          "rank": 10,
-          "fresh": 21,
-          "kw": 12
+          "rank": 23,
+          "fresh": 13,
+          "kw": 6
         },
         "crossCount": 2,
-        "reportCount": 3,
+        "reportCount": 2,
+        "sources": [
+          "海外网",
+          "国际在线"
+        ]
+      },
+      {
+        "title": "日本高市“智囊”身陷“预算门”丑闻",
+        "link": "https://news.cri.cn/20261003/d1ad5424-2bbd-42e4-902f-e858e219a5e9.html",
+        "summary": "日本新内阁上任仅半个月，内阁成员就被曝出丑闻。据日本方面10月2日消息，新任农林水产大臣簗和生被指曾滥用职权，肆意削减不支持他的地方政府预算，引发广泛批评。 据日本方面消息，“预算门”事件发生在今年5月。簗和生当时在执政党自民党栃木县",
+        "source": "国际在线",
+        "pub": "",
+        "heat": 79,
+        "heatRaw": 65,
+        "heatParts": {
+          "cross": 11,
+          "auth": 13,
+          "rank": 20,
+          "fresh": 21,
+          "kw": 0
+        },
+        "crossCount": 2,
+        "reportCount": 2,
         "sources": [
           "国际在线",
           "中国新闻网"
         ]
       },
       {
-        "title": "美国9月非农就业增加2.9万 失业率4.2%",
-        "link": "https://www.chinanews.com.cn/gj/2026/10-03/10707344.shtml",
-        "summary": "中新社华盛顿10月2日电 (记者 陈孟统)美国劳工部2日发布数据显示，美国9月非农就业岗位增加2.9万个，失业率为4.2%，较8月上升0.1个百分点。",
-        "source": "中国新闻网",
-        "pub": "Sat, 3 Oct 2026 06:42:06 +0800",
-        "heat": 80,
-        "heatRaw": 67,
-        "heatParts": {
-          "cross": 0,
-          "auth": 13,
-          "rank": 22,
-          "fresh": 23,
-          "kw": 9
-        },
-        "crossCount": 1,
-        "reportCount": 1,
-        "sources": [
-          "中国新闻网"
-        ]
-      },
-      {
-        "title": "泰国洪灾形势有所缓解 政府要求防范新一轮降雨",
-        "link": "https://www.chinanews.com.cn/gj/2026/10-02/10707338.shtml",
-        "summary": "中新社曼谷10月2日电 (梁峻祥 李映民)泰国总理府公共关系部2日发布消息说，总理阿努廷当天上午在国家防灾减灾指挥部会议后表示，各部门要做好应对10月5日起可能增强降雨的准备，尤其要关注泰国南部地区。",
-        "source": "中国新闻网",
-        "pub": "Fri, 2 Oct 2026 23:29:05 +0800",
-        "heat": 79,
-        "heatRaw": 65,
-        "heatParts": {
-          "cross": 0,
-          "auth": 13,
-          "rank": 17,
-          "fresh": 21,
-          "kw": 14
-        },
-        "crossCount": 1,
-        "reportCount": 1,
-        "sources": [
-          "中国新闻网"
-        ]
-      },
-      {
-        "title": "马克龙：七国集团成员国将释放至多1亿桶战略石油储备",
-        "link": "https://www.chinanews.com.cn/gj/2026/10-03/10707343.shtml",
-        "summary": "中新社巴黎10月2日电 (记者 李洋)法国总统马克龙当地时间2日表示，七国集团成员国及其伙伴将立即启动在4个月内释放至多1亿桶战略石油储备。",
-        "source": "中国新闻网",
-        "pub": "Sat, 3 Oct 2026 06:44:20 +0800",
-        "heat": 78,
-        "heatRaw": 64,
-        "heatParts": {
-          "cross": 0,
-          "auth": 13,
-          "rank": 23,
-          "fresh": 23,
-          "kw": 5
-        },
-        "crossCount": 1,
-        "reportCount": 1,
-        "sources": [
-          "中国新闻网"
-        ]
-      },
-      {
-        "title": "美国向中东增派第三艘航母？释放怎样的信号？",
-        "link": "https://news.cri.cn/20261002/910d7f50-cde4-405e-64d0-3bcfdd9718de.html",
-        "summary": "据美国方面10月1日消息，美国总统特朗普在接受采访时表示，11月美国中期选举后，他\"有可能\"下令对伊朗发动更大力度的打击。特朗普在采访中还称，他拒绝了伊朗提出的重新开放霍尔木兹海峡的提议，因为该提议\"",
+        "title": "中方强调联合国安理会制裁体系要持续完善",
+        "link": "https://news.cri.cn/20261003/c47b1e69-5aa9-4953-9bcd-4cb7360734c8.html",
+        "summary": "中国常驻联合国副代表孙磊2日在联合国安理会制裁除名协调人非正式对话会上发言，强调安理会制裁体系要持续完善。 他说，两年前，安理会一致通过决议，对制裁除名协调人的职能作出重要调整，要求协调人为相关制裁委员会审议除名申请提供更加充分详实的",
         "source": "国际在线",
         "pub": "",
         "heat": 77,
@@ -670,9 +594,9 @@
         "heatParts": {
           "cross": 11,
           "auth": 13,
-          "rank": 14,
+          "rank": 9,
           "fresh": 19,
-          "kw": 5
+          "kw": 11
         },
         "crossCount": 2,
         "reportCount": 2,
@@ -682,11 +606,97 @@
         ]
       },
       {
-        "title": "How Brazil's two leading presidential candidates are talking about crime",
-        "link": "https://www.npr.org/2026/10/02/nx-s1-5986091/how-brazils-two-leading-presidential-candidates-are-talking-about-crime",
-        "summary": "Crime is at the top of voters' concerns in Brazil ahead of Sunday's national elections. Many are calling for tougher mea…",
+        "title": "France arrests 5,000 people, mostly teens, as school protests spread",
+        "link": "https://www.npr.org/2026/10/03/nx-s1-5989532/france-arrests-5-000-people-mostly-teens-as-school-protests-spread",
+        "summary": "High school students say their classrooms are overcrowded, teachers are missing and buildings need repairs. The protests…",
         "source": "NPR",
-        "pub": "Fri, 02 Oct 2026 17:07:41 -0400",
+        "pub": "Sat, 03 Oct 2026 17:57:35 -0400",
+        "heat": 76,
+        "heatRaw": 60,
+        "heatParts": {
+          "cross": 0,
+          "auth": 12,
+          "rank": 22,
+          "fresh": 19,
+          "kw": 8
+        },
+        "crossCount": 1,
+        "reportCount": 1,
+        "sources": [
+          "NPR"
+        ]
+      },
+      {
+        "title": "欧元区9月通胀率升至3年来最高水平",
+        "link": "https://www.news.cn/world/20261002/ae21686eb10f42cdbddbfc985441ee7a/c.html",
+        "summary": "新华社布鲁塞尔10月2日电（记者黄晓兰）欧盟统计局2日公布的初步数据显示，受能源价格大幅上涨影响，欧元区9月通胀率按年率计算为3.8%，较8月的3.2%上升0.6个百分点，为2023年9月以来最高水平。",
+        "source": "新华网",
+        "pub": "",
+        "heat": 75,
+        "heatRaw": 58,
+        "heatParts": {
+          "cross": 11,
+          "auth": 14,
+          "rank": 10,
+          "fresh": 13,
+          "kw": 9
+        },
+        "crossCount": 2,
+        "reportCount": 2,
+        "sources": [
+          "新华网",
+          "中国新闻网"
+        ]
+      },
+      {
+        "title": "学习原声｜全面推进强国建设、民族复兴伟业",
+        "link": "https://news.haiwainet.cn/n/2026/1003/c3543307-32987694.html",
+        "summary": "2026年是“十五五”开局之年，我们踏上强国建设、民族复兴的关键一程。奋进“十五五”，一起为梦想奋斗、为幸福打拼，汇聚14亿多人民的智慧和力量，中国的明天必将...",
+        "source": "海外网",
+        "pub": "",
+        "heat": 75,
+        "heatRaw": 59,
+        "heatParts": {
+          "cross": 11,
+          "auth": 13,
+          "rank": 22,
+          "fresh": 13,
+          "kw": 0
+        },
+        "crossCount": 2,
+        "reportCount": 2,
+        "sources": [
+          "海外网",
+          "国际在线"
+        ]
+      },
+      {
+        "title": "伊朗革命卫队近日对7艘“违规”油轮采取行动",
+        "link": "https://www.chinanews.com.cn/gj/2026/10-04/10707673.shtml",
+        "summary": "当地时间10月3日，据伊朗方面消息，过去5天内，伊朗伊斯兰革命卫队海军在霍尔木兹海峡针对至少7艘“违规”油轮采取行动。",
+        "source": "中国新闻网",
+        "pub": "Sun, 4 Oct 2026 06:52:47 +0800",
+        "heat": 75,
+        "heatRaw": 59,
+        "heatParts": {
+          "cross": 0,
+          "auth": 13,
+          "rank": 23,
+          "fresh": 23,
+          "kw": 0
+        },
+        "crossCount": 1,
+        "reportCount": 1,
+        "sources": [
+          "中国新闻网"
+        ]
+      },
+      {
+        "title": "For some Brazilians, this election is a vote on Trump",
+        "link": "https://www.npr.org/2026/10/03/nx-s1-5989699/for-some-brazilians-this-election-is-a-vote-on-trump",
+        "summary": "President Trump says he's been having success winning races in Latin America. As Brazilian voters go to the polls, they'…",
+        "source": "NPR",
+        "pub": "Sat, 03 Oct 2026 17:57:36 -0400",
         "heat": 75,
         "heatRaw": 59,
         "heatParts": {
@@ -703,19 +713,19 @@
         ]
       },
       {
-        "title": "The G7 will release 100 million reserve barrels of diesel fuel over the next 4 months",
-        "link": "https://www.npr.org/2026/10/02/nx-s1-5989397/the-g7-will-release-100-million-reserve-barrels-of-diesel-fuel-over-the-next-4-months",
-        "summary": "After increased pressure from Washington, the G7 held an emergency meeting on energy. The world's wealthiest nations say…",
+        "title": "Lula or Bolsonaro? Some Brazilian voters say they don't want either",
+        "link": "https://www.npr.org/2026/10/03/nx-s1-5981108/lula-or-bolsonaro-some-brazilian-voters-say-they-dont-want-either",
+        "summary": "Brazil's election enters its final day of campaigning as Lula and Flávio Bolsonaro make their last pitches to voters. Br…",
         "source": "NPR",
-        "pub": "Fri, 02 Oct 2026 16:23:49 -0400",
-        "heat": 74,
-        "heatRaw": 57,
+        "pub": "Sat, 03 Oct 2026 17:57:29 -0400",
+        "heat": 75,
+        "heatRaw": 58,
         "heatParts": {
           "cross": 0,
           "auth": 12,
-          "rank": 22,
+          "rank": 19,
           "fresh": 19,
-          "kw": 5
+          "kw": 8
         },
         "crossCount": 1,
         "reportCount": 1,
@@ -724,46 +734,25 @@
         ]
       },
       {
-        "title": "欢度国庆假期 感受活力中国",
-        "link": "https://news.cri.cn/20261002/79b6d9e9-e1ee-4a38-7acc-6d8374cc59a7.html",
-        "summary": "央视网消息（新闻联播）：这个国庆假期，神州大地活力涌动，人们乐游山水，体验传统文化，在丰富多彩的活动中欢度假日。 饱览大好河山，祝福伟大祖国。假期首日，北京天安门地区迎来大客流，超30万各地游客齐聚在此，大家手举国旗，游览拍照，祝愿祖",
-        "source": "国际在线",
+        "title": "UAE attorney-general says Flydubai co-pilot attempts terrorist act",
+        "link": "https://www.chinadaily.com.cn/a/202610/03/WS6ac0b21ce4b06d4aa05614d4.html",
+        "summary": "ABU DHABI -- Investigations into an incident aboard Flydubai flight FZ1073 have found that the co-pilot attempted to com…",
+        "source": "中国日报网",
         "pub": "",
-        "heat": 72,
-        "heatRaw": 53,
+        "heat": 74,
+        "heatRaw": 57,
         "heatParts": {
           "cross": 11,
           "auth": 13,
           "rank": 16,
           "fresh": 13,
-          "kw": 0
-        },
-        "crossCount": 2,
-        "reportCount": 2,
-        "sources": [
-          "海外网",
-          "国际在线"
-        ]
-      },
-      {
-        "title": "Germany's political center fights for relevance after far-right and far-left gains",
-        "link": "https://www.npr.org/2026/10/02/g-s1-146108/germany-politics-center-afd-die-linke-cdu-merz",
-        "summary": "Centrist politicians are soul-searching after electoral gains by the far right and the far left. Today's weak coalitions…",
-        "source": "NPR",
-        "pub": "Fri, 02 Oct 2026 15:22:57 -0400",
-        "heat": 72,
-        "heatRaw": 54,
-        "heatParts": {
-          "cross": 0,
-          "auth": 12,
-          "rank": 20,
-          "fresh": 19,
           "kw": 3
         },
-        "crossCount": 1,
-        "reportCount": 1,
+        "crossCount": 2,
+        "reportCount": 3,
         "sources": [
-          "NPR"
+          "中国日报网",
+          "CGTN"
         ]
       }
     ],
@@ -981,6 +970,27 @@
     ],
     "ai": [
       {
+        "title": "DeepSeek扩招！弹性计算团队大量HC，尤其需要资深工程师",
+        "link": "https://www.qbitai.com/2026/10/501381.html",
+        "summary": "岗位JD甩了篇技术报告",
+        "source": "量子位",
+        "pub": "Sat, 03 Oct 2026 07:54:43 +0000"
+      },
+      {
+        "title": "OpenAI安全团队持续地震！负责人离职，三名员工因泄密被开",
+        "link": "https://www.qbitai.com/2026/10/501368.html",
+        "summary": "又咋啦。。。",
+        "source": "量子位",
+        "pub": "Sat, 03 Oct 2026 04:41:24 +0000"
+      },
+      {
+        "title": "Jev估值100亿美元！创始人Diogo Almeida回答一切",
+        "link": "https://www.qbitai.com/2026/10/500148.html",
+        "summary": "（暂无摘要）",
+        "source": "量子位",
+        "pub": "Sat, 03 Oct 2026 02:38:19 +0000"
+      },
+      {
         "title": "openJiuwen X-Router自演进模型路由技术首发，昇腾亲和，Agent越跑越省，实测减少50+%Token消耗",
         "link": "https://www.qbitai.com/2026/10/500098.html",
         "summary": "让每一次请求选对模型，让每一次反馈都成为下一次更优、更省的选择",
@@ -1016,25 +1026,11 @@
         "pub": "Thu, 01 Oct 2026 15:02:14 +0000"
       },
       {
-        "title": "OpenAI推理之父最新访谈！数学只是多智能体时代的开胃菜",
-        "link": "https://www.qbitai.com/2026/09/499654.html",
-        "summary": "千禧年难题的突破，10000个Agent最多占了10%的功劳。",
-        "source": "量子位",
-        "pub": "Wed, 30 Sep 2026 14:03:43 +0000"
-      },
-      {
-        "title": "直播回顾：工业AI的下一个机会在哪？",
-        "link": "https://www.qbitai.com/2026/09/499605.html",
-        "summary": "什么样的AI才适合工业现场？企业真正开始做工业AI时，又该从哪里下手？",
-        "source": "量子位",
-        "pub": "Wed, 30 Sep 2026 12:11:24 +0000"
-      },
-      {
-        "title": "Manus 2.0回来了！给AI配手机号和钱包，还能拉群干活",
-        "link": "https://www.qbitai.com/2026/09/499592.html",
-        "summary": "给Agent配上手机号，再拉个群",
-        "source": "量子位",
-        "pub": "Wed, 30 Sep 2026 07:58:37 +0000"
+        "title": "TDS REVIEW | CMF Clip Pro 耳夹式无线耳机体验",
+        "link": "https://sspai.com/post/114922",
+        "summary": "不知道以后 CMF 的设计还会不会像现在一样出彩。 查看全文",
+        "source": "少数派",
+        "pub": "Sat, 03 Oct 2026 15:00:00 +0800"
       },
       {
         "title": "本周看什么 | 最近值得一看的 8 部作品",
@@ -1042,13 +1038,6 @@
         "summary": "📅本周新预告《泥面人》终极预告9月24日，DC新片《泥面人》发布了终极预告，将于10月23日在北美上映。詹姆斯·瓦特金斯执导，汤姆·里斯·哈里斯主演，隆重介绍哥谭市的新面孔，一位…",
         "source": "少数派",
         "pub": "Fri, 02 Oct 2026 17:30:00 +0800"
-      },
-      {
-        "title": "从玩家的世界掠过：Bungie 的「列车」如何驶向终焉",
-        "link": "https://sspai.com/post/115070",
-        "summary": "Bungie 究竟是在和时间赛跑，还是在和自己赛跑？ 查看全文",
-        "source": "少数派",
-        "pub": "Wed, 30 Sep 2026 22:32:58 +0800"
       }
     ]
   },
@@ -1086,7 +1075,7 @@
         "新华网": 24,
         "中国新闻网": 24,
         "中国经济网": 24,
-        "澎湃新闻": 11,
+        "澎湃新闻": 13,
         "网易新闻": 24
       }
     },
